@@ -1,0 +1,16 @@
+name: Metropolitan Government of Nashville and Davidson County
+level: consolidated-city-county
+ocd_id: ocd-division/country:us/state:tn/county:davidson
+also_covers:
+  - ocd-division/country:us/state:tn/place:nashville
+parent: us/tn/_state
+aliases: [Nashville, Metro Nashville, Davidson County, Nashville-Davidson]
+website: https://www.nashville.gov
+general_contact:
+  name: hubNashville 311
+  phone: 311 inside Davidson County, or 615-862-5000 from anywhere
+  url: https://hub.nashville.gov
+sources:
+  - https://www.nashville.gov/departments/government/hubnashville
+last_verified: 2026-11-21
+verified_by: claude-code

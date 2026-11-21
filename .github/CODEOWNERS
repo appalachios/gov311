@@ -1,0 +1,5 @@
+# Each place can have its own maintainers. GitHub asks them to review changes to their folder.
+# To maintain a place, add a line for its folder with your GitHub username.
+
+*                       @appalachios
+/data/us/tn/nashville/  @appalachios

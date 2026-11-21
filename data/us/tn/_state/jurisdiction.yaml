@@ -1,0 +1,10 @@
+name: State of Tennessee
+level: state
+ocd_id: ocd-division/country:us/state:tn
+parent: us/_federal
+aliases: [Tennessee, TN]
+website: https://www.tn.gov
+sources:
+  - https://www.tn.gov
+last_verified: 2026-11-21
+verified_by: claude-code

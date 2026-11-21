@@ -1,0 +1,30 @@
+# Gov311
+
+> Plain-language guides to government services, contacts, codes, and help, written and checked by local contributors. Each entry links to its official sources and shows the date a person last verified it. Gov311 is a community project. It is not an official government channel and it is not legal advice.
+
+To answer a question, find the person's city or county below, then read the matching entry. If the local section has no answer, check the state section, then the federal section.
+
+## United States federal government (us/_federal)
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/_federal/jurisdiction.yaml): website, main contact, and parent government
+- [Get your organization ready to apply for a federal grant](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/_federal/services/apply-for-federal-grant.md): Before an organization can apply for a federal grant on Grants.gov, it must register in SAM.gov and set up a Grants.gov account. Registration is free and is not instant, so start early.
+- [Call 211 for local help with food, housing, and bills](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/_federal/help/211.md): Dial 211 to talk with a person who can connect you to local help with food, housing, utility bills, and other needs. The call is confidential and the line answers 24 hours a day.
+- [Find government benefits you may qualify for](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/_federal/help/benefit-finder.md): The USA.gov benefit finder asks a few questions and lists the government benefits you may qualify for, with instructions for applying to each one.
+
+## State of Tennessee (us/tn/_state)
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/_state/jurisdiction.yaml): website, main contact, and parent government
+- [Register a charity before you ask for donations in Tennessee](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/_state/services/register-charity.md): How a charitable organization registers with the Tennessee Secretary of State to solicit contributions and renews each year, and where the state publishes the fees, the renewal deadline, and who must register.
+- [Tennessee Secretary of State, Division of Charitable Solicitations](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/_state/contacts/charities-division.md): The state office that registers charitable organizations that ask the public for donations in Tennessee.
+- [Where to find Tennessee's landlord and tenant law](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/_state/codes/renter-protections.md): Points to the Tennessee law that covers eviction notices, lockouts, repairs, security deposits, and late fees for renters, to plain-language guides from legal aid, and to free legal help.
+- [Ask a lawyer a question online for free (TN Free Legal Answers)](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/_state/help/free-legal-answers.md): A website where Tennesseans who qualify can post a question about a civil legal problem and get a written answer from a volunteer lawyer at no cost.
+
+## Metropolitan Government of Nashville and Davidson County (us/tn/nashville)
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/nashville/jurisdiction.yaml): website, main contact, and parent government
+- [Get a residential building permit in Nashville](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/nashville/services/residential-building-permit.md): How to apply for a building permit for a house in Nashville, including what to gather, how homeowners and contractors apply, and where Metro publishes the fees and the list of projects that need a permit.
+- [Metro Nashville Department of Codes and Building Safety](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/nashville/contacts/codes-department.md): The Metro department that issues building permits, answers zoning questions, inspects construction, and enforces property standards.
+- [hubNashville 311, Nashville's line for service requests and questions](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/nashville/contacts/hubnashville.md): hubNashville is the one place to request a Metro Nashville service, ask a question, or give feedback. You do not need to know which department handles your issue.
+- [Where to find the building codes Metro Nashville enforces](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/nashville/codes/building-codes.md): Points to Metro Nashville's official list of adopted building, residential, electrical, plumbing, mechanical, and energy codes, to the local amendments, and to the office that answers code questions.
+- [Look up zoning rules for a Nashville property](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/nashville/codes/zoning.md): Nashville's zoning rules are in Title 17 of the Metro Code. The Davidson County Parcel Viewer shows the zoning district and overlays for any property.
+- [Free legal help with an eviction in Nashville](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/nashville/help/eviction-legal-help.md): The Legal Aid Society offers free legal help to Davidson County renters who qualify, including a phone line for people facing eviction. Court deadlines are short, so call as soon as you receive a notice or court papers.
