@@ -47,8 +47,8 @@ Ask for the link every time. An entry that links to the official page lets the n
 ### How to write down what you learn
 
 - **If the office points you to a page**, open it, confirm it says what they told you, and link it in the entry.
-- **If the office says something is not published online**, say so in the entry and tell the reader who to call. For example: "Metro does not publish this list online. Call the Zoning Help Desk and ask for it." Add the date you called. That sentence saves the next person an hour of searching.
-- **Name the office, not the person.** Write "the Zoning Help Desk said", and leave out the name of the employee you spoke with.
+- **If the office says something is not published online**, say so in the entry and tell the reader who to call. For example: "The county does not publish this list online. Call the clerk's office and ask for it." Add the date you called. That sentence saves the next person an hour of searching.
+- **Name the office, not the person.** Write "the clerk's office said", and leave out the name of the employee you spoke with.
 - **Fees, deadlines, and legal rules still get a pointer.** If the office tells you an amount or a date on the phone, write down where they said it is published, or that the reader must call to get it.
 
 If an office tells you that something is missing from its website, ask whether it can be added. A government that publishes the answer helps everyone, including people who never use Gov311.
