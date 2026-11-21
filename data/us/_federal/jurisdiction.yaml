@@ -1,0 +1,14 @@
+name: United States federal government
+level: federal
+ocd_id: ocd-division/country:us
+aliases: [USA, US, federal, national]
+website: https://www.usa.gov
+general_contact:
+  name: USA.gov information line
+  phone: 1-844-USA-GOV1 (1-844-872-4681)
+  url: https://www.usa.gov/contact-us
+  hours: Monday through Friday, 8:00 a.m. to 8:00 p.m. Eastern Time, except federal holidays
+sources:
+  - https://www.usa.gov/phone
+last_verified: 2026-11-21
+verified_by: claude-code

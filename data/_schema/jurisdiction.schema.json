@@ -1,0 +1,49 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://github.com/appalachios/gov311/data/_schema/jurisdiction.schema.json",
+  "title": "Gov311 jurisdiction",
+  "description": "One government body. Stored as jurisdiction.yaml at the top of its folder.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["name", "level", "ocd_id", "website", "sources", "last_verified", "verified_by"],
+  "properties": {
+    "name": { "type": "string", "minLength": 2 },
+    "level": {
+      "enum": ["federal", "state", "county", "city", "consolidated-city-county", "town", "special-district", "tribal"]
+    },
+    "ocd_id": {
+      "description": "Open Civic Data division ID. See https://github.com/opencivicdata/ocd-division-ids",
+      "type": "string",
+      "pattern": "^ocd-division/country:[a-z]{2}(/[a-z_]+:[a-z0-9_.~-]+)*$"
+    },
+    "also_covers": {
+      "description": "Other OCD division IDs this government serves, for example the county in a consolidated city-county.",
+      "type": "array",
+      "items": { "type": "string", "pattern": "^ocd-division/" }
+    },
+    "parent": {
+      "description": "Folder path of the next government up, for example us/tn/_state. Omit only for a national government.",
+      "type": "string",
+      "pattern": "^[a-z0-9_/-]+$"
+    },
+    "aliases": {
+      "description": "Other names people use for this place.",
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "website": { "type": "string", "format": "uri", "pattern": "^https://" },
+    "general_contact": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "name": { "type": "string" },
+        "phone": { "type": "string" },
+        "url": { "type": "string", "format": "uri" },
+        "hours": { "type": "string" }
+      }
+    },
+    "sources": { "$ref": "entry.schema.json#/definitions/sources" },
+    "last_verified": { "type": "string", "format": "date" },
+    "verified_by": { "type": "string", "minLength": 1 }
+  }
+}

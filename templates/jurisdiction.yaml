@@ -1,0 +1,15 @@
+name: City of Example
+level: city # federal, state, county, city, consolidated-city-county, town, special-district, or tribal
+ocd_id: ocd-division/country:us/state:xx/place:example
+parent: us/xx/_state
+aliases: [Example City]
+website: https://www.example.gov
+general_contact:
+  name: City information line
+  phone: 000-000-0000
+  url: https://www.example.gov/contact
+  hours: Monday through Friday, 8:00 a.m. to 5:00 p.m.
+sources:
+  - https://www.example.gov
+last_verified: 2026-01-01
+verified_by: your-github-username

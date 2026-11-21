@@ -1,0 +1,133 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://github.com/appalachios/gov311/data/_schema/entry.schema.json",
+  "title": "Gov311 entry",
+  "description": "Front matter for one Markdown entry. The entry type comes from its folder: services, contacts, codes, or help.",
+  "definitions": {
+    "sources": {
+      "description": "Official pages where a reader can confirm the facts in this entry.",
+      "type": "array",
+      "minItems": 1,
+      "items": { "type": "string", "format": "uri", "pattern": "^https://" }
+    },
+    "link": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["name", "url"],
+      "properties": {
+        "name": { "type": "string" },
+        "url": { "type": "string", "format": "uri", "pattern": "^https://" }
+      }
+    }
+  },
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["title", "summary", "audiences", "sources", "last_verified", "verified_by", "trust"],
+  "properties": {
+    "title": { "type": "string", "minLength": 5, "maxLength": 90 },
+    "summary": {
+      "description": "One or two plain sentences. Search results show this text.",
+      "type": "string",
+      "minLength": 20,
+      "maxLength": 300
+    },
+    "audiences": {
+      "description": "Who this entry helps most.",
+      "type": "array",
+      "minItems": 1,
+      "uniqueItems": true,
+      "items": {
+        "enum": ["residents-in-need", "nonprofits", "builders", "homeowners", "renters", "small-business", "everyone"]
+      }
+    },
+    "keywords": {
+      "description": "Words people actually use when they ask about this, including informal ones.",
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "sources": { "$ref": "#/definitions/sources" },
+    "last_verified": {
+      "description": "The date a person last checked every fact in this entry against its sources.",
+      "type": "string",
+      "format": "date"
+    },
+    "verified_by": { "description": "GitHub username of the person who checked it. For a draft, name the tool that researched it.", "type": "string", "minLength": 1 },
+    "trust": {
+      "description": "draft: researched with AI help or not yet checked by a person. community: one contributor checked it. verified: a second person confirmed it. official: a government employee submitted or confirmed it.",
+      "enum": ["draft", "community", "verified", "official"]
+    },
+
+    "department": {
+      "description": "Path of the contact entry for the office that handles this, relative to the jurisdiction folder. Example: contacts/codes-department",
+      "type": "string",
+      "pattern": "^contacts/[a-z0-9-]+$"
+    },
+    "cost": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["description"],
+      "properties": {
+        "description": { "type": "string" },
+        "source": { "type": "string", "format": "uri", "pattern": "^https://" }
+      }
+    },
+    "forms": { "type": "array", "items": { "$ref": "#/definitions/link" } },
+    "apply": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "online": { "type": "string", "format": "uri", "pattern": "^https://" },
+        "in_person": { "type": "string" },
+        "by_mail": { "type": "string" },
+        "by_phone": { "type": "string" }
+      }
+    },
+    "timeline": { "description": "How long it usually takes, as the agency states it.", "type": "string" },
+    "deadline": { "description": "A filing deadline, if one applies.", "type": "string" },
+
+    "phone": { "type": "string" },
+    "email": { "type": "string", "format": "email" },
+    "address": { "type": "string" },
+    "hours": { "type": "string" },
+    "url": { "type": "string", "format": "uri", "pattern": "^https://" },
+
+    "official_text": {
+      "description": "Where the authoritative text of the law or code is published. Required for entries in codes/.",
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["name", "url", "access"],
+        "properties": {
+          "name": { "type": "string" },
+          "url": { "type": "string", "format": "uri", "pattern": "^https://" },
+          "access": {
+            "description": "open: anyone and any tool can read it. captcha: the site makes visitors prove they are a person. blocks-automated-tools: the site turns away AI tools and scripts without showing a challenge. login: needs a free account. paywall: costs money.",
+            "enum": ["open", "captcha", "blocks-automated-tools", "login", "paywall"]
+          },
+          "how_to_find": { "description": "How to get from this link to the right section.", "type": "string" }
+        }
+      }
+    },
+    "covers": {
+      "description": "The questions this law or code answers, as short topics. Do not state the answers.",
+      "type": "array",
+      "minItems": 1,
+      "items": { "type": "string" }
+    },
+    "unofficial_copies": {
+      "description": "Open copies of this law from an established legal publisher, a university, or a public-interest archive. They let an AI tool read the text when the official site blocks it. They carry no legal weight and can be out of date.",
+      "type": "array",
+      "items": { "$ref": "#/definitions/link" }
+    },
+    "guides": {
+      "description": "Plain-language explanations of this law published by a government or a legal aid organization.",
+      "type": "array",
+      "items": { "$ref": "#/definitions/link" }
+    },
+    "citation": { "description": "Legal citation, for example T.C.A. § 66-28-101.", "type": "string" },
+
+    "eligibility": { "description": "Who qualifies, in plain words.", "type": "string" }
+  }
+}

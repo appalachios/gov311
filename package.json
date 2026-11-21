@@ -1,0 +1,23 @@
+{
+  "name": "gov311",
+  "version": "0.1.0",
+  "description": "Plain-language government how-to data, with adapters for AI tools",
+  "license": "Apache-2.0",
+  "type": "module",
+  "private": true,
+  "engines": { "node": ">=20" },
+  "bin": { "gov311-mcp": "mcp-server/server.js" },
+  "scripts": {
+    "validate": "node scripts/validate.js",
+    "build": "node scripts/build-index.js",
+    "check": "node scripts/validate.js && node scripts/build-index.js --check",
+    "mcp": "node mcp-server/server.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.12.0",
+    "ajv": "^8.17.1",
+    "ajv-formats": "^3.0.1",
+    "yaml": "^2.6.0",
+    "zod": "^3.24.0"
+  }
+}
