@@ -11,7 +11,7 @@ const { jurisdictions, entries } = loadData();
 const lines = [
   "# Gov311",
   "",
-  "> Plain-language guides to government services, contacts, codes, and help, written and checked by local contributors. Each entry links to its official sources and shows the date a person last verified it. Gov311 is a community project. It is not an official government channel and it is not legal advice.",
+  "> Plain-language guides to government services, contacts, codes, and help. Read the entry for its official sources, research or review date, and trust level. An entry marked draft still needs human review. Gov311 is a community project. It is not an official government channel and it is not legal advice.",
   "",
   "To answer a question, find the person's city or county below, then read the matching entry. If the local section has no answer, check the state section, then the federal section.",
   "",
