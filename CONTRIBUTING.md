@@ -1,17 +1,31 @@
 # Contributing to Gov311
 
-Gov311 works because people who know a place write down how its government works. You do not need to be a programmer. If you have ever figured out how to get a permit, fight a parking ticket, or find the right office to call, you know something worth adding.
+Gov311 works because people who know a place write down how to get things done with its government. You do not need to be a programmer. If you have ever figured out how to get a permit, fight a parking ticket, or find the right office to call, you know something worth adding.
+
+## What goes in Gov311
+
+Gov311 is a map. An entry tells a person which office handles a task, what steps to take, which form to use, and where the government publishes the details. An AI tool then reads those details from the official page.
+
+| Write this in an entry | Point to this with a link |
+| --- | --- |
+| The steps of a process, in order | What a law or code requires |
+| Which office handles it, with its phone number, address, and hours | Fee amounts |
+| The name of the form and its link | Deadlines and notice periods |
+| Where the official rule, fee schedule, or deadline is published | Dollar limits, size limits, and other thresholds |
+| Common mistakes | Who qualifies under the law |
+
+Laws, fees, and deadlines change, and a copy in Gov311 would stay wrong until someone noticed. A link stays right for as long as the page exists. You can write "Free" when a service costs nothing.
 
 ## The one rule
 
-Every fact must come from an official source that you opened and read on the day you wrote the entry. An official source is the government's own website, the law itself, or the website of the organization the entry describes. If you cannot find an official page for a fact, leave the fact out.
+Everything you write must come from an official source that you opened and read on the day you wrote the entry. An official source is the government's own website, the law itself, or the website of the organization the entry describes. If you cannot find an official page that supports a statement, leave it out.
 
-This rule exists because people act on these entries. A wrong fee wastes someone's afternoon. A wrong deadline can cost a renter their home.
+This rule exists because people act on these entries. A wrong phone number wastes someone's afternoon. A link to the wrong law can send a renter in the wrong direction when they have days to respond.
 
 ## Ways to contribute
 
-- **Fix an entry.** If a fee changed or a link broke, edit the file and update `last_verified`.
-- **Re-verify an entry.** Open its sources, confirm every fact, and update `last_verified` and `verified_by`. Entries older than one year get a warning, so this work matters as much as new writing.
+- **Fix an entry.** If an office moved, a form changed, or a link broke, edit the file and update `last_verified`.
+- **Re-verify an entry.** Open its sources, confirm that each link still leads to the right page and each statement still matches it, and update `last_verified` and `verified_by`. Entries older than one year get a warning, so this work matters as much as new writing.
 - **Add an entry** to a place Gov311 already covers.
 - **Add a place.** Start with the handful of tasks people ask about most.
 - **Report a problem.** If you cannot edit files, open an issue that says what is wrong and links to the official page.
