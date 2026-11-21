@@ -47,7 +47,7 @@
     },
     "sources": { "$ref": "#/definitions/sources" },
     "last_verified": {
-      "description": "The date a person last checked every fact in this entry against its sources.",
+      "description": "For a draft, the research date. For a reviewed entry, the date a person last checked it against its sources.",
       "type": "string",
       "format": "date"
     },

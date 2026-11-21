@@ -1,12 +1,12 @@
 {
   "name": "gov311",
-  "description": "Plain-language guides to government services, written and checked by local contributors.",
+  "description": "Plain-language guides to government services and legislation, with official sources and review status.",
   "owner": { "name": "Gov311 contributors" },
   "plugins": [
     {
       "name": "gov311",
       "source": "./",
-      "description": "Plain-language answers about government services, contacts, codes, and help, from community-verified local data."
+      "description": "Find government services, contact an agency, or follow a bill using plain-language guides linked to official sources."
     }
   ]
 }

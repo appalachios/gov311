@@ -1,13 +1,13 @@
 ---
 name: gov311
-description: Explain how to get something done with a government in plain language. Use when a person asks how to file a form, get a permit or license, apply for a benefit or grant, find who to contact, understand a building, zoning, or housing rule, learn their rights as a renter, or find free help with a government process, at the city, county, state, or federal level.
+description: Explain government services and legislation in plain language. Use for permits, benefits, grants, agency contacts, renter protections, building and zoning rules, and free help. Also use when someone asks how laws are made, where a bill stands, what an amendment changed, or how to follow a hearing or agency rulemaking.
 ---
 
 # Gov311
 
 Gov311 helps a person get something done with their government. The person might be a parent looking for food assistance, a renter facing eviction, a nonprofit applying for a grant, or a builder checking a code requirement. Give each of them the same thing: what to do, in order, with the form, the cost, the office, and the official link.
 
-Gov311 is a community project. Local contributors write each entry and check it against official sources. It is not an official government channel and it is not legal advice.
+Gov311 is a community project. Each entry identifies its sources and review status. Entries marked `draft` still need human review. It is not an official government channel and it is not legal advice.
 
 ## Where the data lives
 
@@ -28,8 +28,8 @@ Each government has one folder, such as `data/us/tn/nashville`. Its `jurisdictio
 
 ## How to answer
 
-1. Find out where the person is. A city and state are usually enough. Ask if you do not know, because the answer often changes from one city to the next.
-2. Find that government's folder. Then follow `parent` upward to list the governments above it. A Nashville resident is also covered by Tennessee and by the federal government.
+1. Identify the government responsible for the question. The state is enough to look up a state bill or agency. Ask for a city or county when it affects the answer.
+2. Find that government's folder and follow `parent` upward. A Nashville resident is also covered by Tennessee and by the federal government. If a town has no entry, look up the state separately for statewide services. For a local filing, use the state guide to identify the local office when it provides one.
 3. Search the nearest government first, then each one above it. A building permit is usually a city or county matter. A renter's rights usually come from state law. A federal grant is a federal matter. Many questions need entries from more than one level.
 4. Read the full entry before you answer. Do not answer from an entry's title or summary alone.
 5. Write the answer for the person in front of you.
@@ -37,10 +37,12 @@ Each government has one folder, such as `data/us/tn/nashville`. Its `jurisdictio
    - Number the steps when order matters.
    - Give the form and the office's phone number and hours from the entry. For the cost and any deadline, open the page the entry points to and read the current figure.
    - Use the words the person used. Explain any official term the first time it appears.
-6. Give the official source links from the entry, and state the date the entry was last verified. For example: "A Gov311 contributor last checked this on 2026-11-21."
+6. Give the official source links and the date in `last_verified`. For a draft, describe it as the research date. For a reviewed entry, describe it as the review date.
 7. If the entry is more than a year old, or its `trust` field says `draft`, say so, and tell the person to confirm the details with the office before they act. A draft is an entry that no person has checked yet.
 
 ## Laws and codes
+
+For pending legislation, use the legislative guides to find the official bill history for the right session. Read each chamber's latest action and the text of any adopted amendments before describing a proposal. To explain what became law, follow the history to the enacted text and check the effective date for the provision in question.
 
 Gov311 is a map to the law. It is not a source of law. An entry in `codes/` says what a law covers (`covers`), where the official text is published (`official_text`), how to find the right section (`how_to_find`), and where a government or legal aid organization explains it in plain language (`guides`). It does not state what the law requires.
 

@@ -10,7 +10,7 @@ import { ENTRY_TYPES, STALE_AFTER_DAYS, daysSince, jurisdictionChain, loadData }
 const AUDIENCES = ["residents-in-need", "nonprofits", "builders", "homeowners", "renters", "small-business", "everyone"];
 const NOTICE =
   "Gov311 is a community project. It is not an official government channel and it is not legal advice. " +
-  "Tell the person the date each entry was last verified and give them the official source links.";
+  "Give the person the official sources and the research or review date. Identify drafts as awaiting human review.";
 
 const { jurisdictions, entries } = loadData();
 const text = (value) => ({ content: [{ type: "text", text: JSON.stringify(value, null, 2) }] });
@@ -78,7 +78,7 @@ server.tool(
     if (matches.length === 0) {
       return text({
         matches: [],
-        note: `Gov311 has no data for "${place}" yet. Search official .gov sites instead, say the answer is unverified, and mention that anyone can add this place at https://github.com/appalachios/gov311.`,
+        note: `No jurisdiction matched "${place}". If the question concerns a state service or bill, call find_jurisdiction with the state name. For a local service with no guide, consult the responsible government's official sources. Anyone can add a place at https://github.com/appalachios/gov311.`,
       });
     }
     return text({
@@ -133,7 +133,7 @@ server.tool(
 
 server.tool(
   "get_entry",
-  "Read one Gov311 entry in full: the facts, the plain-language steps, the official sources, and the date a person last verified it.",
+  "Read a Gov311 entry with its steps, sources, trust level, and research or review date.",
   { id: z.string().describe("Entry id from search, for example us/tn/nashville/services/residential-building-permit") },
   async ({ id }) => {
     const entry = entries.get(id.replace(/\.md$/, ""));

@@ -4,7 +4,11 @@ ocd_id: ocd-division/country:us/state:tn
 parent: us/_federal
 aliases: [Tennessee, TN]
 website: https://www.tn.gov
+general_contact:
+  name: Tennessee government directory
+  url: https://www.tn.gov/directory.html
 sources:
   - https://www.tn.gov
+  - https://www.tn.gov/directory.html
 last_verified: 2026-11-21
-verified_by: claude-code
+verified_by: codex

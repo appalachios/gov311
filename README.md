@@ -1,17 +1,17 @@
 # Gov311
 
-Gov311 makes government easier to understand. Ask an AI assistant how to get a permit, who to call about a problem, or what your rights are as a renter, and it answers in plain language from guides that local people wrote and checked against official sources.
+Gov311 makes government easier to understand. Ask an AI assistant how to get a permit, who to call about a problem, or where to read your rights as a renter. It uses plain-language guides that point you to the office or official source for your question.
 
 Many cities run a 311 phone line for questions about city services. Gov311 brings that idea to AI tools, for every level of government.
 
-Each guide covers one thing: a task, an office, a law, or a place to get help. Each one links to its official sources and shows the date a person last verified it. The guides are plain text files in this repository, so any AI tool can read them and anyone can improve them.
+Each guide covers a task, an office, a law, or a place to get help. It lists its official sources, research or review date, and who checked it. A guide marked `draft` still needs human review. The guides are plain text files in this repository, so any AI tool can read them and anyone can improve them.
 
 Gov311 is a map to the law. It is not a source of law. A guide tells the assistant where a rule, a fee, or a deadline is officially published and how to find it. The assistant then reads the current version from that official page. Gov311 does not keep its own copy of any law, code, or fee schedule.
 
 Gov311 is a community project. It is not an official government channel and it is not legal advice.
 
 > [!NOTE]
-> Gov311 is new. It currently covers Nashville, Tennessee, plus a few Tennessee and federal topics, as a working example. [Add your city or county](CONTRIBUTING.md).
+> Gov311 covers Tennessee state government, Nashville, and selected federal services. The statewide guides are research drafts awaiting human review. [Find a Tennessee state office](data/us/tn/_state/contacts/state-government-directory.md) or [add your city or county](CONTRIBUTING.md).
 
 ## Who Gov311 is for
 
@@ -73,7 +73,13 @@ Gov311 points to the code. It does not restate the code. Confirm the requirement
 
 ### Small business owners
 
-Licenses, sign permits, and inspections follow the same pattern as the guides above. Gov311 has no small business guides yet, so this is a good place to [contribute](CONTRIBUTING.md).
+Tennessee business owners can [form an LLC](data/us/tn/_state/services/form-tennessee-llc.md), [register for business tax](data/us/tn/_state/services/register-for-business-tax.md), or [find state contracts open for bids](data/us/tn/_state/services/bid-on-state-contracts.md).
+
+### People following state legislation
+
+To see what Tennessee lawmakers are considering, [find a pending bill](data/us/tn/_state/services/track-a-bill.md) or [look up a hearing](data/us/tn/_state/services/find-legislative-hearings.md). The [guide to how a bill becomes law](data/us/tn/_state/services/legislative-process.md) explains which decisions still lie ahead.
+
+A bill can keep its title while an amendment replaces its contents. One Tennessee education bill started with a proposal about parent-teacher engagement and became a law about school discipline. [Follow the amendments and votes](data/us/tn/_state/services/read-a-caption-bill.md) or [learn how to read an enacted public chapter](data/us/tn/_state/services/read-a-public-chapter.md).
 
 ### Everyone else
 
@@ -150,7 +156,7 @@ An assistant that uses Gov311 gives you:
 - The form to file, and the current cost and deadline as the official page states them.
 - The office to contact, with its phone number and hours.
 - Links to the official sources.
-- The date a person last verified the guide.
+- The guide’s research or review date and whether it still needs human review.
 
 If Gov311 has no guide for your question, the assistant says so. It may then search official government websites, and it tells you that a contributor has not verified that part of the answer.
 
@@ -162,7 +168,7 @@ Some government sites ask visitors to prove they are a person with a CAPTCHA, or
 
 - Gov311 does not restate laws, fees, or deadlines. It points to where each one is published, so the assistant reads the current version.
 - Every fact must come from an official source that the contributor read.
-- Every guide shows the date it was last verified and who verified it.
+- Every guide names the researcher or reviewer and gives the date of that work.
 - A guide that no person has checked yet is marked as a draft, and assistants tell you so.
 - An automated check rejects a guide that is missing its sources or its date.
 - A guide that goes one year without a review gets a warning, and assistants pass that warning on to you.
