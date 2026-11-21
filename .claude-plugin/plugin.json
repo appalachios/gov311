@@ -1,7 +1,7 @@
 {
   "name": "gov311",
   "version": "0.1.0",
-  "description": "Plain-language answers about government services, contacts, codes, and help, from community-verified local data.",
+  "description": "Find government services, contact an agency, or follow a bill using plain-language guides linked to official sources.",
   "author": { "name": "Gov311 contributors", "url": "https://github.com/appalachios/gov311" },
   "homepage": "https://github.com/appalachios/gov311",
   "repository": "https://github.com/appalachios/gov311",

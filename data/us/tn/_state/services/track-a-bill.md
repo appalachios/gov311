@@ -10,6 +10,8 @@ sources:
   - https://wapp.capitol.tn.gov/apps/Information/Help/Index
   - https://wapp.capitol.tn.gov/apps/mybills/Login.aspx
   - https://wapp.capitol.tn.gov/apps/Information/About/Glossary
+  - https://wapp.capitol.tn.gov/apps/Information/About/Index
+  - https://capitol.tn.gov/bills/114/Senate/Journals/01302025ED4.pdf
 last_verified: 2026-11-21
 verified_by: codex
 trust: draft
@@ -20,6 +22,6 @@ trust: draft
 3. Use the history to see where the proposal stands. A committee referral tells you which committee has it. A calendar entry tells you when members may take it up. Passage in one chamber still leaves the other chamber’s action to check. [How the stages fit together](legislative-process.md) · [Find a hearing or vote](find-legislative-hearings.md)
 4. Open the bill text and check any amendments against the action history. A description marked *as introduced* can still describe the original proposal after its text has changed. [How to read a caption bill and its amendments](read-a-caption-bill.md)
 
-Check the session before describing an old proposal as pending. *Adjourned sine die* means that General Assembly has finished its work. If its bill history ends at a committee referral, search the current Assembly by topic to see whether someone filed a new bill. [Legislative glossary](https://wapp.capitol.tn.gov/apps/Information/About/Glossary)
+A General Assembly spans two years. Check which session ended before describing a proposal as dead. In January 2025, for example, the Senate adjourned its *extraordinary session* (special session) **sine die**. The same Assembly continued its regular work. Once the two-year Assembly has finished, search the new Assembly by topic to see whether someone filed a new bill. [About the legislature](https://wapp.capitol.tn.gov/apps/Information/About/Index) · [Senate journal recording the special-session adjournment](https://capitol.tn.gov/bills/114/Senate/Journals/01302025ED4.pdf)
 
 To follow several pending bills, create a free [My Bills account](https://wapp.capitol.tn.gov/apps/mybills/Login.aspx) and save them to a list. For a bill that became law, look up the public chapter and its effective date in the bill history. [General Assembly FAQ](https://wapp.capitol.tn.gov/apps/Information/Help/Index)

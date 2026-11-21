@@ -168,7 +168,7 @@ Some government sites ask visitors to prove they are a person with a CAPTCHA, or
 
 - Gov311 does not restate laws, fees, or deadlines. It points to where each one is published, so the assistant reads the current version.
 - Every fact must come from an official source that the contributor read.
-- Every guide shows the date it was last verified and who verified it.
+- Every guide names the researcher or reviewer and gives the date of that work.
 - A guide that no person has checked yet is marked as a draft, and assistants tell you so.
 - An automated check rejects a guide that is missing its sources or its date.
 - A guide that goes one year without a review gets a warning, and assistants pass that warning on to you.
