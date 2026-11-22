@@ -1,0 +1,15 @@
+name: "City of Graysville"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:graysville
+parent: us/tn/rhea-county
+aliases: ["Graysville"]
+website: https://www.mtas.tennessee.edu/directories/cities/graysville
+general_contact:
+  name: "Graysville municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/graysville
+  phone: "(423) 775-9242"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/graysville
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

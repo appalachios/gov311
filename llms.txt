@@ -1040,6 +1040,16 @@ Parent guide sections, nearest first: Jefferson County, Tennessee (us/tn/jeffers
 - [Follow a proposed ordinance in Dandridge](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/dandridge/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
+## City of Dayton (us/tn/dayton)
+
+Parent guide sections, nearest first: Rhea County, Tennessee (us/tn/rhea-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/dayton/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Dayton for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/dayton/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Dayton.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Dayton](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/dayton/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
 ## Town of Decatur (us/tn/decatur)
 
 Parent guide sections, nearest first: Meigs County, Tennessee (us/tn/meigs-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
@@ -1514,6 +1524,16 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 - [Contact Grand Junction for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/grand-junction/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Grand Junction.
   - source-checked · Checked by codex on 2026-11-22.
 - [Follow a proposed ordinance in Grand Junction](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/grand-junction/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## City of Graysville (us/tn/graysville)
+
+Parent guide sections, nearest first: Rhea County, Tennessee (us/tn/rhea-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/graysville/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Graysville for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/graysville/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Graysville.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Graysville](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/graysville/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## Town of Greenback (us/tn/greenback)
@@ -3259,7 +3279,11 @@ Parent guide sections, nearest first: Macon County, Tennessee (us/tn/macon-count
 Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
 
 - [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/rhea-county/jurisdiction.yaml): website, main contact, and parent government
+- [Find the right office in Rhea County](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/rhea-county/services/choose-a-county-office.md): Find county offices for deeds, vehicle records, elections and property questions, and check municipal boundaries for local services.
+  - source-checked · Checked by codex on 2026-11-22.
 - [Find the Rhea County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/rhea-county/services/find-a-property-map.md): Search Rhea County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a Rhea County governing body decision](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/rhea-county/services/follow-county-business.md): Find the regular meeting agenda, the source of the county’s authority and the record of what the governing body voted to adopt.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## Town of Ridgely (us/tn/ridgely)
@@ -3620,6 +3644,16 @@ Parent guide sections, nearest first: Marion County, Tennessee (us/tn/marion-cou
 - [Contact South Pittsburg for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/south-pittsburg/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in South Pittsburg.
   - source-checked · Checked by codex on 2026-11-22.
 - [Follow a proposed ordinance in South Pittsburg](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/south-pittsburg/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## Town of Spring City (us/tn/spring-city)
+
+Parent guide sections, nearest first: Rhea County, Tennessee (us/tn/rhea-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/spring-city/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Spring City for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/spring-city/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Spring City.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Spring City](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/spring-city/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## City of Spring Hill (us/tn/spring-hill)
