@@ -328,7 +328,11 @@ Parent guide sections, nearest first: Benton County, Tennessee (us/tn/benton-cou
 Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
 
 - [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/campbell-county/jurisdiction.yaml): website, main contact, and parent government
+- [Find the right office in Campbell County](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/campbell-county/services/choose-a-county-office.md): Find county offices for deeds, vehicle records, elections and property questions, and check municipal boundaries for local services.
+  - source-checked · Checked by codex on 2026-11-22.
 - [Find the Campbell County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/campbell-county/services/find-a-property-map.md): Search Campbell County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a Campbell County governing body decision](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/campbell-county/services/follow-county-business.md): Find the regular meeting agenda, the source of the county’s authority and the record of what the governing body voted to adopt.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## Cannon County, Tennessee (us/tn/cannon-county)
@@ -353,6 +357,16 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 
 - [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/carter-county/jurisdiction.yaml): website, main contact, and parent government
 - [Find the Carter County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/carter-county/services/find-a-property-map.md): Search Carter County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## Town of Caryville (us/tn/caryville)
+
+Parent guide sections, nearest first: Campbell County, Tennessee (us/tn/campbell-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/caryville/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Caryville for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/caryville/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Caryville.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Caryville](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/caryville/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## City of Charleston (us/tn/charleston)
@@ -729,6 +743,16 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 - [Find the Humphreys County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/humphreys-county/services/find-a-property-map.md): Search Humphreys County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
   - source-checked · Checked by codex on 2026-11-22.
 
+## Town of Jacksboro (us/tn/jacksboro)
+
+Parent guide sections, nearest first: Campbell County, Tennessee (us/tn/campbell-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/jacksboro/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Jacksboro for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/jacksboro/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Jacksboro.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Jacksboro](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/jacksboro/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
 ## Jackson County, Tennessee (us/tn/jackson-county)
 
 Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
@@ -743,6 +767,16 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 
 - [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/jefferson-county/jurisdiction.yaml): website, main contact, and parent government
 - [Find the Jefferson County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/jefferson-county/services/find-a-property-map.md): Search Jefferson County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## City of Jellico (us/tn/jellico)
+
+Parent guide sections, nearest first: Campbell County, Tennessee (us/tn/campbell-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/jellico/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Jellico for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/jellico/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Jellico.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Jellico](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/jellico/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## Johnson County, Tennessee (us/tn/johnson-county)
@@ -876,6 +910,16 @@ Parent guide sections, nearest first: Knox County, Tennessee (us/tn/knox-county)
   - source-checked · Checked by codex on 2026-11-21.
 - [Apply for Knoxville LIFT paratransit or arrange service as a visitor](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/knoxville/help/use-lift-paratransit.md): Complete the signed local application if you live in the service area. Visitors can use ADA eligibility from their home transit system to arrange temporary rides.
   - source-checked · Checked by codex on 2026-11-21.
+
+## City of LaFollette (us/tn/lafollette)
+
+Parent guide sections, nearest first: Campbell County, Tennessee (us/tn/campbell-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/lafollette/jurisdiction.yaml): website, main contact, and parent government
+- [Contact LaFollette for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/lafollette/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in LaFollette.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in LaFollette](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/lafollette/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
 
 ## Lake County, Tennessee (us/tn/lake-county)
 

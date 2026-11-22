@@ -1,0 +1,15 @@
+name: "City of LaFollette"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:lafollette
+parent: us/tn/campbell-county
+aliases: ["LaFollette"]
+website: https://www.lafollettetn.gov/
+general_contact:
+  name: "LaFollette municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/lafollette
+  phone: "(423) 562-4961"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/lafollette
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex
