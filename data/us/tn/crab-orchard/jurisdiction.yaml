@@ -1,0 +1,15 @@
+name: "City of Crab Orchard"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:crab_orchard
+parent: us/tn/cumberland-county
+aliases: ["Crab Orchard"]
+website: https://www.craborchardtennessee.com/
+general_contact:
+  name: "Crab Orchard municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/crab-orchard
+  phone: "(931) 484-2815"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/crab-orchard
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

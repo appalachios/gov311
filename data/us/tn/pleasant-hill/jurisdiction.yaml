@@ -1,0 +1,15 @@
+name: "Town of Pleasant Hill"
+level: town
+ocd_id: ocd-division/country:us/state:tn/place:pleasant_hill
+parent: us/tn/cumberland-county
+aliases: ["Pleasant Hill"]
+website: https://www.mtas.tennessee.edu/directories/cities/pleasant-hill
+general_contact:
+  name: "Pleasant Hill municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/pleasant-hill
+  phone: "(931) 277-3813"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/pleasant-hill
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex
