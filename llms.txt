@@ -3616,7 +3616,7 @@ Parent guide sections, nearest first: Scott County, Tennessee (us/tn/scott-count
   - source-checked · Checked by codex on 2026-11-22.
 - [Follow a proposed ordinance in Oneida](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/oneida/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - draft · Research by codex on 2026-11-22.
-  - Human review (missing evidence). The cited records establish the procedure described here. They do not establish the general number of readings for a new ordinance in Oneida. Ask the municipal recorder for the current charter section or adopted procedural rule before quoting a count.
+  - Human review (missing evidence). The charter sets no general reading count. Title 1 sets no general count either. The code adoption used two readings. Confirm any later standing rule with the recorder.
 
 ## City of Orlinda (us/tn/orlinda)
 
