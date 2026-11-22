@@ -1,0 +1,15 @@
+name: "Town of Gordonsville"
+level: town
+ocd_id: ocd-division/country:us/state:tn/place:gordonsville
+parent: us/tn/smith-county
+aliases: ["Gordonsville"]
+website: https://townofgordonsville.com/
+general_contact:
+  name: "Gordonsville municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/gordonsville
+  phone: "(615) 683-8282"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/gordonsville
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex
