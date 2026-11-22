@@ -1,0 +1,15 @@
+name: "City of Clarksville"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:clarksville
+parent: us/tn/montgomery-county
+aliases: ["Clarksville"]
+website: https://www.clarksvilletn.gov/
+general_contact:
+  name: "Clarksville municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/clarksville
+  phone: "(931) 645-7444"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/clarksville
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex
