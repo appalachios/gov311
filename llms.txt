@@ -1232,6 +1232,16 @@ Parent guide sections, nearest first: Dyer County, Tennessee (us/tn/dyer-county)
 - [Follow a proposed ordinance in Dyersburg](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/dyersburg/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
+## City of Eagleville (us/tn/eagleville)
+
+Parent guide sections, nearest first: Rutherford County, Tennessee (us/tn/rutherford-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/eagleville/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Eagleville for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/eagleville/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Eagleville.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Eagleville](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/eagleville/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
 ## City of East Ridge (us/tn/east-ridge)
 
 Parent guide sections, nearest first: Hamilton County, Tennessee (us/tn/hamilton-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
@@ -2240,6 +2250,16 @@ Parent guide sections, nearest first: Fayette County, Tennessee (us/tn/fayette-c
 - [Follow a proposed ordinance in La Grange](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/la-grange/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
+## City of La Vergne (us/tn/la-vergne)
+
+Parent guide sections, nearest first: Rutherford County, Tennessee (us/tn/rutherford-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/la-vergne/jurisdiction.yaml): website, main contact, and parent government
+- [Contact La Vergne for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/la-vergne/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in La Vergne.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in La Vergne](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/la-vergne/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
 ## City of Lafayette (us/tn/lafayette)
 
 Parent guide sections, nearest first: Macon County, Tennessee (us/tn/macon-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
@@ -2862,6 +2882,16 @@ Parent guide sections, nearest first: Johnson County, Tennessee (us/tn/johnson-c
 - [Contact Mountain City for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/mountain-city/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Mountain City.
   - source-checked · Checked by codex on 2026-11-22.
 - [Follow a proposed ordinance in Mountain City](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/mountain-city/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## City of Murfreesboro (us/tn/murfreesboro)
+
+Parent guide sections, nearest first: Rutherford County, Tennessee (us/tn/rutherford-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/murfreesboro/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Murfreesboro for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/murfreesboro/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Murfreesboro.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Murfreesboro](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/murfreesboro/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## Metropolitan Government of Nashville and Davidson County (us/tn/nashville)
@@ -3527,8 +3557,12 @@ Parent guide sections, nearest first: Gibson County, Tennessee (us/tn/gibson-cou
 Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
 
 - [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/rutherford-county/jurisdiction.yaml): website, main contact, and parent government
+- [Find the right office in Rutherford County](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/rutherford-county/services/choose-a-county-office.md): Find county offices for deeds, vehicle records, elections and property questions, and check municipal boundaries for local services.
+  - source-checked · Checked by codex on 2026-11-22.
 - [Find a Rutherford County parcel on the County Map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/rutherford-county/services/find-a-property-map.md): Look up parcels, city limits and commission districts. Use the assessor for property values, the trustee for tax bills and the school system for attendance zones.
   - source-checked · Checked by codex on 2026-11-21.
+- [Follow a Rutherford County governing body decision](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/rutherford-county/services/follow-county-business.md): Find the regular meeting agenda, the source of the county’s authority and the record of what the governing body voted to adopt.
+  - source-checked · Checked by codex on 2026-11-22.
 
 ## City of Rutledge (us/tn/rutledge)
 
@@ -3704,6 +3738,16 @@ Parent guide sections, nearest first: DeKalb County, Tennessee (us/tn/dekalb-cou
 - [Contact Smithville for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/smithville/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Smithville.
   - source-checked · Checked by codex on 2026-11-22.
 - [Follow a proposed ordinance in Smithville](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/smithville/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## Town of Smyrna (us/tn/smyrna)
+
+Parent guide sections, nearest first: Rutherford County, Tennessee (us/tn/rutherford-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/smyrna/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Smyrna for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/smyrna/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Smyrna.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Smyrna](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/smyrna/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## Town of Sneedville (us/tn/sneedville)

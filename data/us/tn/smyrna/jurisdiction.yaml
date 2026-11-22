@@ -1,0 +1,15 @@
+name: "Town of Smyrna"
+level: town
+ocd_id: ocd-division/country:us/state:tn/place:smyrna
+parent: us/tn/rutherford-county
+aliases: ["Smyrna"]
+website: https://www.townofsmyrna.org/
+general_contact:
+  name: "Smyrna municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/smyrna
+  phone: "(615) 459-2553"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/smyrna
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex
