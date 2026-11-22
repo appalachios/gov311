@@ -1,0 +1,15 @@
+name: "City of Franklin"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:franklin
+parent: us/tn/williamson-county
+aliases: ["Franklin"]
+website: https://www.mtas.tennessee.edu/directories/cities/franklin
+general_contact:
+  name: "Franklin municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/franklin
+  phone: "(615) 791-3217"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/franklin
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

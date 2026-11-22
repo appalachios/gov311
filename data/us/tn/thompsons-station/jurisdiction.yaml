@@ -1,0 +1,15 @@
+name: "Town of Thompson's Station"
+level: town
+ocd_id: ocd-division/country:us/state:tn/place:thompsons_station
+parent: us/tn/williamson-county
+aliases: ["Thompson's Station"]
+website: https://www.thompsons-station.gov/
+general_contact:
+  name: "Thompson's Station municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/thompsons-station
+  phone: "(615) 794-4333"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/thompsons-station
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

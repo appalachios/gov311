@@ -1,0 +1,15 @@
+name: "Town of Nolensville"
+level: town
+ocd_id: ocd-division/country:us/state:tn/place:nolensville
+parent: us/tn/williamson-county
+aliases: ["Nolensville"]
+website: https://www.nolensvilletn.gov/
+general_contact:
+  name: "Nolensville municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/nolensville
+  phone: "(615) 776-3633"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/nolensville
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

@@ -1,0 +1,15 @@
+name: "City of Brentwood"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:brentwood
+parent: us/tn/williamson-county
+aliases: ["Brentwood"]
+website: https://www.mtas.tennessee.edu/directories/cities/brentwood
+general_contact:
+  name: "Brentwood municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/brentwood
+  phone: "(615) 371-0060"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/brentwood
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex
