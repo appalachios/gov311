@@ -2603,7 +2603,11 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
 
 - [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/morgan-county/jurisdiction.yaml): website, main contact, and parent government
+- [Find the right office in Morgan County](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/morgan-county/services/choose-a-county-office.md): Find county offices for deeds, vehicle records, elections and property questions, and check municipal boundaries for local services.
+  - source-checked · Checked by codex on 2026-11-22.
 - [Find the Morgan County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/morgan-county/services/find-a-property-map.md): Search Morgan County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a Morgan County governing body decision](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/morgan-county/services/follow-county-business.md): Find the regular meeting agenda, the source of the county’s authority and the record of what the governing body voted to adopt.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## City of Morristown (us/tn/morristown)
@@ -2806,6 +2810,16 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 - [Find the Oak Ridge office for a code or permit question](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/oak-ridge/services/find-the-building-permit-office.md): Use the city for municipal code questions and verify the parcel’s county for assessment or deed records.
   - source-checked · Checked by codex on 2026-11-22.
 - [Follow an Oak Ridge ordinance through council readings](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/oak-ridge/services/follow-a-council-measure.md): Compare the agenda, public hearing notice, recorded action and signed ordinance.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## Town of Oakdale (us/tn/oakdale)
+
+Parent guide sections, nearest first: Morgan County, Tennessee (us/tn/morgan-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/oakdale/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Oakdale for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/oakdale/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Oakdale.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Oakdale](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/oakdale/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## Town of Oakland (us/tn/oakland)
@@ -3520,6 +3534,16 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 - [Find the Sumner County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/sumner-county/services/find-a-property-map.md): Search Sumner County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
   - source-checked · Checked by codex on 2026-11-22.
 
+## City of Sunbright (us/tn/sunbright)
+
+Parent guide sections, nearest first: Morgan County, Tennessee (us/tn/morgan-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/sunbright/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Sunbright for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/sunbright/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Sunbright.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Sunbright](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/sunbright/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
 ## Town of Surgoinsville (us/tn/surgoinsville)
 
 Parent guide sections, nearest first: Hawkins County, Tennessee (us/tn/hawkins-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
@@ -3756,6 +3780,16 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 
 - [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/warren-county/jurisdiction.yaml): website, main contact, and parent government
 - [Find the Warren County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/warren-county/services/find-a-property-map.md): Search Warren County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## City of Wartburg (us/tn/wartburg)
+
+Parent guide sections, nearest first: Morgan County, Tennessee (us/tn/morgan-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/wartburg/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Wartburg for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/wartburg/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Wartburg.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Wartburg](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/wartburg/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## Town of Wartrace (us/tn/wartrace)

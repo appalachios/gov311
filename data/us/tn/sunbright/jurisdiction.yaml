@@ -1,0 +1,15 @@
+name: "City of Sunbright"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:sunbright
+parent: us/tn/morgan-county
+aliases: ["Sunbright"]
+website: https://www.cityofsunbright.net/
+general_contact:
+  name: "Sunbright municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/sunbright
+  phone: "(423) 628-5260"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/sunbright
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

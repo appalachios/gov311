@@ -1,0 +1,15 @@
+name: "Town of Oakdale"
+level: town
+ocd_id: ocd-division/country:us/state:tn/place:oakdale
+parent: us/tn/morgan-county
+aliases: ["Oakdale"]
+website: https://www.mtas.tennessee.edu/directories/cities/oakdale
+general_contact:
+  name: "Oakdale municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/oakdale
+  phone: "(423) 369-4400"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/oakdale
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex
