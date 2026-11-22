@@ -1,0 +1,15 @@
+name: "City of Finger"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:finger
+parent: us/tn/mcnairy-county
+aliases: ["Finger"]
+website: https://www.mtas.tennessee.edu/directories/cities/finger
+general_contact:
+  name: "Finger municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/finger
+  phone: "(731) 934-4677"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/finger
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

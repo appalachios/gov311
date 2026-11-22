@@ -435,6 +435,16 @@ Parent guide sections, nearest first: Metropolitan Government of Nashville and D
 - [Follow a proposed ordinance in Berry Hill](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/berry-hill/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
+## City of Bethel Springs (us/tn/bethel-springs)
+
+Parent guide sections, nearest first: McNairy County, Tennessee (us/tn/mcnairy-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/bethel-springs/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Bethel Springs for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/bethel-springs/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Bethel Springs.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Bethel Springs](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/bethel-springs/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
 ## Town of Big Sandy (us/tn/big-sandy)
 
 Parent guide sections, nearest first: Benton County, Tennessee (us/tn/benton-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
@@ -1124,6 +1134,16 @@ Parent guide sections, nearest first: Hamilton County, Tennessee (us/tn/hamilton
 - [Follow a proposed ordinance in East Ridge](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/east-ridge/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
+## Town of Eastview (us/tn/eastview)
+
+Parent guide sections, nearest first: McNairy County, Tennessee (us/tn/mcnairy-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/eastview/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Eastview for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/eastview/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Eastview.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Eastview](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/eastview/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
 ## City of Elizabethton (us/tn/elizabethton)
 
 Parent guide sections, nearest first: Carter County, Tennessee (us/tn/carter-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
@@ -1272,6 +1292,16 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 - [Find the Fentress County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/fentress-county/services/find-a-property-map.md): Search Fentress County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
   - source-checked · Checked by codex on 2026-11-22.
 - [Follow a Fentress County governing body decision](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/fentress-county/services/follow-county-business.md): Find the regular meeting agenda, the source of the county’s authority and the record of what the governing body voted to adopt.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## City of Finger (us/tn/finger)
+
+Parent guide sections, nearest first: McNairy County, Tennessee (us/tn/mcnairy-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/finger/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Finger for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/finger/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Finger.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Finger](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/finger/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## City of Forest Hills (us/tn/forest-hills)
@@ -1478,6 +1508,16 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 - [Find the Grundy County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/grundy-county/services/find-a-property-map.md): Search Grundy County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
   - source-checked · Checked by codex on 2026-11-22.
 - [Follow a Grundy County governing body decision](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/grundy-county/services/follow-county-business.md): Find the regular meeting agenda, the source of the county’s authority and the record of what the governing body voted to adopt.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## Town of Guys (us/tn/guys)
+
+Parent guide sections, nearest first: McNairy County, Tennessee (us/tn/mcnairy-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/guys/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Guys for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/guys/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Guys.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Guys](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/guys/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## Town of Halls (us/tn/halls)
@@ -2385,7 +2425,11 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
 
 - [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/mcnairy-county/jurisdiction.yaml): website, main contact, and parent government
+- [Find the right office in McNairy County](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/mcnairy-county/services/choose-a-county-office.md): Find county offices for deeds, vehicle records, elections and property questions, and check municipal boundaries for local services.
+  - source-checked · Checked by codex on 2026-11-22.
 - [Find the McNairy County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/mcnairy-county/services/find-a-property-map.md): Search McNairy County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a McNairy County governing body decision](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/mcnairy-county/services/follow-county-business.md): Find the regular meeting agenda, the source of the county’s authority and the record of what the governing body voted to adopt.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## Town of Medina (us/tn/medina)
@@ -2414,6 +2458,16 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 
 - [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/meigs-county/jurisdiction.yaml): website, main contact, and parent government
 - [Find the Meigs County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/meigs-county/services/find-a-property-map.md): Search Meigs County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## Town of Michie (us/tn/michie)
+
+Parent guide sections, nearest first: McNairy County, Tennessee (us/tn/mcnairy-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/michie/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Michie for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/michie/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Michie.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Michie](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/michie/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## City of Middleton (us/tn/middleton)
@@ -2980,6 +3034,16 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 - [Find the Putnam County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/putnam-county/services/find-a-property-map.md): Search Putnam County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
   - source-checked · Checked by codex on 2026-11-22.
 
+## City of Ramer (us/tn/ramer)
+
+Parent guide sections, nearest first: McNairy County, Tennessee (us/tn/mcnairy-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/ramer/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Ramer for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/ramer/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Ramer.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Ramer](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/ramer/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
 ## City of Red Bank (us/tn/red-bank)
 
 Parent guide sections, nearest first: Hamilton County, Tennessee (us/tn/hamilton-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
@@ -3202,6 +3266,16 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 - [Follow a proposed ordinance in Scotts Hill](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/scotts-hill/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
+## Town of Selmer (us/tn/selmer)
+
+Parent guide sections, nearest first: McNairy County, Tennessee (us/tn/mcnairy-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/selmer/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Selmer for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/selmer/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Selmer.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Selmer](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/selmer/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
 ## Sequatchie County, Tennessee (us/tn/sequatchie-county)
 
 Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
@@ -3360,6 +3434,16 @@ Parent guide sections, nearest first: Haywood County, Tennessee (us/tn/haywood-c
 - [Contact Stanton for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/stanton/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Stanton.
   - source-checked · Checked by codex on 2026-11-22.
 - [Follow a proposed ordinance in Stanton](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/stanton/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## Town of Stantonville (us/tn/stantonville)
+
+Parent guide sections, nearest first: McNairy County, Tennessee (us/tn/mcnairy-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/stantonville/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Stantonville for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/stantonville/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Stantonville.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Stantonville](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/stantonville/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## Stewart County, Tennessee (us/tn/stewart-county)

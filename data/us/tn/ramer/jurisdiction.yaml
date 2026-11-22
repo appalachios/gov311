@@ -1,0 +1,15 @@
+name: "City of Ramer"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:ramer
+parent: us/tn/mcnairy-county
+aliases: ["Ramer"]
+website: https://www.mtas.tennessee.edu/directories/cities/ramer
+general_contact:
+  name: "Ramer municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/ramer
+  phone: "(731) 645-7564"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/ramer
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

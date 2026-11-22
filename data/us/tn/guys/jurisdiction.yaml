@@ -1,0 +1,15 @@
+name: "Town of Guys"
+level: town
+ocd_id: ocd-division/country:us/state:tn/place:guys
+parent: us/tn/mcnairy-county
+aliases: ["Guys"]
+website: https://www.mtas.tennessee.edu/directories/cities/guys
+general_contact:
+  name: "Guys municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/guys
+  phone: "(731) 239-4700"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/guys
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex
