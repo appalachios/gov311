@@ -1,0 +1,15 @@
+name: "Town of Obion"
+level: town
+ocd_id: ocd-division/country:us/state:tn/place:obion
+parent: us/tn/obion-county
+aliases: ["Obion"]
+website: https://www.obiontn.com/
+general_contact:
+  name: "Obion municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/obion
+  phone: "(731) 536-6242"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/obion
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

@@ -1,0 +1,15 @@
+name: "City of South Fulton"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:south_fulton
+parent: us/tn/obion-county
+aliases: ["South Fulton"]
+website: https://www.southfultontn.com/
+general_contact:
+  name: "South Fulton municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/south-fulton
+  phone: "(731) 479-2151"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/south-fulton
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

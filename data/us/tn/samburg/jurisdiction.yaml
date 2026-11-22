@@ -1,0 +1,15 @@
+name: "Town of Samburg"
+level: town
+ocd_id: ocd-division/country:us/state:tn/place:samburg
+parent: us/tn/obion-county
+aliases: ["Samburg"]
+website: https://visitreelfootlake.com/
+general_contact:
+  name: "Samburg municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/samburg
+  phone: "(731) 538-3235"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/samburg
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex
