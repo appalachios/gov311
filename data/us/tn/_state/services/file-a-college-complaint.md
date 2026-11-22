@@ -8,7 +8,7 @@ sources:
   - https://www.tbr.edu/contacts/general-complaint
 last_verified: 2026-11-21
 verified_by: codex
-trust: draft
+trust: source-checked
 ---
 
 If the complaint concerns accreditation or a violation of state law at a Board of Regents college, use your college’s complaint process first. If the issue remains unresolved, use the board’s **Program Integrity Student Complaint Form**. Name the college and describe your concern and what you have done to resolve it. The board also lists the accrediting organizations for community colleges and Colleges of Applied Technology. [Student complaint form and instructions](https://www.tbr.edu/academics/program-integrity-student-complaint-form)

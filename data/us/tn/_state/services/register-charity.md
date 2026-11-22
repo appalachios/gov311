@@ -11,13 +11,14 @@ apply:
   online: https://tncab.tnsos.gov/portal
 deadline: Renewal is due once a year, on a date set by the end of the organization's accounting year. The Secretary of State's charities FAQ states the rule.
 sources:
+  - https://sos.tn.gov/contact
   - https://sos.tn.gov/charities/faqs
   - https://sos.tn.gov/charities/faqs/what-charitable-organizations-are-exempt-from-registration
   - https://sos.tn.gov/charities/guides/initial-registration
   - https://sos.tn.gov/charities/guides/charitable-organization-exemption-request-guide
 last_verified: 2026-11-21
-verified_by: claude-code
-trust: draft
+verified_by: codex
+trust: source-checked
 ---
 
 ## Who needs this

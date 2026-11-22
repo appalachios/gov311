@@ -9,7 +9,7 @@ sources:
   - https://www.tn.gov/historicalcommission/federal-programs/national-register/listing-process.html
 last_verified: 2026-11-21
 verified_by: codex
-trust: draft
+trust: source-checked
 ---
 
 1. Open **Tennessee Historical Commission Viewer** on the commission’s [National Register page](https://www.tn.gov/historicalcommission/federal-programs/national-register.html). Search the address, choose **Identify**, and select a purple triangle for the listing. You can also search the state’s listing spreadsheet on its [listing process page](https://www.tn.gov/historicalcommission/federal-programs/national-register/listing-process.html).

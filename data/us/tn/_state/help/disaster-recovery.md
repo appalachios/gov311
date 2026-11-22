@@ -9,7 +9,7 @@ sources:
   - https://www.tn.gov/tema/ready-tn/tennessee-shelters.html
 last_verified: 2026-11-21
 verified_by: codex
-trust: draft
+trust: source-checked
 ---
 
 If you need somewhere to stay, open the Tennessee Emergency Management Authority's shelter map. Select a location and read its notes before traveling. The map distinguishes overnight shelters from storm shelters and warming centers, and hours vary by site. The shelter page also links to local emergency management agencies for help. [Tennessee shelters](https://www.tn.gov/tema/ready-tn/tennessee-shelters.html)

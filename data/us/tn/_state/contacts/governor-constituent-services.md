@@ -10,7 +10,7 @@ sources:
   - https://www.tn.gov/governor/contact-us.html
 last_verified: 2026-11-21
 verified_by: codex
-trust: draft
+trust: source-checked
 ---
 
 Contact the [state agency](state-government-directory.md) first. If the issue is still open, use **Request Assistance from Agency** on the [Governor’s Office assistance page](https://www.tn.gov/governor/contact-us/request-assistance-from-an-agency.html). Choose the agency, describe the problem, and explain what you have already tried.

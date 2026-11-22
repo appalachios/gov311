@@ -12,7 +12,7 @@ sources:
   - https://www.tn.gov/tdot/engineering-operations-division/debris-removal.html
 last_verified: 2026-11-21
 verified_by: codex
-trust: draft
+trust: source-checked
 ---
 
 For an interstate or state route, report the problem to the Tennessee Department of Transportation (TDOT). For a city street or county road, contact the local government that maintains it. Call **911** for a life-threatening emergency. [TDOT maintenance requests](https://www.tn.gov/tdot/engineering-operations-division/maintenance-request.html) · [State and local road contacts](https://www.tn.gov/tdot/engineering-operations-division/debris-removal.html)

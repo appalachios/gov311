@@ -11,7 +11,7 @@ sources:
   - https://www.tn.gov/content/dam/tn/correction/documents/forms/CR2152.pdf
 last_verified: 2026-11-21
 verified_by: codex
-trust: draft
+trust: source-checked
 ---
 
 1. Find the facility on the Tennessee Department of Correction’s [visitation page](https://www.tn.gov/content/tn/correction/state-prisons/visitation.html). Check its notices for cancellations and look up its contact information.

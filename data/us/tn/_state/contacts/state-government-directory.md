@@ -12,7 +12,7 @@ sources:
   - https://pch.tncourts.gov/
 last_verified: 2026-11-21
 verified_by: codex
-trust: draft
+trust: source-checked
 ---
 
 If you know the agency’s name, find it in Tennessee’s [Department Directory](https://www.tn.gov/directory/department-directory.html). The directory includes boards, commissions, and programs as well as departments. If you know the office but need its number, open **State Phone Directory** in the [government directory](https://www.tn.gov/directory.html).

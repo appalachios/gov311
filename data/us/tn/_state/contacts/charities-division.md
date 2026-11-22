@@ -10,9 +10,11 @@ url: https://sos.tn.gov/charities
 sources:
   - https://sos.tn.gov/contact
   - https://sos.tn.gov/charities
+  - https://sos.tn.gov/charities/guides/initial-registration
+  - https://sos.tn.gov/charities/faqs
 last_verified: 2026-11-21
-verified_by: claude-code
-trust: draft
+verified_by: codex
+trust: source-checked
 ---
 
 ## What this office handles
@@ -21,6 +23,6 @@ The division registers charitable organizations that solicit contributions in Te
 
 ## Best way to reach them
 
-Registrations and renewals are filed online through the [TNCaB portal](https://tncab.tnsos.gov/portal). For questions, call (615) 741-2555 or email Charitable.Solicitations@tnsos.gov.
+You can file registrations and renewals through the [TNCaB portal](https://tncab.tnsos.gov/portal). For questions, call (615) 741-2555 or email Charitable.Solicitations@tnsos.gov. [Secretary of State contact directory](https://sos.tn.gov/contact) · [Initial registration instructions](https://sos.tn.gov/charities/guides/initial-registration)
 
 See [Register a charity before you ask for donations in Tennessee](../services/register-charity.md) for the steps.

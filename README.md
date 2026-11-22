@@ -1,17 +1,51 @@
 # ![Gov311](assets/brand/gov311-banner.png)
 
-Gov311 makes government easier to understand. Ask an AI assistant how to get a permit, who to call about a problem, or where to read your rights as a renter. It uses plain-language guides that point you to the office or official source for your question.
+Many cities have a 311 line for questions about local services. Gov311 brings that idea to AI chat. Ask where to apply for food assistance, who issues a building permit, or how to tell whether a bill became law. Each guide points you to the government office or public record behind the answer.
 
-Many cities run a 311 phone line for questions about city services. Gov311 brings that idea to AI tools, for every level of government.
+Gov311 is a community project covering Tennessee state government, Nashville, and selected federal services. You can use the guides in a chat or read them yourself. The guides are independent of the agencies they describe.
 
-Each guide covers a task, an office, a law, or a place to get help. It lists its official sources, research or review date, and who checked it. A guide marked `draft` still needs human review. The guides are plain text files in this repository, so any AI tool can read them and anyone can improve them.
+## Ask in ChatGPT, Claude, or Grok Bot
 
-Gov311 is a map to the law. It is not a source of law. A guide tells the assistant where a rule, a fee, or a deadline is officially published and how to find it. The assistant then reads the current version from that official page. Gov311 does not keep its own copy of any law, code, or fee schedule.
+Open a chat in the app you already use. These steps use the public guides and require no Gov311 installation.
 
-Gov311 is a community project. It is not an official government channel and it is not legal advice.
+| Your app | Where to start |
+| --- | --- |
+| [ChatGPT](https://chatgpt.com/) | Start a new chat. To have ChatGPT look up the official pages, choose **Search** under **View all tools**, or ask it to search the web in your message. [ChatGPT search help](https://help.openai.com/en/articles/9237897-searching-the-web-with-chatgpt) |
+| [Claude](https://claude.ai/) | Start a new chat. If your **+** menu has a **Web search** option, turn it on so Claude can open the guide links. Newer versions search automatically. [Claude web search help](https://support.claude.com/en/articles/10684626-enable-and-use-web-search) |
+| [Grok Bot](https://x.ai/bot) | Open your Bot from the sidebar and paste the message into its chat. You can also use the message in an ordinary [Grok chat](https://grok.com/). [Grok Bot messaging help](https://docs.x.ai/grok-bot/chat-and-collaboration) |
 
-> [!NOTE]
-> Gov311 covers Tennessee state government, Nashville, and selected federal services. The statewide guides are research drafts awaiting human review. [Find a Tennessee state office](data/us/tn/_state/contacts/state-government-directory.md) or [add your city or county](CONTRIBUTING.md).
+Copy this message into your chat. Try the example as written, or replace the last paragraph with your own question. Include your city or county when asking about a local service.
+
+```text
+Read the Gov311 instructions here.
+https://raw.githubusercontent.com/appalachios/gov311/main/skills/gov311/SKILL.md
+Find the guide in this index.
+https://raw.githubusercontent.com/appalachios/gov311/main/llms.txt
+
+Open the matching guide and check its official sources. Link me to
+the pages that support the answer. Include the guide’s trust level,
+who checked it, when, and anything they could not confirm.
+
+In Tennessee, where can I see what lawmakers are considering?
+How can I tell whether an amendment changed the bill I'm reading?
+```
+
+If the chat cannot open the index, open a guide yourself. Select **Raw** on its GitHub page, copy the text into your chat, and ask your question. You can also follow the official links yourself. If the assistant cannot open an official page, paste the passage you want explained. [Track a Tennessee bill](data/us/tn/_state/services/track-a-bill.md) · [Read a caption bill and its amendments](data/us/tn/_state/services/read-a-caption-bill.md) · [Find a Tennessee state office](data/us/tn/_state/contacts/state-government-directory.md) · [Browse all guides](data)
+
+### Save Gov311 for next time
+
+A saved skill lets you start a new chat with a question like “Use Gov311 to help me find a Tennessee licensing board.”
+
+- **ChatGPT.** If your Business, Enterprise, Healthcare, or Edu workspace has skills enabled, open **Plugins → Skills → Create → Create with chat**. Send the message below, then select **Install** when prompted. [ChatGPT skills help](https://help.openai.com/en/articles/20001066-skills-in-chatgpt)
+- **Claude.** Download the [Gov311 skill ZIP](assets/gov311-skill.zip). If GitHub opens a file page, select **View raw** to download it. In Claude, open **Customize → Skills → + → Create skill → Upload a skill**. Choose the ZIP and turn on Gov311. This requires code execution and file creation to be enabled in your account or workspace. [Claude skills help](https://support.claude.com/en/articles/12512180-use-skills-in-claude)
+- **Grok Bot.** Send the message below to your Bot to save Gov311 as a private skill. You can then ask for Gov311 by name. [Grok Bot skills help](https://docs.x.ai/grok-bot/skills-routines-and-automations)
+
+```text
+Save a personal skill named Gov311. Use the exact instructions in
+https://raw.githubusercontent.com/appalachios/gov311/main/skills/gov311/SKILL.md
+Keep the link to the public guide index so you can look up the guide
+each time I ask a question.
+```
 
 ## Who Gov311 is for
 
@@ -85,39 +119,56 @@ A bill can keep its title while an amendment replaces its contents. One Tennesse
 
 Voting, taxes, records, parking tickets, and trash pickup all belong here too. If your government does it, a guide to it can live in Gov311.
 
-## How to use Gov311
+## What a good answer looks like
 
-Pick the option that matches your AI tool. In every case you then ask your question in your own words. Tell the assistant your city and state, because the answer often depends on where you live.
+For a service question, the answer should name the office that handles it, tell you what to do first, and link to the form or contact page. For a bill, it should link to the legislature’s record so you can read the version under discussion. Check the official page before relying on a fee, a filing deadline, or a bill’s status.
+
+Look for the name of the person or tool that checked the guide, the date, and the guide’s trust level. If Gov311 has no guide for your question, the assistant should say so and identify any official pages it found separately.
+
+### How to read the trust level
+
+| Label on a guide | What it tells you |
+| --- | --- |
+| `draft` | The guide has a research date. Its source check is incomplete. |
+| `source-checked` | A named person or tool checked the guide’s claims against the cited official sources on the date shown. |
+| `community` | A community contributor checked the guide. |
+| `verified` | A second person independently confirmed the guide. |
+| `official` | An employee of the government covered by the guide submitted or confirmed it. |
+
+When two pages disagree, Gov311 checks the law or the office’s current filing instructions and links to the record that settles the question. A human review note tells you which detail still needs confirmation after that check and where to get it. A guide more than a year past its research or review date carries a warning.
+
+If a government site asks for visitor verification, an assistant with browser access can complete the normal check with your permission when the site and browser allow it. If the site needs you to respond, the assistant can use another official copy or give you the link and section to open. For advice about how a law applies to your situation, a local legal aid office can help.
+
+## Add your community
+
+You know how your local government works better than any AI does. If you have figured out how to get something done, write it down so the next person does not have to start from zero.
+
+[CONTRIBUTING.md](CONTRIBUTING.md) explains how to add a guide, add a place, or fix a mistake. If you work for a government and want to keep your agency's guides current, we would be glad to have you.
+
+## Install Gov311 in a developer tool
 
 ### Claude Code
 
-Add this repository as a plugin marketplace, then install the plugin.
+In Claude Code, enter these two commands, one at a time, to add Gov311’s plugin catalog and install the skill.
 
-```
+```text
 /plugin marketplace add appalachios/gov311
-```
-
-```
 /plugin install gov311@gov311
 ```
 
-Claude uses the Gov311 skill whenever you ask a question about a government service.
+Then ask your government question in the same chat.
 
-### Any tool that supports MCP
+### Tools that support local MCP servers
 
-The Model Context Protocol (MCP) is a standard way to connect an AI tool to an outside source of information. Claude, ChatGPT, Cursor, VS Code, and many other tools support it. Gov311 includes an MCP server that lets the tool look up a place, search the guides, and read one in full.
-
-You need [Node.js](https://nodejs.org) version 20 or later. First, download Gov311 and install what it needs.
+The Model Context Protocol (MCP) lets an AI tool search the guides and read an entry in full. If your tool can launch a local MCP server, install [Node.js](https://nodejs.org) version 20 or later and run these commands in a terminal.
 
 ```bash
 git clone https://github.com/appalachios/gov311.git
+cd gov311
+npm ci
 ```
 
-```bash
-cd gov311 && npm install
-```
-
-Then add the server to your AI tool's MCP settings. Most tools use this format. Replace the path with the location of your copy.
+For clients that use an `mcpServers` configuration, add this entry in the client’s MCP settings. Replace `/path/to/gov311` with the full path to your copy.
 
 ```json
 {
@@ -130,57 +181,9 @@ Then add the server to your AI tool's MCP settings. Most tools use this format. 
 }
 ```
 
-### Any tool that supports Agent Skills
+### Tools that support Agent Skills
 
-A skill is a set of written instructions that tells an AI tool how to do a kind of task. The Gov311 skill is at [`skills/gov311/SKILL.md`](skills/gov311/SKILL.md). It tells the assistant how to find the right government, how to answer, and when to send a person to a lawyer or a help line. Copy the `skills/gov311` folder into your tool's skills folder. The skill reads the guides through the MCP server, from a local copy of this repository, or from the web.
-
-### Any tool that can read a web page
-
-Give your assistant this link and ask your question.
-
-```
-https://raw.githubusercontent.com/appalachios/gov311/main/llms.txt
-```
-
-The file lists every guide with a link to its full text.
-
-### No AI tool at all
-
-Every guide is a readable text file. Browse the [`data`](data) folder by country, state, and city.
-
-## What a good answer looks like
-
-An assistant that uses Gov311 gives you:
-
-- The steps, in order, in plain language.
-- The form to file, and the current cost and deadline as the official page states them.
-- The office to contact, with its phone number and hours.
-- Links to the official sources.
-- The guide’s research or review date and whether it still needs human review.
-
-If Gov311 has no guide for your question, the assistant says so. It may then search official government websites, and it tells you that a contributor has not verified that part of the answer.
-
-### When an official site blocks the assistant
-
-Some government sites ask visitors to prove they are a person with a CAPTCHA, or turn away AI tools entirely. An assistant that uses Gov311 does not try to get past these blocks. Each guide records which sites are blocked, so the assistant goes to an open source first: another official page, a legal aid guide, or an open copy of the law from an established publisher. If every source is blocked, it gives you the link, the citation, and directions to the right section so that you can open the site yourself. You can paste the text back and ask the assistant to explain it.
-
-## How Gov311 stays accurate
-
-- Gov311 does not restate laws, fees, or deadlines. It points to where each one is published, so the assistant reads the current version.
-- Every fact must come from an official source that the contributor read.
-- Every guide names the researcher or reviewer and gives the date of that work.
-- A guide that no person has checked yet is marked as a draft, and assistants tell you so.
-- An automated check rejects a guide that is missing its sources or its date.
-- A guide that goes one year without a review gets a warning, and assistants pass that warning on to you.
-- Each place can have local maintainers who review changes to its guides.
-
-A guide can still be out of date. Offices move, forms change, and links break. Before you pay a fee, file a form, or rely on a deadline, confirm it with the official source that the guide links to.
-
-## Add your community
-
-You know how your local government works better than any AI does. If you have figured out how to get something done, write it down so the next person does not have to start from zero.
-
-[CONTRIBUTING.md](CONTRIBUTING.md) explains how to add a guide, add a place, or fix a mistake. If you work for a government and want to keep your agency's guides current, we would be glad to have you.
+Copy the [Gov311 skill folder](skills/gov311) into your tool’s skills folder. It tells the assistant how to find the right government, read the guide, and explain the official sources. The skill can use the MCP server, a local copy of this repository, or the public guide index.
 
 ## How the repository is organized
 

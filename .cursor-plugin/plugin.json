@@ -1,0 +1,11 @@
+{
+  "name": "gov311",
+  "displayName": "Gov311",
+  "version": "0.1.0",
+  "description": "Find government services, contact an agency, or follow a bill using plain-language guides linked to official sources.",
+  "author": { "name": "Gov311 contributors" },
+  "repository": "https://github.com/appalachios/gov311",
+  "license": "Apache-2.0",
+  "logo": "assets/brand/gov311-mark.svg",
+  "skills": "./skills/"
+}

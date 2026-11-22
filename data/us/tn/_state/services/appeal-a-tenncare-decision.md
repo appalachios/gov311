@@ -18,7 +18,7 @@ sources:
   - https://www.tn.gov/content/dam/tn/tenncare/documents/medappeal.pdf
 last_verified: 2026-11-21
 verified_by: codex
-trust: draft
+trust: source-checked
 ---
 
 If you received a letter, check what TennCare decided and the date for responding.

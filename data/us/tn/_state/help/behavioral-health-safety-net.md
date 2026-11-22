@@ -9,7 +9,7 @@ sources:
   - https://www.tn.gov/behavioral-health/bhsn/safety-net-eligibility-requirements.html
 last_verified: 2026-11-21
 verified_by: codex
-trust: draft
+trust: source-checked
 ---
 
 Open the state’s adult Behavioral Health Safety Net page and select **Find a Provider in Your Area**. Call a listed provider to schedule an intake appointment and say you want to apply for the Behavioral Health Safety Net. If there is no office in your county, ask about a neighboring clinic or a telehealth appointment. [Adult program, eligibility and provider list](https://www.tn.gov/behavioral-health/bhsn/safety-net-eligibility-requirements.html)

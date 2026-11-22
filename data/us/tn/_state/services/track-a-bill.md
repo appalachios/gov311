@@ -14,7 +14,7 @@ sources:
   - https://capitol.tn.gov/bills/114/Senate/Journals/01302025ED4.pdf
 last_verified: 2026-11-21
 verified_by: codex
-trust: draft
+trust: source-checked
 ---
 
 1. Open [Bill Search](https://wapp.capitol.tn.gov/apps/BillSearch/BillSearchAdvanced). Check which General Assembly you are searching. Use the archive selector for an older proposal because the bill number belongs to a particular General Assembly. If you have only a topic, use a keyword or **Browse Bills by Subject** on the [legislation page](https://wapp.capitol.tn.gov/apps/BillInfo/Legislation).

@@ -10,7 +10,7 @@ sources:
   - https://wapp.capitol.tn.gov/apps/WebPublications
 last_verified: 2026-11-21
 verified_by: codex
-trust: draft
+trust: source-checked
 ---
 
 A Tennessee law can start with two bill numbers. Sponsors often file the same proposal in the House and Senate. The House bill (HB) and Senate bill (SB) are called companions. Keep both numbers when you [look up a proposal](track-a-bill.md). [How a bill becomes a law](https://wapp.capitol.tn.gov/apps/Information/About/BillToLaw)

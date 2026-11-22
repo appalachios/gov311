@@ -12,7 +12,7 @@ sources:
   - https://wapp.capitol.tn.gov/apps/CommitteeInfo/AllSenate
 last_verified: 2026-11-21
 verified_by: codex
-trust: draft
+trust: source-checked
 ---
 
 1. [Look up the bill](track-a-bill.md). Read the latest House and Senate actions and note the committee, chamber, and meeting date if one is listed. Use the legislature’s [abbreviation list](https://wapp.capitol.tn.gov/apps/Information/About/Abbreviations) to decode a committee name or action.

@@ -10,7 +10,7 @@ sources:
   - https://wapp.capitol.tn.gov/apps/BillInfo/Legislation
 last_verified: 2026-11-21
 verified_by: codex
-trust: draft
+trust: source-checked
 ---
 
 For a department’s proposed funding, open **The Budget** on the Department of Finance and Administration’s [current budget page](https://www.tn.gov/finance/fa/fa-budget-information/current-budget.html). Search the document for the department name. The companion volume **Expenditures by Object and Funding by Source** breaks the figures down by program.

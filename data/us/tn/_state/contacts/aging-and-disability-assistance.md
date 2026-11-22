@@ -12,7 +12,7 @@ sources:
   - https://www.tn.gov/content/tn/disability-and-aging/disability-aging-programs/aging-nutrition-program.html
 last_verified: 2026-11-21
 verified_by: codex
-trust: draft
+trust: source-checked
 ---
 
 Call 1-866-836-6678 from within Tennessee to reach the nearest Area Agency on Aging and Disability. If you are helping someone who lives elsewhere in the state, use the directory to find the office that serves their county. Tell the specialist what the person needs. You can also email dda.aging@tn.gov for help finding services. [Regional office directory](https://www.tn.gov/content/tn/disability-and-aging/resource-directory/aaad.html) · [Information and Assistance](https://www.tn.gov/disability-and-aging/disability-aging-programs/information-assistance.html)

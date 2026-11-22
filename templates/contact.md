@@ -11,8 +11,10 @@ url: https://example.gov/office
 sources:
   - https://example.gov/office
 last_verified: 2026-01-01
-verified_by: your-github-username
-trust: community
+verified_by: your-username-or-tool-name
+trust: draft
+# After checking the official sources, update the checker, date, and trust level.
+# Use human_review for material questions that remain open after checking the controlling records.
 ---
 
 ## What this office handles

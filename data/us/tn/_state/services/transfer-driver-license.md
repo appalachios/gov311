@@ -15,7 +15,7 @@ sources:
   - https://www.tn.gov/content/tn/safety/driver-services/helpful-information/fees.html
 last_verified: 2026-11-21
 verified_by: codex
-trust: draft
+trust: source-checked
 ---
 
 1. If you moved to Tennessee with a regular driver license from another state, check the transfer deadline and document list. Look up whether you need a driving record from your former state and which tests apply if your license has expired. [New resident instructions](https://www.tn.gov/content/tn/safety/driver-services/classd/dlnew.html)

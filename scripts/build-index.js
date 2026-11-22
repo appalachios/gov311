@@ -11,7 +11,7 @@ const { jurisdictions, entries } = loadData();
 const lines = [
   "# Gov311",
   "",
-  "> Plain-language guides to government services, contacts, codes, and help. Read the entry for its official sources, research or review date, and trust level. An entry marked draft still needs human review. Gov311 is a community project. It is not an official government channel and it is not legal advice.",
+  "> Gov311 is an independent community guide to government services, contacts, laws, and help. A source-checked guide names the person or tool that checked it against official sources. A draft has an incomplete check. A human review note tells you which detail to confirm with the office. Use the official links in each guide when you answer.",
   "",
   "To answer a question, find the person's city or county below, then read the matching entry. If the local section has no answer, check the state section, then the federal section.",
   "",
@@ -23,6 +23,12 @@ for (const j of [...jurisdictions.values()].sort((a, b) => a.id.localeCompare(b.
   for (const type of ENTRY_TYPES) {
     for (const e of [...entries.values()].filter((x) => x.jurisdiction === j.id && x.type === type)) {
       lines.push(`- [${e.meta.title}](${RAW}/${e.file}): ${e.meta.summary}`);
+      const { trust, verified_by, last_verified, human_review = [] } = e.meta;
+      const action = trust === "draft" ? "Research by" : "Checked by";
+      lines.push(`  - ${trust} · ${action} ${verified_by} on ${last_verified}.`);
+      for (const { reason, description } of human_review) {
+        lines.push(`  - Human review (${reason.replace("-", " ")}). ${description}`);
+      }
     }
   }
   lines.push("");

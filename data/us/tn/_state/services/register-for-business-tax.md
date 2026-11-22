@@ -14,7 +14,7 @@ sources:
   - https://revenue.support.tn.gov/hc/en-us/articles/360059954591-TNTAP-Registration-7-Registering-a-New-Business-in-TNTAP
 last_verified: 2026-11-21
 verified_by: codex
-trust: draft
+trust: source-checked
 ---
 
 1. Read Revenue's instructions for your business location and gross receipts. They distinguish a local minimal activity license from a standard license and have separate instructions for out-of-state businesses and contractors. [Business tax registration and licensing](https://www.tn.gov/revenue/taxes/business-tax/registration-and-licensing.html.html)

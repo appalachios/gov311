@@ -13,7 +13,7 @@ sources:
   - https://tnmap.tn.gov/voterlookup/
 last_verified: 2026-11-21
 verified_by: codex
-trust: draft
+trust: source-checked
 ---
 
 1. Check what your county already has on file. Enter your county, name, birth month, and birth year in the [Tennessee voter registration lookup](https://tnmap.tn.gov/voterlookup/).

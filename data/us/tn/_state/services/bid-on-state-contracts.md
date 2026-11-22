@@ -8,7 +8,7 @@ sources:
   - https://www.tn.gov/generalservices/procurement/central-procurement-office--cpo-/supplier-information/faq.html
 last_verified: 2026-11-21
 verified_by: codex
-trust: draft
+trust: source-checked
 ---
 
 1. Start on the Department of General Services’ [supplier information page](https://www.tn.gov/content/tn/generalservices/procurement/central-procurement-office--cpo-/supplier-information.html). Use **Finding Bid Opportunities** for directions to public solicitations. You can review opportunities before registering.

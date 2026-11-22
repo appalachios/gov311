@@ -16,7 +16,7 @@ sources:
   - https://comptroller.tn.gov/boards/state-board-of-equalization/value-appeals/redirect-file-a-value-appeal.html
 last_verified: 2026-11-21
 verified_by: codex
-trust: draft
+trust: source-checked
 ---
 
 1. If you think the county valued your property incorrectly, look up your [county assessor](https://comptroller.tn.gov/office-functions/pa/tax-resources/assessment-information-for-each-county/assessors-and-trustees.html). Ask how to file with the county board of equalization and when it hears appeals. An informal discussion with the assessor does not count as filing the county appeal. Most owners need that formal step to preserve a state appeal. [County board instructions](https://www.comptroller.tn.gov/boards/state-board-of-equalization/sboe-resources/county-board-of-equalization.html) · [Assessment appeal process](https://comptroller.tn.gov/boards/state-board-of-equalization/value-appeals.html)

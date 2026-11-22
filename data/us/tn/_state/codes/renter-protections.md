@@ -1,6 +1,6 @@
 ---
 title: Where to find Tennessee's landlord and tenant law
-summary: Points to the Tennessee law that covers eviction notices, lockouts, repairs, security deposits, and late fees for renters, to plain-language guides from legal aid, and to free legal help.
+summary: Find the 17 counties covered by Tennessee’s Uniform Residential Landlord and Tenant Act, where to read the law on repairs and eviction, and how to reach free legal help.
 audiences: [renters]
 keywords: [eviction, eviction notice, landlord, tenant, renter rights, lease, security deposit, repairs, heat, lockout, late rent, late fee, URLTA, detainer]
 citation: Tennessee Code Annotated, Title 66, Chapter 28 (Uniform Residential Landlord and Tenant Act)
@@ -13,9 +13,13 @@ covers:
   - late fees
   - when a landlord can enter the home
 official_text:
+  - name: Tennessee General Assembly, section 66-28-102 on county coverage
+    url: https://capitol.tn.gov/Archives/Joint/publications/TNCodeBills/2022/TNCodeBill_Volume2_2022.pdf#page=618
+    access: open
+    how_to_find: On page 618 of this 2022 publication, subsection (a) gives the population test and census year. Subsections (b) through (d) address individual rental arrangements.
   - name: Tennessee Code, free public access
     url: https://www.lexisnexis.com/hottopics/tncode/
-    access: captcha
+    access: terms-of-use
     how_to_find: Open Title 66 (Property), then Chapter 28. Section 66-28-102 says where the law applies. Section 66-28-505 covers notice for unpaid rent and lease violations.
 guides:
   - name: Legal Aid Society, Evictions - Know Your Rights (Davidson County)
@@ -24,38 +28,41 @@ guides:
     url: https://www.help4tn.org/topics/370/renters-homeowners
   - name: Help4TN, list of counties the law covers and rules for other counties
     url: https://www.help4tn.org/senior-services/legal-information/long-term-care-housing/non-urlta-renters
-  - name: Tennessee Attorney General, consumer laws
-    url: https://www.tn.gov/attorneygeneral/working-for-tennessee/consumer/resources/laws.html
 sources:
+  - https://capitol.tn.gov/Archives/Joint/publications/TNCodeBills/2022/TNCodeBill_Volume2_2022.pdf#page=618
+  - https://tigerweb.geo.census.gov/tigerwebmain/Files/tab20/tigerweb_tab20_county_2010_tn.html
   - https://www.tn.gov/attorneygeneral/working-for-tennessee/consumer/resources/laws.html
   - https://publications.tnsosfiles.com/acts/107/pub/pc0847.pdf
-  - https://www.capitol.tn.gov/Bills/114/Bill/SB1088.pdf
+  - https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HB2683&ga=107
+  - https://publications.tnsosfiles.com/acts/112/pub/pc0182.pdf
   - https://www.help4tn.org/senior-services/legal-information/long-term-care-housing/non-urlta-renters
   - https://las.org/wp-content/uploads/2026/02/Evictions-KYR.pdf
 last_verified: 2026-11-21
-verified_by: claude-code
-trust: draft
+verified_by: codex
+trust: source-checked
 ---
 
 ## Read this first
 
 If you have received an eviction notice or court papers, call a legal aid office today. The deadlines are short, and free help exists. In Nashville, see [Free legal help with an eviction in Nashville](../../nashville/help/eviction-legal-help.md). Anywhere in Tennessee, see [TN Free Legal Answers](../help/free-legal-answers.md).
 
-## What this law is
+## Which counties does the Act cover?
 
-The Uniform Residential Landlord and Tenant Act (URLTA) is the Tennessee law that sets rules between landlords and renters. It applies only in some counties, based on population. Renters in other counties fall under a different part of the Tennessee Code.
+Tennessee Code § 66-28-102(a) uses a county’s population in the **2010 federal census**. A county qualifies if it had more than 75,000 residents in that census. The legislature raised the cutoff in 2012 and removed the provision for using later censuses in 2021. [Statute, page 618](https://capitol.tn.gov/Archives/Joint/publications/TNCodeBills/2022/TNCodeBill_Volume2_2022.pdf#page=618) · [2012 public chapter, section 1](https://publications.tnsosfiles.com/acts/107/pub/pc0847.pdf) · [2021 public chapter, section 2](https://publications.tnsosfiles.com/acts/112/pub/pc0182.pdf)
 
-This entry does not restate the rules. It tells you where to read them.
+**The 17 counties are** Anderson, Blount, Bradley, Davidson, Hamilton, Knox, Madison, Maury, Montgomery, Rutherford, Sevier, Shelby, Sullivan, Sumner, Washington, Williamson, and Wilson. To check a county yourself, find its row and read the **POP100** column. [U.S. Census Bureau’s 2010 Tennessee county table](https://tigerweb.geo.census.gov/tigerwebmain/Files/tab20/tigerweb_tab20_county_2010_tn.html)
+
+The Attorney General’s consumer page still gives the old 68,000 cutoff and includes Greene and Putnam. Greene had 68,831 residents in 2010 and Putnam had 72,321. Both fall below the statutory cutoff. Help4TN lists the correct 17 counties. Its guide also links renters in other counties to help. [Attorney General’s consumer page](https://www.tn.gov/attorneygeneral/working-for-tennessee/consumer/resources/laws.html) · [Help4TN’s guide for the other counties](https://www.help4tn.org/senior-services/legal-information/long-term-care-housing/non-urlta-renters)
+
+County coverage answers only the first question. Section 66-28-102(b) through (d) addresses whether the Act applies to a particular rental arrangement. If you have court papers, contact legal aid whichever county you live in. [Read the exceptions](https://capitol.tn.gov/Archives/Joint/publications/TNCodeBills/2022/TNCodeBill_Volume2_2022.pdf#page=618)
 
 ## Where to read the law
 
-The official text is the Tennessee Code, Title 66, Chapter 28. The state provides free public access through LexisNexis.
-
-The site asks each visitor to prove they are a person before it shows the code. Most AI tools cannot open it. A person can open it in a web browser.
+To read the full chapter, open Title 66, Chapter 28 in the state’s free public Code. The publisher asks visitors to review its terms. For the county coverage question, the legislature’s PDF above opens directly. [Tennessee Code public access](https://www.lexisnexis.com/hottopics/tncode/)
 
 ## Easier places to start
 
-Legal aid organizations publish plain-language guides to this law. The front matter of this entry links to them under `guides`. They are easier to read than the statute, and they say which counties the law covers. Check the date on each guide, because the law changes.
+For help reading an eviction notice in Davidson County, start with the [Legal Aid Society’s eviction guide](https://las.org/wp-content/uploads/2026/02/Evictions-KYR.pdf). [Help4TN](https://www.help4tn.org/topics/370/renters-homeowners) also has guides on repairs, deposits, and other housing questions.
 
 ## Where to get help
 

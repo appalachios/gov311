@@ -9,7 +9,7 @@ sources:
   - https://wapp.capitol.tn.gov/apps/Information/About/BillToLaw
   - https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HB2149&ga=114
   - https://capitol.tn.gov/Bills/114/Bill/HB2149.pdf
-  - https://eplan.tn.gov/documentlibrary/ViewDocument.aspx?DocumentKey=1631593&inline=true
+  - https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HB2060&GA=110
   - https://capitol.tn.gov/Bills/114/Amend/HA0871.pdf
   - https://capitol.tn.gov/Bills/114/Amend/SA0802.pdf
   - https://capitol.tn.gov/Bills/114/Fiscal/HB2149.pdf
@@ -18,7 +18,7 @@ sources:
   - https://capitol.tn.gov/Archives/Joint/publications/PublicChapters/2026/PublicChapters_202601.pdf
 last_verified: 2026-11-21
 verified_by: codex
-trust: draft
+trust: source-checked
 ---
 
 A Tennessee bill’s *caption* is the title near the top of the filed bill. It names the subject and often the parts of state law the bill would change. The caption stays fixed after filing. An amendment can replace the entire proposal underneath it, provided the change fits the subject and the code provisions named in the caption. This is why a bill about “education” can change substantially while keeping its title. [Legislative Drafting Guide, chapters 5(b) and 6(d)](https://capitol.tn.gov/Archives/Joint/staff/legal/Drafting%20Guide%202025.pdf)
@@ -33,7 +33,7 @@ If the history calls a proposal a *caption bill*, look for the amendment that su
 
 ## How a school bill changed in 2026
 
-House Bill 2149, paired with Senate Bill 2433, had a caption covering education under Title 49. In the filed bill, Section 1 proposed deleting the code section for a pilot program on parent-teacher engagement. On February 5, the House recorded that it was holding the caption bill for an amendment. [Filed HB 2149](https://capitol.tn.gov/Bills/114/Bill/HB2149.pdf) · [Department of Education pilot report](https://eplan.tn.gov/documentlibrary/ViewDocument.aspx?DocumentKey=1631593&inline=true) · [Bill history](https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HB2149&ga=114)
+House Bill 2149, paired with Senate Bill 2433, had a caption covering education under Title 49. In the filed bill, Section 1 proposed deleting the code section for a pilot program on parent-teacher engagement. On February 5, the House recorded that it was holding the caption bill for an amendment. [Filed HB 2149](https://capitol.tn.gov/Bills/114/Bill/HB2149.pdf) · [Law establishing the pilot](https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HB2060&GA=110) · [Bill history](https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HB2149&ga=114)
 
 House amendment **HA0871** replaced the proposed repeal. Its subject was what a school district or public charter school could do if a student withdrew during a disciplinary investigation and later reenrolled. The February fiscal note assessed the bill as filed. The March fiscal memorandum assessed this new proposal. Its draft number, **014594**, also appears at the foot of the amendment. [House amendment](https://capitol.tn.gov/Bills/114/Amend/HA0871.pdf) · [Original fiscal note](https://capitol.tn.gov/Bills/114/Fiscal/HB2149.pdf) · [Fiscal memorandum on the amendment](https://capitol.tn.gov/Bills/114/Fiscal/FM2285.pdf)
 

@@ -7,15 +7,15 @@ description: Explain government services and legislation in plain language. Use 
 
 Gov311 helps a person get something done with their government. The person might be a parent looking for food assistance, a renter facing eviction, a nonprofit applying for a grant, or a builder checking a code requirement. Give each of them the same thing: what to do, in order, with the form, the cost, the office, and the official link.
 
-Gov311 is a community project. Each entry identifies its sources and review status. Entries marked `draft` still need human review. It is not an official government channel and it is not legal advice.
+Gov311 is a community project. A `source-checked` guide names the person or tool that checked its material claims against official sources. A `draft` has an incomplete check. A `human_review` note identifies a specific conflict or gap in the evidence. Gov311 is not an official government channel and it is not legal advice.
 
 ## Where the data lives
 
 Use the first option that works in your environment.
 
 1. If the Gov311 MCP tools are available (`find_jurisdiction`, `search`, `get_entry`, `list_jurisdictions`), use them.
-2. If you can read local files, the data is in the `data` folder at the top of this repository. From this skill's folder, that path is `../../data`.
-3. If you can only fetch web pages, read the index at `https://raw.githubusercontent.com/appalachios/gov311/main/llms.txt` and follow its links.
+2. If the repository’s `data` folder is available locally, read it. From the skill’s folder in the repository, that path is `../../data`.
+3. If you installed the skill by itself or use a web chat, open `https://raw.githubusercontent.com/appalachios/gov311/main/llms.txt` and follow the matching guide link. If your chat cannot open links, ask the person to paste the guide into the conversation.
 
 Each government has one folder, such as `data/us/tn/nashville`. Its `jurisdiction.yaml` file names the government and its `parent`, the next government up. Its entries sit in four folders.
 
@@ -37,14 +37,14 @@ Each government has one folder, such as `data/us/tn/nashville`. Its `jurisdictio
    - Number the steps when order matters.
    - Give the form and the office's phone number and hours from the entry. For the cost and any deadline, open the page the entry points to and read the current figure.
    - Use the words the person used. Explain any official term the first time it appears.
-6. Give the official source links and the date in `last_verified`. For a draft, describe it as the research date. For a reviewed entry, describe it as the review date.
-7. If the entry is more than a year old, or its `trust` field says `draft`, say so, and tell the person to confirm the details with the office before they act. A draft is an entry that no person has checked yet.
+6. Give the official source links, trust level, actual checker (`verified_by`), and date (`last_verified`). For a draft, call it the research date. Keep tool names visible so readers can tell who did the work.
+7. If you find a conflict or a `human_review` note, check the underlying records as described below. Explain what settles the question or which specific evidence is still missing. If the guide is a draft or more than a year old, give its recorded status even if you find newer evidence.
 
 ## Laws and codes
 
 For pending legislation, use the legislative guides to find the official bill history for the right session. Read each chamber's latest action and the text of any adopted amendments before describing a proposal. To explain what became law, follow the history to the enacted text and check the effective date for the provision in question.
 
-Gov311 is a map to the law. It is not a source of law. An entry in `codes/` says what a law covers (`covers`), where the official text is published (`official_text`), how to find the right section (`how_to_find`), and where a government or legal aid organization explains it in plain language (`guides`). It does not state what the law requires.
+An entry in `codes/` says what a law covers (`covers`), where the official text is published (`official_text`), how to find the right section (`how_to_find`), and where a government or legal aid organization explains it in plain language (`guides`).
 
 When a person asks what a rule is:
 
@@ -55,19 +55,19 @@ When a person asks what a rule is:
 
 The same applies to fees, filing deadlines, and rules that belong to a `services/` entry, such as which projects need a permit. The entry links to the page where the government states them. Read that page before you answer.
 
+## When sources disagree
+
+Check whether the pages cover the same place, date, applicant, and step. For a legal requirement, read the governing statute, ordinance, or adopted rule, including enacted amendments in force on the date in question. When the law names a census or other official record, check the edition it names. For a filing procedure, read the responsible office’s current form and directions. An office can use separate steps to receive an application, verify a signature, and issue a permit.
+
+Give the reader the answer the records support and link to the exact section or instructions. If a page gives the wrong answer, identify that page, the affected wording, and the correction a publisher could make. If the records leave part of the question open, name the missing evidence and the office that can confirm it.
+
 ## When a site blocks you
 
-Some official sites show a CAPTCHA, a test that asks the visitor to prove they are a person. Others turn away automated tools with an error, or require a login or payment. Each `official_text` link has an `access` field that warns you: `open`, `captcha`, `blocks-automated-tools`, `login`, or `paywall`. A site can also start blocking after the entry was written.
+The `access` field records what the last checker saw at an `official_text` link. Start with an open official copy when one exists.
 
-Check `access` before you fetch, and go straight to an open link when one exists. A blocked site should rarely stop you.
-
-When a site blocks you:
-
-1. Do not try to get past it. Never solve or bypass a CAPTCHA, disguise yourself as a browser, rotate addresses, or use a service that exists to defeat the block. The site's owner chose to limit automated access. Respect that choice.
-2. Keep going with the other links in the entry. Do not stop to ask the person yet. Try another `official_text` link, then `guides`, then `unofficial_copies`. An unofficial copy is the same law republished by a legal publisher or archive. If you answer from one, say that it is an unofficial copy, and give the official link so the person can confirm it.
-3. If nothing in the entry is readable, hand the last step to the person. Give them the link, the citation, and the `how_to_find` directions, and tell them the site asks visitors to confirm they are a person, so they need to open it in their own browser. If they paste the text back, explain it in plain language.
-4. Say plainly what you could not read. Do not fill the gap from memory.
-5. Never ask the person for a password or an account to get past a login. If a source needs a login, they sign in themselves.
+1. If the site presents a CAPTCHA and the user has authorized you to complete it, use the site’s normal verification in an interactive browser when the site and your browser tool allow it. If the check requires a person to respond, let the person complete it or use another official source.
+2. Respect restrictions on automated access, logins, and subscriptions. Look for another official publication of the same material, such as the signed act or the ordinance adopting a code. Check its edition and effective date. A person who has access to a restricted source can sign in themselves.
+3. If you rely on a legal aid guide or an unofficial copy, identify the publisher and link to the official text. If you cannot read the text you need, explain which source you could read, what remains open, and how to find the relevant section. The person can paste the passage into the chat.
 
 If you find that a link's `access` value is wrong, tell the person they can report it at https://github.com/appalachios/gov311/issues.
 

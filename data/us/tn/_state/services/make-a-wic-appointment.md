@@ -9,7 +9,7 @@ sources:
   - https://www.tn.gov/health/wic.html
 last_verified: 2026-11-21
 verified_by: codex
-trust: draft
+trust: source-checked
 ---
 
 On the Department of Health’s WIC page, open **WIC Clinics** and search by county, city or ZIP code. Call the clinic to schedule an appointment. In Shelby County, call (901) 222-9980 if you cannot reach your clinic. [Tennessee WIC clinic directory](https://www.tn.gov/health/wic.html)

@@ -11,7 +11,7 @@ sources:
   - https://www.tn.gov/tdfi/consumer-resources.html
 last_verified: 2026-11-21
 verified_by: codex
-trust: draft
+trust: source-checked
 ---
 
 1. Raise the issue with the bank, credit union, or lender first. If it remains unresolved, check which regulator handles that institution. Consumer Resources lists federal contacts and takes questions at 800-778-4215. [Regulator directory](https://www.tn.gov/tdfi/consumer-resources.html) · [Department contacts](https://www.tn.gov/tdfi/contact-us.html)

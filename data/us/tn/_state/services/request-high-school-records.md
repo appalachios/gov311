@@ -7,9 +7,10 @@ forms:
   - name: Duplicate Diploma Request Form (ED-5175)
     url: https://www.tn.gov/content/dam/tn/education/forms/Duplicate_Diploma_Request_Form_fillable.pdf
 cost:
-  description: The state lists the fee and accepted payment method on its duplicate diploma form.
-  source: https://www.tn.gov/content/dam/tn/education/forms/Duplicate_Diploma_Request_Form_fillable.pdf
+  description: The department lists separate fees for online and mailed duplicate diploma requests. Education verification is free.
+  source: https://www.tn.gov/education/legal-services/duplicate-diplomas.html
 sources:
+  - https://www.tn.gov/education/legal-services/duplicate-diplomas.html
   - https://www.tn.gov/content/dam/tn/education/forms/Duplicate_Diploma_Request_Form_fillable.pdf
   - https://www.tn.gov/content/dam/tn/stateboardofeducation/documents/guidance/SBE-Quick-Reference-Guide.pdf
   - https://tnschooldirectory.tnedu.gov/
@@ -17,12 +18,12 @@ sources:
   - https://lwdsupport.tn.gov/hc/en-us/articles/201437580-How-do-I-get-a-copy-of-my-high-school-equivalency-diploma-or-transcript
 last_verified: 2026-11-21
 verified_by: codex
-trust: draft
+trust: source-checked
 ---
 
 Contact the school district where your high school is located, even if you have since moved. If you attended a public charter school, contact the school directly. The Tennessee School Directory lists contact information for both. [Tennessee School Directory](https://tnschooldirectory.tnedu.gov/) · [State Board of Education guidance, page 23](https://www.tn.gov/content/dam/tn/stateboardofeducation/documents/guidance/SBE-Quick-Reference-Guide.pdf)
 
-If the district or charter school cannot supply the record, call the Tennessee Department of Education at **(615) 741-5158**. Tell staff whether you need a course transcript, a replacement diploma, or verification that you graduated. [Department of Education contacts](https://www.tn.gov/education/about-the-tdoe/frequently-requested-contact-information.html)
+The district or school keeps the official transcript. The state handles duplicate public high school diplomas and graduation verification. You can request either online through the [Department of Education](https://www.tn.gov/education/legal-services/duplicate-diplomas.html). For help, call **(615) 741-5158**. [Department of Education contacts](https://www.tn.gov/education/about-the-tdoe/frequently-requested-contact-information.html)
 
 For a replacement public high school diploma, you can also use the state's Duplicate Diploma Request Form (ED-5175). Sign the form and mail it with the payment specified in the instructions. For questions about that form, call (615) 741-2921. [Duplicate diploma form and fee (PDF)](https://www.tn.gov/content/dam/tn/education/forms/Duplicate_Diploma_Request_Form_fillable.pdf)
 

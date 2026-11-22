@@ -10,8 +10,8 @@ url: https://www.nashville.gov/departments/codes
 sources:
   - https://www.nashville.gov/departments/codes
 last_verified: 2026-11-21
-verified_by: claude-code
-trust: draft
+verified_by: codex
+trust: source-checked
 ---
 
 ## What this office handles

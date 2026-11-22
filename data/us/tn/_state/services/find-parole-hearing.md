@@ -9,7 +9,7 @@ sources:
   - https://www.tn.gov/bop/about-us/divisions/board-operations.html
 last_verified: 2026-11-21
 verified_by: codex
-trust: draft
+trust: source-checked
 ---
 
 Open **Parole Hearing Schedules** on the [Board of Parole website](https://www.tn.gov/bop.html). Look for the schedule for the state prison or county jail where the person is held. The board updates its schedules regularly. A hearing officer may recommend a decision, and board members review the recommendation. [How parole hearings work](https://www.tn.gov/bop/parole-hearings-division.html)

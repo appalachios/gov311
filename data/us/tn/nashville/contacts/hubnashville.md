@@ -4,14 +4,17 @@ summary: hubNashville is the one place to request a Metro Nashville service, ask
 audiences: [everyone, homeowners, renters]
 keywords: ["311", hubNashville, pothole, trash, missed pickup, report a problem, streetlight, complaint, city services, who do I call]
 phone: 311 inside Davidson County, or 615-862-5000 from inside or outside the county
+hours: Weekdays, 8 a.m. to 5 p.m. The phone line closes at 4 p.m. on the first and third Wednesdays of each month.
 url: https://hub.nashville.gov
 sources:
   - https://www.nashville.gov/departments/government/hubnashville
   - https://www.nashville.gov/departments/government/mobile-apps
   - https://www.nashville.gov/departments/mayor/news/metro-marks-three-years-hubnashville
+  - https://hub.nashville.gov/s/login/
+  - https://www.nashville.gov/departments/emergency-management/news/metro-nashville-davidson-county-operations-during-winter-weather-1
 last_verified: 2026-11-21
-verified_by: claude-code
-trust: draft
+verified_by: codex
+trust: source-checked
 ---
 
 ## What this office handles
@@ -28,4 +31,4 @@ hubNashville is for non-emergency services. In an emergency, call 911.
 
 You can submit a request anonymously. If you create an account, you can track your requests.
 
-Metro's hubNashville page does not list phone hours. The website and app accept requests at any time.
+The phone line opens at 8 a.m. on weekdays. It closes at 5 p.m., except on the first and third Wednesdays of each month, when it closes at 4 p.m. You can submit a request online or in the app at any hour. [hubNashville phone hours](https://hub.nashville.gov/s/login/) · [Metro’s online and app hours](https://www.nashville.gov/departments/emergency-management/news/metro-nashville-davidson-county-operations-during-winter-weather-1)

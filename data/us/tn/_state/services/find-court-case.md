@@ -1,6 +1,6 @@
 ---
 title: Find a Tennessee appeals case or reach the trial court clerk
-summary: Find a case by the court named on your paperwork. Tennessee has a statewide search for its appellate courts. County clerks keep trial court dockets, including some appeals.
+summary: Find a case by the court named on your paperwork. Tennessee has a statewide search for its appellate courts. For a case in a trial court, ask that court’s clerk for the docket, even if the case is an appeal.
 audiences: [everyone]
 keywords: [court records, docket, trial court, appeals, case number, case search, court clerk, Administrative Office of the Courts]
 sources:
@@ -10,7 +10,7 @@ sources:
   - https://trialcourts.nashville.gov/wp-content/uploads/2026.02.24-FINAL-Version-Revised-Local-Rules-with-TOC.pdf
 last_verified: 2026-11-21
 verified_by: codex
-trust: draft
+trust: source-checked
 ---
 
 Read the name of the court on your paperwork. For a case in the Tennessee Supreme Court, Court of Appeals, or Court of Criminal Appeals, use the Administrative Office of the Courts’ [Appellate Case Search](https://pch.tncourts.gov/). You can search by case number, the case name as it appears on the papers, a party’s name, or a business name.

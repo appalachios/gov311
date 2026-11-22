@@ -11,7 +11,7 @@ sources:
   - https://www.tn.gov/hr/news/2026/7/6/tennessee-state-government-launches-upgraded-careers-website.html
 last_verified: 2026-11-21
 verified_by: codex
-trust: draft
+trust: source-checked
 ---
 
 If you are applying from outside state government, open the [state careers portal](https://hub.edison.tn.gov/ords/r/tn_er/tn-careers-external/home). Search for a job title, agency, county, or city, then open the listing for the position you want.

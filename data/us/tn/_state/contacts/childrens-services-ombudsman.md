@@ -9,7 +9,7 @@ sources:
   - https://www.tn.gov/content/tn/tccy/programs0/ombuds.html
 last_verified: 2026-11-21
 verified_by: codex
-trust: draft
+trust: source-checked
 ---
 
 If you are concerned about how the Department of Children’s Services or a provider handled a child’s case, open the [Ombudsman Program page](https://www.tn.gov/content/tn/tccy/programs0/ombuds.html). Use the contact form under **How Can You Contact the Ombudsman?** Children, families, foster parents, and others concerned about a child can make a referral.

@@ -14,7 +14,7 @@ sources:
   - https://www.tn.gov/tourism.html
 last_verified: 2026-11-21
 verified_by: codex
-trust: draft
+trust: source-checked
 ---
 
 Open the Department of Tourist Development’s [vacation guide](https://www.tnvacation.com/guide). Choose **Get the Digital Guide** to read it online or **Get a Free Printed Guide** to enter a mailing address. The print form gives the delivery estimate. You can also request a copy by calling 1-800-462-8366.

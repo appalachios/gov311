@@ -10,7 +10,7 @@ sources:
   - https://wapp.capitol.tn.gov/apps/WebPublications
 last_verified: 2026-11-21
 verified_by: codex
-trust: draft
+trust: source-checked
 ---
 
 Open the **Public Chapter** link on the bill's page to read the law as enacted. For example, the history of Senate Bill 259 in the 113th General Assembly links to Public Chapter 336 of 2023, a law about driver licenses. [SB 259 bill history](https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB0259&ga=113) · [Public Chapter 336](https://publications.tnsosfiles.com/acts/113/pub/pc0336.pdf)

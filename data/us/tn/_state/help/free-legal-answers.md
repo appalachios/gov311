@@ -9,16 +9,17 @@ cost:
   description: Free
 sources:
   - https://tn.freelegalanswers.org/
+  - https://tn.freelegalanswers.org/Users/Account/UserAgreement
   - https://www.help4tn.org/page/1519/free-senior-legal-helpline
   - https://www.help4tn.org/topics/370/renters-homeowners
 last_verified: 2026-11-21
-verified_by: claude-code
-trust: draft
+verified_by: codex
+trust: source-checked
 ---
 
 ## What they help with
 
-You post a question about a civil legal problem, and a volunteer lawyer answers it in writing. Civil problems are non-criminal ones, such as a dispute with a landlord, a debt, or a family matter.
+You can post a question about a civil legal problem, such as a dispute with a landlord, a debt, or a family matter. A volunteer lawyer may answer in writing. The program cannot guarantee a reply before a deadline. [How Free Legal Answers works](https://tn.freelegalanswers.org/Users/Account/UserAgreement)
 
 The lawyers who answer cannot call you and cannot represent you in court. If you have a court date, contact a legal aid office as well.
 
@@ -27,6 +28,7 @@ The lawyers who answer cannot call you and cannot represent you in court. If you
 1. Go to [TN Free Legal Answers](https://tn.freelegalanswers.org/).
 2. Answer the questions that check whether you qualify.
 3. Post your question.
+4. If a lawyer answers, the site emails you. Sign back in to read the response.
 
 ## Other free legal help in Tennessee
 

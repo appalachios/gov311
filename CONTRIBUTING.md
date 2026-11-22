@@ -17,7 +17,7 @@ Gov311 is a map. An entry tells a person which office handles a task, what steps
 | Common mistakes | Who qualifies under the law |
 | What the office told you is not published online, and who to call for it | |
 
-Laws, fees, and deadlines change, and a copy in Gov311 would stay wrong until someone noticed. A link stays right for as long as the page exists. You can write "Free" when a service costs nothing.
+Laws, fees, and deadlines change. Link readers to the current record so they can check the detail when they act. You can write "Free" when a service costs nothing.
 
 ## Ask the government directly
 
@@ -58,6 +58,15 @@ If an office tells you that something is missing from its website, ask whether i
 Everything you write must come from an official source that you checked yourself on the day you wrote the entry. An official source is the government's own website, the law itself, the website of the organization the entry describes, or the office itself when you called or wrote to it. If you cannot find an official page or reach an office that supports a statement, leave it out.
 
 This rule exists because people act on these entries. A wrong phone number wastes someone's afternoon. A link to the wrong law can send a renter in the wrong direction when they have days to respond.
+
+### When published sources disagree
+
+1. Identify the exact point of disagreement. Check the date, jurisdiction, kind of applicant, and step each page describes. An office may accept an application by email and still require a signed document before it issues a permit.
+2. For a legal question, read the controlling statute, ordinance, or adopted rule. Check later enacted amendments and their effective dates. If the law refers to a specific census or map, use that edition of the official data.
+3. For a filing question, read the administering office’s current instructions and the form for that applicant. Explain which step the law requires and which steps the office uses to carry it out.
+4. Once the record settles the question, correct the guide and cite the section, form, or table that settles it. In the pull request, link to the misleading page, identify the wording that needs to change, and give the supported correction. A page owner should be able to verify it from those links.
+
+If a material fact is still open after those checks, document the competing sources, the exact evidence still needed, and the office that can supply it. Use the [trust levels](#trust-levels) below.
 
 ## Ways to contribute
 
@@ -110,7 +119,9 @@ Cities and counties sit side by side under their state. The `parent` field in `j
    `npm run build` updates `llms.txt`, the index that web-only AI tools read. `npm run check` confirms that every entry follows the format.
 5. Open a pull request. A maintainer for that place reviews it.
 
-### Fields every entry needs
+If you change the Gov311 skill itself, run `python3 scripts/package-skill.py` and include the updated download with your change.
+
+### Guide fields
 
 | Field | What to write |
 | --- | --- |
@@ -118,9 +129,10 @@ Cities and counties sit side by side under their state. The `parent` field in `j
 | `summary` | One or two sentences. Search results show this text. |
 | `audiences` | Who the entry helps: `residents-in-need`, `nonprofits`, `builders`, `homeowners`, `renters`, `small-business`, or `everyone` |
 | `sources` | The official pages where a reader can confirm the facts |
-| `last_verified` | The date you checked every fact, written as `YYYY-MM-DD` |
-| `verified_by` | Your GitHub username |
-| `trust` | `community` for a new entry that you checked yourself. See trust levels below. |
+| `last_verified` | The date of the source check or draft research, written as `YYYY-MM-DD` |
+| `verified_by` | The GitHub username of the person or the name of the tool that did that work |
+| `trust` | Use the level that describes the work actually done. See [Trust levels](#trust-levels). |
+| `human_review` | Include only for a material question the controlling records and current filing instructions leave open. Name the evidence still needed. |
 
 Each entry type has a few fields of its own, such as `cost` and `forms` for a service or `official_text` and `covers` for a code. The templates show them, and [`data/_schema/entry.schema.json`](data/_schema/entry.schema.json) lists them all.
 
@@ -146,9 +158,7 @@ Write for a neighbor who has never dealt with this office.
 
 ### Laws and codes
 
-Gov311 is a map to the law. It is not a source of law. An entry in `codes/` tells a reader where a law is published and how to find the right part. It does not say what the law requires.
-
-This rule exists for two reasons. A law changes, and a restated copy in Gov311 would stay wrong until someone noticed. A person could also rely on our wording instead of the law's, and our wording carries no legal weight.
+An entry in `codes/` tells the reader where the law is published and how to find the right part. Link to the law itself so readers can check the wording and the version that applies to them.
 
 In a `codes/` entry:
 
@@ -156,7 +166,7 @@ In a `codes/` entry:
 - **Do** list the questions it answers in `covers`, such as "notice a landlord must give before eviction".
 - **Do** link to the official text in `official_text`, and explain in `how_to_find` which title, chapter, or section to open.
 - **Do** link to plain-language explanations from a government or a legal aid organization in `guides`.
-- **Do not** state the rule itself. Leave out notice periods, dollar limits, fees, deadlines, thresholds, required dimensions, and code edition years.
+- Link to the current law for notice periods, dollar limits, fees, deadlines, thresholds, and required dimensions. When correcting a misleading source, state the specific finding and cite the section and records that establish it.
 - **Do not** paste the text of a law or code.
 
 The same applies in other folders. A `services/` entry explains how to apply for a permit. It links to the pages where the government says which projects need one and what the permit costs.
@@ -165,7 +175,7 @@ When a law has serious consequences, such as eviction, link to a `help` entry wh
 
 ### Sites that block AI tools
 
-Some official sites ask visitors to prove they are a person with a CAPTCHA. Others turn away automated tools, or need a login or payment. An AI tool that reads Gov311 must not try to get past these blocks. It sends the person to the site instead.
+Some official sites present a visitor check called a CAPTCHA. With the user’s permission, a tool can complete the site’s normal check in an interactive browser when the site and browser allow it. If the check requires a person to respond, the person can complete it in the browser. Keep logins, subscriptions, and restrictions on automated access in place.
 
 You help by recording what you saw. Each link in `official_text` has an `access` field.
 
@@ -175,9 +185,10 @@ You help by recording what you saw. Each link in `official_text` has an `access`
 | `captcha` | The site makes visitors prove they are a person. |
 | `blocks-automated-tools` | The site turns away AI tools and scripts without showing a challenge. |
 | `login` | The site needs a free account. |
+| `terms-of-use` | The publisher requires visitors to agree to terms before it displays the text. |
 | `paywall` | The site costs money. |
 
-An AI tool that hits a blocked site should be able to keep working without stopping to ask the person. You make that possible. When the official text is not `open`:
+When access to the official text is limited, give the reader another way to check it.
 
 - Look for another official page that is open, such as the legislature's own site or an agency's summary, and add it to `official_text` or `guides`.
 - If none exists, add an open copy from an established legal publisher, a university, or a public-interest archive under `unofficial_copies`. Check that the tool you use can actually open it.
@@ -191,14 +202,24 @@ List offices, roles, and public phone lines. Do not list a private person's name
 
 | Level | Meaning |
 | --- | --- |
-| `draft` | An AI tool researched the entry, or no person has checked it yet. |
-| `community` | One contributor checked the entry against its sources. |
+| `draft` | The source check is incomplete. |
+| `source-checked` | The named person or tool checked the guide’s material claims against the official sources it cites. |
+| `community` | A human contributor checked the entry against its sources. |
 | `verified` | A second person confirmed it independently. |
 | `official` | An employee of that government submitted or confirmed it. |
 
-A reviewer raises an entry from `community` to `verified` after checking it against the sources.
+To mark a guide `source-checked`, read the responsible agency’s or program operator’s published instructions and check the details a reader will rely on, including which office to call, who qualifies, and how to apply. A working link alone tells you only that the page opens. Record the actual checker in `verified_by` (for example, `codex` for a check performed by Codex) and the date in `last_verified`.
 
-You can use an AI tool to research and draft an entry. Mark it `draft` until you have opened every source yourself and confirmed each fact. Then change it to `community` and put your username in `verified_by`. AI tools that read Gov311 tell the person when an entry is still a draft. If you work for a government and want to maintain your agency's entries, open an issue. We would be glad to have you.
+After [checking a discrepancy](#when-published-sources-disagree), leave the guide at `draft` only if its source check is incomplete. Add a `human_review` note for each unresolved material question.
+
+```yaml
+trust: draft
+human_review:
+  - reason: conflicting-evidence
+    description: The permit application and its current filing instructions give different mailing addresses for the same form. The permits office needs to confirm which address receives applications.
+```
+
+Use `missing-evidence` when the responsible office’s sources do not establish a detail. When someone resolves the question, cite the evidence, update the guide, and remove that note. Once every question is resolved and the check is complete, update the trust level, checker, and date. Reserve `verified` for an independent second human check and `official` for confirmation or submission by the responsible government.
 
 ## Keeping entries current
 

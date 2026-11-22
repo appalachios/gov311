@@ -10,7 +10,7 @@
   "scripts": {
     "validate": "node scripts/validate.js",
     "build": "node scripts/build-index.js",
-    "check": "node scripts/validate.js && node scripts/build-index.js --check",
+    "check": "node scripts/validate.js && node scripts/build-index.js --check && node --test",
     "mcp": "node mcp-server/server.js"
   },
   "dependencies": {

@@ -12,7 +12,7 @@ sources:
   - https://www.tn.gov/tenncare/contact-us.html
 last_verified: 2026-11-21
 verified_by: codex
-trust: draft
+trust: source-checked
 ---
 
 1. Contact your insurer or agent about the problem. Save the correspondence and note whom you spoke with, when you called, and what they said. [Complaint instructions](https://www.tn.gov/content/tn/commerce/insurance/consumer-resources/file-a-complaint/complaint-instructions.html)

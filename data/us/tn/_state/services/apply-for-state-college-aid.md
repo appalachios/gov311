@@ -14,7 +14,7 @@ sources:
   - https://studentaid.gov/h/apply-for-aid/fafsa
 last_verified: 2026-11-21
 verified_by: codex
-trust: draft
+trust: source-checked
 ---
 
 1. Find your program on the Higher Education Commission's financial aid site. For Tennessee Promise, check the application dates for your graduating class. The program has a state application and also requires the Free Application for Federal Student Aid (FAFSA). [State financial aid](https://www.tn.gov/thec/students-families/financial-aid.html) · [Tennessee Promise application requirements](https://www.collegefortn.org/tennessee-promise-scholarship/)

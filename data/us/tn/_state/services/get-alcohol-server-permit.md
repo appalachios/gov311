@@ -10,7 +10,7 @@ sources:
   - https://www.tn.gov/abc/alcohol-awareness/server-training-program.html
 last_verified: 2026-11-21
 verified_by: codex
-trust: draft
+trust: source-checked
 ---
 
 If you will serve alcohol at a business with a liquor-by-the-drink license, check the commission’s [server permit page](https://www.tn.gov/abc/permitting/server.html) for the requirements and timing that apply to you.

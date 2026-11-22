@@ -15,7 +15,7 @@ sources:
   - https://onedhs.tn.gov/
 last_verified: 2026-11-21
 verified_by: codex
-trust: draft
+trust: source-checked
 ---
 
 Check the department’s Smart Steps waitlist update before applying. Some families get child care assistance through a different route, such as a referral from the Department of Children’s Services. The program descriptions explain which route to use and give the response deadline for a Smart Steps invitation. [Child care payment assistance](https://www.tn.gov/humanservices/for-families/child-care-services/child-care-payment-assistance.html.html)

@@ -10,7 +10,7 @@ sources:
   - https://tnartscommission.org/how-to-register/
 last_verified: 2026-11-21
 verified_by: codex
-trust: draft
+trust: source-checked
 ---
 
 1. Find a grant for your project on the [Tennessee Arts Commission grants page](https://tnartscommission.org/art-grants/). Check the program guidelines for who can apply and what it supports. Operating support for an organization and a fellowship for an individual artist have different application schedules. [Application dates](https://tnartscommission.org/art-grants/apply-for-a-grant/)

@@ -13,7 +13,7 @@ sources:
   - https://www.tn.gov/tenncare/members-applicants/how-to-file-an-eligibility-appeal.html
 last_verified: 2026-11-21
 verified_by: codex
-trust: draft
+trust: source-checked
 ---
 
 1. Gather information about who lives with you, who needs coverage, income, and other health insurance. TennCare publishes the income and resource limits for each coverage group. [Application checklist](https://www.tn.gov/tenncare/members-applicants/how-do-i-apply-for-tenncare.html) · [Eligibility reference guide](https://www.tn.gov/tenncare/members-applicants/eligibility-reference-guide.html)
