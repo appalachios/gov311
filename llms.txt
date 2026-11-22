@@ -2311,7 +2311,8 @@ Parent guide sections, nearest first: Madison County, Tennessee (us/tn/madison-c
 - [Contact Jackson for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/jackson/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Jackson.
   - source-checked · Checked by codex on 2026-11-22.
 - [Follow a proposed ordinance in Jackson](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/jackson/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
-  - source-checked · Checked by codex on 2026-11-22.
+  - draft · Research by codex on 2026-11-22.
+  - Human review (missing evidence). The cited records establish the procedure described here. They do not establish the general number of readings for a new ordinance in Jackson. Ask the municipal recorder for the current charter section or adopted procedural rule before quoting a count.
 
 ## Jackson County, Tennessee (us/tn/jackson-county)
 
