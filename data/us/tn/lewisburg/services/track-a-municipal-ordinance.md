@@ -4,6 +4,7 @@ summary: "Find the meeting, read the proposed language against the charter and c
 audiences: [everyone]
 keywords: ["ordinance", "charter", "code", "agenda", "pending law", "meeting", "amendment", "minutes"]
 sources:
+  - "https://www.mtas.tennessee.edu/sites/default/files/private/charters/LEWISBUR_CHT.pdf#page=22"
   - "https://www.mtas.tennessee.edu/directories/cities/lewisburg"
   - "https://www.mtas.tennessee.edu/code/municipal-code-lewisburg"
   - "https://www.mtas.tennessee.edu/charter/lewisburg"
@@ -18,3 +19,5 @@ To follow a proposal in Lewisburg, get the dated meeting notice, agenda, propose
 Look up the charter for the governing body’s powers, readings and vote requirements. Compare a proposed ordinance with the current code section it would change. [Municipal Code](https://www.mtas.tennessee.edu/code/municipal-code-lewisburg) · [Municipal Charter](https://www.mtas.tennessee.edu/charter/lewisburg)
 
 After the meeting, use the minutes to identify the motion that actually passed. Ask the recorder or clerk for the adopted ordinance, any amendments and the effective date. A proposal can change during consideration, and a recent ordinance may still be waiting to appear in the code. [Tennessee agenda and minutes requirements](https://comptroller.tn.gov/office-functions/open-records-counsel/open-meetings/frequently-asked-questions/tennessee-open-meetings-act-faqs.html)
+
+The council may read just the caption at either reading if the public has access to copies. Read the full proposal. The charter requires a new ordinance to amend an existing one, and the council records each member’s final vote in its journal. [Charter classification](https://www.mtas.tennessee.edu/charter/lewisburg) · [Governing text](https://www.mtas.tennessee.edu/sites/default/files/private/charters/LEWISBUR_CHT.pdf#page=22)
