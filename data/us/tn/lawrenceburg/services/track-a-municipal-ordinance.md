@@ -4,6 +4,7 @@ summary: "Find the meeting, read the proposed language against the charter and c
 audiences: [everyone]
 keywords: ["ordinance", "charter", "code", "agenda", "pending law", "meeting", "amendment", "minutes"]
 sources:
+  - "https://www.mtas.tennessee.edu/sites/default/files/private/charters/Lawrenceburg_cht.pdf#page=17"
   - "https://www.mtas.tennessee.edu/directories/cities/lawrenceburg"
   - "https://www.mtas.tennessee.edu/code/municipal-code-lawrenceburg"
   - "https://www.mtas.tennessee.edu/charter/lawrenceburg"
@@ -18,3 +19,5 @@ To follow a proposal in Lawrenceburg, get the dated meeting notice, agenda, prop
 Look up the charter for the governing body’s powers, readings and vote requirements. Compare a proposed ordinance with the current code section it would change. [Municipal Code](https://www.mtas.tennessee.edu/code/municipal-code-lawrenceburg) · [Municipal Charter](https://www.mtas.tennessee.edu/charter/lawrenceburg)
 
 After the meeting, use the minutes to identify the motion that actually passed. Ask the recorder or clerk for the adopted ordinance, any amendments and the effective date. A proposal can change during consideration, and a recent ordinance may still be waiting to appear in the code. [Tennessee agenda and minutes requirements](https://comptroller.tn.gov/office-functions/open-records-counsel/open-meetings/frequently-asked-questions/tennessee-open-meetings-act-faqs.html)
+
+Charter § M requires votes on two different days. Passage takes a majority of the full board, excluding vacancies. The board can make substantial changes on final passage, so read the signed ordinance even if the caption stayed the same. [Charter classification](https://www.mtas.tennessee.edu/charter/lawrenceburg) · [Governing text](https://www.mtas.tennessee.edu/sites/default/files/private/charters/Lawrenceburg_cht.pdf#page=17)
