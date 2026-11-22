@@ -4,6 +4,7 @@ summary: "Find the municipal office, check who serves a street address and get t
 audiences: [everyone]
 keywords: ["city hall", "town hall", "municipal services", "utility service", "address", "permits"]
 sources:
+  - "https://pikevilletn.com/directory/"
   - "https://www.mtas.tennessee.edu/directories/cities/pikeville"
   - "https://pikevilletn.com/"
   - "https://tnecd.com/?force_download=129209"
@@ -17,3 +18,7 @@ The municipal directory lists **25 Municipal Dr, Pikeville, TN 37367-1724** as t
 The municipality reports these services in its utility listing: **Gas, Sewer, Water**. Give the service address and ask whether the municipal system serves that location, how to start service and where to report a problem. [Municipal utilities listing](https://www.mtas.tennessee.edu/directories/cities/pikeville)
 
 For a county assessment or recorded deed, use the county where the land sits. [Bledsoe County records](../../bledsoe-county/services/find-a-property-map.md)
+
+## More municipal services
+
+- **City Directory**. Call the city recorder and tax collector at 423-447-2919, extension 104, for city tax questions. [City Directory](https://pikevilletn.com/directory/)
