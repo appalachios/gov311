@@ -1,0 +1,12 @@
+name: Town of Oliver Springs
+level: town
+ocd_id: ocd-division/country:us/state:tn/place:oliver_springs
+parent: us/tn/_state
+county_options: ["us/tn/anderson-county", "us/tn/morgan-county", "us/tn/roane-county"]
+aliases: ["Oliver Springs"]
+website: https://oliversprings-tn.gov/
+sources:
+  - https://oliversprings-tn.gov/
+  - https://www.ctas.tennessee.edu/cities_counties
+last_verified: 2026-11-22
+verified_by: codex

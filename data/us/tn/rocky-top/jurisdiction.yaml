@@ -1,0 +1,12 @@
+name: City of Rocky Top
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:rocky_top
+parent: us/tn/_state
+county_options: ["us/tn/anderson-county", "us/tn/campbell-county"]
+aliases: ["Rocky Top", "Lake City"]
+website: https://rockytoptn.org/
+sources:
+  - https://rockytoptn.org/
+  - https://www.ctas.tennessee.edu/cities_counties
+last_verified: 2026-11-22
+verified_by: codex

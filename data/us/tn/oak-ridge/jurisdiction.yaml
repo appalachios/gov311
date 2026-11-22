@@ -1,0 +1,12 @@
+name: City of Oak Ridge
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:oak_ridge
+parent: us/tn/_state
+county_options: ["us/tn/anderson-county", "us/tn/roane-county"]
+aliases: ["Oak Ridge"]
+website: https://www.oakridgetn.gov/
+sources:
+  - https://www.oakridgetn.gov/
+  - https://www.ctas.tennessee.edu/cities_counties
+last_verified: 2026-11-22
+verified_by: codex

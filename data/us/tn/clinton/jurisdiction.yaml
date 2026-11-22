@@ -1,0 +1,11 @@
+name: City of Clinton
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:clinton
+parent: us/tn/anderson-county
+aliases: ["Clinton"]
+website: https://www.clintontn.net/
+sources:
+  - https://www.clintontn.net/
+  - https://www.ctas.tennessee.edu/cities_counties
+last_verified: 2026-11-22
+verified_by: codex

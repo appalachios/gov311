@@ -1,0 +1,11 @@
+name: City of Norris
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:norris
+parent: us/tn/anderson-county
+aliases: ["Norris"]
+website: https://www.cityofnorris.com/
+sources:
+  - https://www.cityofnorris.com/
+  - https://www.ctas.tennessee.edu/cities_counties
+last_verified: 2026-11-22
+verified_by: codex
