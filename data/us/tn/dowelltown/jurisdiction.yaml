@@ -1,0 +1,15 @@
+name: "Town of Dowelltown"
+level: town
+ocd_id: ocd-division/country:us/state:tn/place:dowelltown
+parent: us/tn/dekalb-county
+aliases: ["Dowelltown"]
+website: https://www.mtas.tennessee.edu/directories/cities/dowelltown
+general_contact:
+  name: "Dowelltown municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/dowelltown
+  phone: "(615) 536-5997"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/dowelltown
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

@@ -1,0 +1,15 @@
+name: "City of Smithville"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:smithville
+parent: us/tn/dekalb-county
+aliases: ["Smithville"]
+website: https://www.smithvillecityhall.com/
+general_contact:
+  name: "Smithville municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/smithville
+  phone: "(615) 597-4745"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/smithville
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

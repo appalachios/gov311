@@ -192,6 +192,16 @@ Parent guide sections, nearest first: Blount County, Tennessee (us/tn/blount-cou
 - [Follow a proposed ordinance in Alcoa](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/alcoa/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
+## Town of Alexandria (us/tn/alexandria)
+
+Parent guide sections, nearest first: DeKalb County, Tennessee (us/tn/dekalb-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/alexandria/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Alexandria for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/alexandria/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Alexandria.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Alexandria](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/alexandria/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
 ## Anderson County, Tennessee (us/tn/anderson-county)
 
 Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
@@ -670,7 +680,11 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
 
 - [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/dekalb-county/jurisdiction.yaml): website, main contact, and parent government
+- [Find the right office in DeKalb County](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/dekalb-county/services/choose-a-county-office.md): Find county offices for deeds, vehicle records, elections and property questions, and check municipal boundaries for local services.
+  - source-checked · Checked by codex on 2026-11-22.
 - [Find the DeKalb County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/dekalb-county/services/find-a-property-map.md): Search DeKalb County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a DeKalb County governing body decision](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/dekalb-county/services/follow-county-business.md): Find the regular meeting agenda, the source of the county’s authority and the record of what the governing body voted to adopt.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## Dickson County, Tennessee (us/tn/dickson-county)
@@ -679,6 +693,16 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 
 - [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/dickson-county/jurisdiction.yaml): website, main contact, and parent government
 - [Find the Dickson County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/dickson-county/services/find-a-property-map.md): Search Dickson County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## Town of Dowelltown (us/tn/dowelltown)
+
+Parent guide sections, nearest first: DeKalb County, Tennessee (us/tn/dekalb-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/dowelltown/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Dowelltown for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/dowelltown/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Dowelltown.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Dowelltown](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/dowelltown/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## City of Ducktown (us/tn/ducktown)
@@ -1253,6 +1277,16 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 - [Find the Lewis County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/lewis-county/services/find-a-property-map.md): Search Lewis County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
   - source-checked · Checked by codex on 2026-11-22.
 
+## Town of Liberty (us/tn/liberty)
+
+Parent guide sections, nearest first: DeKalb County, Tennessee (us/tn/dekalb-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/liberty/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Liberty for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/liberty/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Liberty.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Liberty](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/liberty/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
 ## Lincoln County, Tennessee (us/tn/lincoln-county)
 
 Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
@@ -1815,6 +1849,16 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 
 - [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/smith-county/jurisdiction.yaml): website, main contact, and parent government
 - [Find the Smith County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/smith-county/services/find-a-property-map.md): Search Smith County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## City of Smithville (us/tn/smithville)
+
+Parent guide sections, nearest first: DeKalb County, Tennessee (us/tn/dekalb-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/smithville/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Smithville for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/smithville/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Smithville.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Smithville](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/smithville/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## Stewart County, Tennessee (us/tn/stewart-county)
