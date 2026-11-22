@@ -59,6 +59,8 @@ Parent guide sections, nearest first: United States federal government (us/_fede
   - source-checked · Checked by codex on 2026-11-21.
 - [Find the Tennessee board that licenses a profession](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/_state/services/find-a-licensing-board.md): Look up the agency for a profession, find application and renewal instructions, or check an individual’s license. Tennessee has a separate lookup for health care professionals.
   - source-checked · Checked by codex on 2026-11-21.
+- [Find the property map for a Tennessee county](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/_state/services/find-a-property-map.md): Search the Tennessee Property Viewer for parcels in 86 counties. For the other nine, it links to local sites, including KGIS for Knox County.
+  - source-checked · Checked by codex on 2026-11-21.
 - [Find a Tennessee appeals case or reach the trial court clerk](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/_state/services/find-court-case.md): Find a case by the court named on your paperwork. Tennessee has a statewide search for its appellate courts. For a case in a trial court, ask that court’s clerk for the docket, even if the case is an appeal.
   - source-checked · Checked by codex on 2026-11-21.
 - [Find a Tennessee legislative hearing, agenda, or floor vote](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/_state/services/find-legislative-hearings.md): Use the committee named in a bill’s history to find its meeting, see which bills are on the agenda, and check what happened after the meeting.
@@ -275,6 +277,8 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 - [Take household trash, recycling or hazardous waste to the right facility](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/knox-county/services/drop-off-trash-and-hazardous-waste.md): Use Knox County convenience centers for eligible household loads. Check the separate Knoxville facility for household chemicals.
   - source-checked · Checked by codex on 2026-11-21.
 - [Enroll a student in Knox County Schools](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/knox-county/services/enroll-in-knox-county-schools.md): Enroll at the school assigned to the home address. Families without stable housing can get enrollment help even when records are missing.
+  - source-checked · Checked by codex on 2026-11-21.
+- [Find a Knox County parcel in KGIS Maps](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/knox-county/services/find-a-parcel-in-kgis.md): Search by street address, parcel ID or owner in KGIS. Use the parcel ID to find the county assessment or request a recorded deed.
   - source-checked · Checked by codex on 2026-11-21.
 - [Find which utility serves a Knox County address](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/knox-county/services/find-a-utility-provider.md): Electricity, gas, drinking water and sewer can come from different providers at the same address. Use the service type and parcel to identify the right district.
   - source-checked · Checked by codex on 2026-11-21.

@@ -6,12 +6,13 @@ keywords: [deed, easement, title, land records, property ownership, register, mo
 sources:
   - https://rod.knoxcounty.org/
   - https://property.knoxcounty.org/
+  - https://www.kgis.org/kgismaps/map.htm
   - https://loudoncounty-tn.gov/register-of-deeds/
 last_verified: 2026-11-21
 verified_by: codex
 trust: source-checked
 ---
 
-Call the Register of Deeds records desk at **865-215-2329**. Give the owner’s name, legal description and approximate recording date, or the instrument number if you have it. If you have only the address, use *Property Lookup* on the assessor’s page to identify the parcel first. [Knox County Register of Deeds](https://rod.knoxcounty.org/) · [Knox County Property Assessor](https://property.knoxcounty.org/)
+Call the Register of Deeds records desk at **865-215-2329**. Give the owner’s name, legal description and approximate recording date, or the instrument number if you have it. If you have only an address, search it in KGIS Maps and write down the parcel ID. You can also use **Property Lookup** on the assessor’s page. [Knox County Register of Deeds](https://rod.knoxcounty.org/) · [KGIS Maps](https://www.kgis.org/kgismaps/map.htm) · [Knox County Property Assessor](https://property.knoxcounty.org/)
 
 For an easement, ask how to search recorded documents for the parcel, including earlier deeds. The register explains that some easements appear in deeds and that its index only covers recorded materials. For land on the Loudon County side of Farragut, ask the Loudon County register. [Register’s recording FAQ](https://rod.knoxcounty.org/) · [Loudon County land records](../../loudon-county/services/find-property-records.md)

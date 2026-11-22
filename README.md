@@ -57,7 +57,9 @@ To save Gov311 Services or Gov311 Laws, replace the name and link in that messag
 
 ### Ask about Knox County, Tennessee
 
-For a Knoxville mailing address, check whether the property is inside Knoxville, inside Farragut or in unincorporated Knox County. If you are buying or building near Farragut’s west end, include the parcel county. Tennessee’s certified report places part of Farragut in Loudon County. Try “Does the vote on my Knoxville rezoning application settle it?” or “Where can I get a deed for the Loudon County part of Farragut?” [Knox County](data/us/tn/knox-county) · [Knoxville](data/us/tn/knoxville) · [Farragut](data/us/tn/farragut) · [Loudon County land records](data/us/tn/loudon-county/services/find-property-records.md) · [Official municipal boundaries](https://comptroller.tn.gov/office-functions/pa/gisredistricting/municipal-boundaries.html)
+For a Knoxville mailing address, look up the parcel in **KGIS Maps** and check whether it is inside Knoxville, inside Farragut or in unincorporated Knox County. Part of Farragut lies in Loudon County. For a parcel on that side, select **Loudon** in the Tennessee Property Viewer. [Open KGIS Maps](https://www.kgis.org/kgismaps/map.htm) · [Find your county’s property map](data/us/tn/_state/services/find-a-property-map.md) · [Official municipal boundaries](https://comptroller.tn.gov/office-functions/pa/gisredistricting/municipal-boundaries.html)
+
+Try “Does the vote on my Knoxville rezoning application settle it?” or “Where can I get a deed for the Loudon County part of Farragut?” [Knox County](data/us/tn/knox-county) · [Knoxville](data/us/tn/knoxville) · [Farragut](data/us/tn/farragut) · [Loudon County land records](data/us/tn/loudon-county/services/find-property-records.md)
 
 ### Ask about Polk County, Tennessee
 
