@@ -18,6 +18,7 @@ official_text:
     how_to_find: Open the City Manager-Commission Charter. Search for 6-20-215 through 6-20-218 for adoption, votes, recording and publication.
 department: contacts/city-hall
 sources:
+  - "https://www.mtas.tennessee.edu/sites/default/files/2026-10/Manager_Commission_Charter.pdf#page=33"
   - https://polkcountytn.gov/city-offices/
   - https://www.mtas.tennessee.edu/charter/ducktown
   - https://www.mtas.tennessee.edu/system/files/codes/combined/Ducktown-code.pdf
@@ -33,3 +34,5 @@ trust: source-checked
 3. **Check the vote and effective date.** The charter requires consideration on two different days in open session, at least a week apart. The board records how each commissioner voted. After passage the recorder numbers and files the ordinance. Ask for that numbered text, the vote and any later ordinance amending it. Check when it takes effect. For an ordinance that imposes a penalty, the charter generally requires publication of the ordinance or its caption after passage before it can take effect. [Ducktown charter, §§ 6-20-215 through 6-20-218](https://www.mtas.tennessee.edu/charter/ducktown)
 
 The University of Tennessee dates its published Ducktown code to **June 27, 2013**. Use it to find a subject and section. For a change since then, ask the recorder which later ordinances apply. [Municipal code and edition date](https://www.mtas.tennessee.edu/code/municipal-code-ducktown)
+
+Tennessee Code § 6-20-215 requires two open sessions at least a week apart, including for ordinances on an authorized consent calendar. If the city allows reading by caption, get the full text from the recorder. The ordinary waiting period is 15 days from first passage, but an eligible emergency ordinance stating the emergency facts can take effect on final passage by unanimous vote of those present. [Charter classification](https://www.mtas.tennessee.edu/charter/ducktown) · [Governing text](https://www.mtas.tennessee.edu/sites/default/files/2026-10/Manager_Commission_Charter.pdf#page=33)

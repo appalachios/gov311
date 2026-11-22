@@ -28,10 +28,12 @@ official_text:
   how_to_find: Find a title and section, then check subsequent ordinances with the city recorder.
 department: contacts/city-hall
 sources:
-- https://copperhill.gov/wp-content/uploads/1993/05/Copperhill-Charter.pdf
-- https://www.mtas.tennessee.edu/system/files/codes/combined/Copperhill-code.pdf
-- https://copperhill.gov/city-hall/documents-and-permits/meeting-agendas-and-minutes/
-- https://copperhill.gov/city-hall/documents-and-permits/city-charter-and-ordinances/
+  - "https://www.mtas.tennessee.edu/charter/copperhill"
+  - "https://www.mtas.tennessee.edu/sites/default/files/private/charters/copper_cht.pdf#page=13"
+  - https://copperhill.gov/wp-content/uploads/1993/05/Copperhill-Charter.pdf
+  - https://www.mtas.tennessee.edu/system/files/codes/combined/Copperhill-code.pdf
+  - https://copperhill.gov/city-hall/documents-and-permits/meeting-agendas-and-minutes/
+  - https://copperhill.gov/city-hall/documents-and-permits/city-charter-and-ordinances/
 last_verified: 2026-11-21
 verified_by: codex
 trust: source-checked
@@ -42,3 +44,5 @@ The Board of Mayor and Aldermen must pass an ordinance at two meetings held on d
 Open the board’s dated packet for the proposed text and look for the ordinance number on the agenda. If the board amends it, ask the recorder for the wording the board actually voted on. After the second meeting, check the minutes for the vote and the final ordinance for its effective date. The recorder keeps the original. [Meeting agendas and minutes](https://copperhill.gov/city-hall/documents-and-permits/meeting-agendas-and-minutes/) · [City charter, § 2.06](https://copperhill.gov/wp-content/uploads/1993/05/Copperhill-Charter.pdf)
 
 For an existing rule, start with the city's **City Charter & Ordinances** page or the municipal code. The code’s preface explains that some measures, including annual budgets and zoning map changes, and ordinances adopted after the last update may only be in the city’s ordinance book. [City documents](https://copperhill.gov/city-hall/documents-and-permits/city-charter-and-ordinances/) · [Municipal Code](https://www.mtas.tennessee.edu/system/files/codes/combined/Copperhill-code.pdf)
+
+The charter requires passage at two meetings on separate days. Copies must be available to the public at the meetings and at City Hall before final passage. [Charter classification](https://www.mtas.tennessee.edu/charter/copperhill) · [Governing text](https://www.mtas.tennessee.edu/sites/default/files/private/charters/copper_cht.pdf#page=13)
