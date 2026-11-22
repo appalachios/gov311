@@ -1,0 +1,15 @@
+name: "City of Etowah"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:etowah
+parent: us/tn/mcminn-county
+aliases: ["Etowah"]
+website: https://www.cityofetowahtn.com/
+general_contact:
+  name: "Etowah municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/etowah
+  phone: "(423) 263-2202"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/etowah
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex
