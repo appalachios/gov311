@@ -1,0 +1,15 @@
+name: "City of Sparta"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:sparta
+parent: us/tn/white-county
+aliases: ["Sparta"]
+website: https://www.spartatn.gov/
+general_contact:
+  name: "Sparta municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/sparta
+  phone: "(931) 836-3248"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/sparta
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex
