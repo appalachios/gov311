@@ -4,6 +4,7 @@ summary: "Find the meeting, read the proposed language against the charter and c
 audiences: [everyone]
 keywords: ["ordinance", "charter", "code", "agenda", "pending law", "meeting", "amendment", "minutes"]
 sources:
+  - "https://www.mtas.tennessee.edu/sites/default/files/private/charters/Saltillo_cht.pdf#page=5"
   - "https://www.mtas.tennessee.edu/directories/cities/saltillo"
   - "https://www.mtas.tennessee.edu/charter/saltillo"
   - "https://comptroller.tn.gov/office-functions/open-records-counsel/open-meetings/frequently-asked-questions/tennessee-open-meetings-act-faqs.html"
@@ -17,3 +18,5 @@ To follow a proposal in Saltillo, get the dated meeting notice, agenda, proposed
 Look up the charter for the governing body’s powers, readings and vote requirements. Compare a proposed ordinance with the current code section it would change. [Municipal Code](https://www.mtas.tennessee.edu/directories/cities/saltillo) · [Municipal Charter](https://www.mtas.tennessee.edu/charter/saltillo)
 
 After the meeting, use the minutes to identify the motion that actually passed. Ask the recorder or clerk for the adopted ordinance, any amendments and the effective date. A proposal can change during consideration, and a recent ordinance may still be waiting to appear in the code. [Tennessee agenda and minutes requirements](https://comptroller.tn.gov/office-functions/open-records-counsel/open-meetings/frequently-asked-questions/tennessee-open-meetings-act-faqs.html)
+
+Section 11 provides for considering and adopting an ordinance in one day. If a measure is listed for a meeting, get the proposal before that meeting and ask the recorder for the adopted copy afterward. [Charter classification](https://www.mtas.tennessee.edu/charter/saltillo) · [Governing text](https://www.mtas.tennessee.edu/sites/default/files/private/charters/Saltillo_cht.pdf#page=5)
