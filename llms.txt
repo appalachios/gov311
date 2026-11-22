@@ -1423,7 +1423,11 @@ Parent guide sections, nearest first: Chester County, Tennessee (us/tn/chester-c
 Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
 
 - [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/henderson-county/jurisdiction.yaml): website, main contact, and parent government
+- [Find the right office in Henderson County](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/henderson-county/services/choose-a-county-office.md): Find county offices for deeds, vehicle records, elections and property questions, and check municipal boundaries for local services.
+  - source-checked · Checked by codex on 2026-11-22.
 - [Find the Henderson County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/henderson-county/services/find-a-property-map.md): Search Henderson County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a Henderson County governing body decision](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/henderson-county/services/follow-county-business.md): Find the regular meeting agenda, the source of the county’s authority and the record of what the governing body voted to adopt.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## Henry County, Tennessee (us/tn/henry-county)
@@ -1804,6 +1808,16 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 
 - [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/lewis-county/jurisdiction.yaml): website, main contact, and parent government
 - [Find the Lewis County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/lewis-county/services/find-a-property-map.md): Search Lewis County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## City of Lexington (us/tn/lexington)
+
+Parent guide sections, nearest first: Henderson County, Tennessee (us/tn/henderson-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/lexington/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Lexington for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/lexington/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Lexington.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Lexington](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/lexington/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## Town of Liberty (us/tn/liberty)
@@ -2270,6 +2284,16 @@ Parent guide sections, nearest first: Grundy County, Tennessee (us/tn/grundy-cou
 - [Follow a proposed ordinance in Palmer](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/palmer/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
+## City of Parker's Crossroads (us/tn/parkers-crossroads)
+
+Parent guide sections, nearest first: Henderson County, Tennessee (us/tn/henderson-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/parkers-crossroads/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Parker's Crossroads for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/parkers-crossroads/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Parker's Crossroads.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Parker's Crossroads](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/parkers-crossroads/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
 ## Town of Parrottsville (us/tn/parrottsville)
 
 Parent guide sections, nearest first: Cocke County, Tennessee (us/tn/cocke-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
@@ -2564,6 +2588,16 @@ Parent guide sections, nearest first: Hardin County, Tennessee (us/tn/hardin-cou
 - [Contact Saltillo for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/saltillo/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Saltillo.
   - source-checked · Checked by codex on 2026-11-22.
 - [Follow a proposed ordinance in Saltillo](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/saltillo/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## Town of Sardis (us/tn/sardis)
+
+Parent guide sections, nearest first: Henderson County, Tennessee (us/tn/henderson-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/sardis/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Sardis for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/sardis/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Sardis.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Sardis](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/sardis/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## Town of Saulsbury (us/tn/saulsbury)
