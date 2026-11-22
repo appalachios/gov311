@@ -1,0 +1,15 @@
+name: "City of Lewisburg"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:lewisburg
+parent: us/tn/marshall-county
+aliases: ["Lewisburg"]
+website: https://lewisburgtn.gov/
+general_contact:
+  name: "Lewisburg municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/lewisburg
+  phone: "(931) 359-1544"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/lewisburg
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex
