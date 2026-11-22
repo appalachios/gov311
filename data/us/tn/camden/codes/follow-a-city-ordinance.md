@@ -10,6 +10,8 @@ official_text:
     access: open
     how_to_find: Open the charter provisions cited below.
 sources:
+  - "https://www.mtas.tennessee.edu/charter/camden"
+  - "https://www.mtas.tennessee.edu/system/files/codes/camden-t1.pdf#page=2"
   - https://www.cityofcamdentn.com/agenda_minutes_boma.html
   - https://www.cityofcamdentn.com/city_directory.html
   - https://www.cityofcamdentn.com/
@@ -22,3 +24,5 @@ trust: source-checked
 Open the Board of Mayor and Aldermen agendas and minutes. Find the proposal by meeting date, then compare its wording with the motion and any amendments recorded in the minutes. Ask the city recorder at **731-584-4656** for the text as adopted and its effective date. The city publishes a municipal code and a separate zoning ordinance. [Board meeting records](https://www.cityofcamdentn.com/agenda_minutes_boma.html) · [City recorder](https://www.cityofcamdentn.com/city_directory.html) · [City code and zoning ordinance](https://www.cityofcamdentn.com/)
 
 A council vote may leave one more step. Under charter section 13 the mayor may return an ordinance or resolution at the next meeting with written reasons for a veto. The council can override it by a two-thirds vote. If the mayor does not veto it as the charter directs, the measure can be valid without a signature. Read the next meeting’s minutes when this matters. [Camden charter, section 13](https://www.mtas.tennessee.edu/sites/default/files/private/charters/camden_cht.pdf)
+
+The city code calls for readings at two council sessions on different days. A committee can return an amended or substitute ordinance for final action at the same session if the change relates to the original subject. Ask for the committee version before the vote. [Charter classification](https://www.mtas.tennessee.edu/charter/camden) · [Governing text](https://www.mtas.tennessee.edu/system/files/codes/camden-t1.pdf#page=2)
