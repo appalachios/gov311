@@ -1,0 +1,15 @@
+name: "City of Cookeville"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:cookeville
+parent: us/tn/putnam-county
+aliases: ["Cookeville"]
+website: https://www.cookeville-tn.gov/
+general_contact:
+  name: "Cookeville municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/cookeville
+  phone: "(931) 520-5241"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/cookeville
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

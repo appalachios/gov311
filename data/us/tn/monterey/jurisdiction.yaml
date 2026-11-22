@@ -1,0 +1,15 @@
+name: "Town of Monterey"
+level: town
+ocd_id: ocd-division/country:us/state:tn/place:monterey
+parent: us/tn/putnam-county
+aliases: ["Monterey"]
+website: https://www.townofmontereytn.com/
+general_contact:
+  name: "Monterey municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/monterey
+  phone: "(931) 839-3770"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/monterey
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

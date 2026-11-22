@@ -214,6 +214,16 @@ Parent guide sections, nearest first: DeKalb County, Tennessee (us/tn/dekalb-cou
 - [Follow a proposed ordinance in Alexandria](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/alexandria/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
+## City of Algood (us/tn/algood)
+
+Parent guide sections, nearest first: Putnam County, Tennessee (us/tn/putnam-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/algood/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Algood for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/algood/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Algood.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Algood](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/algood/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
 ## City of Allardt (us/tn/allardt)
 
 Parent guide sections, nearest first: Fentress County, Tennessee (us/tn/fentress-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
@@ -324,6 +334,16 @@ Parent guide sections, nearest first: Jefferson County, Tennessee (us/tn/jeffers
 - [Contact Baneberry for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/baneberry/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Baneberry.
   - source-checked · Checked by codex on 2026-11-22.
 - [Follow a proposed ordinance in Baneberry](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/baneberry/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## City of Baxter (us/tn/baxter)
+
+Parent guide sections, nearest first: Putnam County, Tennessee (us/tn/putnam-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/baxter/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Baxter for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/baxter/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Baxter.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Baxter](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/baxter/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## Town of Bean Station (us/tn/bean-station)
@@ -884,6 +904,16 @@ Parent guide sections, nearest first: Maury County, Tennessee (us/tn/maury-count
 - [Contact Columbia for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/columbia/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Columbia.
   - source-checked · Checked by codex on 2026-11-22.
 - [Follow a proposed ordinance in Columbia](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/columbia/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## City of Cookeville (us/tn/cookeville)
+
+Parent guide sections, nearest first: Putnam County, Tennessee (us/tn/putnam-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/cookeville/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Cookeville for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/cookeville/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Cookeville.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Cookeville](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/cookeville/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## City of Copperhill (us/tn/copperhill)
@@ -2620,6 +2650,16 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 - [Follow a proposed ordinance in Monteagle](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/monteagle/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
+## Town of Monterey (us/tn/monterey)
+
+Parent guide sections, nearest first: Putnam County, Tennessee (us/tn/putnam-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/monterey/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Monterey for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/monterey/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Monterey.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Monterey](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/monterey/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
 ## Montgomery County, Tennessee (us/tn/montgomery-county)
 
 Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
@@ -3175,7 +3215,11 @@ Parent guide sections, nearest first: Henry County, Tennessee (us/tn/henry-count
 Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
 
 - [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/putnam-county/jurisdiction.yaml): website, main contact, and parent government
+- [Find the right office in Putnam County](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/putnam-county/services/choose-a-county-office.md): Find county offices for deeds, vehicle records, elections and property questions, and check municipal boundaries for local services.
+  - source-checked · Checked by codex on 2026-11-22.
 - [Find the Putnam County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/putnam-county/services/find-a-property-map.md): Search Putnam County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a Putnam County governing body decision](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/putnam-county/services/follow-county-business.md): Find the regular meeting agenda, the source of the county’s authority and the record of what the governing body voted to adopt.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## City of Ramer (us/tn/ramer)
