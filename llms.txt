@@ -1126,6 +1126,16 @@ Parent guide sections, nearest first: Franklin County, Tennessee (us/tn/franklin
 - [Follow a proposed ordinance in Estill Springs](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/estill-springs/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
+## Town of Ethridge (us/tn/ethridge)
+
+Parent guide sections, nearest first: Lawrence County, Tennessee (us/tn/lawrence-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/ethridge/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Ethridge for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/ethridge/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Ethridge.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Ethridge](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/ethridge/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
 ## Town of Farragut (us/tn/farragut)
 
 For county services, check which county contains the address. Choose one of these guide sections: Knox County, Tennessee (us/tn/knox-county) or Loudon County, Tennessee (us/tn/loudon-county).
@@ -1949,7 +1959,21 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
 
 - [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/lawrence-county/jurisdiction.yaml): website, main contact, and parent government
+- [Find the right office in Lawrence County](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/lawrence-county/services/choose-a-county-office.md): Find county offices for deeds, vehicle records, elections and property questions, and check municipal boundaries for local services.
+  - source-checked · Checked by codex on 2026-11-22.
 - [Find the Lawrence County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/lawrence-county/services/find-a-property-map.md): Search Lawrence County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a Lawrence County governing body decision](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/lawrence-county/services/follow-county-business.md): Find the regular meeting agenda, the source of the county’s authority and the record of what the governing body voted to adopt.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## City of Lawrenceburg (us/tn/lawrenceburg)
+
+Parent guide sections, nearest first: Lawrence County, Tennessee (us/tn/lawrence-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/lawrenceburg/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Lawrenceburg for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/lawrenceburg/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Lawrenceburg.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Lawrenceburg](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/lawrenceburg/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## Lewis County, Tennessee (us/tn/lewis-county)
@@ -1998,6 +2022,16 @@ Parent guide sections, nearest first: Hamilton County, Tennessee (us/tn/hamilton
 - [Contact Lookout Mountain for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/lookout-mountain/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Lookout Mountain.
   - source-checked · Checked by codex on 2026-11-22.
 - [Follow a proposed ordinance in Lookout Mountain](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/lookout-mountain/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## City of Loretto (us/tn/loretto)
+
+Parent guide sections, nearest first: Lawrence County, Tennessee (us/tn/lawrence-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/loretto/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Loretto for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/loretto/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Loretto.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Loretto](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/loretto/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## Loudon County, Tennessee (us/tn/loudon-county)
@@ -2986,6 +3020,16 @@ Parent guide sections, nearest first: Fayette County, Tennessee (us/tn/fayette-c
 - [Contact Somerville for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/somerville/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Somerville.
   - source-checked · Checked by codex on 2026-11-22.
 - [Follow a proposed ordinance in Somerville](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/somerville/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## City of St. Joseph (us/tn/st-joseph)
+
+Parent guide sections, nearest first: Lawrence County, Tennessee (us/tn/lawrence-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/st-joseph/jurisdiction.yaml): website, main contact, and parent government
+- [Contact St. Joseph for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/st-joseph/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in St. Joseph.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in St. Joseph](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/st-joseph/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## Town of Stanton (us/tn/stanton)

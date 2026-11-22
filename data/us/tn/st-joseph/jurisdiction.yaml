@@ -1,0 +1,15 @@
+name: "City of St. Joseph"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:st_joseph
+parent: us/tn/lawrence-county
+aliases: ["St. Joseph"]
+website: https://www.mtas.tennessee.edu/directories/cities/st-joseph
+general_contact:
+  name: "St. Joseph municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/st-joseph
+  phone: "(931) 845-4141"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/st-joseph
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex
