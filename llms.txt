@@ -320,6 +320,16 @@ Parent guide sections, nearest first: McMinn County, Tennessee (us/tn/mcminn-cou
 - [Follow a proposed ordinance in Athens](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/athens/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
+## Town of Atoka (us/tn/atoka)
+
+Parent guide sections, nearest first: Tipton County, Tennessee (us/tn/tipton-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/atoka/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Atoka for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/atoka/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Atoka.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Atoka](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/atoka/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
 ## Town of Atwood (us/tn/atwood)
 
 Parent guide sections, nearest first: Carroll County, Tennessee (us/tn/carroll-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
@@ -601,6 +611,17 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 - [Follow a Bradley County governing body decision](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/bradley-county/services/follow-county-business.md): Find the regular meeting agenda, the source of the county’s authority and the record of what the governing body voted to adopt.
   - source-checked · Checked by codex on 2026-11-22.
 
+## Town of Brighton (us/tn/brighton)
+
+Parent guide sections, nearest first: Tipton County, Tennessee (us/tn/tipton-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/brighton/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Brighton for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/brighton/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Brighton.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Brighton](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/brighton/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - draft · Research by codex on 2026-11-22.
+  - Human review (missing evidence). The cited records establish the procedure described here. They do not establish the general number of readings for a new ordinance in Brighton. Ask the municipal recorder for the current charter section or adopted procedural rule before quoting a count.
+
 ## City of Bristol (us/tn/bristol)
 
 Parent guide sections, nearest first: Sullivan County, Tennessee (us/tn/sullivan-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
@@ -639,6 +660,16 @@ Parent guide sections, nearest first: Hawkins County, Tennessee (us/tn/hawkins-c
 - [Contact Bulls Gap for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/bulls-gap/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Bulls Gap.
   - source-checked · Checked by codex on 2026-11-22.
 - [Follow a proposed ordinance in Bulls Gap](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/bulls-gap/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## Town of Burlison (us/tn/burlison)
+
+Parent guide sections, nearest first: Tipton County, Tennessee (us/tn/tipton-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/burlison/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Burlison for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/burlison/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Burlison.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Burlison](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/burlison/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## Town of Burns (us/tn/burns)
@@ -1056,6 +1087,16 @@ Parent guide sections, nearest first: Henry County, Tennessee (us/tn/henry-count
 - [Contact Cottage Grove for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/cottage-grove/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Cottage Grove.
   - source-checked · Checked by codex on 2026-11-22.
 - [Follow a proposed ordinance in Cottage Grove](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/cottage-grove/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## City of Covington (us/tn/covington)
+
+Parent guide sections, nearest first: Tipton County, Tennessee (us/tn/tipton-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/covington/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Covington for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/covington/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Covington.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Covington](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/covington/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## City of Cowan (us/tn/cowan)
@@ -1609,6 +1650,17 @@ Parent guide sections, nearest first: Fayette County, Tennessee (us/tn/fayette-c
 - [Follow a proposed ordinance in Gallaway](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/gallaway/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
+## Town of Garland (us/tn/garland)
+
+Parent guide sections, nearest first: Tipton County, Tennessee (us/tn/tipton-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/garland/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Garland for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/garland/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Garland.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Garland](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/garland/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - draft · Research by codex on 2026-11-22.
+  - Human review (missing evidence). The cited records establish the procedure described here. They do not establish the general number of readings for a new ordinance in Garland. Ask the municipal recorder for the current charter section or adopted procedural rule before quoting a count.
+
 ## Town of Gates (us/tn/gates)
 
 Parent guide sections, nearest first: Lauderdale County, Tennessee (us/tn/lauderdale-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
@@ -1675,6 +1727,16 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 - [Find the Giles County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/giles-county/services/find-a-property-map.md): Search Giles County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
   - source-checked · Checked by codex on 2026-11-22.
 - [Follow a Giles County governing body decision](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/giles-county/services/follow-county-business.md): Find the regular meeting agenda, the source of the county’s authority and the record of what the governing body voted to adopt.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## Town of Gilt Edge (us/tn/gilt-edge)
+
+Parent guide sections, nearest first: Tipton County, Tennessee (us/tn/tipton-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/gilt-edge/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Gilt Edge for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/gilt-edge/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Gilt Edge.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Gilt Edge](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/gilt-edge/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## City of Goodlettsville (us/tn/goodlettsville)
@@ -2757,6 +2819,16 @@ Parent guide sections, nearest first: Blount County, Tennessee (us/tn/blount-cou
 - [Follow a proposed ordinance in Maryville](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/maryville/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
+## Town of Mason (us/tn/mason)
+
+Parent guide sections, nearest first: Tipton County, Tennessee (us/tn/tipton-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/mason/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Mason for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/mason/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Mason.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Mason](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/mason/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
 ## Town of Maury City (us/tn/maury-city)
 
 Parent guide sections, nearest first: Crockett County, Tennessee (us/tn/crockett-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
@@ -3102,6 +3174,16 @@ Parent guide sections, nearest first: Johnson County, Tennessee (us/tn/johnson-c
 - [Contact Mountain City for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/mountain-city/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Mountain City.
   - source-checked · Checked by codex on 2026-11-22.
 - [Follow a proposed ordinance in Mountain City](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/mountain-city/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## City of Munford (us/tn/munford)
+
+Parent guide sections, nearest first: Tipton County, Tennessee (us/tn/tipton-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/munford/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Munford for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/munford/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Munford.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Munford](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/munford/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## City of Murfreesboro (us/tn/murfreesboro)
@@ -4286,7 +4368,11 @@ Parent guide sections, nearest first: Madison County, Tennessee (us/tn/madison-c
 Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
 
 - [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/tipton-county/jurisdiction.yaml): website, main contact, and parent government
+- [Find the right office in Tipton County](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/tipton-county/services/choose-a-county-office.md): Find county offices for deeds, vehicle records, elections and property questions, and check municipal boundaries for local services.
+  - source-checked · Checked by codex on 2026-11-22.
 - [Find the Tipton County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/tipton-county/services/find-a-property-map.md): Search Tipton County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a Tipton County governing body decision](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/tipton-county/services/follow-county-business.md): Find the regular meeting agenda, the source of the county’s authority and the record of what the governing body voted to adopt.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## Town of Tiptonville (us/tn/tiptonville)

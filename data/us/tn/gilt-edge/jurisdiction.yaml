@@ -1,0 +1,15 @@
+name: "Town of Gilt Edge"
+level: town
+ocd_id: ocd-division/country:us/state:tn/place:gilt_edge
+parent: us/tn/tipton-county
+aliases: ["Gilt Edge"]
+website: https://www.mtas.tennessee.edu/directories/cities/gilt-edge
+general_contact:
+  name: "Gilt Edge municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/gilt-edge
+  phone: "(901) 476-9402"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/gilt-edge
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

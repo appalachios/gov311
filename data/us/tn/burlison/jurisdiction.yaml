@@ -1,0 +1,15 @@
+name: "Town of Burlison"
+level: town
+ocd_id: ocd-division/country:us/state:tn/place:burlison
+parent: us/tn/tipton-county
+aliases: ["Burlison"]
+website: https://www.mtas.tennessee.edu/directories/cities/burlison
+general_contact:
+  name: "Burlison municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/burlison
+  phone: "(901) 475-9068"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/burlison
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

@@ -1,0 +1,24 @@
+---
+title: "Contact Munford for local services"
+summary: "Find the municipal office, check who serves a street address and get to the county property records for land in Munford."
+audiences: [everyone]
+keywords: ["city hall", "town hall", "municipal services", "utility service", "address", "permits"]
+sources:
+  - "https://www.munford.com/departments/property-taxes/"
+  - "https://www.mtas.tennessee.edu/directories/cities/munford"
+  - "https://www.munford.com/"
+  - "https://tnecd.com/?force_download=129209"
+last_verified: 2026-11-22
+verified_by: codex
+trust: source-checked
+---
+
+The municipal directory lists **1397 Munford Avenue, Munford, TN 38058** as the contact address for Munford. Call **(901) 837-5955** to confirm where to file or visit. [Municipal office and officials](https://www.mtas.tennessee.edu/directories/cities/munford) · [Municipal website](https://www.munford.com/)
+
+The municipality reports these services in its utility listing: **Gas, Sewer, Water**. Give the service address and ask whether the municipal system serves that location, how to start service and where to report a problem. [Municipal utilities listing](https://www.mtas.tennessee.edu/directories/cities/munford)
+
+For a county assessment or recorded deed, use the county where the land sits. [Tipton County records](../../tipton-county/services/find-a-property-map.md)
+
+## More municipal services
+
+- **Property Taxes**. Use the city’s property tax page to look up billing or payment information. [Property Taxes](https://www.munford.com/departments/property-taxes/)
