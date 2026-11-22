@@ -1,0 +1,11 @@
+name: Town of Normandy
+level: town
+ocd_id: ocd-division/country:us/state:tn/place:normandy
+parent: us/tn/bedford-county
+aliases: [Normandy]
+website: https://www.mtas.tennessee.edu/directories/cities/normandy
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/normandy
+  - https://www.ctas.tennessee.edu/county/bedford
+last_verified: 2026-11-22
+verified_by: codex
