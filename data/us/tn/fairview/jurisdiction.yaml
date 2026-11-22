@@ -1,0 +1,15 @@
+name: "City of Fairview"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:fairview
+parent: us/tn/williamson-county
+aliases: ["Fairview"]
+website: https://www.fairview-tn.org/
+general_contact:
+  name: "Fairview municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/fairview
+  phone: "(615) 799-2484"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/fairview
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

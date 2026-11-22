@@ -611,6 +611,16 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 - [Follow a Bradley County governing body decision](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/bradley-county/services/follow-county-business.md): Find the regular meeting agenda, the source of the county’s authority and the record of what the governing body voted to adopt.
   - source-checked · Checked by codex on 2026-11-22.
 
+## City of Brentwood (us/tn/brentwood)
+
+Parent guide sections, nearest first: Williamson County, Tennessee (us/tn/williamson-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/brentwood/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Brentwood for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/brentwood/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Brentwood.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Brentwood](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/brentwood/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
 ## Town of Brighton (us/tn/brighton)
 
 Parent guide sections, nearest first: Tipton County, Tennessee (us/tn/tipton-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
@@ -1549,6 +1559,16 @@ Parent guide sections, nearest first: McMinn County, Tennessee (us/tn/mcminn-cou
 - [Follow a proposed ordinance in Etowah](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/etowah/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
+## City of Fairview (us/tn/fairview)
+
+Parent guide sections, nearest first: Williamson County, Tennessee (us/tn/williamson-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/fairview/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Fairview for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/fairview/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Fairview.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Fairview](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/fairview/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
 ## Town of Farragut (us/tn/farragut)
 
 For county services, check which county contains the address. Choose one of these guide sections: Knox County, Tennessee (us/tn/knox-county) or Loudon County, Tennessee (us/tn/loudon-county).
@@ -1635,6 +1655,16 @@ Parent guide sections, nearest first: Metropolitan Government of Nashville and D
 - [Contact Forest Hills for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/forest-hills/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Forest Hills.
   - source-checked · Checked by codex on 2026-11-22.
 - [Follow a proposed ordinance in Forest Hills](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/forest-hills/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## City of Franklin (us/tn/franklin)
+
+Parent guide sections, nearest first: Williamson County, Tennessee (us/tn/williamson-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/franklin/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Franklin for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/franklin/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Franklin.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Franklin](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/franklin/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## Franklin County, Tennessee (us/tn/franklin-county)
@@ -3434,6 +3464,16 @@ Parent guide sections, nearest first: McMinn County, Tennessee (us/tn/mcminn-cou
 - [Follow a proposed ordinance in Niota](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/niota/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
+## Town of Nolensville (us/tn/nolensville)
+
+Parent guide sections, nearest first: Williamson County, Tennessee (us/tn/williamson-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/nolensville/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Nolensville for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/nolensville/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Nolensville.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Nolensville](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/nolensville/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
 ## Town of Normandy (us/tn/normandy)
 
 Parent guide sections, nearest first: Bedford County, Tennessee (us/tn/bedford-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
@@ -4533,6 +4573,16 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 - [Follow a proposed ordinance in Tennessee Ridge](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/tennessee-ridge/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
+## Town of Thompson's Station (us/tn/thompsons-station)
+
+Parent guide sections, nearest first: Williamson County, Tennessee (us/tn/williamson-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/thompsons-station/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Thompson's Station for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/thompsons-station/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Thompson's Station.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Thompson's Station](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/thompsons-station/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
 ## City of Three Way (us/tn/three-way)
 
 Parent guide sections, nearest first: Madison County, Tennessee (us/tn/madison-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
@@ -4957,8 +5007,12 @@ Parent guide sections, nearest first: Marion County, Tennessee (us/tn/marion-cou
 Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
 
 - [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/williamson-county/jurisdiction.yaml): website, main contact, and parent government
+- [Find the right office in Williamson County](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/williamson-county/services/choose-a-county-office.md): Find county offices for deeds, vehicle records, elections and property questions, and check municipal boundaries for local services.
+  - source-checked · Checked by codex on 2026-11-22.
 - [Find a Williamson County parcel and its tax, voting and school districts](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/williamson-county/services/find-a-property-map.md): Open the county parcel map, look up the assessment or tax bill and find the elected officials and school district serving an address.
   - source-checked · Checked by codex on 2026-11-21.
+- [Follow a Williamson County governing body decision](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/williamson-county/services/follow-county-business.md): Find the regular meeting agenda, the source of the county’s authority and the record of what the governing body voted to adopt.
+  - source-checked · Checked by codex on 2026-11-22.
 
 ## City of Williston (us/tn/williston)
 
