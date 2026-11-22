@@ -4,12 +4,16 @@ summary: "Find the meeting, read the proposed language against the charter and c
 audiences: [everyone]
 keywords: ["ordinance", "charter", "code", "agenda", "pending law", "meeting", "amendment", "minutes"]
 sources:
+  - "https://www.mtas.tennessee.edu/sites/default/files/private/charters/byrdstown_cht.pdf#page=4"
   - "https://www.mtas.tennessee.edu/directories/cities/byrdstown"
   - "https://www.mtas.tennessee.edu/charter/byrdstown"
   - "https://comptroller.tn.gov/office-functions/open-records-counsel/open-meetings/frequently-asked-questions/tennessee-open-meetings-act-faqs.html"
 last_verified: 2026-11-22
 verified_by: codex
-trust: source-checked
+trust: draft
+human_review:
+  - reason: missing-evidence
+    description: "The cited records establish the procedure described here. They do not establish the general number of readings for a new ordinance in Byrdstown. Ask the municipal recorder for the current charter section or adopted procedural rule before quoting a count."
 ---
 
 To follow a proposal in Byrdstown, get the dated meeting notice, agenda, proposed text and attachments. The municipality reports its regular meeting schedule as “2nd Monday at 5:00 PM at Town Hall.” Confirm the date and location before attending. [Meeting schedule and municipal officials](https://www.mtas.tennessee.edu/directories/cities/byrdstown)
@@ -17,3 +21,5 @@ To follow a proposal in Byrdstown, get the dated meeting notice, agenda, propose
 Look up the charter for the governing body’s powers, readings and vote requirements. Compare a proposed ordinance with the current code section it would change. [Municipal Code](https://www.mtas.tennessee.edu/directories/cities/byrdstown) · [Municipal Charter](https://www.mtas.tennessee.edu/charter/byrdstown)
 
 After the meeting, use the minutes to identify the motion that actually passed. Ask the recorder or clerk for the adopted ordinance, any amendments and the effective date. A proposal can change during consideration, and a recent ordinance may still be waiting to appear in the code. [Tennessee agenda and minutes requirements](https://comptroller.tn.gov/office-functions/open-records-counsel/open-meetings/frequently-asked-questions/tennessee-open-meetings-act-faqs.html)
+
+The charter requires three affirmative votes to pass an ordinance. The mayor can supply the third vote to break a tie, but does not count toward the three voting members needed for a quorum. Ask the recorder for the applicable reading schedule and the vote. [Charter classification](https://www.mtas.tennessee.edu/charter/byrdstown) · [Governing text](https://www.mtas.tennessee.edu/sites/default/files/private/charters/byrdstown_cht.pdf#page=4)
