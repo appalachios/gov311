@@ -1,0 +1,15 @@
+name: "City of Jackson"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:jackson
+parent: us/tn/madison-county
+aliases: ["Jackson"]
+website: https://www.mtas.tennessee.edu/directories/cities/jackson
+general_contact:
+  name: "Jackson municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/jackson
+  phone: "(731) 425-8240"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/jackson
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex
