@@ -1,0 +1,15 @@
+name: "City of Pikeville"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:pikeville
+parent: us/tn/bledsoe-county
+aliases: ["Pikeville"]
+website: https://pikevilletn.com/
+general_contact:
+  name: "Pikeville municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/pikeville
+  phone: "(423) 447-2919"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/pikeville
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex
