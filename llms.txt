@@ -175,6 +175,18 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 - [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/anderson-county/jurisdiction.yaml): website, main contact, and parent government
 - [Find the Anderson County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/anderson-county/services/find-a-property-map.md): Search Anderson County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
   - source-checked · Checked by codex on 2026-11-22.
+- [Check zoning and building requirements in unincorporated Anderson County](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/anderson-county/services/find-the-building-permit-office.md): Use the county map to identify the jurisdiction before taking a project to Planning and Development.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow an Anderson County Commission resolution](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/anderson-county/services/follow-a-commission-measure.md): Compare the regular and consent agenda packets with the recorded motion and the County Clerk’s official minutes.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Check or update voter registration in Anderson County](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/anderson-county/services/register-to-vote.md): Use the Election Commission’s registration instructions and contact the office about a move or name change.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Request an Anderson County government record](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/anderson-county/services/request-county-records.md): Use the county records coordinator’s form and address for an existing record.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Find an Anderson County waste or recycling drop-off](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/anderson-county/services/use-a-convenience-center.md): Check the materials accepted and operating hours for each convenience center before driving.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Get help with a home energy bill in Anderson County](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/anderson-county/help/get-help-with-an-energy-bill.md): Contact ETHRA for regular or crisis energy assistance and check which application window applies.
+  - source-checked · Checked by codex on 2026-11-22.
 
 ## Bedford County, Tennessee (us/tn/bedford-county)
 
@@ -299,6 +311,16 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 
 - [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/clay-county/jurisdiction.yaml): website, main contact, and parent government
 - [Find the Clay County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/clay-county/services/find-a-property-map.md): Search Clay County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## City of Clinton (us/tn/clinton)
+
+Parent guide sections, nearest first: Anderson County, Tennessee (us/tn/anderson-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/clinton/jurisdiction.yaml): website, main contact, and parent government
+- [Apply for a permit or report a code issue in Clinton](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/clinton/services/find-the-building-permit-office.md): Use city Codes Enforcement for property in Clinton and the county office for an unincorporated site.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Find a pending Clinton ordinance and the final vote](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/clinton/services/follow-a-council-measure.md): Compare the City Council agenda, council minutes and numbered ordinance for the same measure.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## Cocke County, Tennessee (us/tn/cocke-county)
@@ -917,12 +939,50 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 - [Free legal help with an eviction in Nashville](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/nashville/help/eviction-legal-help.md): The Legal Aid Society offers free legal help to Davidson County renters who qualify, including a phone line for people facing eviction. Court deadlines are short, so call as soon as you receive a notice or court papers.
   - source-checked · Checked by codex on 2026-11-21.
 
+## City of Norris (us/tn/norris)
+
+Parent guide sections, nearest first: Anderson County, Tennessee (us/tn/anderson-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/norris/jurisdiction.yaml): website, main contact, and parent government
+- [Choose a Norris permit, utility or records form](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/norris/services/find-the-right-city-application.md): Find the city’s building, sign, zoning, utility and public records applications in one place.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow an ordinance through Norris City Council](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/norris/services/follow-a-council-measure.md): Use the dated council packet, council minutes and ordinance files to check changes to proposed language.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## City of Oak Ridge (us/tn/oak-ridge)
+
+For county services, check which county contains the address. Choose one of these guide sections: Anderson County, Tennessee (us/tn/anderson-county) or Roane County, Tennessee (us/tn/roane-county).
+
+Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/oak-ridge/jurisdiction.yaml): website, main contact, and parent government
+- [Check the cost of starting or reconnecting an Oak Ridge utility account](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/oak-ridge/services/check-utility-account-fees.md): Look up the city’s account setup charge, applicable residential deposits and reconnection charges.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Find the Oak Ridge office for a code or permit question](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/oak-ridge/services/find-the-building-permit-office.md): Use the city for municipal code questions and verify the parcel’s county for assessment or deed records.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow an Oak Ridge ordinance through council readings](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/oak-ridge/services/follow-a-council-measure.md): Compare the agenda, public hearing notice, recorded action and signed ordinance.
+  - source-checked · Checked by codex on 2026-11-22.
+
 ## Obion County, Tennessee (us/tn/obion-county)
 
 Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
 
 - [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/obion-county/jurisdiction.yaml): website, main contact, and parent government
 - [Find the Obion County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/obion-county/services/find-a-property-map.md): Search Obion County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## Town of Oliver Springs (us/tn/oliver-springs)
+
+For county services, check which county contains the address. Choose one of these guide sections: Anderson County, Tennessee (us/tn/anderson-county) or Morgan County, Tennessee (us/tn/morgan-county) or Roane County, Tennessee (us/tn/roane-county).
+
+Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/oliver-springs/jurisdiction.yaml): website, main contact, and parent government
+- [Apply for an Oliver Springs residential building permit](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/oliver-springs/services/find-the-building-permit-office.md): Follow the town’s link to its building permit portal and contact Building Codes about your project.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Find an Oliver Springs council vote or Water Board action](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/oliver-springs/services/follow-a-council-measure.md): Choose the board that heard the item and match its meeting agenda to the minutes.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Start town water and sewer service in Oliver Springs](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/oliver-springs/services/start-town-water-service.md): Bring proof of ownership or a lease, identification and the connection payment to the Water Department.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## Overton County, Tennessee (us/tn/overton-county)
@@ -1029,6 +1089,20 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 
 - [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/robertson-county/jurisdiction.yaml): website, main contact, and parent government
 - [Find the Robertson County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/robertson-county/services/find-a-property-map.md): Search Robertson County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## City of Rocky Top (us/tn/rocky-top)
+
+For county services, check which county contains the address. Choose one of these guide sections: Anderson County, Tennessee (us/tn/anderson-county) or Campbell County, Tennessee (us/tn/campbell-county).
+
+Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/rocky-top/jurisdiction.yaml): website, main contact, and parent government
+- [Reach Rocky Top water and sewer and pay a city water bill](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/rocky-top/services/contact-water-and-sewer.md): Use the city utility’s water and sewer contacts for service and its payment page for an existing account.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Ask Rocky Top Codes Administration about a project](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/rocky-top/services/find-the-building-permit-office.md): Contact the city for a building permit, inspection, floodplain question or property maintenance concern.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a Rocky Top City Council ordinance](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/rocky-top/services/follow-a-council-measure.md): Check the current meeting notice, council minutes and municipal code before relying on a proposed rule.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## Rutherford County, Tennessee (us/tn/rutherford-county)
