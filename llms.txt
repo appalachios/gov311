@@ -1737,9 +1737,8 @@ Parent guide sections, nearest first: Sumner County, Tennessee (us/tn/sumner-cou
 - [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/gallatin/jurisdiction.yaml): website, main contact, and parent government
 - [Contact Gallatin for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/gallatin/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Gallatin.
   - source-checked · Checked by codex on 2026-11-22.
-- [Follow a proposed ordinance in Gallatin](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/gallatin/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
-  - draft · Research by codex on 2026-11-22.
-  - Human review (missing evidence). The cited records establish the procedure described here. They do not establish the general number of readings for a new ordinance in Gallatin. Ask the municipal recorder for the current charter section or adopted procedural rule before quoting a count.
+- [Follow a proposed ordinance in Gallatin](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/gallatin/services/track-a-municipal-ordinance.md): Gallatin usually takes two votes on an ordinance on separate days. Setting the city tax rate takes three. Check the agenda for the vote that applies.
+  - source-checked · Checked by codex on 2026-11-22.
 
 ## City of Gallaway (us/tn/gallaway)
 
@@ -3222,9 +3221,9 @@ Parent guide sections, nearest first: Sumner County, Tennessee (us/tn/sumner-cou
 - [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/mitchellville/jurisdiction.yaml): website, main contact, and parent government
 - [Contact Mitchellville for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/mitchellville/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Mitchellville.
   - source-checked · Checked by codex on 2026-11-22.
-- [Follow a proposed ordinance in Mitchellville](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/mitchellville/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+- [Follow a proposed ordinance in Mitchellville](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/mitchellville/services/track-a-municipal-ordinance.md): Mitchellville’s charter grants ordinance power and leaves the reading count open. Find the state default and ask for the board’s rule.
   - draft · Research by codex on 2026-11-22.
-  - Human review (missing evidence). The cited records establish the procedure described here. They do not establish the general number of readings for a new ordinance in Mitchellville. Ask the municipal recorder for the current charter section or adopted procedural rule before quoting a count.
+  - Human review (missing evidence). The amended charter sets no general reading count. A current Mitchellville ordinance or standing rule prescribing additional readings has not been located.
 
 ## Monroe County, Tennessee (us/tn/monroe-county)
 
