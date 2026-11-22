@@ -1,0 +1,15 @@
+name: "Town of Ashland City"
+level: town
+ocd_id: ocd-division/country:us/state:tn/place:ashland_city
+parent: us/tn/cheatham-county
+aliases: ["Ashland City"]
+website: https://www.ashlandcitytn.gov/
+general_contact:
+  name: "Ashland City municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/ashland-city
+  phone: "(615) 792-4211"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/ashland-city
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

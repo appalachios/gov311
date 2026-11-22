@@ -1,0 +1,15 @@
+name: "Town of Pleasant View"
+level: town
+ocd_id: ocd-division/country:us/state:tn/place:pleasant_view
+parent: us/tn/cheatham-county
+aliases: ["Pleasant View"]
+website: https://townofpleasantview.com/
+general_contact:
+  name: "Pleasant View municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/pleasant-view
+  phone: "(615) 746-0600"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/pleasant-view
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex
