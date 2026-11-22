@@ -4,6 +4,7 @@ summary: "Find the meeting, read the proposed language against the charter and c
 audiences: [everyone]
 keywords: ["ordinance", "charter", "code", "agenda", "pending law", "meeting", "amendment", "minutes"]
 sources:
+  - "https://www.mtas.tennessee.edu/sites/default/files/private/charters/Townsend_cht.pdf#page=13"
   - "https://www.mtas.tennessee.edu/directories/cities/townsend"
   - "https://www.mtas.tennessee.edu/code/municipal-code-townsend"
   - "https://www.mtas.tennessee.edu/charter/townsend"
@@ -18,3 +19,5 @@ To follow a proposal in Townsend, get the dated meeting notice, agenda, proposed
 Look up the charter for the governing body’s powers, readings and vote requirements. Compare a proposed ordinance with the current code section it would change. [Municipal Code](https://www.mtas.tennessee.edu/code/municipal-code-townsend) · [Municipal Charter](https://www.mtas.tennessee.edu/charter/townsend)
 
 After the meeting, use the minutes to identify the motion that actually passed. Ask the recorder or clerk for the adopted ordinance, any amendments and the effective date. A proposal can change during consideration, and a recent ordinance may still be waiting to appear in the code. [Tennessee agenda and minutes requirements](https://comptroller.tn.gov/office-functions/open-records-counsel/open-meetings/frequently-asked-questions/tennessee-open-meetings-act-faqs.html)
+
+Ordinary ordinances need two open-session readings on different days at least one week apart. [Charter classification](https://www.mtas.tennessee.edu/charter/townsend) · [Governing text](https://www.mtas.tennessee.edu/sites/default/files/private/charters/Townsend_cht.pdf#page=13)
