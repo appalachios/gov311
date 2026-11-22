@@ -27,4 +27,4 @@ For an emergency, direct the person to 911. For urgent needs such as shelter or 
 
 For a residential building permit, check the State Fire Marshal’s row for the municipality or unincorporated county. An incorporated town can have a different permit office from the county around it.
 
-When someone starts with a county, call `find_jurisdiction` for its ID, then `list_jurisdictions` with that ID as `county` to find its municipalities. For an unincorporated address, start with the county itself. If a boundary guide flags conflicting evidence, ask which parcel or adopted boundary instrument establishes the responsible office.
+When someone starts with a county, call `find_jurisdiction` for its ID, then `list_jurisdictions` with that ID as `county` to find its municipalities. For an unincorporated address, start with the county itself. For a disputed boundary, use the guide to identify the custodian, ordinance or resolution number, and adopted map. Match the parcel to that exhibit and check the county-line record before naming the county office.

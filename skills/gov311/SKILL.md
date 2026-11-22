@@ -31,4 +31,4 @@ Ask only for the location needed to route the question. Keep personal records an
 
 For a Tennessee city that crosses county lines, match the parcel to a county before selecting county services. The Census Geocoder can narrow an address search. Check the county parcel map for land near a boundary.
 
-When someone starts with a county, call `find_jurisdiction` for its ID, then `list_jurisdictions` with that ID as `county` to find its municipalities. For an unincorporated address, start with the county itself. If a boundary guide flags conflicting evidence, ask which parcel or adopted boundary instrument establishes the responsible office.
+When someone starts with a county, call `find_jurisdiction` for its ID, then `list_jurisdictions` with that ID as `county` to find its municipalities. For an unincorporated address, start with the county itself. For a disputed boundary, follow the guide to the adopted map and the record establishing the county line. Give the law skill the annexation question and the service skill the records request when the exhibit is missing.
