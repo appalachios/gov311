@@ -1,0 +1,15 @@
+name: "City of Puryear"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:puryear
+parent: us/tn/henry-county
+aliases: ["Puryear"]
+website: https://www.mtas.tennessee.edu/directories/cities/puryear
+general_contact:
+  name: "Puryear municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/puryear
+  phone: "(731) 247-5362"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/puryear
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

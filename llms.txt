@@ -816,6 +816,16 @@ Parent guide sections, nearest first: Polk County, Tennessee (us/tn/polk-county)
 - [How Copperhill passes an ordinance](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/copperhill/codes/city-ordinances.md): Read the proposal before its second vote, then check the minutes and get the ordinance on file with the city recorder.
   - source-checked · Checked by codex on 2026-11-21.
 
+## Town of Cottage Grove (us/tn/cottage-grove)
+
+Parent guide sections, nearest first: Henry County, Tennessee (us/tn/henry-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/cottage-grove/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Cottage Grove for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/cottage-grove/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Cottage Grove.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Cottage Grove](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/cottage-grove/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
 ## City of Cowan (us/tn/cowan)
 
 Parent guide sections, nearest first: Franklin County, Tennessee (us/tn/franklin-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
@@ -1430,12 +1440,26 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 - [Follow a Henderson County governing body decision](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/henderson-county/services/follow-county-business.md): Find the regular meeting agenda, the source of the county’s authority and the record of what the governing body voted to adopt.
   - source-checked · Checked by codex on 2026-11-22.
 
+## City of Henry (us/tn/henry)
+
+Parent guide sections, nearest first: Henry County, Tennessee (us/tn/henry-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/henry/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Henry for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/henry/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Henry.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Henry](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/henry/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
 ## Henry County, Tennessee (us/tn/henry-county)
 
 Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
 
 - [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/henry-county/jurisdiction.yaml): website, main contact, and parent government
+- [Find the right office in Henry County](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/henry-county/services/choose-a-county-office.md): Find county offices for deeds, vehicle records, elections and property questions, and check municipal boundaries for local services.
+  - source-checked · Checked by codex on 2026-11-22.
 - [Find the Henry County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/henry-county/services/find-a-property-map.md): Search Henry County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a Henry County governing body decision](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/henry-county/services/follow-county-business.md): Find the regular meeting agenda, the source of the county’s authority and the record of what the governing body voted to adopt.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## Hickman County, Tennessee (us/tn/hickman-county)
@@ -2284,6 +2308,16 @@ Parent guide sections, nearest first: Grundy County, Tennessee (us/tn/grundy-cou
 - [Follow a proposed ordinance in Palmer](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/palmer/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
+## City of Paris (us/tn/paris)
+
+Parent guide sections, nearest first: Henry County, Tennessee (us/tn/henry-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/paris/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Paris for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/paris/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Paris.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Paris](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/paris/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
 ## City of Parker's Crossroads (us/tn/parkers-crossroads)
 
 Parent guide sections, nearest first: Henderson County, Tennessee (us/tn/henderson-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
@@ -2438,6 +2472,16 @@ Parent guide sections, nearest first: Giles County, Tennessee (us/tn/giles-count
 - [Contact Pulaski for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/pulaski/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Pulaski.
   - source-checked · Checked by codex on 2026-11-22.
 - [Follow a proposed ordinance in Pulaski](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/pulaski/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## City of Puryear (us/tn/puryear)
+
+Parent guide sections, nearest first: Henry County, Tennessee (us/tn/henry-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/puryear/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Puryear for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/puryear/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Puryear.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Puryear](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/puryear/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## Putnam County, Tennessee (us/tn/putnam-county)

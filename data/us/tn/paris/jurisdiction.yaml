@@ -1,0 +1,15 @@
+name: "City of Paris"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:paris
+parent: us/tn/henry-county
+aliases: ["Paris"]
+website: https://paristn.gov/
+general_contact:
+  name: "Paris municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/paris
+  phone: "(731) 641-1402"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/paris
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

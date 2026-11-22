@@ -1,0 +1,15 @@
+name: "City of Henry"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:henry
+parent: us/tn/henry-county
+aliases: ["Henry"]
+website: https://www.mtas.tennessee.edu/directories/cities/henry
+general_contact:
+  name: "Henry municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/henry
+  phone: "(731) 243-4091"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/henry
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex
