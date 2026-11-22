@@ -1,0 +1,15 @@
+name: "Town of Sharon"
+level: town
+ocd_id: ocd-division/country:us/state:tn/place:sharon
+parent: us/tn/weakley-county
+aliases: ["Sharon"]
+website: https://www.mtas.tennessee.edu/directories/cities/sharon
+general_contact:
+  name: "Sharon municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/sharon
+  phone: "(731) 456-2122"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/sharon
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex
