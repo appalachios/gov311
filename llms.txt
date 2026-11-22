@@ -202,6 +202,16 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 - [Get help with a home energy bill in Anderson County](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/anderson-county/help/get-help-with-an-energy-bill.md): Contact ETHRA for regular or crisis energy assistance and check which application window applies.
   - source-checked · Checked by codex on 2026-11-22.
 
+## Town of Auburntown (us/tn/auburntown)
+
+Parent guide sections, nearest first: Cannon County, Tennessee (us/tn/cannon-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/auburntown/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Auburntown for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/auburntown/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Auburntown.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Auburntown](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/auburntown/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
 ## Bedford County, Tennessee (us/tn/bedford-county)
 
 Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
@@ -340,7 +350,11 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
 
 - [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/cannon-county/jurisdiction.yaml): website, main contact, and parent government
+- [Find the right office in Cannon County](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/cannon-county/services/choose-a-county-office.md): Find county offices for deeds, vehicle records, elections and property questions, and check municipal boundaries for local services.
+  - source-checked · Checked by codex on 2026-11-22.
 - [Find the Cannon County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/cannon-county/services/find-a-property-map.md): Search Cannon County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a Cannon County governing body decision](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/cannon-county/services/follow-county-business.md): Find the regular meeting agenda, the source of the county’s authority and the record of what the governing body voted to adopt.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## Carroll County, Tennessee (us/tn/carroll-county)
@@ -1501,4 +1515,14 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 
 - [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/wilson-county/jurisdiction.yaml): website, main contact, and parent government
 - [Find the Wilson County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/wilson-county/services/find-a-property-map.md): Search Wilson County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## Town of Woodbury (us/tn/woodbury)
+
+Parent guide sections, nearest first: Cannon County, Tennessee (us/tn/cannon-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/woodbury/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Woodbury for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/woodbury/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Woodbury.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Woodbury](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/woodbury/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
