@@ -1339,6 +1339,16 @@ Parent guide sections, nearest first: DeKalb County, Tennessee (us/tn/dekalb-cou
 - [Follow a proposed ordinance in Dowelltown](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/dowelltown/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
+## Town of Doyle (us/tn/doyle)
+
+Parent guide sections, nearest first: White County, Tennessee (us/tn/white-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/doyle/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Doyle for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/doyle/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Doyle.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Doyle](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/doyle/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
 ## Town of Dresden (us/tn/dresden)
 
 Parent guide sections, nearest first: Weakley County, Tennessee (us/tn/weakley-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
@@ -4341,6 +4351,16 @@ Parent guide sections, nearest first: Marion County, Tennessee (us/tn/marion-cou
 - [Follow a proposed ordinance in South Pittsburg](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/south-pittsburg/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
+## City of Sparta (us/tn/sparta)
+
+Parent guide sections, nearest first: White County, Tennessee (us/tn/white-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/sparta/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Sparta for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/sparta/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Sparta.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Sparta](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/sparta/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
 ## City of Spencer (us/tn/spencer)
 
 Parent guide sections, nearest first: Van Buren County, Tennessee (us/tn/van-buren-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
@@ -4881,7 +4901,11 @@ Parent guide sections, nearest first: Dickson County, Tennessee (us/tn/dickson-c
 Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
 
 - [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/white-county/jurisdiction.yaml): website, main contact, and parent government
+- [Find the right office in White County](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/white-county/services/choose-a-county-office.md): Find county offices for deeds, vehicle records, elections and property questions, and check municipal boundaries for local services.
+  - source-checked · Checked by codex on 2026-11-22.
 - [Find the White County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/white-county/services/find-a-property-map.md): Search White County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a White County governing body decision](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/white-county/services/follow-county-business.md): Find the regular meeting agenda, the source of the county’s authority and the record of what the governing body voted to adopt.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## City of White House (us/tn/white-house)

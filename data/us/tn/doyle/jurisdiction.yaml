@@ -1,0 +1,15 @@
+name: "Town of Doyle"
+level: town
+ocd_id: ocd-division/country:us/state:tn/place:doyle
+parent: us/tn/white-county
+aliases: ["Doyle"]
+website: https://www.mtas.tennessee.edu/directories/cities/doyle
+general_contact:
+  name: "Doyle municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/doyle
+  phone: "(931) 657-2459"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/doyle
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex
