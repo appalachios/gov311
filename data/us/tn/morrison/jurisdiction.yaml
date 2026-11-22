@@ -1,0 +1,15 @@
+name: "Town of Morrison"
+level: town
+ocd_id: ocd-division/country:us/state:tn/place:morrison
+parent: us/tn/warren-county
+aliases: ["Morrison"]
+website: https://www.morrisoncity.org/
+general_contact:
+  name: "Morrison municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/morrison
+  phone: "(931) 635-2363"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/morrison
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex
