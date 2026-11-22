@@ -1,0 +1,15 @@
+name: "City of Charleston"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:charleston
+parent: us/tn/bradley-county
+aliases: ["Charleston"]
+website: https://www.mtas.tennessee.edu/directories/cities/charleston
+general_contact:
+  name: "Charleston municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/charleston
+  phone: "(423) 336-1483"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/charleston
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex
