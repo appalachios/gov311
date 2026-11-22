@@ -1,26 +1,22 @@
 ---
 title: "Follow a proposed ordinance in Dandridge"
-summary: "Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text."
+summary: "Dandridge requires two readings on different days. Find the current rule, proposal and vote."
 audiences: [everyone]
 keywords: ["ordinance", "charter", "code", "agenda", "pending law", "meeting", "amendment", "minutes"]
 sources:
+  - "https://www.mtas.tennessee.edu/city-code/dandridge/title1/chapter1/section1-108"
+  - "https://www.mtas.tennessee.edu/system/files/codes/dandridge-cao.pdf"
+  - "https://www.dandridgetn.gov/wp-content/uploads/2015/03/dandridge-code.pdf"
+  - "https://dandridgetn.gov/government/minutes/"
   - "https://www.mtas.tennessee.edu/sites/default/files/private/charters/dandridge_cht.pdf#page=4"
-  - "https://www.mtas.tennessee.edu/directories/cities/dandridge"
   - "https://www.mtas.tennessee.edu/city-code/dandridge"
-  - "https://www.mtas.tennessee.edu/charter/dandridge"
-  - "https://comptroller.tn.gov/office-functions/open-records-counsel/open-meetings/frequently-asked-questions/tennessee-open-meetings-act-faqs.html"
 last_verified: 2026-11-22
 verified_by: codex
-trust: draft
-human_review:
-  - reason: missing-evidence
-    description: "The cited records establish the procedure described here. They do not establish the general number of readings for a new ordinance in Dandridge. Ask the municipal recorder for the current charter section or adopted procedural rule before quoting a count."
+trust: source-checked
 ---
 
-To follow a proposal in Dandridge, get the dated meeting notice, agenda, proposed text and attachments. The municipality reports its regular meeting schedule as “2nd Tuesday at 6:00 PM at Dandridge Public Works Facility/Police Dept..” Confirm the date and location before attending. [Meeting schedule and municipal officials](https://www.mtas.tennessee.edu/directories/cities/dandridge)
+Dandridge Municipal Code § 1-108 requires two readings on different days. The town adopted the revised code on September 10, 2019, by Ordinance 19/20-04. An older copy on the town website still calls for three readings. Use the revised § 1-108 to follow a proposal. [Current ordinance procedure](https://www.mtas.tennessee.edu/city-code/dandridge/title1/chapter1/section1-108) · [Signed code adoption ordinance](https://www.mtas.tennessee.edu/system/files/codes/dandridge-cao.pdf) · [Earlier code on the town website](https://www.dandridgetn.gov/wp-content/uploads/2015/03/dandridge-code.pdf)
 
-Look up the charter for the governing body’s powers, readings and vote requirements. Compare a proposed ordinance with the current code section it would change. [Municipal Code](https://www.mtas.tennessee.edu/city-code/dandridge) · [Municipal Charter](https://www.mtas.tennessee.edu/charter/dandridge)
+Find the proposal on the board’s agenda and compare the text at each reading. If a committee returns an amendment or a substitute that addresses the same subject, the board may act on the new version the day it receives the report. The mayor signs the ordinances the board approves. Get the signed text and the minutes for the date it passed. [Board minutes and agendas](https://dandridgetn.gov/government/minutes/) · [Municipal code § 1-108](https://www.mtas.tennessee.edu/city-code/dandridge/title1/chapter1/section1-108) · [Dandridge charter](https://www.mtas.tennessee.edu/sites/default/files/private/charters/dandridge_cht.pdf#page=4)
 
-After the meeting, use the minutes to identify the motion that actually passed. Ask the recorder or clerk for the adopted ordinance, any amendments and the effective date. A proposal can change during consideration, and a recent ordinance may still be waiting to appear in the code. [Tennessee agenda and minutes requirements](https://comptroller.tn.gov/office-functions/open-records-counsel/open-meetings/frequently-asked-questions/tennessee-open-meetings-act-faqs.html)
-
-The mayor signs the ordinances and resolutions the board approves and signs the minutes of its proceedings. Ask for the signed ordinance and the minutes of the vote to see what took effect. [Charter classification](https://www.mtas.tennessee.edu/charter/dandridge) · [Governing text](https://www.mtas.tennessee.edu/sites/default/files/private/charters/dandridge_cht.pdf#page=4)
+For a change to an existing ordinance, compare the proposed text with the current code section. Ask the recorder for any amendments passed since that edition. [Municipal code](https://www.mtas.tennessee.edu/city-code/dandridge)
