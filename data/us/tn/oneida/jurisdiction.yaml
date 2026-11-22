@@ -1,0 +1,15 @@
+name: "Town of Oneida"
+level: town
+ocd_id: ocd-division/country:us/state:tn/place:oneida
+parent: us/tn/scott-county
+aliases: ["Oneida"]
+website: https://www.townofoneida.com/
+general_contact:
+  name: "Oneida municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/oneida
+  phone: "(423) 569-4295"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/oneida
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

@@ -1,0 +1,15 @@
+name: "Town of Huntsville"
+level: town
+ocd_id: ocd-division/country:us/state:tn/place:huntsville
+parent: us/tn/scott-county
+aliases: ["Huntsville"]
+website: https://www.mtas.tennessee.edu/directories/cities/huntsville
+general_contact:
+  name: "Huntsville municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/huntsville
+  phone: "(423) 663-3471"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/huntsville
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex
