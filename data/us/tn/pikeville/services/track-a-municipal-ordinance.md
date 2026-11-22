@@ -1,27 +1,25 @@
 ---
 title: "Follow a proposed ordinance in Pikeville"
-summary: "Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text."
+summary: "Check Pikeville’s posted readings and board journal. The charter sets the required votes, and budget proposals can have several readings."
 audiences: [everyone]
 keywords: ["ordinance", "charter", "code", "agenda", "pending law", "meeting", "amendment", "minutes"]
 sources:
   - "https://www.mtas.tennessee.edu/sites/default/files/private/charters/pikevill_cht.pdf#page=7"
-  - "https://www.mtas.tennessee.edu/directories/cities/pikeville"
-  - "https://www.mtas.tennessee.edu/code/municipal-code-pikeville"
-  - "https://www.mtas.tennessee.edu/charter/pikeville"
+  - "https://www.mtas.tennessee.edu/system/files/codes/Pikevill_frt.pdf"
+  - "https://www.mtas.tennessee.edu/system/files/codes/pikevill_t-1.pdf"
+  - "https://www.mtas.tennessee.edu/reference/procedures-adopting-ordinances"
   - "https://pikevilletn.com/agendas-minutes/"
-  - "https://comptroller.tn.gov/office-functions/open-records-counsel/open-meetings/frequently-asked-questions/tennessee-open-meetings-act-faqs.html"
+  - "https://www.mtas.tennessee.edu/code/municipal-code-pikeville"
 last_verified: 2026-11-22
 verified_by: codex
 trust: draft
 human_review:
   - reason: missing-evidence
-    description: "The cited records establish the procedure described here. They do not establish the general number of readings for a new ordinance in Pikeville. Ask the municipal recorder for the current charter section or adopted procedural rule before quoting a count."
+    description: "The charter and published code do not state a general reading count. The city’s 2026 agendas identify three readings for a budget amendment. A standing rule governing other ordinances was not located."
 ---
 
-To follow a proposal in Pikeville, get the dated meeting notice, agenda, proposed text and attachments. The municipality reports its regular meeting schedule as “2nd Monday at 6:30 PM at City Hall.” Confirm the date and location before attending. [Meeting schedule and municipal officials](https://www.mtas.tennessee.edu/directories/cities/pikeville) · [Municipal meeting agendas](https://pikevilletn.com/agendas-minutes/)
+Pikeville’s charter sets the vote an ordinance needs. At least three board members must vote yes, and the recorder must enter each vote in the board journal. The mayor has one vote. The charter sets no general number of readings, and Municipal Code § 1-103 adopts Robert’s Rules where the charter and code leave a procedural question open. Tennessee’s general rule allows one reading if no applicable law or local rule calls for more. [Pikeville charter § 6](https://www.mtas.tennessee.edu/sites/default/files/private/charters/pikevill_cht.pdf#page=7) · [Code’s charter note](https://www.mtas.tennessee.edu/system/files/codes/Pikevill_frt.pdf) · [Municipal code, title 1](https://www.mtas.tennessee.edu/system/files/codes/pikevill_t-1.pdf) · [Tennessee ordinance procedure](https://www.mtas.tennessee.edu/reference/procedures-adopting-ordinances)
 
-Look up the charter for the governing body’s powers, readings and vote requirements. Compare a proposed ordinance with the current code section it would change. [Municipal Code](https://www.mtas.tennessee.edu/code/municipal-code-pikeville) · [Municipal Charter](https://www.mtas.tennessee.edu/charter/pikeville)
+Pikeville’s posted agendas list budget amendment 12-8-O25 for a second reading on January 12, 2026, and a third on February 9. For a measure you are following, ask the recorder which rule governs its readings and get the journal entries and signed text. The city lists the recorder’s office at (423) 447-2919, extension 104. [Board agendas and minutes](https://pikevilletn.com/agendas-minutes/)
 
-After the meeting, use the minutes to identify the motion that actually passed. Ask the recorder or clerk for the adopted ordinance, any amendments and the effective date. A proposal can change during consideration, and a recent ordinance may still be waiting to appear in the code. [Tennessee agenda and minutes requirements](https://comptroller.tn.gov/office-functions/open-records-counsel/open-meetings/frequently-asked-questions/tennessee-open-meetings-act-faqs.html)
-
-Under charter § 6, the recorder enters the votes in the board journal. Except for adjournment, board action requires at least three yes votes, and the mayor can vote once on each question. Ask for the entries for each reading and the signed ordinance. [Charter classification](https://www.mtas.tennessee.edu/charter/pikeville) · [Governing text](https://www.mtas.tennessee.edu/sites/default/files/private/charters/pikevill_cht.pdf#page=7)
+For a change to an existing ordinance, compare the proposed text with the current code section. Ask the recorder for any amendments passed since that edition. [Municipal code](https://www.mtas.tennessee.edu/code/municipal-code-pikeville)
