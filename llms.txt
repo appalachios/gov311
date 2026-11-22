@@ -1883,7 +1883,11 @@ Parent guide sections, nearest first: Campbell County, Tennessee (us/tn/campbell
 Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
 
 - [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/lake-county/jurisdiction.yaml): website, main contact, and parent government
+- [Find the right office in Lake County](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/lake-county/services/choose-a-county-office.md): Find county offices for deeds, vehicle records, elections and property questions, and check municipal boundaries for local services.
+  - source-checked · Checked by codex on 2026-11-22.
 - [Find the Lake County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/lake-county/services/find-a-property-map.md): Search Lake County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a Lake County governing body decision](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/lake-county/services/follow-county-business.md): Find the regular meeting agenda, the source of the county’s authority and the record of what the governing body voted to adopt.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## City of Lakesite (us/tn/lakesite)
@@ -2640,6 +2644,16 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 - [Find the Rhea County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/rhea-county/services/find-a-property-map.md): Search Rhea County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
   - source-checked · Checked by codex on 2026-11-22.
 
+## Town of Ridgely (us/tn/ridgely)
+
+Parent guide sections, nearest first: Lake County, Tennessee (us/tn/lake-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/ridgely/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Ridgely for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/ridgely/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Ridgely.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Ridgely](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/ridgely/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
 ## City of Ridgeside (us/tn/ridgeside)
 
 Parent guide sections, nearest first: Hamilton County, Tennessee (us/tn/hamilton-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
@@ -3002,6 +3016,16 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 
 - [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/tipton-county/jurisdiction.yaml): website, main contact, and parent government
 - [Find the Tipton County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/tipton-county/services/find-a-property-map.md): Search Tipton County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## Town of Tiptonville (us/tn/tiptonville)
+
+Parent guide sections, nearest first: Lake County, Tennessee (us/tn/lake-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/tiptonville/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Tiptonville for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/tiptonville/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Tiptonville.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Tiptonville](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/tiptonville/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## Town of Toone (us/tn/toone)
