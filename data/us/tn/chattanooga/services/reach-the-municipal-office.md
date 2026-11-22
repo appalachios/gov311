@@ -4,6 +4,8 @@ summary: "Find the municipal office, check who serves a street address and get t
 audiences: [everyone]
 keywords: ["city hall", "town hall", "municipal services", "utility service", "address", "permits"]
 sources:
+  - https://comptroller.tn.gov/content/dam/cot/pa/documents/tax-aggregate-reports/2025TaxAggregateReport.pdf
+  - https://comptroller.tn.gov/office-functions/pa/gisredistricting/municipal-boundaries.html
   - "https://chattanooga.gov/pay-and-apply/sewer-fees"
   - "https://chattanooga.gov/pay-and-apply/property-tax"
   - "https://chattanooga.gov/pay-and-apply"
@@ -22,7 +24,7 @@ verified_by: codex
 trust: draft
 human_review:
   - reason: conflicting-evidence
-    description: "Hamilton County is confirmed. UT\u2019s municipal directory lists Hamilton and Marion. The Comptroller\u2019s city-limit outline overlaps its Marion County outline along the county line, but the 2026 Census place and county polygons show Chattanooga only in Hamilton, as does the 2020 Census relationship file. The Comptroller\u2019s recorded city changes for Chattanooga identify Hamilton. No controlling description establishing Marion jurisdiction for a specific parcel was located. For land on the Marion line, confirm the parcel and applicable annexation record with the assessor and city recorder before selecting a county office."
+    description: "Hamilton County is confirmed. UT lists Marion as well, and the state and federal boundary maps disagree. The Elder Mountain referendum left the affected city territory in place. Voters could qualify through part of a split lot. The legal descriptions and survey establishing which portions on the Marion side are inside the city remain unverified."
 ---
 
 The municipal directory lists **City Hall, 101 East 11th Street, Chattanooga, TN 37402** as the contact address for Chattanooga. Call **(423) 643-7800** to confirm where to file or visit. [Municipal office and officials](https://www.mtas.tennessee.edu/directories/cities/chattanooga) · [Municipal website](https://chattanooga.gov/)
@@ -31,11 +33,11 @@ The municipality reports these services in its utility listing: **Electric, Garb
 
 For construction at this address, check the municipal permit office’s project instructions. [Municipal building permits](https://chattanooga.gov/stay-informed/building-codes)
 
-For a county assessment or recorded deed, use the county where the land sits. [Hamilton County records](../../hamilton-county/services/find-a-property-map.md)
+For a county assessment or recorded deed, use the county where the land sits. On Elder Mountain a single lot can straddle the county line. Look up both portions before choosing an office. [Hamilton County property records](../../hamilton-county/services/find-a-property-map.md) · [Marion County property records](../../marion-county/services/find-a-property-map.md)
 
-Hamilton County is confirmed. UT’s municipal directory lists Hamilton and Marion. The Comptroller’s city-limit outline overlaps its Marion County outline along the county line, but the 2026 Census place and county polygons show Chattanooga only in Hamilton, as does the 2020 Census relationship file. The Comptroller’s recorded city changes for Chattanooga identify Hamilton. No controlling description establishing Marion jurisdiction for a specific parcel was located. For land on the Marion line, confirm the parcel and applicable annexation record with the assessor and city recorder before selecting a county office. [Boundary source](https://tn-cot.maps.arcgis.com/apps/dashboards/cc2701dd6ef2463ab7944e62120d9b9e)
+**Does Chattanooga extend into Marion County?** UT lists both counties. The Comptroller’s map shows overlap along the county line, while the 2026 Census boundary files place the city in Hamilton alone. The 2025 state tax report also lists Chattanooga’s assessments under Hamilton. The Comptroller cautions that its dashboard does not establish legal boundaries. [UT municipal directory](https://www.mtas.tennessee.edu/directories/cities/chattanooga) · [Comptroller boundary records](https://comptroller.tn.gov/office-functions/pa/gisredistricting/municipal-boundaries.html) · [Census city boundaries](https://www2.census.gov/geo/tiger/TIGER2026/PLACE/tl_2026_47_place.zip) · [State tax report](https://comptroller.tn.gov/content/dam/cot/pa/documents/tax-aggregate-reports/2025TaxAggregateReport.pdf)
 
-For a parcel near Tiftonia, ask the Clerk to Council for the signed 1972 Area 4 annexation ordinance and map, Ordinance 6393 and its map for adjoining Area 12, and subsequent boundary changes for that parcel. Compare the adopted boundary exhibit with the county line survey. [City Clerk’s custody of council records](https://chattanooga.gov/sites/default/files/resources/AuditReport1908ClerktoCouncil.pdf)
+Voters kept the affected Elder Mountain land in Chattanooga in 2013. The court allowed residents of partly affected lots to vote even if their homes were outside the proposed change. To establish which side of a particular lot the city serves, compare the adopted annexation exhibit with the recorded deed and the county line. [Annexation maps, election results and parcel records](find-the-annexation-record.md)
 
 ## More municipal services
 
