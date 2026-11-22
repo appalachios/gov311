@@ -3093,6 +3093,8 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 - [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/polk-county/jurisdiction.yaml): website, main contact, and parent government
 - [Get a building permit outside Polk County’s city limits](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/polk-county/services/build-in-unincorporated-polk.md): Apply in person at the county assessor’s office. Check the parcel first and arrange any separate septic, address and electrical approvals.
   - source-checked · Checked by codex on 2026-11-21.
+- [Find the right office in Polk County](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/polk-county/services/choose-a-county-office.md): Find county offices for deeds, vehicle records, elections and property questions, and check municipal boundaries for local services.
+  - source-checked · Checked by codex on 2026-11-22.
 - [Get a recorded deed or plat in Polk County](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/polk-county/services/find-a-deed.md): The Register of Deeds in Benton keeps the recorded documents for land throughout the county, including its cities.
   - source-checked · Checked by codex on 2026-11-21.
 - [Find the Polk County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/polk-county/services/find-a-property-map.md): Search Polk County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
@@ -3101,6 +3103,8 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
   - source-checked · Checked by codex on 2026-11-21.
 - [Find a proposed or adopted Polk County school board policy](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/polk-county/services/follow-a-school-board-policy.md): Use the district’s meeting packets for a proposed change and the board’s policy manual for the numbered policy it adopted.
   - source-checked · Checked by codex on 2026-11-21.
+- [Follow a Polk County governing body decision](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/polk-county/services/follow-county-business.md): Find the regular meeting agenda, the source of the county’s authority and the record of what the governing body voted to adopt.
+  - source-checked · Checked by codex on 2026-11-22.
 - [Get the local business license for a Polk County location](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/polk-county/services/get-a-business-license.md): Start with the county clerk and check whether the city also issues a license. Tennessee Revenue explains which license applies to each business location.
   - source-checked · Checked by codex on 2026-11-21.
 - [Apply for a marriage license in Polk County](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/polk-county/services/get-a-marriage-license.md): Choose the Benton or Copper Basin clerk’s office and check what to bring. Tennessee law sets a specific rule for an applicant who is 17.
