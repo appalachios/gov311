@@ -1,0 +1,15 @@
+name: "Town of Stanton"
+level: town
+ocd_id: ocd-division/country:us/state:tn/place:stanton
+parent: us/tn/haywood-county
+aliases: ["Stanton"]
+website: https://stantontn.gov/
+general_contact:
+  name: "Stanton municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/stanton
+  phone: "(731) 548-2565"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/stanton
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex
