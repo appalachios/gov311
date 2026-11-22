@@ -4,6 +4,7 @@ summary: "Find the municipal office, check who serves a street address and get t
 audiences: [everyone]
 keywords: ["city hall", "town hall", "municipal services", "utility service", "address", "permits"]
 sources:
+  - "https://tazewelltn.net/departments/"
   - "https://www.mtas.tennessee.edu/directories/cities/tazewell"
   - "https://tnecd.com/?force_download=129209"
 last_verified: 2026-11-22
@@ -16,3 +17,7 @@ The municipal directory lists **1754 N Broad St, Tazewell, TN 37879** as the con
 The municipality reports these services in its utility listing: **Garbage**. Give the service address and ask whether the municipal system serves that location, how to start service and where to report a problem. [Municipal utilities listing](https://www.mtas.tennessee.edu/directories/cities/tazewell)
 
 For a county assessment or recorded deed, use the county where the land sits. [Claiborne County records](../../claiborne-county/services/find-a-property-map.md)
+
+## More municipal services
+
+- **Departments**. Find the municipal building inspector for a building permit or inspection. [Departments](https://tazewelltn.net/departments/)
