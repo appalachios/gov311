@@ -1,0 +1,16 @@
+name: "Town of Enville"
+level: town
+ocd_id: ocd-division/country:us/state:tn/place:enville
+parent: us/tn/_state
+county_options: ["us/tn/chester-county", "us/tn/mcnairy-county"]
+aliases: ["Enville"]
+website: https://www.mtas.tennessee.edu/directories/cities/enville
+general_contact:
+  name: "Enville municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/enville
+  phone: "(731) 688-5511"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/enville
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

@@ -1,0 +1,15 @@
+name: "City of Henderson"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:henderson
+parent: us/tn/chester-county
+aliases: ["Henderson"]
+website: https://www.mtas.tennessee.edu/directories/cities/henderson
+general_contact:
+  name: "Henderson municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/henderson
+  phone: "(731) 983-5000"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/henderson
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex
