@@ -1,0 +1,15 @@
+name: Town of Big Sandy
+level: town
+ocd_id: ocd-division/country:us/state:tn/place:big_sandy
+parent: us/tn/benton-county
+aliases: [Big Sandy]
+website: https://bigsandytn.com/benton-county/
+general_contact:
+  name: Big Sandy Town Hall
+  phone: 731-593-3213
+  url: https://www.mtas.tennessee.edu/directories/cities/big-sandy
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/big-sandy
+  - https://www.ctas.tennessee.edu/county/benton
+last_verified: 2026-11-22
+verified_by: codex

@@ -210,7 +210,27 @@ Parent guide sections, nearest first: Polk County, Tennessee (us/tn/polk-county)
 Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
 
 - [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/benton-county/jurisdiction.yaml): website, main contact, and parent government
+- [Choose a Benton County or municipal office](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/benton-county/services/find-a-county-or-city-office.md): Route an address in Camden, Big Sandy, Eva or Holladay to the office responsible for the service.
+  - source-checked · Checked by codex on 2026-11-22.
 - [Find the Benton County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/benton-county/services/find-a-property-map.md): Search Benton County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a Benton County Commission resolution](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/benton-county/services/follow-a-county-vote.md): Read the proposed resolution, speak at the Citizens Forum and check the vote with the county clerk.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Get a deed or plat in Benton County](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/benton-county/services/request-a-recorded-deed.md): Use the parcel record to identify the land and ask the register for the recorded document.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Get vehicle tags, a marriage license or county commission records](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/benton-county/services/use-the-county-clerk.md): Start with the Benton County Clerk for a title, registration, license or the official county legislative record.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## Town of Big Sandy (us/tn/big-sandy)
+
+Parent guide sections, nearest first: Benton County, Tennessee (us/tn/benton-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/big-sandy/jurisdiction.yaml): website, main contact, and parent government
+- [Check a Big Sandy town tax bill](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/big-sandy/services/find-town-and-county-tax-records.md): Use the town and county collectors for their respective bills and the register for a deed.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Pay a Big Sandy water bill or restore service](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/big-sandy/services/pay-a-town-water-bill.md): Find the town water payment link and check the cutoff for same-day restoration.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Find a Big Sandy town proposal and its recorded vote](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/big-sandy/codes/follow-a-town-ordinance.md): Open the town meeting agenda and request the recorder’s minutes and adopted ordinance.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## Bledsoe County, Tennessee (us/tn/bledsoe-county)
@@ -235,6 +255,20 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 
 - [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/bradley-county/jurisdiction.yaml): website, main contact, and parent government
 - [Find the Bradley County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/bradley-county/services/find-a-property-map.md): Search Bradley County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## City of Camden (us/tn/camden)
+
+Parent guide sections, nearest first: Benton County, Tennessee (us/tn/benton-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/camden/jurisdiction.yaml): website, main contact, and parent government
+- [Check a building permit or zoning question in Camden](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/camden/services/check-a-building-project.md): Find the city zoning ordinance, building permit fees and the office that reviews a proposed project.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Contact the Camden City Court clerk](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/camden/services/find-city-court.md): Use the court named on the ticket to find the clerk handling the hearing.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Pay a Camden water bill or city property tax](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/camden/services/pay-a-water-or-tax-bill.md): Choose the city payment link that matches the bill and check the issuing government.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a Camden ordinance from agenda to adoption](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/camden/codes/follow-a-city-ordinance.md): Read the Board of Mayor and Aldermen packet, check the vote and follow any mayoral veto.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## Campbell County, Tennessee (us/tn/campbell-county)
