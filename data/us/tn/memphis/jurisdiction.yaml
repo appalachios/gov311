@@ -1,0 +1,15 @@
+name: "City of Memphis"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:memphis
+parent: us/tn/shelby-county
+aliases: ["Memphis"]
+website: https://memphistn.gov/
+general_contact:
+  name: "Memphis municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/memphis
+  phone: "(901) 576-6500"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/memphis
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

@@ -1,0 +1,15 @@
+name: "City of Lakeland"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:lakeland
+parent: us/tn/shelby-county
+aliases: ["Lakeland"]
+website: https://www.lakelandtn.gov/
+general_contact:
+  name: "Lakeland municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/lakeland
+  phone: "(901) 867-2717"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/lakeland
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

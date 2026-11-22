@@ -1,0 +1,15 @@
+name: "City of Germantown"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:germantown
+parent: us/tn/shelby-county
+aliases: ["Germantown"]
+website: https://www.mtas.tennessee.edu/directories/cities/germantown
+general_contact:
+  name: "Germantown municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/germantown
+  phone: "(901) 757-7200"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/germantown
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

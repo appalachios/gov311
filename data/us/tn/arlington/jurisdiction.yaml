@@ -1,0 +1,15 @@
+name: "Town of Arlington"
+level: town
+ocd_id: ocd-division/country:us/state:tn/place:arlington
+parent: us/tn/shelby-county
+aliases: ["Arlington"]
+website: https://www.mtas.tennessee.edu/directories/cities/arlington
+general_contact:
+  name: "Arlington municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/arlington
+  phone: "(901) 867-2620"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/arlington
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

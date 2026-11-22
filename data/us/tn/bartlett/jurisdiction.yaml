@@ -1,0 +1,15 @@
+name: "City of Bartlett"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:bartlett
+parent: us/tn/shelby-county
+aliases: ["Bartlett"]
+website: https://www.cityofbartlett.org/
+general_contact:
+  name: "Bartlett municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/bartlett
+  phone: "(901) 385-6400"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/bartlett
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex
