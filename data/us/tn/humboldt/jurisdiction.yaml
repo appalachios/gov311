@@ -1,0 +1,15 @@
+name: "City of Humboldt"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:humboldt
+parent: us/tn/gibson-county
+aliases: ["Humboldt"]
+website: https://www.mtas.tennessee.edu/directories/cities/humboldt
+general_contact:
+  name: "Humboldt municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/humboldt
+  phone: "(731) 784-2511"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/humboldt
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

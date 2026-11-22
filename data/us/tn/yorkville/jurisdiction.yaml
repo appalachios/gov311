@@ -1,0 +1,15 @@
+name: "City of Yorkville"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:yorkville
+parent: us/tn/gibson-county
+aliases: ["Yorkville"]
+website: https://www.mtas.tennessee.edu/directories/cities/yorkville
+general_contact:
+  name: "Yorkville municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/yorkville
+  phone: "(731) 643-6110"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/yorkville
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

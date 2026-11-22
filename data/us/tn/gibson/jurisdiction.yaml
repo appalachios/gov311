@@ -1,0 +1,15 @@
+name: "Town of Gibson"
+level: town
+ocd_id: ocd-division/country:us/state:tn/place:gibson
+parent: us/tn/gibson-county
+aliases: ["Gibson"]
+website: https://www.mtas.tennessee.edu/directories/cities/gibson
+general_contact:
+  name: "Gibson municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/gibson
+  phone: "(731) 787-6501"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/gibson
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex
