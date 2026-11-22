@@ -1,0 +1,15 @@
+name: "City of Lawrenceburg"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:lawrenceburg
+parent: us/tn/lawrence-county
+aliases: ["Lawrenceburg"]
+website: https://www.lawrenceburgtn.gov/
+general_contact:
+  name: "Lawrenceburg municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/lawrenceburg
+  phone: "(931) 762-4459"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/lawrenceburg
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex
