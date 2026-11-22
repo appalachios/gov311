@@ -1,0 +1,15 @@
+name: "Town of Decatur"
+level: town
+ocd_id: ocd-division/country:us/state:tn/place:decatur
+parent: us/tn/meigs-county
+aliases: ["Decatur"]
+website: https://www.decaturtn.net/
+general_contact:
+  name: "Decatur municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/decatur
+  phone: "(423) 334-5716"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/decatur
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex
