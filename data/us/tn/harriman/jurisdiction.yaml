@@ -1,0 +1,17 @@
+name: "City of Harriman"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:harriman
+parent: us/tn/_state
+county_options: ["us/tn/roane-county", "us/tn/morgan-county"]
+aliases: ["Harriman"]
+website: https://www.mtas.tennessee.edu/directories/cities/harriman
+general_contact:
+  name: "Harriman municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/harriman
+  phone: "(865) 882-9414"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/harriman
+  - https://tnecd.com/?force_download=129209
+  - https://www2.census.gov/geo/docs/reference/codes2020/national_place_by_county2020.txt
+last_verified: 2026-11-22
+verified_by: codex
