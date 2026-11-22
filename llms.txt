@@ -1442,9 +1442,9 @@ Parent guide sections, nearest first: Dyer County, Tennessee (us/tn/dyer-county)
 - [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/dyersburg/jurisdiction.yaml): website, main contact, and parent government
 - [Contact Dyersburg for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/dyersburg/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Dyersburg.
   - source-checked · Checked by codex on 2026-11-22.
-- [Follow a proposed ordinance in Dyersburg](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/dyersburg/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+- [Follow a proposed ordinance in Dyersburg](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/dyersburg/services/track-a-municipal-ordinance.md): A majority of the full Dyersburg board must vote for an ordinance. Check the city’s meeting record for the readings and vote on a particular proposal.
   - draft · Research by codex on 2026-11-22.
-  - Human review (missing evidence). The cited records establish the procedure described here. They do not establish the general number of readings for a new ordinance in Dyersburg. Ask the municipal recorder for the current charter section or adopted procedural rule before quoting a count.
+  - Human review (missing evidence). Charter § 7 and Municipal Code § 1-103 establish the voting rule and parliamentary procedure. Neither prescribes a general reading count. A separate board rule requiring multiple readings for ordinary ordinances has not been verified. Ask the recorder for the current rules adopted under § 7.
 
 ## City of Eagleville (us/tn/eagleville)
 
