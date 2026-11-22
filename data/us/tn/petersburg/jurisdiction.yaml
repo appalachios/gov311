@@ -1,0 +1,16 @@
+name: "Town of Petersburg"
+level: town
+ocd_id: ocd-division/country:us/state:tn/place:petersburg
+parent: us/tn/_state
+county_options: ["us/tn/lincoln-county", "us/tn/marshall-county"]
+aliases: ["Petersburg"]
+website: https://www.petersburgtn.gov/
+general_contact:
+  name: "Petersburg municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/petersburg
+  phone: "(931) 659-9826"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/petersburg
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

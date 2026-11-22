@@ -1,0 +1,15 @@
+name: "City of Fayetteville"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:fayetteville
+parent: us/tn/lincoln-county
+aliases: ["Fayetteville"]
+website: https://www.fayettevilletn.com/index.php
+general_contact:
+  name: "Fayetteville municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/fayetteville
+  phone: "(931) 433-6154"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/fayetteville
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex
