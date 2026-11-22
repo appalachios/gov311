@@ -1459,6 +1459,16 @@ Parent guide sections, nearest first: Houston County, Tennessee (us/tn/houston-c
 - [Follow a proposed ordinance in Erin](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/erin/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
+## Town of Erwin (us/tn/erwin)
+
+Parent guide sections, nearest first: Unicoi County, Tennessee (us/tn/unicoi-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/erwin/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Erwin for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/erwin/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Erwin.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Erwin](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/erwin/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
 ## Town of Estill Springs (us/tn/estill-springs)
 
 Parent guide sections, nearest first: Franklin County, Tennessee (us/tn/franklin-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
@@ -4495,12 +4505,26 @@ Parent guide sections, nearest first: Greene County, Tennessee (us/tn/greene-cou
 - [Follow a proposed ordinance in Tusculum](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/tusculum/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
+## Town of Unicoi (us/tn/unicoi)
+
+Parent guide sections, nearest first: Unicoi County, Tennessee (us/tn/unicoi-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/unicoi/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Unicoi for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/unicoi/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Unicoi.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Unicoi](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/unicoi/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
 ## Unicoi County, Tennessee (us/tn/unicoi-county)
 
 Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
 
 - [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/unicoi-county/jurisdiction.yaml): website, main contact, and parent government
+- [Find the right office in Unicoi County](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/unicoi-county/services/choose-a-county-office.md): Find county offices for deeds, vehicle records, elections and property questions, and check municipal boundaries for local services.
+  - source-checked · Checked by codex on 2026-11-22.
 - [Find the Unicoi County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/unicoi-county/services/find-a-property-map.md): Search Unicoi County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a Unicoi County governing body decision](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/unicoi-county/services/follow-county-business.md): Find the regular meeting agenda, the source of the county’s authority and the record of what the governing body voted to adopt.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## City of Union City (us/tn/union-city)
