@@ -1,0 +1,15 @@
+name: "Town of Gadsden"
+level: town
+ocd_id: ocd-division/country:us/state:tn/place:gadsden
+parent: us/tn/crockett-county
+aliases: ["Gadsden"]
+website: https://www.mtas.tennessee.edu/directories/cities/gadsden
+general_contact:
+  name: "Gadsden municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/gadsden
+  phone: "(731) 784-2235"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/gadsden
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

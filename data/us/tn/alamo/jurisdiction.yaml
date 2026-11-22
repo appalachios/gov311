@@ -1,0 +1,15 @@
+name: "Town of Alamo"
+level: town
+ocd_id: ocd-division/country:us/state:tn/place:alamo
+parent: us/tn/crockett-county
+aliases: ["Alamo"]
+website: https://www.townofalamo.net/
+general_contact:
+  name: "Alamo municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/alamo
+  phone: "(731) 696-4515"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/alamo
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex
