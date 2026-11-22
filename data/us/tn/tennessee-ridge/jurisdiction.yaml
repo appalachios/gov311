@@ -1,0 +1,16 @@
+name: "Town of Tennessee Ridge"
+level: town
+ocd_id: ocd-division/country:us/state:tn/place:tennessee_ridge
+parent: us/tn/_state
+county_options: ["us/tn/houston-county", "us/tn/stewart-county"]
+aliases: ["Tennessee Ridge"]
+website: https://www.mtas.tennessee.edu/directories/cities/tennessee-ridge
+general_contact:
+  name: "Tennessee Ridge municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/tennessee-ridge
+  phone: "(931) 721-3385"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/tennessee-ridge
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex
