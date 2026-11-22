@@ -1,0 +1,15 @@
+name: "Town of Troy"
+level: town
+ocd_id: ocd-division/country:us/state:tn/place:troy
+parent: us/tn/obion-county
+aliases: ["Troy"]
+website: https://www.troytn.gov/
+general_contact:
+  name: "Troy municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/troy
+  phone: "(731) 536-4745"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/troy
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

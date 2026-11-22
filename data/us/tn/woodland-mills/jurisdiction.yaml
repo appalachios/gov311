@@ -1,0 +1,15 @@
+name: "City of Woodland Mills"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:woodland_mills
+parent: us/tn/obion-county
+aliases: ["Woodland Mills"]
+website: https://www.woodlandmillstn.net/
+general_contact:
+  name: "Woodland Mills municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/woodland-mills
+  phone: "(731) 885-8754"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/woodland-mills
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

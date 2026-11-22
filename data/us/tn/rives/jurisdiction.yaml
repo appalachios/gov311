@@ -1,0 +1,15 @@
+name: "City of Rives"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:rives
+parent: us/tn/obion-county
+aliases: ["Rives"]
+website: https://www.mtas.tennessee.edu/directories/cities/rives
+general_contact:
+  name: "Rives municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/rives
+  phone: "(731) 536-5689"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/rives
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

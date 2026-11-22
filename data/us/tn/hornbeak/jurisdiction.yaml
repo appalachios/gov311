@@ -1,0 +1,15 @@
+name: "Town of Hornbeak"
+level: town
+ocd_id: ocd-division/country:us/state:tn/place:hornbeak
+parent: us/tn/obion-county
+aliases: ["Hornbeak"]
+website: https://www.mtas.tennessee.edu/directories/cities/hornbeak
+general_contact:
+  name: "Hornbeak municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/hornbeak
+  phone: "(731) 538-9626"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/hornbeak
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

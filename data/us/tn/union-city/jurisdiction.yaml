@@ -1,0 +1,15 @@
+name: "City of Union City"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:union_city
+parent: us/tn/obion-county
+aliases: ["Union City"]
+website: https://www.unioncitytn.gov/
+general_contact:
+  name: "Union City municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/union-city
+  phone: "(731) 885-1341"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/union-city
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex
