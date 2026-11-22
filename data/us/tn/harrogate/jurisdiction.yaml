@@ -1,0 +1,15 @@
+name: "City of Harrogate"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:harrogate
+parent: us/tn/claiborne-county
+aliases: ["Harrogate"]
+website: https://www.mtas.tennessee.edu/directories/cities/harrogate
+general_contact:
+  name: "Harrogate municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/harrogate
+  phone: "(423) 869-0211"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/harrogate
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

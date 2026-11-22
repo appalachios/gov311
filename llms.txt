@@ -460,7 +460,11 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
 
 - [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/claiborne-county/jurisdiction.yaml): website, main contact, and parent government
+- [Find the right office in Claiborne County](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/claiborne-county/services/choose-a-county-office.md): Find county offices for deeds, vehicle records, elections and property questions, and check municipal boundaries for local services.
+  - source-checked · Checked by codex on 2026-11-22.
 - [Find the Claiborne County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/claiborne-county/services/find-a-property-map.md): Search Claiborne County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a Claiborne County governing body decision](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/claiborne-county/services/follow-county-business.md): Find the regular meeting agenda, the source of the county’s authority and the record of what the governing body voted to adopt.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## City of Clarksburg (us/tn/clarksburg)
@@ -551,6 +555,16 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 
 - [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/cumberland-county/jurisdiction.yaml): website, main contact, and parent government
 - [Find the Cumberland County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/cumberland-county/services/find-a-property-map.md): Search Cumberland County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## Town of Cumberland Gap (us/tn/cumberland-gap)
+
+Parent guide sections, nearest first: Claiborne County, Tennessee (us/tn/claiborne-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/cumberland-gap/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Cumberland Gap for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/cumberland-gap/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Cumberland Gap.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Cumberland Gap](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/cumberland-gap/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## Decatur County, Tennessee (us/tn/decatur-county)
@@ -777,6 +791,16 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 
 - [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/hardin-county/jurisdiction.yaml): website, main contact, and parent government
 - [Find the Hardin County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/hardin-county/services/find-a-property-map.md): Search Hardin County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## City of Harrogate (us/tn/harrogate)
+
+Parent guide sections, nearest first: Claiborne County, Tennessee (us/tn/claiborne-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/harrogate/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Harrogate for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/harrogate/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Harrogate.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Harrogate](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/harrogate/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## Hawkins County, Tennessee (us/tn/hawkins-county)
@@ -1285,6 +1309,16 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 - [Free legal help with an eviction in Nashville](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/nashville/help/eviction-legal-help.md): The Legal Aid Society offers free legal help to Davidson County renters who qualify, including a phone line for people facing eviction. Court deadlines are short, so call as soon as you receive a notice or court papers.
   - source-checked · Checked by codex on 2026-11-21.
 
+## Town of New Tazewell (us/tn/new-tazewell)
+
+Parent guide sections, nearest first: Claiborne County, Tennessee (us/tn/claiborne-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/new-tazewell/jurisdiction.yaml): website, main contact, and parent government
+- [Contact New Tazewell for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/new-tazewell/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in New Tazewell.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in New Tazewell](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/new-tazewell/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
 ## Town of Normandy (us/tn/normandy)
 
 Parent guide sections, nearest first: Bedford County, Tennessee (us/tn/bedford-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
@@ -1593,6 +1627,16 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 
 - [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/sumner-county/jurisdiction.yaml): website, main contact, and parent government
 - [Find the Sumner County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/sumner-county/services/find-a-property-map.md): Search Sumner County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## Town of Tazewell (us/tn/tazewell)
+
+Parent guide sections, nearest first: Claiborne County, Tennessee (us/tn/claiborne-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/tazewell/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Tazewell for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/tazewell/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Tazewell.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Tazewell](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/tazewell/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## Tipton County, Tennessee (us/tn/tipton-county)
