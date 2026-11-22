@@ -524,7 +524,11 @@ Parent guide sections, nearest first: Anderson County, Tennessee (us/tn/anderson
 Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
 
 - [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/cocke-county/jurisdiction.yaml): website, main contact, and parent government
+- [Find the right office in Cocke County](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/cocke-county/services/choose-a-county-office.md): Find county offices for deeds, vehicle records, elections and property questions, and check municipal boundaries for local services.
+  - source-checked · Checked by codex on 2026-11-22.
 - [Find the Cocke County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/cocke-county/services/find-a-property-map.md): Search Cocke County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a Cocke County governing body decision](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/cocke-county/services/follow-county-business.md): Find the regular meeting agenda, the source of the county’s authority and the record of what the governing body voted to adopt.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## Coffee County, Tennessee (us/tn/coffee-county)
@@ -1333,6 +1337,16 @@ Parent guide sections, nearest first: Claiborne County, Tennessee (us/tn/claibor
 - [Follow a proposed ordinance in New Tazewell](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/new-tazewell/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
+## City of Newport (us/tn/newport)
+
+Parent guide sections, nearest first: Cocke County, Tennessee (us/tn/cocke-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/newport/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Newport for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/newport/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Newport.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Newport](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/newport/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
 ## Town of Normandy (us/tn/normandy)
 
 Parent guide sections, nearest first: Bedford County, Tennessee (us/tn/bedford-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
@@ -1395,6 +1409,16 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 
 - [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/overton-county/jurisdiction.yaml): website, main contact, and parent government
 - [Find the Overton County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/overton-county/services/find-a-property-map.md): Search Overton County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## Town of Parrottsville (us/tn/parrottsville)
+
+Parent guide sections, nearest first: Cocke County, Tennessee (us/tn/cocke-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/parrottsville/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Parrottsville for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/parrottsville/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Parrottsville.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Parrottsville](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/parrottsville/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## Town of Pegram (us/tn/pegram)

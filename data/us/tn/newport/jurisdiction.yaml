@@ -1,0 +1,15 @@
+name: "City of Newport"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:newport
+parent: us/tn/cocke-county
+aliases: ["Newport"]
+website: https://www.cityofnewport-tn.com/
+general_contact:
+  name: "Newport municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/newport
+  phone: "(423) 623-7323"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/newport
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex
