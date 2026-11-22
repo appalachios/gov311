@@ -4,6 +4,8 @@ summary: "Use the dated council packet, council minutes and ordinance files to c
 audiences: [everyone]
 keywords: ["city council", "pending laws", "ordinances", "budget", "votes", "minutes"]
 sources:
+  - "https://www.mtas.tennessee.edu/charter/norris"
+  - "https://www.mtas.tennessee.edu/sites/default/files/private/charters/norris_cht.pdf#page=14"
   - https://www.cityofnorris.com/councilpacket.html
   - https://www.cityofnorris.com/minutes.html
   - https://www.cityofnorris.com/ords.html
@@ -16,3 +18,5 @@ trust: source-checked
 Open **City Council → Agenda & Packet** and choose the council meeting. Also open any separately posted ordinance or replacement attachment. For example, the packet index identifies a revised version of Ordinance 701 on trash and refuse that addressed commercial rates. A household trying to price collection and a business checking its rate need the schedule that applies to each.
 
 Use the minutes to see what council moved, amended and approved. Match the ordinance number to the enactment in the ordinance files and check its effective date. If the final version is missing, request it through the public records section of the forms page. [Meeting packets and revisions](https://www.cityofnorris.com/councilpacket.html) · [Council minutes](https://www.cityofnorris.com/minutes.html) · [Ordinances](https://www.cityofnorris.com/ords.html) · [Records request](https://www.cityofnorris.com/forms.html)
+
+The charter requires two open-session readings at least a week apart. Reading the caption suffices, so check the text attached to the agenda and the version approved on final reading. [Charter classification](https://www.mtas.tennessee.edu/charter/norris) · [Governing text](https://www.mtas.tennessee.edu/sites/default/files/private/charters/norris_cht.pdf#page=14)
