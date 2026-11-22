@@ -1,0 +1,15 @@
+name: "City of Covington"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:covington
+parent: us/tn/tipton-county
+aliases: ["Covington"]
+website: https://www.covingtontn.gov/
+general_contact:
+  name: "Covington municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/covington
+  phone: "(901) 476-9613"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/covington
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

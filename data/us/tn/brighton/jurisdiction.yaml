@@ -1,0 +1,15 @@
+name: "Town of Brighton"
+level: town
+ocd_id: ocd-division/country:us/state:tn/place:brighton
+parent: us/tn/tipton-county
+aliases: ["Brighton"]
+website: https://www.townofbrighton.com/
+general_contact:
+  name: "Brighton municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/brighton
+  phone: "(901) 476-8661"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/brighton
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

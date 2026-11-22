@@ -1,0 +1,15 @@
+name: "Town of Atoka"
+level: town
+ocd_id: ocd-division/country:us/state:tn/place:atoka
+parent: us/tn/tipton-county
+aliases: ["Atoka"]
+website: https://www.mtas.tennessee.edu/directories/cities/atoka
+general_contact:
+  name: "Atoka municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/atoka
+  phone: "(901) 837-5300"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/atoka
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

@@ -1,0 +1,15 @@
+name: "City of Munford"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:munford
+parent: us/tn/tipton-county
+aliases: ["Munford"]
+website: https://www.munford.com/
+general_contact:
+  name: "Munford municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/munford
+  phone: "(901) 837-5955"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/munford
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

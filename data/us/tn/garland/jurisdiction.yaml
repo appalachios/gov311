@@ -1,0 +1,15 @@
+name: "Town of Garland"
+level: town
+ocd_id: ocd-division/country:us/state:tn/place:garland
+parent: us/tn/tipton-county
+aliases: ["Garland"]
+website: https://www.mtas.tennessee.edu/directories/cities/garland
+general_contact:
+  name: "Garland municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/garland
+  phone: "(901) 476-7485"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/garland
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex
