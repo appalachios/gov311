@@ -1,0 +1,15 @@
+name: "Town of Parrottsville"
+level: town
+ocd_id: ocd-division/country:us/state:tn/place:parrottsville
+parent: us/tn/cocke-county
+aliases: ["Parrottsville"]
+website: https://www.mtas.tennessee.edu/directories/cities/parrottsville
+general_contact:
+  name: "Parrottsville municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/parrottsville
+  phone: "(423) 623-9380"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/parrottsville
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex
