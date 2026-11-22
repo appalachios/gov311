@@ -1,0 +1,15 @@
+name: "City of Pulaski"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:pulaski
+parent: us/tn/giles-county
+aliases: ["Pulaski"]
+website: https://www.pulaski-tn.com/
+general_contact:
+  name: "Pulaski municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/pulaski
+  phone: "(931) 363-2516"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/pulaski
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

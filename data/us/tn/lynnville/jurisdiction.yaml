@@ -1,0 +1,15 @@
+name: "Town of Lynnville"
+level: town
+ocd_id: ocd-division/country:us/state:tn/place:lynnville
+parent: us/tn/giles-county
+aliases: ["Lynnville"]
+website: https://historiclynnville.com/
+general_contact:
+  name: "Lynnville municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/lynnville
+  phone: "(931) 527-3158"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/lynnville
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

@@ -1,0 +1,15 @@
+name: "City of Minor Hill"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:minor_hill
+parent: us/tn/giles-county
+aliases: ["Minor Hill"]
+website: https://www.mtas.tennessee.edu/directories/cities/minor-hill
+general_contact:
+  name: "Minor Hill municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/minor-hill
+  phone: "(931) 565-3113"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/minor-hill
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

@@ -1,0 +1,15 @@
+name: "City of Elkton"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:elkton
+parent: us/tn/giles-county
+aliases: ["Elkton"]
+website: https://www.elktontn.com/
+general_contact:
+  name: "Elkton municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/elkton
+  phone: "(931) 468-2506"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/elkton
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex
