@@ -1574,6 +1574,16 @@ Parent guide sections, nearest first: Hardeman County, Tennessee (us/tn/hardeman
 - [Follow a proposed ordinance in Hickory Valley](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/hickory-valley/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
+## City of Hohenwald (us/tn/hohenwald)
+
+Parent guide sections, nearest first: Lewis County, Tennessee (us/tn/lewis-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/hohenwald/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Hohenwald for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/hohenwald/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Hohenwald.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Hohenwald](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/hohenwald/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
 ## Town of Hollow Rock (us/tn/hollow-rock)
 
 Parent guide sections, nearest first: Carroll County, Tennessee (us/tn/carroll-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
@@ -1981,7 +1991,11 @@ Parent guide sections, nearest first: Lawrence County, Tennessee (us/tn/lawrence
 Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
 
 - [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/lewis-county/jurisdiction.yaml): website, main contact, and parent government
+- [Find the right office in Lewis County](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/lewis-county/services/choose-a-county-office.md): Find county offices for deeds, vehicle records, elections and property questions, and check municipal boundaries for local services.
+  - source-checked · Checked by codex on 2026-11-22.
 - [Find the Lewis County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/lewis-county/services/find-a-property-map.md): Search Lewis County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a Lewis County governing body decision](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/lewis-county/services/follow-county-business.md): Find the regular meeting agenda, the source of the county’s authority and the record of what the governing body voted to adopt.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## City of Lexington (us/tn/lexington)
