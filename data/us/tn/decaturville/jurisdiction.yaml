@@ -1,0 +1,15 @@
+name: "Town of Decaturville"
+level: town
+ocd_id: ocd-division/country:us/state:tn/place:decaturville
+parent: us/tn/decatur-county
+aliases: ["Decaturville"]
+website: https://decaturvilletn.com/
+general_contact:
+  name: "Decaturville municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/decaturville
+  phone: "(731) 852-2034"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/decaturville
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

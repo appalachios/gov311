@@ -1,0 +1,15 @@
+name: "City of Parsons"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:parsons
+parent: us/tn/decatur-county
+aliases: ["Parsons"]
+website: https://www.cityofparsons.com/
+general_contact:
+  name: "Parsons municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/parsons
+  phone: "(731) 847-6358"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/parsons
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex
