@@ -1,0 +1,16 @@
+name: "City of Tullahoma"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:tullahoma
+parent: us/tn/_state
+county_options: ["us/tn/coffee-county", "us/tn/franklin-county"]
+aliases: ["Tullahoma"]
+website: https://www.tullahomatn.gov/
+general_contact:
+  name: "Tullahoma municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/tullahoma
+  phone: "(931) 455-2648"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/tullahoma
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex
