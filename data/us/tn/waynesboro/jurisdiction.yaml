@@ -1,0 +1,15 @@
+name: "City of Waynesboro"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:waynesboro
+parent: us/tn/wayne-county
+aliases: ["Waynesboro"]
+website: https://www.mtas.tennessee.edu/directories/cities/waynesboro
+general_contact:
+  name: "Waynesboro municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/waynesboro
+  phone: "(931) 722-5458"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/waynesboro
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

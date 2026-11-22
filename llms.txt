@@ -959,6 +959,16 @@ Parent guide sections, nearest first: Bradley County, Tennessee (us/tn/bradley-c
 - [Follow a proposed ordinance in Cleveland](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/cleveland/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
+## City of Clifton (us/tn/clifton)
+
+Parent guide sections, nearest first: Wayne County, Tennessee (us/tn/wayne-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/clifton/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Clifton for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/clifton/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Clifton.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Clifton](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/clifton/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
 ## City of Clinton (us/tn/clinton)
 
 Parent guide sections, nearest first: Anderson County, Tennessee (us/tn/anderson-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
@@ -1027,6 +1037,16 @@ Parent guide sections, nearest first: Shelby County, Tennessee (us/tn/shelby-cou
 - [Contact Collierville for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/collierville/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Collierville.
   - source-checked · Checked by codex on 2026-11-22.
 - [Follow a proposed ordinance in Collierville](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/collierville/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## City of Collinwood (us/tn/collinwood)
+
+Parent guide sections, nearest first: Wayne County, Tennessee (us/tn/wayne-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/collinwood/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Collinwood for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/collinwood/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Collinwood.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Collinwood](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/collinwood/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## City of Columbia (us/tn/columbia)
@@ -4757,7 +4777,21 @@ Parent guide sections, nearest first: Humphreys County, Tennessee (us/tn/humphre
 Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
 
 - [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/wayne-county/jurisdiction.yaml): website, main contact, and parent government
+- [Find the right office in Wayne County](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/wayne-county/services/choose-a-county-office.md): Find county offices for deeds, vehicle records, elections and property questions, and check municipal boundaries for local services.
+  - source-checked · Checked by codex on 2026-11-22.
 - [Find the Wayne County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/wayne-county/services/find-a-property-map.md): Search Wayne County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a Wayne County governing body decision](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/wayne-county/services/follow-county-business.md): Find the regular meeting agenda, the source of the county’s authority and the record of what the governing body voted to adopt.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## City of Waynesboro (us/tn/waynesboro)
+
+Parent guide sections, nearest first: Wayne County, Tennessee (us/tn/wayne-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/waynesboro/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Waynesboro for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/waynesboro/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Waynesboro.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Waynesboro](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/waynesboro/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## Weakley County, Tennessee (us/tn/weakley-county)
