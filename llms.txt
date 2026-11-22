@@ -1737,6 +1737,8 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 - [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/knox-county/jurisdiction.yaml): website, main contact, and parent government
 - [Get a building permit in unincorporated Knox County](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/knox-county/services/apply-for-a-building-permit.md): Check the permitting authority for your address, prepare your plans and look up inspections.
   - source-checked · Checked by codex on 2026-11-21.
+- [Find the right office in Knox County](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/knox-county/services/choose-a-county-office.md): Find county offices for deeds, vehicle records, elections and property questions, and check municipal boundaries for local services.
+  - source-checked · Checked by codex on 2026-11-22.
 - [Take household trash, recycling or hazardous waste to the right facility](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/knox-county/services/drop-off-trash-and-hazardous-waste.md): Use Knox County convenience centers for eligible household loads. Check the separate Knoxville facility for household chemicals.
   - source-checked · Checked by codex on 2026-11-21.
 - [Enroll a student in Knox County Schools](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/knox-county/services/enroll-in-knox-county-schools.md): Enroll at the school assigned to the home address. Families without stable housing can get enrollment help even when records are missing.
@@ -1755,6 +1757,8 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
   - source-checked · Checked by codex on 2026-11-21.
 - [Find a Knox County school board proposal, vote or current policy](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/knox-county/services/follow-a-school-board-policy.md): Open the Board of Education’s dated agendas and minutes, then compare the action with the district’s published policy manual.
   - source-checked · Checked by codex on 2026-11-21.
+- [Follow a Knox County governing body decision](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/knox-county/services/follow-county-business.md): Find the regular meeting agenda, the source of the county’s authority and the record of what the governing body voted to adopt.
+  - source-checked · Checked by codex on 2026-11-22.
 - [Get a Tennessee birth or death certificate in Knox County](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/knox-county/services/get-a-birth-or-death-certificate.md): The main health office issues both kinds of records. The West Clinic issues birth certificates only. Check the applicant and identification rules before visiting.
   - source-checked · Checked by codex on 2026-11-21.
 - [Get a Knox County business license or renew a minimal activity license](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/knox-county/services/get-a-business-license.md): Use the county clerk for the local license and Tennessee Revenue for a standard business tax return. Check whether the location also needs city registration.
