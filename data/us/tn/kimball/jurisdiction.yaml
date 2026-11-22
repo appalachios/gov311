@@ -1,0 +1,15 @@
+name: "Town of Kimball"
+level: town
+ocd_id: ocd-division/country:us/state:tn/place:kimball
+parent: us/tn/marion-county
+aliases: ["Kimball"]
+website: https://www.townofkimball.com/
+general_contact:
+  name: "Kimball municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/kimball
+  phone: "(423) 837-7040"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/kimball
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

@@ -1720,6 +1720,16 @@ Parent guide sections, nearest first: Fentress County, Tennessee (us/tn/fentress
 - [Follow a proposed ordinance in Jamestown](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/jamestown/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
+## Town of Jasper (us/tn/jasper)
+
+Parent guide sections, nearest first: Marion County, Tennessee (us/tn/marion-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/jasper/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Jasper for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/jasper/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Jasper.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Jasper](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/jasper/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
 ## City of Jefferson City (us/tn/jefferson-city)
 
 Parent guide sections, nearest first: Jefferson County, Tennessee (us/tn/jefferson-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
@@ -1786,6 +1796,16 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 - [Contact Kenton for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/kenton/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Kenton.
   - source-checked · Checked by codex on 2026-11-22.
 - [Follow a proposed ordinance in Kenton](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/kenton/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## Town of Kimball (us/tn/kimball)
+
+Parent guide sections, nearest first: Marion County, Tennessee (us/tn/marion-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/kimball/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Kimball for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/kimball/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Kimball.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Kimball](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/kimball/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## City of Kingsport (us/tn/kingsport)
@@ -2185,7 +2205,11 @@ Parent guide sections, nearest first: Coffee County, Tennessee (us/tn/coffee-cou
 Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
 
 - [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/marion-county/jurisdiction.yaml): website, main contact, and parent government
+- [Find the right office in Marion County](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/marion-county/services/choose-a-county-office.md): Find county offices for deeds, vehicle records, elections and property questions, and check municipal boundaries for local services.
+  - source-checked · Checked by codex on 2026-11-22.
 - [Find the Marion County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/marion-county/services/find-a-property-map.md): Search Marion County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a Marion County governing body decision](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/marion-county/services/follow-county-business.md): Find the regular meeting agenda, the source of the county’s authority and the record of what the governing body voted to adopt.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## Marshall County, Tennessee (us/tn/marshall-county)
@@ -2464,6 +2488,16 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 - [Free legal help with an eviction in Nashville](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/nashville/help/eviction-legal-help.md): The Legal Aid Society offers free legal help to Davidson County renters who qualify, including a phone line for people facing eviction. Court deadlines are short, so call as soon as you receive a notice or court papers.
   - source-checked · Checked by codex on 2026-11-21.
 
+## City of New Hope (us/tn/new-hope)
+
+Parent guide sections, nearest first: Marion County, Tennessee (us/tn/marion-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/new-hope/jurisdiction.yaml): website, main contact, and parent government
+- [Contact New Hope for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/new-hope/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in New Hope.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in New Hope](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/new-hope/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
 ## City of New Johnsonville (us/tn/new-johnsonville)
 
 Parent guide sections, nearest first: Humphreys County, Tennessee (us/tn/humphreys-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
@@ -2588,6 +2622,16 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 - [Find an Oliver Springs council vote or Water Board action](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/oliver-springs/services/follow-a-council-measure.md): Choose the board that heard the item and match its meeting agenda to the minutes.
   - source-checked · Checked by codex on 2026-11-22.
 - [Start town water and sewer service in Oliver Springs](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/oliver-springs/services/start-town-water-service.md): Bring proof of ownership or a lease, identification and the connection payment to the Water Department.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## Town of Orme (us/tn/orme)
+
+Parent guide sections, nearest first: Marion County, Tennessee (us/tn/marion-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/orme/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Orme for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/orme/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Orme.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Orme](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/orme/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## Overton County, Tennessee (us/tn/overton-county)
@@ -2785,6 +2829,16 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
   - source-checked · Checked by codex on 2026-11-21.
 - [Get local help with veterans benefits in Polk County](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/polk-county/help/veterans-benefits.md): The county Veterans Service Office connects veterans and their families with benefits, VA information and local referrals.
   - source-checked · Checked by codex on 2026-11-21.
+
+## Town of Powells Crossroads (us/tn/powells-crossroads)
+
+Parent guide sections, nearest first: Marion County, Tennessee (us/tn/marion-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/powells-crossroads/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Powells Crossroads for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/powells-crossroads/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Powells Crossroads.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Powells Crossroads](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/powells-crossroads/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
 
 ## City of Pulaski (us/tn/pulaski)
 
@@ -3154,6 +3208,16 @@ Parent guide sections, nearest first: Fayette County, Tennessee (us/tn/fayette-c
 - [Follow a proposed ordinance in Somerville](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/somerville/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
+## City of South Pittsburg (us/tn/south-pittsburg)
+
+Parent guide sections, nearest first: Marion County, Tennessee (us/tn/marion-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/south-pittsburg/jurisdiction.yaml): website, main contact, and parent government
+- [Contact South Pittsburg for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/south-pittsburg/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in South Pittsburg.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in South Pittsburg](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/south-pittsburg/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
 ## City of St. Joseph (us/tn/st-joseph)
 
 Parent guide sections, nearest first: Lawrence County, Tennessee (us/tn/lawrence-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
@@ -3500,6 +3564,16 @@ Parent guide sections, nearest first: Hardeman County, Tennessee (us/tn/hardeman
 - [Contact Whiteville for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/whiteville/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Whiteville.
   - source-checked · Checked by codex on 2026-11-22.
 - [Follow a proposed ordinance in Whiteville](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/whiteville/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## City of Whitwell (us/tn/whitwell)
+
+Parent guide sections, nearest first: Marion County, Tennessee (us/tn/marion-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/whitwell/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Whitwell for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/whitwell/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Whitwell.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Whitwell](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/whitwell/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## Williamson County, Tennessee (us/tn/williamson-county)

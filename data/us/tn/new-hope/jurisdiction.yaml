@@ -1,0 +1,15 @@
+name: "City of New Hope"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:new_hope
+parent: us/tn/marion-county
+aliases: ["New Hope"]
+website: https://www.mtas.tennessee.edu/directories/cities/new-hope
+general_contact:
+  name: "New Hope municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/new-hope
+  phone: "(423) 837-7487"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/new-hope
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

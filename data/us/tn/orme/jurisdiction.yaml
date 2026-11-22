@@ -1,0 +1,14 @@
+name: "Town of Orme"
+level: town
+ocd_id: ocd-division/country:us/state:tn/place:orme
+parent: us/tn/marion-county
+aliases: ["Orme"]
+website: https://www.mtas.tennessee.edu/directories/cities/orme
+general_contact:
+  name: "Orme municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/orme
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/orme
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

@@ -1,0 +1,15 @@
+name: "City of South Pittsburg"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:south_pittsburg
+parent: us/tn/marion-county
+aliases: ["South Pittsburg"]
+website: https://www.southpittsburg-tn.org/
+general_contact:
+  name: "South Pittsburg municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/south-pittsburg
+  phone: "(423) 837-5012"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/south-pittsburg
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex
