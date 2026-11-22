@@ -1,0 +1,15 @@
+name: "Town of Dandridge"
+level: town
+ocd_id: ocd-division/country:us/state:tn/place:dandridge
+parent: us/tn/jefferson-county
+aliases: ["Dandridge"]
+website: https://dandridgetn.gov/
+general_contact:
+  name: "Dandridge municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/dandridge
+  phone: "(865) 397-7420"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/dandridge
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

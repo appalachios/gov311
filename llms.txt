@@ -306,6 +306,16 @@ Parent guide sections, nearest first: Greene County, Tennessee (us/tn/greene-cou
 - [Follow a proposed ordinance in Baileyton](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/baileyton/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
+## City of Baneberry (us/tn/baneberry)
+
+Parent guide sections, nearest first: Jefferson County, Tennessee (us/tn/jefferson-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/baneberry/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Baneberry for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/baneberry/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Baneberry.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Baneberry](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/baneberry/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
 ## Town of Bean Station (us/tn/bean-station)
 
 Parent guide sections, nearest first: Grainger County, Tennessee (us/tn/grainger-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
@@ -908,6 +918,16 @@ Parent guide sections, nearest first: Claiborne County, Tennessee (us/tn/claibor
 - [Contact Cumberland Gap for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/cumberland-gap/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Cumberland Gap.
   - source-checked · Checked by codex on 2026-11-22.
 - [Follow a proposed ordinance in Cumberland Gap](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/cumberland-gap/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## Town of Dandridge (us/tn/dandridge)
+
+Parent guide sections, nearest first: Jefferson County, Tennessee (us/tn/jefferson-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/dandridge/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Dandridge for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/dandridge/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Dandridge.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Dandridge](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/dandridge/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## Decatur County, Tennessee (us/tn/decatur-county)
@@ -1620,12 +1640,26 @@ Parent guide sections, nearest first: Fentress County, Tennessee (us/tn/fentress
 - [Follow a proposed ordinance in Jamestown](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/jamestown/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
+## City of Jefferson City (us/tn/jefferson-city)
+
+Parent guide sections, nearest first: Jefferson County, Tennessee (us/tn/jefferson-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/jefferson-city/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Jefferson City for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/jefferson-city/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Jefferson City.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Jefferson City](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/jefferson-city/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
 ## Jefferson County, Tennessee (us/tn/jefferson-county)
 
 Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
 
 - [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/jefferson-county/jurisdiction.yaml): website, main contact, and parent government
+- [Find the right office in Jefferson County](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/jefferson-county/services/choose-a-county-office.md): Find county offices for deeds, vehicle records, elections and property questions, and check municipal boundaries for local services.
+  - source-checked · Checked by codex on 2026-11-22.
 - [Find the Jefferson County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/jefferson-county/services/find-a-property-map.md): Search Jefferson County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a Jefferson County governing body decision](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/jefferson-county/services/follow-county-business.md): Find the regular meeting agenda, the source of the county’s authority and the record of what the governing body voted to adopt.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## City of Jellico (us/tn/jellico)
@@ -2248,6 +2282,16 @@ Parent guide sections, nearest first: Humphreys County, Tennessee (us/tn/humphre
 - [Contact New Johnsonville for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/new-johnsonville/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in New Johnsonville.
   - source-checked · Checked by codex on 2026-11-22.
 - [Follow a proposed ordinance in New Johnsonville](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/new-johnsonville/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## Town of New Market (us/tn/new-market)
+
+Parent guide sections, nearest first: Jefferson County, Tennessee (us/tn/jefferson-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/new-market/jurisdiction.yaml): website, main contact, and parent government
+- [Contact New Market for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/new-market/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in New Market.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in New Market](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/new-market/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## Town of New Tazewell (us/tn/new-tazewell)
@@ -3162,6 +3206,18 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 
 - [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/white-county/jurisdiction.yaml): website, main contact, and parent government
 - [Find the White County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/white-county/services/find-a-property-map.md): Search White County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## Town of White Pine (us/tn/white-pine)
+
+For county services, check which county contains the address. Choose one of these guide sections: Jefferson County, Tennessee (us/tn/jefferson-county) or Hamblen County, Tennessee (us/tn/hamblen-county).
+
+Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/white-pine/jurisdiction.yaml): website, main contact, and parent government
+- [Contact White Pine for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/white-pine/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in White Pine.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in White Pine](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/white-pine/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## Town of Whiteville (us/tn/whiteville)
