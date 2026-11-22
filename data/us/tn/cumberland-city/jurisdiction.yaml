@@ -1,0 +1,15 @@
+name: "Town of Cumberland City"
+level: town
+ocd_id: ocd-division/country:us/state:tn/place:cumberland_city
+parent: us/tn/stewart-county
+aliases: ["Cumberland City"]
+website: https://www.mtas.tennessee.edu/directories/cities/cumberland-city
+general_contact:
+  name: "Cumberland City municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/cumberland-city
+  phone: "(931) 827-2000"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/cumberland-city
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

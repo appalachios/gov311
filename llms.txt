@@ -1100,6 +1100,16 @@ Parent guide sections, nearest first: Hardin County, Tennessee (us/tn/hardin-cou
 - [Follow a proposed ordinance in Crump](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/crump/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
+## Town of Cumberland City (us/tn/cumberland-city)
+
+Parent guide sections, nearest first: Stewart County, Tennessee (us/tn/stewart-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/cumberland-city/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Cumberland City for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/cumberland-city/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Cumberland City.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Cumberland City](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/cumberland-city/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
 ## Cumberland County, Tennessee (us/tn/cumberland-county)
 
 Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
@@ -1216,6 +1226,16 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 - [Find the Dickson County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/dickson-county/services/find-a-property-map.md): Search Dickson County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
   - source-checked · Checked by codex on 2026-11-22.
 - [Follow a Dickson County governing body decision](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/dickson-county/services/follow-county-business.md): Find the regular meeting agenda, the source of the county’s authority and the record of what the governing body voted to adopt.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## Town of Dover (us/tn/dover)
+
+Parent guide sections, nearest first: Stewart County, Tennessee (us/tn/stewart-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/dover/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Dover for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/dover/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Dover.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Dover](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/dover/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## Town of Dowelltown (us/tn/dowelltown)
@@ -4092,7 +4112,11 @@ Parent guide sections, nearest first: McNairy County, Tennessee (us/tn/mcnairy-c
 Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
 
 - [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/stewart-county/jurisdiction.yaml): website, main contact, and parent government
+- [Find the right office in Stewart County](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/stewart-county/services/choose-a-county-office.md): Find county offices for deeds, vehicle records, elections and property questions, and check municipal boundaries for local services.
+  - source-checked · Checked by codex on 2026-11-22.
 - [Find the Stewart County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/stewart-county/services/find-a-property-map.md): Search Stewart County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a Stewart County governing body decision](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/stewart-county/services/follow-county-business.md): Find the regular meeting agenda, the source of the county’s authority and the record of what the governing body voted to adopt.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## Sullivan County, Tennessee (us/tn/sullivan-county)

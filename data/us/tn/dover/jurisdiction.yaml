@@ -1,0 +1,15 @@
+name: "Town of Dover"
+level: town
+ocd_id: ocd-division/country:us/state:tn/place:dover
+parent: us/tn/stewart-county
+aliases: ["Dover"]
+website: https://www.dovertn.com/
+general_contact:
+  name: "Dover municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/dover
+  phone: "(931) 232-5907"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/dover
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex
