@@ -1,0 +1,17 @@
+name: "City of Portland"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:portland
+parent: us/tn/_state
+county_options: ["us/tn/sumner-county", "us/tn/robertson-county"]
+aliases: ["Portland"]
+website: https://www.cityofportlandtn.gov/
+general_contact:
+  name: "Portland municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/portland
+  phone: "(615) 325-6776"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/portland
+  - https://tnecd.com/?force_download=129209
+  - https://www2.census.gov/geo/docs/reference/codes2020/national_place_by_county2020.txt
+last_verified: 2026-11-22
+verified_by: codex

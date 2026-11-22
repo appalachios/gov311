@@ -1,0 +1,15 @@
+name: "City of Hendersonville"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:hendersonville
+parent: us/tn/sumner-county
+aliases: ["Hendersonville"]
+website: https://www.mtas.tennessee.edu/directories/cities/hendersonville
+general_contact:
+  name: "Hendersonville municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/hendersonville
+  phone: "(615) 822-1000"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/hendersonville
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex
