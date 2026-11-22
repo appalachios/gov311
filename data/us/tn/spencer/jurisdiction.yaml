@@ -1,0 +1,15 @@
+name: "City of Spencer"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:spencer
+parent: us/tn/van-buren-county
+aliases: ["Spencer"]
+website: https://www.cityofspencertn.com/
+general_contact:
+  name: "Spencer municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/spencer
+  phone: "(931) 946-2351"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/spencer
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex
