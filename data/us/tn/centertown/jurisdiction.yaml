@@ -1,0 +1,14 @@
+name: "Town of Centertown"
+level: town
+ocd_id: ocd-division/country:us/state:tn/place:centertown
+parent: us/tn/warren-county
+aliases: ["Centertown"]
+website: https://www.mtas.tennessee.edu/directories/cities/centertown
+general_contact:
+  name: "Centertown municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/centertown
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/centertown
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

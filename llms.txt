@@ -804,6 +804,16 @@ Parent guide sections, nearest first: Clay County, Tennessee (us/tn/clay-county)
 - [Follow a proposed ordinance in Celina](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/celina/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
+## Town of Centertown (us/tn/centertown)
+
+Parent guide sections, nearest first: Warren County, Tennessee (us/tn/warren-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/centertown/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Centertown for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/centertown/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Centertown.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Centertown](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/centertown/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
 ## Town of Centerville (us/tn/centerville)
 
 Parent guide sections, nearest first: Hickman County, Tennessee (us/tn/hickman-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
@@ -2925,6 +2935,16 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 - [Follow a McMinn County governing body decision](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/mcminn-county/services/follow-county-business.md): Find the regular meeting agenda, the source of the county’s authority and the record of what the governing body voted to adopt.
   - source-checked · Checked by codex on 2026-11-22.
 
+## City of McMinnville (us/tn/mcminnville)
+
+Parent guide sections, nearest first: Warren County, Tennessee (us/tn/warren-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/mcminnville/jurisdiction.yaml): website, main contact, and parent government
+- [Contact McMinnville for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/mcminnville/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in McMinnville.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in McMinnville](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/mcminnville/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
 ## McNairy County, Tennessee (us/tn/mcnairy-county)
 
 Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
@@ -3144,6 +3164,16 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 - [Find the Morgan County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/morgan-county/services/find-a-property-map.md): Search Morgan County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
   - source-checked · Checked by codex on 2026-11-22.
 - [Follow a Morgan County governing body decision](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/morgan-county/services/follow-county-business.md): Find the regular meeting agenda, the source of the county’s authority and the record of what the governing body voted to adopt.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## Town of Morrison (us/tn/morrison)
+
+Parent guide sections, nearest first: Warren County, Tennessee (us/tn/warren-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/morrison/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Morrison for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/morrison/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Morrison.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Morrison](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/morrison/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## City of Morristown (us/tn/morristown)
@@ -4611,6 +4641,17 @@ Parent guide sections, nearest first: Dickson County, Tennessee (us/tn/dickson-c
 - [Follow a proposed ordinance in Vanleer](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/vanleer/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
+## Town of Viola (us/tn/viola)
+
+Parent guide sections, nearest first: Warren County, Tennessee (us/tn/warren-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/viola/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Viola for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/viola/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Viola.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Viola](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/viola/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - draft · Research by codex on 2026-11-22.
+  - Human review (missing evidence). The cited records establish the procedure described here. They do not establish the general number of readings for a new ordinance in Viola. Ask the municipal recorder for the current charter section or adopted procedural rule before quoting a count.
+
 ## Town of Vonore (us/tn/vonore)
 
 Parent guide sections, nearest first: Monroe County, Tennessee (us/tn/monroe-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
@@ -4638,7 +4679,11 @@ Parent guide sections, nearest first: Hamilton County, Tennessee (us/tn/hamilton
 Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
 
 - [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/warren-county/jurisdiction.yaml): website, main contact, and parent government
+- [Find the right office in Warren County](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/warren-county/services/choose-a-county-office.md): Find county offices for deeds, vehicle records, elections and property questions, and check municipal boundaries for local services.
+  - source-checked · Checked by codex on 2026-11-22.
 - [Find the Warren County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/warren-county/services/find-a-property-map.md): Search Warren County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a Warren County governing body decision](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/warren-county/services/follow-county-business.md): Find the regular meeting agenda, the source of the county’s authority and the record of what the governing body voted to adopt.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## City of Wartburg (us/tn/wartburg)

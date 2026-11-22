@@ -1,0 +1,15 @@
+name: "City of McMinnville"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:mcminnville
+parent: us/tn/warren-county
+aliases: ["McMinnville"]
+website: https://www.mcminnvilletn.gov/
+general_contact:
+  name: "McMinnville municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/mcminnville
+  phone: "(931) 473-1200"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/mcminnville
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex
