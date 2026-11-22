@@ -1,0 +1,15 @@
+name: "City of Eagleville"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:eagleville
+parent: us/tn/rutherford-county
+aliases: ["Eagleville"]
+website: https://www.eaglevilletn.com/
+general_contact:
+  name: "Eagleville municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/eagleville
+  phone: "(615) 274-2922"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/eagleville
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

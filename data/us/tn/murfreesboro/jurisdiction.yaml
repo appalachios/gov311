@@ -1,0 +1,15 @@
+name: "City of Murfreesboro"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:murfreesboro
+parent: us/tn/rutherford-county
+aliases: ["Murfreesboro"]
+website: https://www.murfreesborotn.gov/
+general_contact:
+  name: "Murfreesboro municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/murfreesboro
+  phone: "(615) 893-5210"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/murfreesboro
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex
