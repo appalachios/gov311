@@ -1,0 +1,15 @@
+name: "Town of Surgoinsville"
+level: town
+ocd_id: ocd-division/country:us/state:tn/place:surgoinsville
+parent: us/tn/hawkins-county
+aliases: ["Surgoinsville"]
+website: https://www.surgoinsvilletn.gov/
+general_contact:
+  name: "Surgoinsville municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/surgoinsville
+  phone: "(423) 345-2213"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/surgoinsville
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

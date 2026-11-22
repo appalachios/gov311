@@ -1,0 +1,15 @@
+name: "Town of Mount Carmel"
+level: town
+ocd_id: ocd-division/country:us/state:tn/place:mount_carmel
+parent: us/tn/hawkins-county
+aliases: ["Mount Carmel"]
+website: https://mountcarmeltn.gov/
+general_contact:
+  name: "Mount Carmel municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/mount-carmel
+  phone: "(423) 357-7311"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/mount-carmel
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

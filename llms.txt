@@ -513,6 +513,16 @@ Parent guide sections, nearest first: Carroll County, Tennessee (us/tn/carroll-c
 - [Follow a proposed ordinance in Bruceton](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/bruceton/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
+## Town of Bulls Gap (us/tn/bulls-gap)
+
+Parent guide sections, nearest first: Hawkins County, Tennessee (us/tn/hawkins-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/bulls-gap/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Bulls Gap for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/bulls-gap/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Bulls Gap.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Bulls Gap](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/bulls-gap/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
 ## Town of Burns (us/tn/burns)
 
 Parent guide sections, nearest first: Dickson County, Tennessee (us/tn/dickson-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
@@ -664,6 +674,16 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 - [Find a Chester County parcel map, assessment or tax bill](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/chester-county/services/find-a-property-map.md): Open the assessor’s Citizen Access Portal for parcel maps, property cards and sales. The trustee, election commission and school district offer separate lookups for bills, commissioners and school zones.
   - source-checked · Checked by codex on 2026-11-21.
 - [Follow a Chester County governing body decision](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/chester-county/services/follow-county-business.md): Find the regular meeting agenda, the source of the county’s authority and the record of what the governing body voted to adopt.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## City of Church Hill (us/tn/church-hill)
+
+Parent guide sections, nearest first: Hawkins County, Tennessee (us/tn/hawkins-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/church-hill/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Church Hill for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/church-hill/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Church Hill.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Church Hill](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/church-hill/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## Claiborne County, Tennessee (us/tn/claiborne-county)
@@ -1359,7 +1379,11 @@ Parent guide sections, nearest first: Claiborne County, Tennessee (us/tn/claibor
 Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
 
 - [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/hawkins-county/jurisdiction.yaml): website, main contact, and parent government
+- [Find the right office in Hawkins County](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/hawkins-county/services/choose-a-county-office.md): Find county offices for deeds, vehicle records, elections and property questions, and check municipal boundaries for local services.
+  - source-checked · Checked by codex on 2026-11-22.
 - [Find the Hawkins County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/hawkins-county/services/find-a-property-map.md): Search Hawkins County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a Hawkins County governing body decision](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/hawkins-county/services/follow-county-business.md): Find the regular meeting agenda, the source of the county’s authority and the record of what the governing body voted to adopt.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## Haywood County, Tennessee (us/tn/haywood-county)
@@ -1556,6 +1580,18 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 - [Contact Kenton for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/kenton/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Kenton.
   - source-checked · Checked by codex on 2026-11-22.
 - [Follow a proposed ordinance in Kenton](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/kenton/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## City of Kingsport (us/tn/kingsport)
+
+For county services, check which county contains the address. Choose one of these guide sections: Hawkins County, Tennessee (us/tn/hawkins-county) or Sullivan County, Tennessee (us/tn/sullivan-county).
+
+Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/kingsport/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Kingsport for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/kingsport/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Kingsport.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Kingsport](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/kingsport/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## Town of Kingston Springs (us/tn/kingston-springs)
@@ -2058,6 +2094,16 @@ Parent guide sections, nearest first: Greene County, Tennessee (us/tn/greene-cou
 - [Follow a proposed ordinance in Mosheim](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/mosheim/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
+## Town of Mount Carmel (us/tn/mount-carmel)
+
+Parent guide sections, nearest first: Hawkins County, Tennessee (us/tn/hawkins-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/mount-carmel/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Mount Carmel for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/mount-carmel/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Mount Carmel.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Mount Carmel](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/mount-carmel/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
 ## Metropolitan Government of Nashville and Davidson County (us/tn/nashville)
 
 Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
@@ -2448,6 +2494,16 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 - [Follow a Rocky Top City Council ordinance](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/rocky-top/services/follow-a-council-measure.md): Check the current meeting notice, council minutes and municipal code before relying on a proposed rule.
   - source-checked · Checked by codex on 2026-11-22.
 
+## Town of Rogersville (us/tn/rogersville)
+
+Parent guide sections, nearest first: Hawkins County, Tennessee (us/tn/hawkins-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/rogersville/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Rogersville for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/rogersville/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Rogersville.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Rogersville](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/rogersville/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
 ## Town of Rossville (us/tn/rossville)
 
 Parent guide sections, nearest first: Fayette County, Tennessee (us/tn/fayette-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
@@ -2676,6 +2732,16 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 
 - [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/sumner-county/jurisdiction.yaml): website, main contact, and parent government
 - [Find the Sumner County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/sumner-county/services/find-a-property-map.md): Search Sumner County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## Town of Surgoinsville (us/tn/surgoinsville)
+
+Parent guide sections, nearest first: Hawkins County, Tennessee (us/tn/hawkins-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/surgoinsville/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Surgoinsville for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/surgoinsville/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Surgoinsville.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Surgoinsville](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/surgoinsville/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## Town of Tazewell (us/tn/tazewell)

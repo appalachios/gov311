@@ -1,0 +1,15 @@
+name: "Town of Bulls Gap"
+level: town
+ocd_id: ocd-division/country:us/state:tn/place:bulls_gap
+parent: us/tn/hawkins-county
+aliases: ["Bulls Gap"]
+website: https://www.bullsgaptn.org/
+general_contact:
+  name: "Bulls Gap municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/bulls-gap
+  phone: "(423) 235-5216"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/bulls-gap
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex
