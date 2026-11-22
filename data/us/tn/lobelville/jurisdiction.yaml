@@ -1,0 +1,15 @@
+name: "City of Lobelville"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:lobelville
+parent: us/tn/perry-county
+aliases: ["Lobelville"]
+website: https://lobelvilletn.org/
+general_contact:
+  name: "Lobelville municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/lobelville
+  phone: "(931) 593-2285"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/lobelville
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex
