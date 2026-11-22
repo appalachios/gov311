@@ -232,6 +232,18 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 - [Get help with a home energy bill in Anderson County](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/anderson-county/help/get-help-with-an-energy-bill.md): Contact ETHRA for regular or crisis energy assistance and check which application window applies.
   - source-checked · Checked by codex on 2026-11-22.
 
+## City of Ardmore (us/tn/ardmore)
+
+For county services, check which county contains the address. Choose one of these guide sections: Giles County, Tennessee (us/tn/giles-county) or Lincoln County, Tennessee (us/tn/lincoln-county).
+
+Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/ardmore/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Ardmore for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/ardmore/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Ardmore.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Ardmore](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/ardmore/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
 ## Town of Ashland City (us/tn/ashland-city)
 
 Parent guide sections, nearest first: Cheatham County, Tennessee (us/tn/cheatham-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
@@ -869,6 +881,16 @@ Parent guide sections, nearest first: Carter County, Tennessee (us/tn/carter-cou
 - [Follow a proposed ordinance in Elizabethton](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/elizabethton/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
+## City of Elkton (us/tn/elkton)
+
+Parent guide sections, nearest first: Giles County, Tennessee (us/tn/giles-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/elkton/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Elkton for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/elkton/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Elkton.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Elkton](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/elkton/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
 ## Town of Enville (us/tn/enville)
 
 For county services, check which county contains the address. Choose one of these guide sections: Chester County, Tennessee (us/tn/chester-county) or McNairy County, Tennessee (us/tn/mcnairy-county).
@@ -1038,7 +1060,11 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
 
 - [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/giles-county/jurisdiction.yaml): website, main contact, and parent government
+- [Find the right office in Giles County](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/giles-county/services/choose-a-county-office.md): Find county offices for deeds, vehicle records, elections and property questions, and check municipal boundaries for local services.
+  - source-checked · Checked by codex on 2026-11-22.
 - [Find the Giles County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/giles-county/services/find-a-property-map.md): Search Giles County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a Giles County governing body decision](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/giles-county/services/follow-county-business.md): Find the regular meeting agenda, the source of the county’s authority and the record of what the governing body voted to adopt.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## City of Goodlettsville (us/tn/goodlettsville)
@@ -1547,6 +1573,16 @@ Parent guide sections, nearest first: Blount County, Tennessee (us/tn/blount-cou
 - [Follow a proposed ordinance in Louisville](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/louisville/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
+## Town of Lynnville (us/tn/lynnville)
+
+Parent guide sections, nearest first: Giles County, Tennessee (us/tn/giles-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/lynnville/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Lynnville for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/lynnville/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Lynnville.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Lynnville](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/lynnville/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
 ## Macon County, Tennessee (us/tn/macon-county)
 
 Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
@@ -1693,6 +1729,16 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 - [Contact Milledgeville for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/milledgeville/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Milledgeville.
   - source-checked · Checked by codex on 2026-11-22.
 - [Follow a proposed ordinance in Milledgeville](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/milledgeville/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## City of Minor Hill (us/tn/minor-hill)
+
+Parent guide sections, nearest first: Giles County, Tennessee (us/tn/giles-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/minor-hill/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Minor Hill for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/minor-hill/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Minor Hill.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Minor Hill](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/minor-hill/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## Monroe County, Tennessee (us/tn/monroe-county)
@@ -2014,6 +2060,16 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
   - source-checked · Checked by codex on 2026-11-21.
 - [Get local help with veterans benefits in Polk County](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/polk-county/help/veterans-benefits.md): The county Veterans Service Office connects veterans and their families with benefits, VA information and local referrals.
   - source-checked · Checked by codex on 2026-11-21.
+
+## City of Pulaski (us/tn/pulaski)
+
+Parent guide sections, nearest first: Giles County, Tennessee (us/tn/giles-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/pulaski/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Pulaski for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/pulaski/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Pulaski.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Pulaski](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/pulaski/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
 
 ## Putnam County, Tennessee (us/tn/putnam-county)
 

@@ -1,0 +1,17 @@
+name: "City of Ardmore"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:ardmore
+parent: us/tn/_state
+county_options: ["us/tn/giles-county", "us/tn/lincoln-county"]
+aliases: ["Ardmore"]
+website: https://cityofardmoretn.com/
+general_contact:
+  name: "Ardmore municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/ardmore
+  phone: "(931) 427-2124"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/ardmore
+  - https://tnecd.com/?force_download=129209
+  - https://www2.census.gov/geo/docs/reference/codes2020/national_place_by_county2020.txt
+last_verified: 2026-11-22
+verified_by: codex
