@@ -1,0 +1,15 @@
+name: City of Camden
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:camden
+parent: us/tn/benton-county
+aliases: [Camden]
+website: https://www.cityofcamdentn.com/
+general_contact:
+  name: Camden City Hall
+  phone: 731-584-4656
+  url: https://www.cityofcamdentn.com/city_directory.html
+sources:
+  - https://www.cityofcamdentn.com/city_directory.html
+  - https://www.ctas.tennessee.edu/county/benton
+last_verified: 2026-11-22
+verified_by: codex

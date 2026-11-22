@@ -193,7 +193,21 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
 
 - [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/bedford-county/jurisdiction.yaml): website, main contact, and parent government
+- [Choose a building permit office in Bedford County](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/bedford-county/services/choose-a-building-permit-office.md): Check the parcel’s actual municipal boundary before selecting a local or state residential permit.
+  - source-checked · Checked by codex on 2026-11-22.
 - [Find the Bedford County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/bedford-county/services/find-a-property-map.md): Search Bedford County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a Bedford County Commission proposal](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/bedford-county/services/follow-a-local-law.md): Find county meeting papers, sign up to speak and check the vote on the specific resolution you care about.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## Town of Bell Buckle (us/tn/bell-buckle)
+
+Parent guide sections, nearest first: Bedford County, Tennessee (us/tn/bedford-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/bell-buckle/jurisdiction.yaml): website, main contact, and parent government
+- [Follow a Bell Buckle ordinance and check its publication](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/bell-buckle/services/follow-a-local-law.md): Get the agenda and both readings, then check whether the ordinance or its caption was published.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Pay a Bell Buckle water bill](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/bell-buckle/services/pay-a-water-bill.md): Use the payment portal linked by the water department and find the town’s drinking water reports.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## City of Benton (us/tn/benton)
@@ -222,7 +236,27 @@ Parent guide sections, nearest first: Polk County, Tennessee (us/tn/polk-county)
 Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
 
 - [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/benton-county/jurisdiction.yaml): website, main contact, and parent government
+- [Choose a Benton County or municipal office](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/benton-county/services/find-a-county-or-city-office.md): Route an address in Camden, Big Sandy, Eva or Holladay to the office responsible for the service.
+  - source-checked · Checked by codex on 2026-11-22.
 - [Find the Benton County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/benton-county/services/find-a-property-map.md): Search Benton County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a Benton County Commission resolution](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/benton-county/services/follow-a-county-vote.md): Read the proposed resolution, speak at the Citizens Forum and check the vote with the county clerk.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Get a deed or plat in Benton County](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/benton-county/services/request-a-recorded-deed.md): Use the parcel record to identify the land and ask the register for the recorded document.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Get vehicle tags, a marriage license or county commission records](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/benton-county/services/use-the-county-clerk.md): Start with the Benton County Clerk for a title, registration, license or the official county legislative record.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## Town of Big Sandy (us/tn/big-sandy)
+
+Parent guide sections, nearest first: Benton County, Tennessee (us/tn/benton-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/big-sandy/jurisdiction.yaml): website, main contact, and parent government
+- [Check a Big Sandy town tax bill](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/big-sandy/services/find-town-and-county-tax-records.md): Use the town and county collectors for their respective bills and the register for a deed.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Pay a Big Sandy water bill or restore service](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/big-sandy/services/pay-a-town-water-bill.md): Find the town water payment link and check the cutoff for same-day restoration.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Find a Big Sandy town proposal and its recorded vote](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/big-sandy/codes/follow-a-town-ordinance.md): Open the town meeting agenda and request the recorder’s minutes and adopted ordinance.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## Bledsoe County, Tennessee (us/tn/bledsoe-county)
@@ -247,6 +281,20 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 
 - [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/bradley-county/jurisdiction.yaml): website, main contact, and parent government
 - [Find the Bradley County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/bradley-county/services/find-a-property-map.md): Search Bradley County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## City of Camden (us/tn/camden)
+
+Parent guide sections, nearest first: Benton County, Tennessee (us/tn/benton-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/camden/jurisdiction.yaml): website, main contact, and parent government
+- [Check a building permit or zoning question in Camden](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/camden/services/check-a-building-project.md): Find the city zoning ordinance, building permit fees and the office that reviews a proposed project.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Contact the Camden City Court clerk](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/camden/services/find-city-court.md): Use the court named on the ticket to find the clerk handling the hearing.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Pay a Camden water bill or city property tax](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/camden/services/pay-a-water-or-tax-bill.md): Choose the city payment link that matches the bill and check the issuing government.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a Camden ordinance from agenda to adoption](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/camden/codes/follow-a-city-ordinance.md): Read the Board of Mayor and Aldermen packet, check the vote and follow any mayoral veto.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## Campbell County, Tennessee (us/tn/campbell-county)
@@ -939,6 +987,16 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 - [Free legal help with an eviction in Nashville](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/nashville/help/eviction-legal-help.md): The Legal Aid Society offers free legal help to Davidson County renters who qualify, including a phone line for people facing eviction. Court deadlines are short, so call as soon as you receive a notice or court papers.
   - source-checked · Checked by codex on 2026-11-21.
 
+## Town of Normandy (us/tn/normandy)
+
+Parent guide sections, nearest first: Bedford County, Tennessee (us/tn/bedford-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/normandy/jurisdiction.yaml): website, main contact, and parent government
+- [Apply for a residential building permit in Normandy](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/normandy/services/apply-for-a-residential-building-permit.md): Use Tennessee’s state residential building program for a covered project inside Normandy and check town approvals separately.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Get a Normandy ordinance and follow the board vote](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/normandy/services/follow-a-local-law.md): The first-reading minutes can omit the ordinance text. Get both versions and the signed ordinance from the recorder.
+  - source-checked · Checked by codex on 2026-11-22.
+
 ## City of Norris (us/tn/norris)
 
 Parent guide sections, nearest first: Anderson County, Tennessee (us/tn/anderson-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
@@ -1145,6 +1203,16 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 - [Find a Shelby County parcel map, deed or tax record](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/shelby-county/services/find-a-property-map.md): Search the Register of Deeds map for a parcel, its sale history, appraisal and tax links. Use your home address to look up a commissioner or school assignment.
   - source-checked · Checked by codex on 2026-11-21.
 
+## City of Shelbyville (us/tn/shelbyville)
+
+Parent guide sections, nearest first: Bedford County, Tennessee (us/tn/bedford-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/shelbyville/jurisdiction.yaml): website, main contact, and parent government
+- [Apply for a Shelbyville building permit](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/shelbyville/services/apply-for-a-building-permit.md): Use the city’s building department and application portal for a project inside Shelbyville.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a Shelbyville ordinance through City Council](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/shelbyville/services/follow-a-local-law.md): Find the proposal, read past the title and check new ordinances awaiting inclusion in the municipal code.
+  - source-checked · Checked by codex on 2026-11-22.
+
 ## Smith County, Tennessee (us/tn/smith-county)
 
 Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
@@ -1223,6 +1291,18 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 
 - [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/warren-county/jurisdiction.yaml): website, main contact, and parent government
 - [Find the Warren County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/warren-county/services/find-a-property-map.md): Search Warren County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## Town of Wartrace (us/tn/wartrace)
+
+Parent guide sections, nearest first: Bedford County, Tennessee (us/tn/bedford-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/wartrace/jurisdiction.yaml): website, main contact, and parent government
+- [Apply for Wartrace water service or a leak adjustment](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/wartrace/services/apply-for-water-service.md): Find the utility application, account payment link and rules for a leak adjustment.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Track the three readings of a Wartrace ordinance](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/wartrace/services/follow-a-local-law.md): Find the board agenda, check the third-reading minutes for the text, and confirm whether the mayor signed or vetoed it.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Get a Wartrace building permit](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/wartrace/services/get-a-building-permit.md): Prepare a scaled site plan and submit the proposed work to the town building inspector.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## Washington County, Tennessee (us/tn/washington-county)
