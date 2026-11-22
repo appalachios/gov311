@@ -1,0 +1,15 @@
+name: "Town of Gates"
+level: town
+ocd_id: ocd-division/country:us/state:tn/place:gates
+parent: us/tn/lauderdale-county
+aliases: ["Gates"]
+website: https://www.mtas.tennessee.edu/directories/cities/gates
+general_contact:
+  name: "Gates municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/gates
+  phone: "(731) 836-7501"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/gates
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

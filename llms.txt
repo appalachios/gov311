@@ -1256,6 +1256,16 @@ Parent guide sections, nearest first: Fayette County, Tennessee (us/tn/fayette-c
 - [Follow a proposed ordinance in Gallaway](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/gallaway/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
+## Town of Gates (us/tn/gates)
+
+Parent guide sections, nearest first: Lauderdale County, Tennessee (us/tn/lauderdale-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/gates/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Gates for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/gates/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Gates.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Gates](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/gates/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
 ## Town of Gibson (us/tn/gibson)
 
 Parent guide sections, nearest first: Gibson County, Tennessee (us/tn/gibson-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
@@ -1368,6 +1378,16 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 - [Find the Grundy County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/grundy-county/services/find-a-property-map.md): Search Grundy County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
   - source-checked · Checked by codex on 2026-11-22.
 - [Follow a Grundy County governing body decision](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/grundy-county/services/follow-county-business.md): Find the regular meeting agenda, the source of the county’s authority and the record of what the governing body voted to adopt.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## Town of Halls (us/tn/halls)
+
+Parent guide sections, nearest first: Lauderdale County, Tennessee (us/tn/lauderdale-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/halls/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Halls for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/halls/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Halls.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Halls](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/halls/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## Hamblen County, Tennessee (us/tn/hamblen-county)
@@ -1488,6 +1508,16 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 - [Find the Henderson County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/henderson-county/services/find-a-property-map.md): Search Henderson County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
   - source-checked · Checked by codex on 2026-11-22.
 - [Follow a Henderson County governing body decision](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/henderson-county/services/follow-county-business.md): Find the regular meeting agenda, the source of the county’s authority and the record of what the governing body voted to adopt.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## Town of Henning (us/tn/henning)
+
+Parent guide sections, nearest first: Lauderdale County, Tennessee (us/tn/lauderdale-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/henning/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Henning for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/henning/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Henning.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Henning](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/henning/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## City of Henry (us/tn/henry)
@@ -1907,7 +1937,11 @@ Parent guide sections, nearest first: Hamilton County, Tennessee (us/tn/hamilton
 Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
 
 - [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/lauderdale-county/jurisdiction.yaml): website, main contact, and parent government
+- [Find the right office in Lauderdale County](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/lauderdale-county/services/choose-a-county-office.md): Find county offices for deeds, vehicle records, elections and property questions, and check municipal boundaries for local services.
+  - source-checked · Checked by codex on 2026-11-22.
 - [Find the Lauderdale County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/lauderdale-county/services/find-a-property-map.md): Search Lauderdale County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a Lauderdale County governing body decision](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/lauderdale-county/services/follow-county-business.md): Find the regular meeting agenda, the source of the county’s authority and the record of what the governing body voted to adopt.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## Lawrence County, Tennessee (us/tn/lawrence-county)
@@ -2676,6 +2710,16 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 - [Contact Ridgetop for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/ridgetop/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Ridgetop.
   - source-checked · Checked by codex on 2026-11-22.
 - [Follow a proposed ordinance in Ridgetop](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/ridgetop/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## City of Ripley (us/tn/ripley)
+
+Parent guide sections, nearest first: Lauderdale County, Tennessee (us/tn/lauderdale-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/ripley/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Ripley for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/ripley/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Ripley.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Ripley](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/ripley/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## Roane County, Tennessee (us/tn/roane-county)

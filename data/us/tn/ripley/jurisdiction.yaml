@@ -1,0 +1,15 @@
+name: "City of Ripley"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:ripley
+parent: us/tn/lauderdale-county
+aliases: ["Ripley"]
+website: https://cityofripleytn.com/
+general_contact:
+  name: "Ripley municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/ripley
+  phone: "(731) 635-4000"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/ripley
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

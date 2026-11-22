@@ -1,0 +1,15 @@
+name: "Town of Halls"
+level: town
+ocd_id: ocd-division/country:us/state:tn/place:halls
+parent: us/tn/lauderdale-county
+aliases: ["Halls"]
+website: https://www.mtas.tennessee.edu/directories/cities/halls
+general_contact:
+  name: "Halls municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/halls
+  phone: "(731) 836-9653"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/halls
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex
