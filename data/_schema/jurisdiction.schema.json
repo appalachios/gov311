@@ -26,6 +26,13 @@
       "type": "string",
       "pattern": "^[a-z0-9_/-]+$"
     },
+    "county_options": {
+      "description": "Counties a municipality spans. Set parent to their shared state. Select only the county that contains the address when a county service is needed.",
+      "type": "array",
+      "minItems": 2,
+      "uniqueItems": true,
+      "items": { "type": "string", "pattern": "^[a-z0-9_/-]+$" }
+    },
     "aliases": {
       "description": "Other names people use for this place.",
       "type": "array",

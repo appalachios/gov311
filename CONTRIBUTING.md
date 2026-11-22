@@ -99,6 +99,8 @@ data/
 
 Cities and counties sit side by side under their state. The `parent` field in `jurisdiction.yaml` says which government is one level up. For Benton, Copperhill and Ducktown, set the parent to `us/tn/polk-county`. A search from one of the cities then includes the city, Polk County, Tennessee and federal guides. Outside the city limits, start with the county. Check the authority responsible for each task before applying a rule to a parcel or address. Metro Nashville and Davidson County share one government, so that guide points directly to Tennessee.
 
+When a municipality spans counties, set its `parent` to the shared state and list the county IDs under `county_options`. Farragut lists Knox and Loudon. Cite the official boundary evidence, including territory that has no residents. The address or parcel determines which county to use for a county service. A town ordinance applies to the land it covers across the county line.
+
 ## Add an entry
 
 1. Copy the matching file from [`templates`](templates) into the right folder. Name it with lowercase words joined by hyphens, such as `food-truck-permit.md`.

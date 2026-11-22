@@ -231,6 +231,170 @@ Parent guide sections, nearest first: Polk County, Tennessee (us/tn/polk-county)
 - [Find Ducktown zoning and follow a proposed rezoning](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/ducktown/codes/zoning.md): Find a property on the city's planning map, read the rules for its district and check the planning commission's recommendation before following the final vote at City Hall.
   - source-checked · Checked by codex on 2026-11-21.
 
+## Town of Farragut (us/tn/farragut)
+
+For county services, check which county contains the address. Choose one of these guide sections: Knox County, Tennessee (us/tn/knox-county) or Loudon County, Tennessee (us/tn/loudon-county).
+
+Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/farragut/jurisdiction.yaml): website, main contact, and parent government
+- [Arrange household trash pickup or recycling in Farragut](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/farragut/services/arrange-trash-and-recycling.md): Choose a private hauler for curbside service or use the county’s drop-off instructions. The town lists local options and a separate route for hazardous waste.
+  - source-checked · Checked by codex on 2026-11-21.
+- [Ask about a Farragut municipal court or red-light camera citation](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/farragut/services/ask-about-a-municipal-court-citation.md): Find the clerk for a town ordinance case, review a camera notice and get scheduling information from the court named on the notice.
+  - source-checked · Checked by codex on 2026-11-21.
+- [Find the county that collects property tax on a Farragut parcel](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/farragut/services/check-a-property-tax-bill.md): Farragut has no municipal property tax. Match the parcel to its county, contact the assessor for its value and use the county trustee for payment.
+  - source-checked · Checked by codex on 2026-11-21.
+- [Check Farragut zoning or follow a proposed rezoning](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/farragut/services/check-zoning-or-rezone-land.md): Identify the zoning district on the adopted town map, find the text governing the use, and follow the application through the planning commission and elected board.
+  - source-checked · Checked by codex on 2026-11-21.
+- [Find a pending Farragut ordinance and check what the board approved](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/farragut/services/follow-a-board-meeting.md): Open the board’s meeting packet, read the proposed language, then use the approved minutes to see whether the board amended the motion or passed it.
+  - source-checked · Checked by codex on 2026-11-21.
+- [Apply for a Farragut building permit or request an inspection](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/farragut/services/get-a-building-permit.md): Check the town boundary, ask Planning & Codes which permits you need, then file plans and schedule inspections through MyGovernmentOnline.
+  - source-checked · Checked by codex on 2026-11-21.
+- [Get a Farragut business privilege license](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/farragut/services/get-a-business-privilege-license.md): A business operating from a location inside town generally needs a town license. Check the separate county and state requirements and the extra permit for a home business.
+  - source-checked · Checked by codex on 2026-11-21.
+- [Report a street, drainage or greenway problem in Farragut](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/farragut/services/report-a-street-or-drainage-problem.md): Use the town’s citizen request form for a pothole, missing road sign or public drainage problem and give Public Works the location.
+  - source-checked · Checked by codex on 2026-11-21.
+- [Request a Farragut town record](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/farragut/services/request-town-records.md): Ask the recorder to inspect a record or receive a copy. The town has a form and email address for requests, and state law sets the response timetable.
+  - source-checked · Checked by codex on 2026-11-21.
+- [Start water, sewer, gas or electric service in Farragut](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/farragut/services/start-water-gas-or-electric-service.md): Contact each utility serving the address. Farragut lists separate providers for water and sewer, electricity and natural gas.
+  - source-checked · Checked by codex on 2026-11-21.
+- [Find the sheriff’s non-emergency line and fire service for Farragut](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/farragut/contacts/sheriff-and-fire-services.md): Use Knox 911’s directory for the correct sheriff’s line. Rural Metro is the subscription fire provider identified by the town.
+  - source-checked · Checked by codex on 2026-11-21.
+- [Reach Farragut Town Hall and the town recorder](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/farragut/contacts/town-hall.md): Find the town office for a permit, meeting or public record. Check the parcel’s county before choosing where to file land records or pay county taxes.
+  - source-checked · Checked by codex on 2026-11-21.
+- [How an ordinance becomes law in Farragut](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/farragut/codes/how-farragut-passes-an-ordinance.md): Check the board’s two votes, the final wording and the publication record. Tennessee’s mayor-aldermanic charter governs the town’s ordinance process.
+  - source-checked · Checked by codex on 2026-11-21.
+
+## Knox County, Tennessee (us/tn/knox-county)
+
+Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/knox-county/jurisdiction.yaml): website, main contact, and parent government
+- [Get a building permit in unincorporated Knox County](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/knox-county/services/apply-for-a-building-permit.md): Check the permitting authority for your address, prepare your plans and look up inspections.
+  - source-checked · Checked by codex on 2026-11-21.
+- [Take household trash, recycling or hazardous waste to the right facility](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/knox-county/services/drop-off-trash-and-hazardous-waste.md): Use Knox County convenience centers for eligible household loads. Check the separate Knoxville facility for household chemicals.
+  - source-checked · Checked by codex on 2026-11-21.
+- [Enroll a student in Knox County Schools](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/knox-county/services/enroll-in-knox-county-schools.md): Enroll at the school assigned to the home address. Families without stable housing can get enrollment help even when records are missing.
+  - source-checked · Checked by codex on 2026-11-21.
+- [Find which utility serves a Knox County address](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/knox-county/services/find-a-utility-provider.md): Electricity, gas, drinking water and sewer can come from different providers at the same address. Use the service type and parcel to identify the right district.
+  - source-checked · Checked by codex on 2026-11-21.
+- [Find an existing septic record or get a septic permit in Knox County](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/knox-county/services/find-septic-records-and-permits.md): Email the county health department for an existing system’s record. For a new installation, repair or remodel, call its Groundwater Protection office with the parcel and project details.
+  - source-checked · Checked by codex on 2026-11-21.
+- [Follow a Knox County charter amendment to the ballot](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/knox-county/services/follow-a-charter-amendment.md): Read the proposed charter language, find the public hearings and see what county voters decided.
+  - source-checked · Checked by codex on 2026-11-21.
+- [Track a Knox County ordinance or resolution from proposal to vote](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/knox-county/services/follow-a-county-commission-measure.md): Find pending measures, read what changed on the floor and get the recorded vote or adopted text from the County Clerk.
+  - source-checked · Checked by codex on 2026-11-21.
+- [Follow or comment on a Knox County rezoning](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/knox-county/services/follow-a-rezoning.md): Find a rezoning case by address or file number and read the conditions the County Commission voted to adopt.
+  - source-checked · Checked by codex on 2026-11-21.
+- [Find a Knox County school board proposal, vote or current policy](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/knox-county/services/follow-a-school-board-policy.md): Open the Board of Education’s dated agendas and minutes, then compare the action with the district’s published policy manual.
+  - source-checked · Checked by codex on 2026-11-21.
+- [Get a Tennessee birth or death certificate in Knox County](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/knox-county/services/get-a-birth-or-death-certificate.md): The main health office issues both kinds of records. The West Clinic issues birth certificates only. Check the applicant and identification rules before visiting.
+  - source-checked · Checked by codex on 2026-11-21.
+- [Get a Knox County business license or renew a minimal activity license](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/knox-county/services/get-a-business-license.md): Use the county clerk for the local license and Tennessee Revenue for a standard business tax return. Check whether the location also needs city registration.
+  - source-checked · Checked by codex on 2026-11-21.
+- [Get a recorded deed, plat or easement for a Knox County parcel](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/knox-county/services/get-a-deed.md): Ask the Register of Deeds for recorded copies and use the county parcel lookup if all you have is a street address.
+  - source-checked · Checked by codex on 2026-11-21.
+- [Get a Knox County Public Library card](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/knox-county/services/get-a-library-card.md): Knox County residents and property owners qualify for a free card. Bring the application and address documents to a library branch.
+  - source-checked · Checked by codex on 2026-11-21.
+- [Get a marriage license, book a courthouse wedding or request a copy](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/knox-county/services/get-a-marriage-license.md): Start a license application online and finish with the county clerk. A ceremony is a separate appointment at the Old Courthouse.
+  - source-checked · Checked by codex on 2026-11-21.
+- [Pay a Knox County property tax bill or question the assessed value](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/knox-county/services/pay-or-question-property-tax.md): The trustee collects county taxes. The assessor handles valuation and the county Board of Equalization hears appeals. Knoxville also issues a city tax bill.
+  - source-checked · Checked by codex on 2026-11-21.
+- [Read the Knox County budget](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/knox-county/services/read-the-county-budget.md): Find the proposed and adopted county budgets and see when commissioners can change what gets funded.
+  - source-checked · Checked by codex on 2026-11-21.
+- [Report a pothole, drainage problem or damaged county road](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/knox-county/services/report-a-road-problem.md): Knox County Highway Maintenance handles county roads. Identify whether the road belongs to the county, Knoxville, Farragut or the state before reporting it.
+  - source-checked · Checked by codex on 2026-11-21.
+- [Report a stray animal, animal welfare concern or suspected animal crime](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/knox-county/services/report-an-animal-problem.md): Young-Williams Animal Services handles routine animal control in Knox County and Knoxville. The Sheriff’s Office explains when law enforcement responds.
+  - source-checked · Checked by codex on 2026-11-21.
+- [Request a Knox County government record](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/knox-county/services/request-county-government-records.md): Find the right county records coordinator and ask to inspect a record or get a copy.
+  - source-checked · Checked by codex on 2026-11-21.
+- [Sign up for emergency notifications in Knox County, Tennessee](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/knox-county/services/sign-up-for-emergency-alerts.md): Use the county’s alert enrollment link to receive local warnings by text, email or phone. You can also sign up by phone.
+  - source-checked · Checked by codex on 2026-11-21.
+- [Speak at a Knox County Commission meeting](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/knox-county/services/speak-at-a-commission-meeting.md): Register for public forum or speak to a specific agenda item. A county zoning hearing has its own testimony rules.
+  - source-checked · Checked by codex on 2026-11-21.
+- [Title a vehicle or renew your tags in Knox County](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/knox-county/services/title-and-register-a-vehicle.md): Check the county clerk’s title checklist for how you acquired the vehicle. Renewal, transfer of ownership and a change of address have different filing steps.
+  - source-checked · Checked by codex on 2026-11-21.
+- [Find your Knox County ballot, polling place and election results](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/knox-county/services/vote-in-knox-county.md): Use your residence address to identify your Election Day location. Check the election-specific notice for early voting and the county archive for certified results.
+  - source-checked · Checked by codex on 2026-11-21.
+- [Choose a Knox County Clerk branch for tags, licenses or copies](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/knox-county/contacts/county-clerk.md): Check which transactions the branch accepts before you travel. Driver license renewals and passport applications are available at selected offices.
+  - source-checked · Checked by codex on 2026-11-21.
+- [Contact the Knox County Commission](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/knox-county/contacts/county-commission.md): Find your district commissioner, the two at-large commissioners, meeting notices and the office that can send you a proposal.
+  - source-checked · Checked by codex on 2026-11-21.
+- [Find the Knox County court clerk named on your paperwork](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/knox-county/contacts/court-clerks.md): Choose the clerk for a civil lawsuit, criminal or traffic case, juvenile matter or probate file. Several different courts use the City-County Building.
+  - source-checked · Checked by codex on 2026-11-21.
+- [Find the Knox County office for your address](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/knox-county/contacts/find-the-county-office.md): Check the city and county boundary before choosing a permit desk, tax office or road crew. A Knoxville mailing address can also serve unincorporated Knox County.
+  - source-checked · Checked by codex on 2026-11-21.
+- [Find the Knox County charter, ordinances and resolutions](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/knox-county/codes/county-charter-and-ordinances.md): Read the rules the County Commission uses to pass a law, what a reading means and how to check the effective date.
+  - source-checked · Checked by codex on 2026-11-21.
+- [Find the zoning rules for a Knox County property](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/knox-county/codes/county-zoning.md): Identify the parcel and its government, look up its current zoning, and check adopted changes before using a draft map.
+  - source-checked · Checked by codex on 2026-11-21.
+- [Book a Knox County ride when the city bus route does not reach you](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/knox-county/help/book-a-cac-transit-ride.md): CAC Transit schedules door-to-door rides for qualifying trips outside Knoxville Area Transit’s fixed-route coverage. A separate program can help riders who need assistance during an outing.
+  - source-checked · Checked by codex on 2026-11-21.
+- [Get help with an eviction or rental dispute in Knox County](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/knox-county/help/get-help-with-an-eviction.md): Find legal help anywhere in Knox County. The county’s eviction diversion application serves eligible renters living outside Knoxville and Farragut.
+  - source-checked · Checked by codex on 2026-11-21.
+- [Apply for energy bill assistance in Knox County](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/knox-county/help/get-help-with-utility-bills.md): Knoxville-Knox County Community Action Committee helps households apply for LIHEAP and describes a separate crisis option for the KUB service area.
+  - source-checked · Checked by codex on 2026-11-21.
+- [Reach the Knox County WIC office](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/knox-county/help/make-a-wic-appointment.md): Call the county WIC team to ask about eligibility, arrange an appointment and find out what to bring for the household.
+  - source-checked · Checked by codex on 2026-11-21.
+- [Apply for property tax relief or a senior tax freeze in Knox County](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/knox-county/help/property-tax-relief-and-freeze.md): The trustee offers separate applications for property tax relief and a senior tax freeze. Check both if you own and occupy your home.
+  - source-checked · Checked by codex on 2026-11-21.
+- [Get help filing for veterans benefits in Knox County](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/knox-county/help/veterans-benefits.md): The county Veterans Services office helps veterans and families file benefit claims, understand decisions and seek review.
+  - source-checked · Checked by codex on 2026-11-21.
+
+## City of Knoxville (us/tn/knoxville)
+
+Parent guide sections, nearest first: Knox County, Tennessee (us/tn/knox-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/knoxville/jurisdiction.yaml): website, main contact, and parent government
+- [Check Knoxville trash and recycling pickup or report a missed collection](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/knoxville/services/check-trash-and-recycling.md): Look up your eligible city address, check which items crews take and report a collection or cart problem to 311.
+  - source-checked · Checked by codex on 2026-11-21.
+- [Track a Knoxville council proposal from its agenda to the final vote](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/knoxville/services/follow-a-city-council-vote.md): Open the agenda attachments and minutes. A Vance Road rezoning shows why a planning decision or an agenda heading can give an incomplete answer.
+  - source-checked · Checked by codex on 2026-11-21.
+- [Check which business licenses a Knoxville location needs](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/knoxville/services/get-a-business-license.md): Check annual receipts and exemptions, then file with the City of Knoxville and Knox County if local licenses are required.
+  - source-checked · Checked by codex on 2026-11-21.
+- [Pay or contest a Knoxville city citation](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/knoxville/services/knoxville-city-court-ticket.md): Identify whether Knoxville City Court or KnoxPark took the citation, then use the matching payment or appeal instructions.
+  - source-checked · Checked by codex on 2026-11-21.
+- [Pay Knoxville city property taxes and find the county bill](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/knoxville/services/pay-property-taxes.md): The city collects Knoxville property tax. The county sends its own bill, values the property and keeps recorded deeds.
+  - source-checked · Checked by codex on 2026-11-21.
+- [Plan a Knoxville Area Transit bus trip](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/knoxville/services/plan-a-bus-trip.md): Find a KAT stop, check the service day and choose a route or transfer. Transit agents can plan a trip by phone.
+  - source-checked · Checked by codex on 2026-11-21.
+- [Find Knoxville’s proposed budget, council hearings and adopted budget](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/knoxville/services/read-the-city-budget.md): Compare what the mayor proposed with the budget Council approved, then check for later amendments to the fund you are following.
+  - source-checked · Checked by codex on 2026-11-21.
+- [Request a Knoxville neighborhood code inspection](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/knoxville/services/report-a-neighborhood-code-violation.md): Report an unsafe building, illegal dumping, abandoned vehicle or overgrown lot to Neighborhood Codes Enforcement and follow the case.
+  - source-checked · Checked by codex on 2026-11-21.
+- [Report a Knoxville street, streetlight or drainage problem](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/knoxville/services/report-street-and-drainage.md): Find the right city service request for a pothole, dark streetlight or blocked drain and explain where the crew should look.
+  - source-checked · Checked by codex on 2026-11-21.
+- [Request a Knoxville permit, police record or other city document](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/knoxville/services/request-city-records.md): Find the office that keeps the record. Knoxville has separate routes for property files, police records, utility records and other public documents.
+  - source-checked · Checked by codex on 2026-11-21.
+- [Get a residential building permit in the City of Knoxville](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/knoxville/services/residential-building-permit.md): Check the city boundary, select the right permit for the work and follow the city’s plan review, permitting and inspection steps.
+  - source-checked · Checked by codex on 2026-11-21.
+- [Find the utility for a Knoxville address and start service](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/knoxville/services/set-up-utility-service.md): Electric, water and sewer service areas can differ. Check the provider for each service before opening an account.
+  - source-checked · Checked by codex on 2026-11-21.
+- [Reach Knoxville 311 and check whether your address is inside the city](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/knoxville/contacts/city-311.md): Find the government responsible for an address, file a city service request and look up a city work order.
+  - source-checked · Checked by codex on 2026-11-21.
+- [Contact the Knoxville City Recorder about a council meeting or ordinance](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/knoxville/contacts/city-recorder.md): Ask for a pending ordinance, sign up to speak on a council agenda item or obtain the final record of a vote.
+  - source-checked · Checked by codex on 2026-11-21.
+- [Reach Knoxville Police for a non-emergency or a police report](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/knoxville/contacts/police-non-emergency.md): Call the city police non-emergency line for a Knoxville incident. The police records office handles reports and video requests separately.
+  - source-checked · Checked by codex on 2026-11-21.
+- [Find the zoning for a Knoxville parcel and track a proposed change](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/knoxville/codes/check-zoning.md): Use the city boundary and zoning map, read the district and overlay rules, and follow the planning case to the council’s action.
+  - source-checked · Checked by codex on 2026-11-21.
+- [How Knoxville City Council passes an ordinance](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/knoxville/codes/city-ordinances.md): Read the written proposal between readings, compare any amendments and check the recorded vote and effective date.
+  - source-checked · Checked by codex on 2026-11-21.
+- [Find shelter, food and other emergency assistance in Knoxville](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/knoxville/help/find-housing-and-emergency-assistance.md): Call 211 or search by ZIP code to find community organizations offering the kind of assistance you need.
+  - source-checked · Checked by codex on 2026-11-21.
+- [Ask Knoxville for help repairing the home you own and live in](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/knoxville/help/repair-an-owner-occupied-home.md): Use the city’s screening form for owner-occupied housing rehabilitation. An eligible homeowner then interviews with the city for the full application.
+  - source-checked · Checked by codex on 2026-11-21.
+- [Apply for Knoxville LIFT paratransit or arrange service as a visitor](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/knoxville/help/use-lift-paratransit.md): Complete the signed local application if you live in the service area. Visitors can use ADA eligibility from their home transit system to arrange temporary rides.
+  - source-checked · Checked by codex on 2026-11-21.
+
+## Loudon County, Tennessee (us/tn/loudon-county)
+
+Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/loudon-county/jurisdiction.yaml): website, main contact, and parent government
+- [Find the deed, assessment or tax bill for a Loudon County parcel](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/loudon-county/services/find-property-records.md): Use Loudon County land records when the parcel lies on its side of the Knox County line. Part of Farragut falls in Loudon County.
+  - source-checked · Checked by codex on 2026-11-21.
+
 ## Metropolitan Government of Nashville and Davidson County (us/tn/nashville)
 
 Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).

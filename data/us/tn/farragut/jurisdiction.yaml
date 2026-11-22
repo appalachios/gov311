@@ -1,0 +1,18 @@
+name: Town of Farragut
+level: town
+ocd_id: ocd-division/country:us/state:tn/place:farragut
+parent: us/tn/_state
+county_options: [us/tn/knox-county, us/tn/loudon-county]
+aliases: [Farragut]
+website: https://www.townoffarragut.org/
+general_contact:
+  name: Farragut Town Hall
+  phone: 865-966-7057
+  url: https://www.townoffarragut.org/250/Town-Hall-Meetings
+  hours: Monday through Friday, 8 a.m. to 5 p.m. Eastern
+sources:
+  - https://www.townoffarragut.org/250/Town-Hall-Meetings
+  - https://tnecd.com/?force_download=129209
+  - https://www2.census.gov/geo/docs/reference/codes2020/national_place_by_county2020.txt
+last_verified: 2026-11-21
+verified_by: codex

@@ -1,0 +1,16 @@
+name: Loudon County, Tennessee
+level: county
+ocd_id: ocd-division/country:us/state:tn/county:loudon
+parent: us/tn/_state
+aliases: [Loudon County, Loudon County TN, unincorporated Loudon County]
+website: https://loudoncounty-tn.gov/
+general_contact:
+  name: Loudon County Mayor’s Office
+  phone: 865-458-4664
+  url: https://loudoncounty-tn.gov/
+sources:
+  - https://www.ctas.tennessee.edu/county/loudon
+  - https://loudoncounty-tn.gov/
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-21
+verified_by: codex

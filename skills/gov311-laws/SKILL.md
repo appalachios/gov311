@@ -15,6 +15,8 @@ With a checkout, open the place’s `jurisdiction.yaml` in `../../data` relative
 
 A Ducktown ordinance belongs in Ducktown's municipal records. A Polk County Commission resolution belongs in county records, even when a city resident asks about it. Start at the county for an unincorporated area and check the measure's stated geographic reach. For a Tennessee bill, start with the General Assembly. Follow the parent chain to find related state or federal authority when the question calls for it.
 
+Some towns span counties. In a town with `county_options`, use town records for a town ordinance. For a county rule, identify the county containing the land and check the rule’s geographic reach. Pass that county ID as `county` alongside the town’s `jurisdiction` in MCP search, or choose that county’s section in the public index.
+
 ## Follow the decision
 
 - **Before a local vote.** Check the dated meeting notice, agenda, and proposed text for the named body. Open the charter, governing statute, or procedural rules to see which readings, hearings, notice, or votes apply there. If the text is missing online, give the clerk or recorder's documented route to request the packet. A posted agenda shows planned business.

@@ -19,6 +19,10 @@ const lines = [
 
 for (const j of [...jurisdictions.values()].sort((a, b) => a.id.localeCompare(b.id))) {
   lines.push(`## ${j.meta.name} (${j.id})`, "");
+  if (j.meta.county_options) {
+    const choices = j.meta.county_options.map((id) => `${jurisdictions.get(id).meta.name} (${id})`);
+    lines.push(`For county services, check which county contains the address. Choose one of these guide sections: ${choices.join(" or ")}.`, "");
+  }
   const parents = jurisdictionChain(jurisdictions, j.id).slice(1);
   if (parents.length) {
     lines.push(`Parent guide sections, nearest first: ${parents.map((p) => `${p.meta.name} (${p.id})`).join(" → ")}.`, "");

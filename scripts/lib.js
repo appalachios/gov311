@@ -80,14 +80,15 @@ export function loadData() {
 }
 
 /** Return a jurisdiction and every government above it, nearest first. */
-export function jurisdictionChain(jurisdictions, id) {
+export function jurisdictionChain(jurisdictions, id, county) {
   const chain = [];
   const seen = new Set();
   let current = jurisdictions.get(id);
   while (current && !seen.has(current.id)) {
     chain.push(current);
     seen.add(current.id);
-    current = current.meta.parent ? jurisdictions.get(current.meta.parent) : undefined;
+    const parent = county && current.meta.county_options?.includes(county) ? county : current.meta.parent;
+    current = jurisdictions.get(parent);
   }
   return chain;
 }
@@ -99,7 +100,23 @@ function placeNames(jurisdiction) {
   return names.map(normalizePlace);
 }
 
-/** Match a place's own name, optionally qualified by any of its actual parents. */
+// Prefer a whole name or alias. Preserve word-based matches for names such as Nashville Davidson County.
+function placeMatch(jurisdiction, name, parents) {
+  const candidates = new Set([name]);
+  for (const parent of parents.slice().reverse()) {
+    for (const candidate of [...candidates]) {
+      for (const qualifier of placeNames(parent)) {
+        if (candidate.endsWith(" " + qualifier)) candidates.add(candidate.slice(0, -(qualifier.length + 1)));
+      }
+    }
+  }
+  const names = placeNames(jurisdiction);
+  if (names.some((n) => candidates.has(n))) return 2;
+  const ownWords = new Set(names.flatMap((n) => n.split(" ")));
+  return [...candidates].some((c) => c.split(" ").every((word) => ownWords.has(word))) ? 1 : 0;
+}
+
+/** Match a place, retaining the selected county only when the query identifies one. */
 export function findJurisdictions(jurisdictions, place) {
   const idMatch = jurisdictions.get(place.trim().toLowerCase());
   if (idMatch) return [idMatch];
@@ -107,26 +124,23 @@ export function findJurisdictions(jurisdictions, place) {
   const rural = query.startsWith("unincorporated ");
   const name = rural ? query.slice("unincorporated ".length) : query;
   if (!name) return [];
-  const exact = [];
-  const partial = [];
+  const matches = [];
   for (const j of jurisdictions.values()) {
     if (rural && !["county", "consolidated-city-county"].includes(j.meta.level)) continue;
-    const candidates = new Set([name]);
-    // Strip whole parent names from the end, in geographic order (e.g. TN, then Polk County).
-    // Keep the original at each step because any parent qualifier can be omitted.
-    for (const parent of jurisdictionChain(jurisdictions, j.id).slice(1).reverse()) {
-      for (const candidate of [...candidates]) {
-        for (const qualifier of placeNames(parent)) {
-          if (candidate.endsWith(" " + qualifier)) candidates.add(candidate.slice(0, -(qualifier.length + 1)));
-        }
+    const parents = jurisdictionChain(jurisdictions, j.id).slice(1);
+    let rank = placeMatch(j, name, parents);
+    let selected;
+    for (const id of j.meta.county_options ?? []) {
+      const county = jurisdictions.get(id);
+      if (!county) continue;
+      const qualified = placeMatch(j, name, [county, ...parents]);
+      if (qualified > rank) {
+        rank = qualified;
+        selected = id;
       }
     }
-    const names = placeNames(j);
-    if (names.some((n) => candidates.has(n))) exact.push(j);
-    else {
-      const ownWords = new Set(names.flatMap((n) => n.split(" ")));
-      if ([...candidates].some((c) => c.split(" ").every((word) => ownWords.has(word)))) partial.push(j);
-    }
+    if (rank) matches.push({ rank, place: selected ? { ...j, county: selected } : j });
   }
-  return exact.length ? exact : partial;
+  const best = Math.max(0, ...matches.map((m) => m.rank));
+  return matches.filter((m) => m.rank === best).map((m) => m.place);
 }

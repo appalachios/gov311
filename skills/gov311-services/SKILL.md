@@ -13,6 +13,8 @@ Identify the office that can act on this request. A city name on a water bill or
 - In a checkout, find the place in `../../data` relative to this skill. Read its `jurisdiction.yaml` and follow each `parent` ID from the data root. When installed on its own, the skill can use the [public index](https://raw.githubusercontent.com/appalachios/gov311/main/llms.txt). Check the parent guide sections under the place's heading and open the matching guide. A reader can paste the guide if the chat cannot open links.
 - For a question in one of Polk County's incorporated cities in Tennessee, check that city's guides, then Polk County, Tennessee, and federal guides as relevant. Start at the county for unincorporated property. When a town has no guide, check the responsible county or state office for its own services. Check the issuing office before applying any service found in the chain.
 
+If a municipality has `county_options`, use the county that holds the parcel or residence for this service. For example, a Farragut deed can belong to Knox or Loudon County. With MCP, pass both the town ID as `jurisdiction` and the confirmed county ID as `county` to `search`. In the index or checkout, follow that county’s guide section. If the county is unknown, give the conditional routes or ask for the county.
+
 ## Explain the next step
 
 Read the full guide and its official sources. Identify who can apply, what to bring, how to file, and which office handles the next step. A recorder may receive a city records request while the county register holds recorded deeds. A regional utility may serve an address inside or outside a city. For a filing, distinguish submitting documents from receiving approval or paying the fee.
