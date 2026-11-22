@@ -1,0 +1,15 @@
+name: City of Ducktown
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:ducktown
+parent: us/tn/polk-county
+aliases: [Ducktown]
+website: https://polkcountytn.gov/city-offices/
+general_contact:
+  name: Ducktown City Hall
+  phone: 423-496-3546
+  url: https://polkcountytn.gov/city-offices/
+sources:
+  - https://polkcountytn.gov/city-offices/
+  - https://www.mtas.tennessee.edu/directories/cities/ducktown
+last_verified: 2026-11-21
+verified_by: codex

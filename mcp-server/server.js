@@ -5,7 +5,7 @@
 import { McpServer } from "@modelcontextprotocol/sdk/server/mcp.js";
 import { StdioServerTransport } from "@modelcontextprotocol/sdk/server/stdio.js";
 import { z } from "zod";
-import { ENTRY_TYPES, STALE_AFTER_DAYS, daysSince, jurisdictionChain, loadData } from "../scripts/lib.js";
+import { ENTRY_TYPES, STALE_AFTER_DAYS, daysSince, findJurisdictions, jurisdictionChain, loadData } from "../scripts/lib.js";
 
 const AUDIENCES = ["residents-in-need", "nonprofits", "builders", "homeowners", "renters", "small-business", "everyone"];
 const NOTICE =
@@ -68,18 +68,14 @@ server.tool(
 
 server.tool(
   "find_jurisdiction",
-  "Find a government by place name, for example 'Nashville' or 'Tennessee'. Returns each match with the governments above it (city, then state, then federal), because a person's question may belong to any of those levels.",
+  "Find a government by name or by a place qualified with its county and state, such as 'Benton, Polk County, TN'. Returns each match and its parent chain, nearest first. For unincorporated areas, look up the county.",
   { place: z.string().describe("City, county, state, or country name") },
   async ({ place }) => {
-    const wanted = words(place);
-    const matches = [...jurisdictions.values()].filter((j) => {
-      const names = words([j.meta.name, ...(j.meta.aliases ?? []), j.id].join(" "));
-      return wanted.length > 0 && wanted.every((w) => names.includes(w));
-    });
+    const matches = findJurisdictions(jurisdictions, place);
     if (matches.length === 0) {
       return text({
         matches: [],
-        note: `No jurisdiction matched "${place}". If the question concerns a state service or bill, call find_jurisdiction with the state name. For a local service with no guide, consult the responsible government's official sources. Anyone can add a place at https://github.com/appalachios/gov311.`,
+        note: `No jurisdiction matched "${place}". For a county service or a state program, look up the county or state by name. For a municipal service with no guide, consult the municipality's official sources. Anyone can add a place at https://github.com/appalachios/gov311.`,
       });
     }
     return text({
@@ -93,7 +89,7 @@ server.tool(
 
 server.tool(
   "search",
-  "Search Gov311 entries. Give a jurisdiction id to search that government and every government above it. Results nearest to the person come first.",
+  "Search Gov311 entries. Give a jurisdiction id to search that government and every government above it. Results are ranked by relevance. Equally relevant guides from nearer governments appear first.",
   {
     query: z.string().describe("What the person needs, in plain words. Example: 'permit to build a deck'"),
     jurisdiction: z.string().optional().describe("Jurisdiction id from find_jurisdiction, for example us/tn/nashville"),
@@ -127,7 +123,7 @@ server.tool(
       results,
       note: results.length
         ? "Call get_entry with an id to read the full steps, contacts, and sources."
-        : "No entry matched. Search official .gov sites instead and say that the answer is unverified.",
+        : "No entry matched. Consult the responsible government's official sources and say which information came from outside Gov311.",
     });
   },
 );

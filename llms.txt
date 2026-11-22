@@ -2,7 +2,7 @@
 
 > Gov311 is an independent community guide to government services, contacts, laws, and help. A source-checked guide names the person or tool that checked it against official sources. A draft has an incomplete check. A human review note tells you which detail to confirm with the office. Use the official links in each guide when you answer.
 
-To answer a question, find the person's city or county below, then read the matching entry. If the local section has no answer, check the state section, then the federal section.
+Find the person's city below, or start with the county if they live outside city limits. Each heading lists its parent guide sections. Read the entry for the office that runs the service or the body that adopted the law.
 
 ## United States federal government (us/_federal)
 
@@ -15,6 +15,8 @@ To answer a question, find the person's city or county below, then read the matc
   - draft · Research by claude-code on 2026-11-21.
 
 ## State of Tennessee (us/tn/_state)
+
+Parent guide sections, nearest first: United States federal government (us/_federal).
 
 - [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/_state/jurisdiction.yaml): website, main contact, and parent government
 - [Appeal a TennCare eligibility or medical decision](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/_state/services/appeal-a-tenncare-decision.md): The notice tells you what TennCare decided. Use an eligibility appeal to challenge a decision about getting or keeping coverage. Use a medical appeal for a problem getting care through your plan.
@@ -164,7 +166,74 @@ To answer a question, find the person's city or county below, then read the matc
 - [Find Tennessee help with starting a small business](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/_state/help/small-business-startup.md): The Department of Economic and Community Development publishes a startup guide covering registration, permits, financing, and business support.
   - source-checked · Checked by codex on 2026-11-21.
 
+## City of Benton (us/tn/benton)
+
+Parent guide sections, nearest first: Polk County, Tennessee (us/tn/polk-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/benton/jurisdiction.yaml): website, main contact, and parent government
+- [Get a permit to build a home in Benton](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/benton/services/apply-for-a-residential-building-permit.md): Arrange the state residential building permit for a new one- or two-family home inside Benton and check local zoning with the city.
+  - source-checked · Checked by codex on 2026-11-21.
+- [Find the date and time of a Benton city board meeting](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/benton/services/attend-a-city-board-meeting.md): Get the meeting notice and agenda from the city recorder. Published schedules disagree on when the regular board meeting starts.
+  - draft · Research by codex on 2026-11-21.
+  - Human review (conflicting evidence). The city charter requires an ordinance to set the regular meeting time. The published code says 7 p.m. and the county and municipal directories say 10 a.m. The Benton city recorder holds the current ordinance and dated meeting notice needed to reconcile the listings.
+- [Check zoning or a proposed subdivision in Benton](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/benton/services/check-zoning-and-subdivision.md): Find a parcel on the municipal zoning map, read the rules for its district and get the planning commission agenda.
+  - source-checked · Checked by codex on 2026-11-21.
+- [Respond to a Benton city traffic ticket](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/benton/services/respond-to-a-city-traffic-ticket.md): Identify the court on the ticket, reach the city court clerk and find the city payment service for eligible citations.
+  - source-checked · Checked by codex on 2026-11-21.
+- [Start water or sewer service in Benton](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/benton/services/start-water-and-sewer.md): Check whether the city serves your address and ask for a new account or a new connection.
+  - source-checked · Checked by codex on 2026-11-21.
+- [Benton City Hall and city recorder](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/benton/contacts/city-hall.md): Contact City Hall about Benton water, sewer, sanitation, street maintenance, police administration or records of city board decisions.
+  - source-checked · Checked by codex on 2026-11-21.
+- [How Benton passes an ordinance](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/benton/codes/city-ordinances.md): Find the full wording behind a caption, check both readings and work out when a city ordinance takes effect.
+  - source-checked · Checked by codex on 2026-11-21.
+
+## City of Copperhill (us/tn/copperhill)
+
+Parent guide sections, nearest first: Polk County, Tennessee (us/tn/polk-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/copperhill/jurisdiction.yaml): website, main contact, and parent government
+- [Get a permit to build a home in Copperhill](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/copperhill/services/apply-for-a-residential-building-permit.md): Arrange the state residential building permit for a new one- or two-family home inside Copperhill and check local zoning with the city.
+  - source-checked · Checked by codex on 2026-11-21.
+- [Apply for a sign permit in Copperhill](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/copperhill/services/apply-for-a-sign-permit.md): Find the city sign application, the drawings it asks for and where to submit it before installation.
+  - source-checked · Checked by codex on 2026-11-21.
+- [Find a Copperhill meeting agenda, ordinance or recorded vote](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/copperhill/services/follow-a-city-meeting.md): Read the board packet and trace a proposal from its first reading to the minutes showing the final vote.
+  - source-checked · Checked by codex on 2026-11-21.
+- [Start household trash pickup or report a missed Copperhill collection](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/copperhill/services/household-trash.md): Find the pickup day, curbside bag limit and city contact for household garbage.
+  - source-checked · Checked by codex on 2026-11-21.
+- [Set up water and sewer service in Copperhill](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/copperhill/services/start-water-and-sewer.md): Bring your ID and lease or proof of purchase to City Hall to start an account for an address served by the city.
+  - source-checked · Checked by codex on 2026-11-21.
+- [Copperhill City Hall and city recorder](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/copperhill/contacts/city-hall.md): Reach the city about utility accounts, household trash, local permits, meeting packets or a signed city ordinance.
+  - source-checked · Checked by codex on 2026-11-21.
+- [How Copperhill passes an ordinance](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/copperhill/codes/city-ordinances.md): Read the proposal before its second vote, then check the minutes and get the ordinance on file with the city recorder.
+  - source-checked · Checked by codex on 2026-11-21.
+
+## City of Ducktown (us/tn/ducktown)
+
+Parent guide sections, nearest first: Polk County, Tennessee (us/tn/polk-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/ducktown/jurisdiction.yaml): website, main contact, and parent government
+- [Get the right business licenses for a Ducktown location](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/ducktown/services/business-license.md): Ducktown levies a city business tax. Check your activity and receipts with Tennessee Revenue, then contact City Hall and the Polk County Clerk for the local licenses that apply.
+  - source-checked · Checked by codex on 2026-11-21.
+- [Apply for a Ducktown building permit](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/ducktown/services/get-building-permit.md): For a project inside Ducktown, call City Hall for the building inspector. Give the address and scope of work so the inspector can identify city permits, plan requirements, fees and occupancy approval.
+  - source-checked · Checked by codex on 2026-11-21.
+- [Check a Ducktown city property tax bill](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/ducktown/services/property-tax-bill.md): Ask Ducktown City Hall about the city tax bill, the Polk County Trustee about the county bill, and the county property assessor about the property value used to calculate them.
+  - source-checked · Checked by codex on 2026-11-21.
+- [Request Ducktown city records](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/ducktown/services/request-city-records.md): Ask the city recorder for an existing city record. Include the meeting date, subject or ordinance number, and say whether you want to inspect it or receive a copy.
+  - source-checked · Checked by codex on 2026-11-21.
+- [Find your Ducktown trash pickup or a county drop-off](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/ducktown/services/trash-collection.md): Call City Hall for your street’s pickup day and current charges. Polk County also accepts household trash from the county at its convenience centers.
+  - source-checked · Checked by codex on 2026-11-21.
+- [Start water service or pay a utility bill in Ducktown](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/ducktown/services/water-and-sewer.md): Copper Basin Utility District handles Ducktown water and sewer. Call the district with your street address to check service or open an account. Existing customers can pay through the district's website.
+  - source-checked · Checked by codex on 2026-11-21.
+- [Ducktown City Hall and city recorder](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/ducktown/contacts/city-hall.md): Call City Hall for city permits, Board of Commissioners meetings or city records. The clerk also serves as city recorder and keeps the ordinances and meeting minutes.
+  - source-checked · Checked by codex on 2026-11-21.
+- [Follow a proposed Ducktown ordinance and find the law that passed](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/ducktown/codes/city-ordinances.md): The Board of Commissioners reads an ordinance’s caption aloud. Get the full proposal from the city clerk, compare the version at the second reading and use the ordinance book to see what passed.
+  - source-checked · Checked by codex on 2026-11-21.
+- [Find Ducktown zoning and follow a proposed rezoning](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/ducktown/codes/zoning.md): Find a property on the city's planning map, read the rules for its district and check the planning commission's recommendation before following the final vote at City Hall.
+  - source-checked · Checked by codex on 2026-11-21.
+
 ## Metropolitan Government of Nashville and Davidson County (us/tn/nashville)
+
+Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
 
 - [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/nashville/jurisdiction.yaml): website, main contact, and parent government
 - [Get a residential building permit in Nashville](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/nashville/services/residential-building-permit.md): Homeowners can email a signed application and notarized affidavits to start a Nashville residential self-permit. After the required approvals, contact Permit Issuance to obtain the permit. Registered contractors can file through ePermits.
@@ -178,4 +247,52 @@ To answer a question, find the person's city or county below, then read the matc
 - [Look up zoning rules for a Nashville property](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/nashville/codes/zoning.md): Nashville's zoning rules are in Title 17 of the Metro Code. The Davidson County Parcel Viewer shows the zoning district and overlays for any property.
   - source-checked · Checked by codex on 2026-11-21.
 - [Free legal help with an eviction in Nashville](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/nashville/help/eviction-legal-help.md): The Legal Aid Society offers free legal help to Davidson County renters who qualify, including a phone line for people facing eviction. Court deadlines are short, so call as soon as you receive a notice or court papers.
+  - source-checked · Checked by codex on 2026-11-21.
+
+## Polk County, Tennessee (us/tn/polk-county)
+
+Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/polk-county/jurisdiction.yaml): website, main contact, and parent government
+- [Get a building permit outside Polk County’s city limits](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/polk-county/services/build-in-unincorporated-polk.md): Apply in person at the county assessor’s office. Check the parcel first and arrange any separate septic, address and electrical approvals.
+  - source-checked · Checked by codex on 2026-11-21.
+- [Get a recorded deed or plat in Polk County](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/polk-county/services/find-a-deed.md): The Register of Deeds in Benton keeps the recorded documents for land throughout the county, including its cities.
+  - source-checked · Checked by codex on 2026-11-21.
+- [Follow a Polk County resolution from the agenda to the vote](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/polk-county/services/follow-a-county-resolution.md): Find the next agenda, ask to speak, read the proposed resolution, and check the minutes for amendments and the vote.
+  - source-checked · Checked by codex on 2026-11-21.
+- [Find a proposed or adopted Polk County school board policy](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/polk-county/services/follow-a-school-board-policy.md): Use the district’s meeting packets for a proposed change and the board’s policy manual for the numbered policy it adopted.
+  - source-checked · Checked by codex on 2026-11-21.
+- [Get the local business license for a Polk County location](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/polk-county/services/get-a-business-license.md): Start with the county clerk and check whether the city also issues a license. Tennessee Revenue explains which license applies to each business location.
+  - source-checked · Checked by codex on 2026-11-21.
+- [Apply for a marriage license in Polk County](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/polk-county/services/get-a-marriage-license.md): Choose the Benton or Copper Basin clerk’s office and check what to bring. Tennessee law sets a specific rule for an applicant who is 17.
+  - source-checked · Checked by codex on 2026-11-21.
+- [Look up a Polk County assessment or pay a property tax bill](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/polk-county/services/property-taxes.md): The assessor handles the parcel and value. The trustee collects county property taxes. A city may also send a bill.
+  - source-checked · Checked by codex on 2026-11-21.
+- [Find the Polk County budget, amendments and annual audit](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/polk-county/services/read-a-county-budget.md): Compare the budget proposed for a fiscal year with the commission’s votes and the later audit of county finances.
+  - source-checked · Checked by codex on 2026-11-21.
+- [Enroll a student in Polk County Schools](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/polk-county/services/register-a-student.md): Check the district’s registration instructions and contact the school about records, including what to do when a document is missing.
+  - source-checked · Checked by codex on 2026-11-21.
+- [Report a pothole, blocked culvert or damaged sign on a Polk County road](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/polk-county/services/report-a-road-problem.md): Reach the East or West Polk road crew and find the state reporting route for a Tennessee highway.
+  - source-checked · Checked by codex on 2026-11-21.
+- [Take household trash to a Polk County convenience center](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/polk-county/services/take-trash-to-a-convenience-center.md): Find the nearest county drop-off, check its hours and get the right authorization if your vehicle has out-of-county plates.
+  - source-checked · Checked by codex on 2026-11-21.
+- [Find your Polk County polling place, sample ballot or election result](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/polk-county/services/vote-in-polk-county.md): Use the county election office for registration changes, precincts, local ballot notices and results in Benton, Copperhill, Ducktown and unincorporated Polk County.
+  - source-checked · Checked by codex on 2026-11-21.
+- [Reach the Polk County Clerk in Benton or Copperhill](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/polk-county/contacts/county-clerk.md): Get vehicle tags and titles, marriage licenses and business license information, or request a County Commission record.
+  - source-checked · Checked by codex on 2026-11-21.
+- [Find the Polk County office that handles your question](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/polk-county/contacts/county-offices.md): Start here for county business. Benton, Copperhill and Ducktown also have city offices, and several county services have a second location in the Copper Basin.
+  - source-checked · Checked by codex on 2026-11-21.
+- [Find the Polk County clerk for a court case, probate or jury service](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/polk-county/contacts/court-clerks.md): The Clerk of Court and the Chancery Clerk and Master work in different buildings in Benton. The court named on your paperwork tells you which one to call.
+  - source-checked · Checked by codex on 2026-11-21.
+- [Reach the Polk County Health Department in Benton or Copperhill](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/polk-county/contacts/health-department.md): Contact a local public health office about appointments, family services and referrals, including WIC.
+  - source-checked · Checked by codex on 2026-11-21.
+- [Contact the Polk County Sheriff for a non-emergency](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/polk-county/contacts/sheriff.md): Find the county reporting number, the Benton office and the Copper Basin office.
+  - source-checked · Checked by codex on 2026-11-21.
+- [Find a Tennessee private act that applies to Polk County](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/polk-county/codes/polk-private-acts.md): Trace a bill about Polk County through the General Assembly, read the private chapter and check whether it needed local approval.
+  - source-checked · Checked by codex on 2026-11-21.
+- [Check Polk County subdivision and floodplain rules before splitting land](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/polk-county/codes/subdivision-and-floodplain.md): Find out which planning commission has the parcel, get the rules and meeting agenda, and check who signs the final plat before recording.
+  - source-checked · Checked by codex on 2026-11-21.
+- [Get help after the November 2026 Polk County flood](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/polk-county/help/november-2026-flood-recovery.md): Report local damage, find Tennessee’s household and small-business applications, and check federal disaster loan options for the November 5 flooding.
+  - source-checked · Checked by codex on 2026-11-21.
+- [Get local help with veterans benefits in Polk County](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/polk-county/help/veterans-benefits.md): The county Veterans Service Office connects veterans and their families with benefits, VA information and local referrals.
   - source-checked · Checked by codex on 2026-11-21.

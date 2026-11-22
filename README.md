@@ -2,7 +2,7 @@
 
 Many cities have a 311 line for questions about local services. Gov311 brings that idea to AI chat. Ask where to apply for food assistance, who issues a building permit, or how to tell whether a bill became law. Each guide points you to the government office or public record behind the answer.
 
-Gov311 is a community project covering Tennessee state government, Nashville, and selected federal services. You can use the guides in a chat or read them yourself. The guides are independent of the agencies they describe.
+Gov311 is a community project covering Tennessee state government, Metro Nashville, Polk County and its three cities, and selected federal services. You can use the guides in a chat or read them yourself. The guides are independent of the agencies they describe.
 
 ## Ask in ChatGPT, Claude, or Grok Bot
 
@@ -32,20 +32,32 @@ How can I tell whether an amendment changed the bill I'm reading?
 
 If the chat cannot open the index, open a guide yourself. Select **Raw** on its GitHub page, copy the text into your chat, and ask your question. You can also follow the official links yourself. If the assistant cannot open an official page, paste the passage you want explained. [Track a Tennessee bill](data/us/tn/_state/services/track-a-bill.md) · [Read a caption bill and its amendments](data/us/tn/_state/services/read-a-caption-bill.md) · [Find a Tennessee state office](data/us/tn/_state/contacts/state-government-directory.md) · [Browse all guides](data)
 
-### Save Gov311 for next time
+### Save a skill for next time
 
-A saved skill lets you start a new chat with a question like “Use Gov311 to help me find a Tennessee licensing board.”
+Start with **Gov311** if you’re unsure which office to ask. You can also save either of the other skills on its own.
+
+| Skill | When to use it | Files |
+| --- | --- | --- |
+| Gov311 | “I live outside Benton. Is this a city, county, or state question?” | [Instructions](https://raw.githubusercontent.com/appalachios/gov311/main/skills/gov311/SKILL.md) · [Claude ZIP](assets/gov311-skill.zip) |
+| Gov311 Services | “Who takes my property tax payment in Polk County?” | [Instructions](https://raw.githubusercontent.com/appalachios/gov311/main/skills/gov311-services/SKILL.md) · [Claude ZIP](assets/gov311-services-skill.zip) |
+| Gov311 Laws | “How can I tell whether Ducktown passed the ordinance on its agenda?” | [Instructions](https://raw.githubusercontent.com/appalachios/gov311/main/skills/gov311-laws/SKILL.md) · [Claude ZIP](assets/gov311-laws-skill.zip) |
 
 - **ChatGPT.** If your Business, Enterprise, Healthcare, or Edu workspace has skills enabled, open **Plugins → Skills → Create → Create with chat**. Send the message below, then select **Install** when prompted. [ChatGPT skills help](https://help.openai.com/en/articles/20001066-skills-in-chatgpt)
-- **Claude.** Download the [Gov311 skill ZIP](assets/gov311-skill.zip). If GitHub opens a file page, select **View raw** to download it. In Claude, open **Customize → Skills → + → Create skill → Upload a skill**. Choose the ZIP and turn on Gov311. This requires code execution and file creation to be enabled in your account or workspace. [Claude skills help](https://support.claude.com/en/articles/12512180-use-skills-in-claude)
-- **Grok Bot.** Send the message below to your Bot to save Gov311 as a private skill. You can then ask for Gov311 by name. [Grok Bot skills help](https://docs.x.ai/grok-bot/skills-routines-and-automations)
+- **Claude.** Download the **Claude ZIP** for the skill you want from the table above. If GitHub opens a file page, select **View raw** to download it. In Claude, open **Customize → Skills → + → Create skill → Upload a skill**. Choose the ZIP and turn on that skill. Repeat for any others you want. This requires code execution and file creation to be enabled in your account or workspace. [Claude skills help](https://support.claude.com/en/articles/12512180-use-skills-in-claude)
+- **Grok Bot.** Send the message below to your Bot to save a private skill. You can then ask for it by name. [Grok Bot skills help](https://docs.x.ai/grok-bot/skills-routines-and-automations)
 
 ```text
-Save a personal skill named Gov311. Use the exact instructions in
+Save a personal skill named Gov311. Use the instructions in
 https://raw.githubusercontent.com/appalachios/gov311/main/skills/gov311/SKILL.md
 Keep the link to the public guide index so you can look up the guide
 each time I ask a question.
 ```
+
+To save Gov311 Services or Gov311 Laws, replace the name and link in that message with the ones from its row. In a new chat, try “Use Gov311 Laws to help me find a proposed ordinance.”
+
+### Ask about Polk County, Tennessee
+
+If you live in [Benton](data/us/tn/benton), [Copperhill](data/us/tn/copperhill), or [Ducktown](data/us/tn/ducktown), tell the assistant which city. If you live outside city limits, start with [Polk County](data/us/tn/polk-county). A Benton mailing address alone doesn’t tell you whether you live inside Benton. The guides help you find which office handles the particular road, bill, or public record.
 
 ## Who Gov311 is for
 
@@ -149,14 +161,14 @@ You know how your local government works better than any AI does. If you have fi
 
 ### Claude Code
 
-In Claude Code, enter these two commands, one at a time, to add Gov311’s plugin catalog and install the skill.
+In Claude Code, enter these two commands, one at a time, to add Gov311’s plugin catalog and install all three skills.
 
 ```text
 /plugin marketplace add appalachios/gov311
 /plugin install gov311@gov311
 ```
 
-Then ask your government question in the same chat.
+Then ask your question, or call a skill by name. For example, enter `/gov311:gov311-laws How do I find the text of a proposed ordinance in Copperhill?` [Claude Code skills help](https://code.claude.com/docs/en/skills)
 
 ### Tools that support local MCP servers
 
@@ -183,7 +195,7 @@ For clients that use an `mcpServers` configuration, add this entry in the client
 
 ### Tools that support Agent Skills
 
-Copy the [Gov311 skill folder](skills/gov311) into your tool’s skills folder. It tells the assistant how to find the right government, read the guide, and explain the official sources. The skill can use the MCP server, a local copy of this repository, or the public guide index.
+Open the [skills directory](skills) and copy the folders you want into your tool’s skills directory. Keep each folder name and its `SKILL.md` together. Each skill can use the MCP server, a local copy of this repository, or the public guide index.
 
 ## How the repository is organized
 
@@ -192,7 +204,7 @@ Copy the [Gov311 skill folder](skills/gov311) into your tool’s skills folder. 
 | [`data`](data) | The guides, one folder for each government. Folders named `codes` hold pointers to laws. |
 | [`data/_schema`](data/_schema) | The format every guide must follow |
 | [`templates`](templates) | Blank guides to copy when you write a new one |
-| [`skills/gov311`](skills/gov311) | The instructions an AI tool follows |
+| [`skills`](skills) | The general Gov311 skill and the two skills for services and laws |
 | [`mcp-server`](mcp-server) | The MCP server |
 | [`scripts`](scripts) | The checks that run on every change |
 | [`llms.txt`](llms.txt) | An index of every guide for web-only tools |

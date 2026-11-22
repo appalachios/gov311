@@ -3,7 +3,7 @@
 // Run with: npm run build. Use --check in CI to confirm the committed file is current.
 import { readFileSync, writeFileSync, existsSync } from "node:fs";
 import { join } from "node:path";
-import { ENTRY_TYPES, REPO_ROOT, loadData } from "./lib.js";
+import { ENTRY_TYPES, REPO_ROOT, jurisdictionChain, loadData } from "./lib.js";
 
 const RAW = "https://raw.githubusercontent.com/appalachios/gov311/main/data";
 const { jurisdictions, entries } = loadData();
@@ -13,12 +13,16 @@ const lines = [
   "",
   "> Gov311 is an independent community guide to government services, contacts, laws, and help. A source-checked guide names the person or tool that checked it against official sources. A draft has an incomplete check. A human review note tells you which detail to confirm with the office. Use the official links in each guide when you answer.",
   "",
-  "To answer a question, find the person's city or county below, then read the matching entry. If the local section has no answer, check the state section, then the federal section.",
+  "Find the person's city below, or start with the county if they live outside city limits. Each heading lists its parent guide sections. Read the entry for the office that runs the service or the body that adopted the law.",
   "",
 ];
 
 for (const j of [...jurisdictions.values()].sort((a, b) => a.id.localeCompare(b.id))) {
   lines.push(`## ${j.meta.name} (${j.id})`, "");
+  const parents = jurisdictionChain(jurisdictions, j.id).slice(1);
+  if (parents.length) {
+    lines.push(`Parent guide sections, nearest first: ${parents.map((p) => `${p.meta.name} (${p.id})`).join(" → ")}.`, "");
+  }
   lines.push(`- [About this government](${RAW}/${j.file}): website, main contact, and parent government`);
   for (const type of ENTRY_TYPES) {
     for (const e of [...entries.values()].filter((x) => x.jurisdiction === j.id && x.type === type)) {

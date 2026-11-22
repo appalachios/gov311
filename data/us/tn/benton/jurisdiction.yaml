@@ -1,0 +1,19 @@
+name: City of Benton
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:benton
+parent: us/tn/polk-county
+aliases:
+- Benton
+- Town of Benton
+website: https://polkcountytn.gov/city-offices/
+general_contact:
+  name: Benton City Hall
+  phone: 423-338-5733
+  url: https://polkcountytn.gov/city-offices/
+  hours: Monday through Friday, 8 a.m. to 4:30 p.m. Eastern
+sources:
+- https://polkcountytn.gov/city-offices/
+- https://www.mtas.tennessee.edu/directories/cities/benton
+- https://www.mtas.tennessee.edu/sites/default/files/private/charters/Benton_cht.pdf
+last_verified: 2026-11-21
+verified_by: codex
