@@ -1,0 +1,15 @@
+name: "City of Allardt"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:allardt
+parent: us/tn/fentress-county
+aliases: ["Allardt"]
+website: https://www.mtas.tennessee.edu/directories/cities/allardt
+general_contact:
+  name: "Allardt municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/allardt
+  phone: "(931) 879-7125"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/allardt
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

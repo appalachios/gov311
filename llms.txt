@@ -202,6 +202,16 @@ Parent guide sections, nearest first: DeKalb County, Tennessee (us/tn/dekalb-cou
 - [Follow a proposed ordinance in Alexandria](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/alexandria/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
+## City of Allardt (us/tn/allardt)
+
+Parent guide sections, nearest first: Fentress County, Tennessee (us/tn/fentress-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/allardt/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Allardt for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/allardt/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Allardt.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Allardt](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/allardt/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
 ## Anderson County, Tennessee (us/tn/anderson-county)
 
 Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
@@ -882,7 +892,11 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
 
 - [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/fentress-county/jurisdiction.yaml): website, main contact, and parent government
+- [Find the right office in Fentress County](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/fentress-county/services/choose-a-county-office.md): Find county offices for deeds, vehicle records, elections and property questions, and check municipal boundaries for local services.
+  - source-checked · Checked by codex on 2026-11-22.
 - [Find the Fentress County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/fentress-county/services/find-a-property-map.md): Search Fentress County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a Fentress County governing body decision](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/fentress-county/services/follow-county-business.md): Find the regular meeting agenda, the source of the county’s authority and the record of what the governing body voted to adopt.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## City of Forest Hills (us/tn/forest-hills)
@@ -1159,6 +1173,16 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 
 - [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/jackson-county/jurisdiction.yaml): website, main contact, and parent government
 - [Find the Jackson County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/jackson-county/services/find-a-property-map.md): Search Jackson County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## City of Jamestown (us/tn/jamestown)
+
+Parent guide sections, nearest first: Fentress County, Tennessee (us/tn/fentress-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/jamestown/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Jamestown for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/jamestown/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Jamestown.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Jamestown](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/jamestown/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## Jefferson County, Tennessee (us/tn/jefferson-county)
