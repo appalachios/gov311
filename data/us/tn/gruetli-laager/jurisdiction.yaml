@@ -1,0 +1,15 @@
+name: "City of Gruetli-Laager"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:gruetlilaager
+parent: us/tn/grundy-county
+aliases: ["Gruetli-Laager"]
+website: https://www.mtas.tennessee.edu/directories/cities/gruetli-laager
+general_contact:
+  name: "Gruetli-Laager municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/gruetli-laager
+  phone: "(931) 779-5147"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/gruetli-laager
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

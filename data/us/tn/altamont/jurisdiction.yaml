@@ -1,0 +1,15 @@
+name: "Town of Altamont"
+level: town
+ocd_id: ocd-division/country:us/state:tn/place:altamont
+parent: us/tn/grundy-county
+aliases: ["Altamont"]
+website: https://www.mtas.tennessee.edu/directories/cities/altamont
+general_contact:
+  name: "Altamont municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/altamont
+  phone: "(931) 692-3971"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/altamont
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex
