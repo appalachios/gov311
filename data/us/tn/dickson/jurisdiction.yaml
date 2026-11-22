@@ -1,0 +1,15 @@
+name: "City of Dickson"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:dickson
+parent: us/tn/dickson-county
+aliases: ["Dickson"]
+website: https://www.cityofdickson.com/
+general_contact:
+  name: "Dickson municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/dickson
+  phone: "(615) 441-9508"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/dickson
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex
