@@ -4,6 +4,7 @@ summary: "Find the meeting, read the proposed language against the charter and c
 audiences: [everyone]
 keywords: ["ordinance", "charter", "code", "agenda", "pending law", "meeting", "amendment", "minutes"]
 sources:
+  - "https://codelibrary.amlegal.com/codes/cookeville/latest/cookeville_tn/0-0-0-6"
   - "https://www.mtas.tennessee.edu/directories/cities/cookeville"
   - "https://www.mtas.tennessee.edu/code/municipal-code-cookeville"
   - "https://www.mtas.tennessee.edu/charter/cookeville"
@@ -19,3 +20,5 @@ To follow a proposal in Cookeville, get the dated meeting notice, agenda, propos
 Look up the charter for the governing body’s powers, readings and vote requirements. Compare a proposed ordinance with the current code section it would change. [Municipal Code](https://www.mtas.tennessee.edu/code/municipal-code-cookeville) · [Municipal Charter](https://www.mtas.tennessee.edu/charter/cookeville)
 
 After the meeting, use the minutes to identify the motion that actually passed. Ask the recorder or clerk for the adopted ordinance, any amendments and the effective date. A proposal can change during consideration, and a recent ordinance may still be waiting to appear in the code. [Tennessee agenda and minutes requirements](https://comptroller.tn.gov/office-functions/open-records-counsel/open-meetings/frequently-asked-questions/tennessee-open-meetings-act-faqs.html) · [Municipal records requests](https://cookevilletn-my.sharepoint.com/:b:/g/personal/sdavis_cookeville-tn_gov/IQC4bnTdgVY6QL_jVMdfos13AeX2hrbrG9PPDIox7-9TZ1E?e=dkGCcq)
+
+Cookeville requires three council votes on two readings at meetings one week apart. An ordinary ordinance takes effect ten days after adoption. An emergency ordinance can pass at meetings one day apart and take effect on adoption if it states the emergency facts and reasons and receives four votes on both readings. [Charter classification](https://www.mtas.tennessee.edu/charter/cookeville) · [Governing text](https://codelibrary.amlegal.com/codes/cookeville/latest/cookeville_tn/0-0-0-6)
