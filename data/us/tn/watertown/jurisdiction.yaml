@@ -1,0 +1,15 @@
+name: "City of Watertown"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:watertown
+parent: us/tn/wilson-county
+aliases: ["Watertown"]
+website: https://watertowntn.com/
+general_contact:
+  name: "Watertown municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/watertown
+  phone: "(615) 237-3326"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/watertown
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

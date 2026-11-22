@@ -2701,6 +2701,16 @@ Parent guide sections, nearest first: Lawrence County, Tennessee (us/tn/lawrence
 - [Follow a proposed ordinance in Lawrenceburg](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/lawrenceburg/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
+## City of Lebanon (us/tn/lebanon)
+
+Parent guide sections, nearest first: Wilson County, Tennessee (us/tn/wilson-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/lebanon/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Lebanon for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/lebanon/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Lebanon.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Lebanon](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/lebanon/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
 ## City of Lenoir City (us/tn/lenoir-city)
 
 Parent guide sections, nearest first: Loudon County, Tennessee (us/tn/loudon-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
@@ -3344,6 +3354,16 @@ Parent guide sections, nearest first: Johnson County, Tennessee (us/tn/johnson-c
 - [Contact Mountain City for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/mountain-city/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Mountain City.
   - source-checked · Checked by codex on 2026-11-22.
 - [Follow a proposed ordinance in Mountain City](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/mountain-city/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## City of Mt. Juliet (us/tn/mt-juliet)
+
+Parent guide sections, nearest first: Wilson County, Tennessee (us/tn/wilson-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/mt-juliet/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Mt. Juliet for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/mt-juliet/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Mt. Juliet.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Mt. Juliet](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/mt-juliet/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## City of Munford (us/tn/munford)
@@ -4882,6 +4902,16 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 - [Follow a proposed ordinance in Watauga](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/watauga/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
+## City of Watertown (us/tn/watertown)
+
+Parent guide sections, nearest first: Wilson County, Tennessee (us/tn/wilson-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/watertown/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Watertown for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/watertown/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Watertown.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Watertown](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/watertown/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
 ## City of Waverly (us/tn/waverly)
 
 Parent guide sections, nearest first: Humphreys County, Tennessee (us/tn/humphreys-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
@@ -5029,7 +5059,11 @@ Parent guide sections, nearest first: Fayette County, Tennessee (us/tn/fayette-c
 Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
 
 - [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/wilson-county/jurisdiction.yaml): website, main contact, and parent government
+- [Find the right office in Wilson County](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/wilson-county/services/choose-a-county-office.md): Find county offices for deeds, vehicle records, elections and property questions, and check municipal boundaries for local services.
+  - source-checked · Checked by codex on 2026-11-22.
 - [Find the Wilson County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/wilson-county/services/find-a-property-map.md): Search Wilson County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a Wilson County governing body decision](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/wilson-county/services/follow-county-business.md): Find the regular meeting agenda, the source of the county’s authority and the record of what the governing body voted to adopt.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## City of Winchester (us/tn/winchester)
