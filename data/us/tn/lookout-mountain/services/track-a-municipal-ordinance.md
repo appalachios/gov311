@@ -4,6 +4,7 @@ summary: "Find the meeting, read the proposed language against the charter and c
 audiences: [everyone]
 keywords: ["ordinance", "charter", "code", "agenda", "pending law", "meeting", "amendment", "minutes"]
 sources:
+  - "https://www.mtas.tennessee.edu/sites/default/files/private/charters/LookoutMt_cht.pdf#page=15"
   - "https://www.mtas.tennessee.edu/directories/cities/lookout-mountain"
   - "https://www.mtas.tennessee.edu/code/municipal-code-lookout-mountain"
   - "https://www.mtas.tennessee.edu/charter/lookout-mountain"
@@ -18,3 +19,5 @@ To follow a proposal in Lookout Mountain, get the dated meeting notice, agenda, 
 Look up the charter for the governing body’s powers, readings and vote requirements. Compare a proposed ordinance with the current code section it would change. [Municipal Code](https://www.mtas.tennessee.edu/code/municipal-code-lookout-mountain) · [Municipal Charter](https://www.mtas.tennessee.edu/charter/lookout-mountain)
 
 After the meeting, use the minutes to identify the motion that actually passed. Ask the recorder or clerk for the adopted ordinance, any amendments and the effective date. A proposal can change during consideration, and a recent ordinance may still be waiting to appear in the code. [Tennessee agenda and minutes requirements](https://comptroller.tn.gov/office-functions/open-records-counsel/open-meetings/frequently-asked-questions/tennessee-open-meetings-act-faqs.html)
+
+The charter permits a resolution on one reading. An ordinance requires passage on two different days and must be in writing before the second reading. Ask for that written version to check the proposed change. [Charter classification](https://www.mtas.tennessee.edu/charter/lookout-mountain) · [Governing text](https://www.mtas.tennessee.edu/sites/default/files/private/charters/LookoutMt_cht.pdf#page=15)
