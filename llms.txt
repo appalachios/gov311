@@ -778,6 +778,16 @@ Parent guide sections, nearest first: Carroll County, Tennessee (us/tn/carroll-c
 - [Follow a proposed ordinance in Clarksburg](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/clarksburg/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
+## City of Clarksville (us/tn/clarksville)
+
+Parent guide sections, nearest first: Montgomery County, Tennessee (us/tn/montgomery-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/clarksville/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Clarksville for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/clarksville/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Clarksville.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Clarksville](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/clarksville/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
 ## Clay County, Tennessee (us/tn/clay-county)
 
 Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
@@ -2565,8 +2575,12 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
 
 - [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/montgomery-county/jurisdiction.yaml): website, main contact, and parent government
+- [Find the right office in Montgomery County](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/montgomery-county/services/choose-a-county-office.md): Find county offices for deeds, vehicle records, elections and property questions, and check municipal boundaries for local services.
+  - source-checked · Checked by codex on 2026-11-22.
 - [Find a Montgomery County parcel in Stratum](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/montgomery-county/services/find-a-property-map.md): Find parcel boundaries, aerial photos and local districts in Stratum. Look up the assessment, county and Clarksville tax bills, elected representatives or a student’s school.
   - source-checked · Checked by codex on 2026-11-21.
+- [Follow a Montgomery County governing body decision](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/montgomery-county/services/follow-county-business.md): Find the regular meeting agenda, the source of the county’s authority and the record of what the governing body voted to adopt.
+  - source-checked · Checked by codex on 2026-11-22.
 
 ## Lynchburg/Moore County, Tennessee (us/tn/moore-county)
 
