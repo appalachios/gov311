@@ -1,0 +1,15 @@
+name: "Town of Rogersville"
+level: town
+ocd_id: ocd-division/country:us/state:tn/place:rogersville
+parent: us/tn/hawkins-county
+aliases: ["Rogersville"]
+website: https://rogersvilletn.gov/
+general_contact:
+  name: "Rogersville municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/rogersville
+  phone: "(423) 272-7497"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/rogersville
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

@@ -1,0 +1,16 @@
+name: "City of Kingsport"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:kingsport
+parent: us/tn/_state
+county_options: ["us/tn/hawkins-county", "us/tn/sullivan-county"]
+aliases: ["Kingsport"]
+website: https://www.kingsporttn.gov/
+general_contact:
+  name: "Kingsport municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/kingsport
+  phone: "(423) 229-9400"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/kingsport
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

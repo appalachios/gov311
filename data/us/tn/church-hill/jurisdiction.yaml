@@ -1,0 +1,15 @@
+name: "City of Church Hill"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:church_hill
+parent: us/tn/hawkins-county
+aliases: ["Church Hill"]
+website: https://www.churchhilltn.gov/
+general_contact:
+  name: "Church Hill municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/church-hill
+  phone: "(423) 357-6161"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/church-hill
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex
