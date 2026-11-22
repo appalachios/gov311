@@ -1,0 +1,16 @@
+name: "City of Goodlettsville"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:goodlettsville
+parent: us/tn/_state
+county_options: ["us/tn/nashville", "us/tn/sumner-county"]
+aliases: ["Goodlettsville"]
+website: https://www.goodlettsville.gov/
+general_contact:
+  name: "Goodlettsville municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/goodlettsville
+  phone: "(615) 851-2200"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/goodlettsville
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

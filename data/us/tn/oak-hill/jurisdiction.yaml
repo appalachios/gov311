@@ -1,0 +1,15 @@
+name: "City of Oak Hill"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:oak_hill
+parent: us/tn/nashville
+aliases: ["Oak Hill"]
+website: https://www.mtas.tennessee.edu/directories/cities/oak-hill
+general_contact:
+  name: "Oak Hill municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/oak-hill
+  phone: "(615) 371-8291"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/oak-hill
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

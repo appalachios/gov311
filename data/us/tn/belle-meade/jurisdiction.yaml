@@ -1,0 +1,15 @@
+name: "City of Belle Meade"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:belle_meade
+parent: us/tn/nashville
+aliases: ["Belle Meade"]
+website: https://citybellemeade.org/
+general_contact:
+  name: "Belle Meade municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/belle-meade
+  phone: "(615) 297-6041"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/belle-meade
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

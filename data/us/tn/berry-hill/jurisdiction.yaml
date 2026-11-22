@@ -1,0 +1,15 @@
+name: "City of Berry Hill"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:berry_hill
+parent: us/tn/nashville
+aliases: ["Berry Hill"]
+website: https://www.berryhilltn.gov/
+general_contact:
+  name: "Berry Hill municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/berry-hill
+  phone: "(615) 292-5531"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/berry-hill
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex
