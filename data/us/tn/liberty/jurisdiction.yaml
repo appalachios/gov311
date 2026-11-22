@@ -1,0 +1,14 @@
+name: "Town of Liberty"
+level: town
+ocd_id: ocd-division/country:us/state:tn/place:liberty
+parent: us/tn/dekalb-county
+aliases: ["Liberty"]
+website: https://www.mtas.tennessee.edu/directories/cities/liberty
+general_contact:
+  name: "Liberty municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/liberty
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/liberty
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

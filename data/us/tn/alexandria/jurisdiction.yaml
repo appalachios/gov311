@@ -1,0 +1,15 @@
+name: "Town of Alexandria"
+level: town
+ocd_id: ocd-division/country:us/state:tn/place:alexandria
+parent: us/tn/dekalb-county
+aliases: ["Alexandria"]
+website: https://www.townofalexandria.us/index.html
+general_contact:
+  name: "Alexandria municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/alexandria
+  phone: "(615) 529-2171"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/alexandria
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex
