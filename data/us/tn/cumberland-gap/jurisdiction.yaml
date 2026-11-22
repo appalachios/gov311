@@ -1,0 +1,15 @@
+name: "Town of Cumberland Gap"
+level: town
+ocd_id: ocd-division/country:us/state:tn/place:cumberland_gap
+parent: us/tn/claiborne-county
+aliases: ["Cumberland Gap"]
+website: https://www.townofcumberlandgap.com/
+general_contact:
+  name: "Cumberland Gap municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/cumberland-gap
+  phone: "(423) 869-3860"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/cumberland-gap
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex
