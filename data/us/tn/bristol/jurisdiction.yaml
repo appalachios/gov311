@@ -1,0 +1,15 @@
+name: "City of Bristol"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:bristol
+parent: us/tn/sullivan-county
+aliases: ["Bristol"]
+website: https://www.mtas.tennessee.edu/directories/cities/bristol
+general_contact:
+  name: "Bristol municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/bristol
+  phone: "(423) 989-5500"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/bristol
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

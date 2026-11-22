@@ -1,0 +1,15 @@
+name: "Town of Bluff City"
+level: town
+ocd_id: ocd-division/country:us/state:tn/place:bluff_city
+parent: us/tn/sullivan-county
+aliases: ["Bluff City"]
+website: https://www.bluffcitytn.org/
+general_contact:
+  name: "Bluff City municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/bluff-city
+  phone: "(423) 538-7144"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/bluff-city
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex
