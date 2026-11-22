@@ -1,0 +1,38 @@
+---
+title: "Find the right office in Polk County"
+summary: "Find county offices for deeds, vehicle records, elections and property questions, and check municipal boundaries for local services."
+audiences: [everyone]
+keywords: ["county office", "deed", "vehicle title", "property tax", "voter registration", "marriage license"]
+sources:
+  - "https://polkcountytn.gov/board-of-education/"
+  - "https://polkcountytn.gov/county-clerk/"
+  - "https://polkcountytn.gov/register-of-deeds-2/"
+  - "https://www.ctas.tennessee.edu/county/polk"
+  - "https://comptroller.tn.gov/office-functions/pa/gisredistricting/municipal-boundaries.html"
+  - "https://tnecd.com/?force_download=129209"
+last_verified: 2026-11-22
+verified_by: codex
+trust: source-checked
+---
+
+For county records or services, start with the office responsible for the record. The Polk County directory lists county officials and office contacts. [County offices](https://www.ctas.tennessee.edu/county/polk)
+
+- **County Clerk.** For vehicle titles, registration and marriage licenses, call **(423) 715-5310**.
+
+- **Register of Deeds.** For recorded deeds, plats and easements, call **(423) 338-4537**.
+
+- **Assessor of Property.** For property descriptions and assessments, call **(423) 338-4505**.
+
+- **Trustee.** For county property tax bills and payment records, call **(423) 338-4545**.
+
+- **Administrator of Elections.** For voter registration, precincts and election questions, call **(423) 338-4531**.
+
+For a local permit or ordinance, first check which government has authority at the address. The municipal governments covering land in Polk County include Benton, Copperhill, Ducktown. [Municipal boundary map](https://comptroller.tn.gov/office-functions/pa/gisredistricting/municipal-boundaries.html)
+
+[Benton guides](../../benton) · [Copperhill guides](../../copperhill) · [Ducktown guides](../../ducktown)
+
+The county publishes these service pages.
+
+- [Register of Deeds](https://polkcountytn.gov/register-of-deeds-2/)
+- [County Clerk](https://polkcountytn.gov/county-clerk/)
+- [Election Commission](https://polkcountytn.gov/board-of-education/)
