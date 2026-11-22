@@ -1,0 +1,15 @@
+name: "Town of Cottage Grove"
+level: town
+ocd_id: ocd-division/country:us/state:tn/place:cottage_grove
+parent: us/tn/henry-county
+aliases: ["Cottage Grove"]
+website: https://www.mtas.tennessee.edu/directories/cities/cottage-grove
+general_contact:
+  name: "Cottage Grove municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/cottage-grove
+  phone: "(731) 247-3987"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/cottage-grove
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex
