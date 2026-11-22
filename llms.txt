@@ -59,18 +59,22 @@ Parent guide sections, nearest first: United States federal government (us/_fede
   - source-checked · Checked by codex on 2026-11-21.
 - [Find the right office for a Tennessee utility complaint](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/_state/services/file-utility-complaint.md): The route for a billing or service complaint depends on who regulates your utility. Start with the provider’s name as it appears on the bill.
   - source-checked · Checked by codex on 2026-11-21.
+- [Find a Tennessee county health department and clinic](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/_state/services/find-a-county-health-department.md): Find the clinic for your county, call about the service you need and check whether another location handles appointments for it.
+  - source-checked · Checked by codex on 2026-11-22.
 - [Find the Tennessee board that licenses a profession](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/_state/services/find-a-licensing-board.md): Look up the agency for a profession, find application and renewal instructions, or check an individual’s license. Tennessee has a separate lookup for health care professionals.
   - source-checked · Checked by codex on 2026-11-21.
 - [Find the property map for a Tennessee county](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/_state/services/find-a-property-map.md): Search the Tennessee Property Viewer for parcels in 86 counties. For the other nine, it links to local sites, including KGIS for Knox County.
   - source-checked · Checked by codex on 2026-11-22.
 - [Find who handles a Tennessee residential building permit](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/_state/services/find-a-residential-permit-office.md): Check the address and municipality in the State Fire Marshal’s jurisdiction table before applying for a state residential building permit.
   - source-checked · Checked by codex on 2026-11-22.
-- [Find a Tennessee appeals case or reach the trial court clerk](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/_state/services/find-court-case.md): Find a case by the court named on your paperwork. Tennessee has a statewide search for its appellate courts. For a case in a trial court, ask that court’s clerk for the docket, even if the case is an appeal.
-  - source-checked · Checked by codex on 2026-11-21.
+- [Find a Tennessee court case or the General Sessions clerk](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/_state/services/find-court-case.md): Use the county and division on a General Sessions notice to find the local clerk and docket. Use the statewide appellate search for a case in one of Tennessee’s three appellate courts.
+  - source-checked · Checked by codex on 2026-11-22.
 - [Find a Tennessee legislative hearing, agenda, or floor vote](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/_state/services/find-legislative-hearings.md): Use the committee named in a bill’s history to find its meeting, see which bills are on the agenda, and check what happened after the meeting.
   - source-checked · Checked by codex on 2026-11-21.
 - [Find a Tennessee parole hearing or ask about a decision](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/_state/services/find-parole-hearing.md): The Board of Parole publishes hearing schedules and participation instructions. Families with questions about a person in state prison can ask a parole officer at that facility about the hearing or decision.
   - source-checked · Checked by codex on 2026-11-21.
+- [Follow a municipal zoning amendment in Tennessee](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/_state/services/follow-a-municipal-zoning-amendment.md): Find the hearing notice, compare the proposed zoning text or parcel map with the planning commission version, and check the council’s final action.
+  - source-checked · Checked by codex on 2026-11-22.
 - [Form a Tennessee limited liability company](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/_state/services/form-tennessee-llc.md): File articles of organization with the Secretary of State to create a new Tennessee LLC. The state provides an online filing system and instructions for filing on paper.
   - source-checked · Checked by codex on 2026-11-21.
 - [Get a certified copy of a Tennessee birth certificate](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/_state/services/get-a-birth-certificate.md): Request a certified birth certificate from a county health department or the Tennessee Office of Vital Records. The state also names its authorized online vendor.

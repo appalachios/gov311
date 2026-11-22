@@ -27,6 +27,13 @@ test("Farragut searches use only the confirmed county for county services", asyn
   const conditional = await call("search", { ...disputed, query: "deed" });
   assert.equal(conditional.county_review.county, disputed.county);
   assert.ok(conditional.results.every((row) => !row.id.startsWith(disputed.county + "/")));
+  const covered = async (county) =>
+    (await call("list_jurisdictions", { county })).jurisdictions.map((place) => place.id);
+  assert.deepEqual((await covered(knox)).sort(), [town, knox, "us/tn/knoxville"].sort());
+  assert.ok((await covered(loudon)).includes(town));
+  assert.ok((await covered("us/tn/nashville")).includes("us/tn/goodlettsville"));
+  assert.ok((await call("list_jurisdictions", { county: town })).error);
+  assert.ok((await call("list_jurisdictions", {})).jurisdictions.length > 95);
   const unknown = (await call("find_jurisdiction", { place: "Farragut, TN" })).matches;
   assert.equal(unknown.length, 1);
   assert.deepEqual(unknown[0].chain, [town, ...common]);

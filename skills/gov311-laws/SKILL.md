@@ -29,3 +29,5 @@ Use the site's normal interactive CAPTCHA verification with the user's permissio
 Link to the operative record and give the guide's `trust`, `verified_by`, and `last_verified`. Flag drafts or checks more than a year old and explain any outstanding `human_review` question. If you find official records beyond Gov311's coverage, say which ones you used.
 
 For a Tennessee local measure, identify the governing body, read its charter or county authority, then compare the proposed text and amendments with the recorded vote and the adopted instrument. A published meeting schedule helps locate the session. Check the dated notice for changes.
+
+When someone starts with a county, call `find_jurisdiction` for its ID, then `list_jurisdictions` with that ID as `county` to find its municipalities. For an unincorporated address, start with the county itself. If a boundary guide flags conflicting evidence, ask which parcel or adopted boundary instrument establishes the responsible office.

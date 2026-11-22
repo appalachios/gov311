@@ -63,9 +63,20 @@ const server = new McpServer({ name: "gov311", version: "0.1.0" });
 
 server.tool(
   "list_jurisdictions",
-  "List every government Gov311 has data for. Use this first when you do not know whether the person's city, county, or state is covered.",
-  {},
-  async () => text({ jurisdictions: [...jurisdictions.values()].map(describeJurisdiction) }),
+  "List covered governments. Supply a county ID to list the county and its municipalities, including places that cross a county line.",
+  { county: z.string().optional().describe("County or consolidated government ID from find_jurisdiction") },
+  async ({ county }) => {
+    const governments = [...jurisdictions.values()];
+    if (!county) return text({ jurisdictions: governments.map(describeJurisdiction) });
+    if (!["county", "consolidated-city-county"].includes(jurisdictions.get(county)?.meta.level)) {
+      return text({ error: "Choose a county or consolidated government from find_jurisdiction." });
+    }
+    const local = governments.filter((j) => j.id === county || (
+      ["city", "town"].includes(j.meta.level) &&
+      (j.meta.parent === county || j.meta.county_options?.includes(county))
+    ));
+    return text({ jurisdictions: local.map(describeJurisdiction) });
+  },
 );
 
 server.tool(
