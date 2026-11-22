@@ -1,0 +1,15 @@
+name: "City of Erin"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:erin
+parent: us/tn/houston-county
+aliases: ["Erin"]
+website: https://www.cityoferintn.gov/
+general_contact:
+  name: "Erin municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/erin
+  phone: "(931) 289-4108"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/erin
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

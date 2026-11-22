@@ -1086,6 +1086,16 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 - [Follow a proposed ordinance in Enville](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/enville/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
+## City of Erin (us/tn/erin)
+
+Parent guide sections, nearest first: Houston County, Tennessee (us/tn/houston-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/erin/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Erin for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/erin/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Erin.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Erin](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/erin/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
 ## Town of Estill Springs (us/tn/estill-springs)
 
 Parent guide sections, nearest first: Franklin County, Tennessee (us/tn/franklin-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
@@ -1519,7 +1529,11 @@ Parent guide sections, nearest first: Hardeman County, Tennessee (us/tn/hardeman
 Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
 
 - [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/houston-county/jurisdiction.yaml): website, main contact, and parent government
+- [Find the right office in Houston County](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/houston-county/services/choose-a-county-office.md): Find county offices for deeds, vehicle records, elections and property questions, and check municipal boundaries for local services.
+  - source-checked · Checked by codex on 2026-11-22.
 - [Find the Houston County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/houston-county/services/find-a-property-map.md): Search Houston County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a Houston County governing body decision](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/houston-county/services/follow-county-business.md): Find the regular meeting agenda, the source of the county’s authority and the record of what the governing body voted to adopt.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## City of Humboldt (us/tn/humboldt)
@@ -2868,6 +2882,18 @@ Parent guide sections, nearest first: Claiborne County, Tennessee (us/tn/claibor
 - [Contact Tazewell for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/tazewell/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Tazewell.
   - source-checked · Checked by codex on 2026-11-22.
 - [Follow a proposed ordinance in Tazewell](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/tazewell/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## Town of Tennessee Ridge (us/tn/tennessee-ridge)
+
+For county services, check which county contains the address. Choose one of these guide sections: Houston County, Tennessee (us/tn/houston-county) or Stewart County, Tennessee (us/tn/stewart-county).
+
+Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/tennessee-ridge/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Tennessee Ridge for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/tennessee-ridge/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Tennessee Ridge.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Tennessee Ridge](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/tennessee-ridge/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## Tipton County, Tennessee (us/tn/tipton-county)
