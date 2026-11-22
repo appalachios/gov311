@@ -1,0 +1,15 @@
+name: "Town of Somerville"
+level: town
+ocd_id: ocd-division/country:us/state:tn/place:somerville
+parent: us/tn/fayette-county
+aliases: ["Somerville"]
+website: https://www.somervilletn.org/
+general_contact:
+  name: "Somerville municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/somerville
+  phone: "(901) 465-7305"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/somerville
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

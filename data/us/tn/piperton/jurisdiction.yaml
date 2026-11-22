@@ -1,0 +1,15 @@
+name: "City of Piperton"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:piperton
+parent: us/tn/fayette-county
+aliases: ["Piperton"]
+website: https://www.pipertontn.com/
+general_contact:
+  name: "Piperton municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/piperton
+  phone: "(901) 853-4830"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/piperton
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

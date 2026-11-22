@@ -1,0 +1,16 @@
+name: "City of Grand Junction"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:grand_junction
+parent: us/tn/_state
+county_options: ["us/tn/fayette-county", "us/tn/hardeman-county"]
+aliases: ["Grand Junction"]
+website: https://www.grandjunctiontn.org/
+general_contact:
+  name: "Grand Junction municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/grand-junction
+  phone: "(731) 764-2871"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/grand-junction
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

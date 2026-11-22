@@ -1,0 +1,15 @@
+name: "City of Williston"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:williston
+parent: us/tn/fayette-county
+aliases: ["Williston"]
+website: https://www.mtas.tennessee.edu/directories/cities/williston
+general_contact:
+  name: "Williston municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/williston
+  phone: "(901) 465-4173"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/williston
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

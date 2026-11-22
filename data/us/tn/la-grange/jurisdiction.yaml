@@ -1,0 +1,15 @@
+name: "Town of La Grange"
+level: town
+ocd_id: ocd-division/country:us/state:tn/place:la_grange
+parent: us/tn/fayette-county
+aliases: ["La Grange"]
+website: https://www.mtas.tennessee.edu/directories/cities/la-grange
+general_contact:
+  name: "La Grange municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/la-grange
+  phone: "(901) 878-1246"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/la-grange
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex
