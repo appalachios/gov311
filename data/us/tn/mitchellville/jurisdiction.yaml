@@ -1,0 +1,15 @@
+name: "Town of Mitchellville"
+level: town
+ocd_id: ocd-division/country:us/state:tn/place:mitchellville
+parent: us/tn/sumner-county
+aliases: ["Mitchellville"]
+website: https://www.mtas.tennessee.edu/directories/cities/mitchellville
+general_contact:
+  name: "Mitchellville municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/mitchellville
+  phone: "(615) 325-6020"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/mitchellville
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

@@ -1588,6 +1588,17 @@ Parent guide sections, nearest first: Jackson County, Tennessee (us/tn/jackson-c
 - [Follow a proposed ordinance in Gainesboro](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/gainesboro/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
+## City of Gallatin (us/tn/gallatin)
+
+Parent guide sections, nearest first: Sumner County, Tennessee (us/tn/sumner-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/gallatin/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Gallatin for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/gallatin/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Gallatin.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Gallatin](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/gallatin/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - draft · Research by codex on 2026-11-22.
+  - Human review (missing evidence). The cited records establish the procedure described here. They do not establish the general number of readings for a new ordinance in Gallatin. Ask the municipal recorder for the current charter section or adopted procedural rule before quoting a count.
+
 ## City of Gallaway (us/tn/gallaway)
 
 Parent guide sections, nearest first: Fayette County, Tennessee (us/tn/fayette-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
@@ -1936,6 +1947,16 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 - [Find the Henderson County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/henderson-county/services/find-a-property-map.md): Search Henderson County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
   - source-checked · Checked by codex on 2026-11-22.
 - [Follow a Henderson County governing body decision](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/henderson-county/services/follow-county-business.md): Find the regular meeting agenda, the source of the county’s authority and the record of what the governing body voted to adopt.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## City of Hendersonville (us/tn/hendersonville)
+
+Parent guide sections, nearest first: Sumner County, Tennessee (us/tn/sumner-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/hendersonville/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Hendersonville for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/hendersonville/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Hendersonville.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Hendersonville](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/hendersonville/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## Town of Henning (us/tn/henning)
@@ -2938,6 +2959,17 @@ Parent guide sections, nearest first: Giles County, Tennessee (us/tn/giles-count
 - [Follow a proposed ordinance in Minor Hill](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/minor-hill/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
+## Town of Mitchellville (us/tn/mitchellville)
+
+Parent guide sections, nearest first: Sumner County, Tennessee (us/tn/sumner-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/mitchellville/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Mitchellville for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/mitchellville/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Mitchellville.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Mitchellville](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/mitchellville/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - draft · Research by codex on 2026-11-22.
+  - Human review (missing evidence). The cited records establish the procedure described here. They do not establish the general number of readings for a new ordinance in Mitchellville. Ask the municipal recorder for the current charter section or adopted procedural rule before quoting a count.
+
 ## Monroe County, Tennessee (us/tn/monroe-county)
 
 Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
@@ -3542,6 +3574,18 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
   - source-checked · Checked by codex on 2026-11-21.
 - [Get local help with veterans benefits in Polk County](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/polk-county/help/veterans-benefits.md): The county Veterans Service Office connects veterans and their families with benefits, VA information and local referrals.
   - source-checked · Checked by codex on 2026-11-21.
+
+## City of Portland (us/tn/portland)
+
+For county services, check which county contains the address. Choose one of these guide sections: Sumner County, Tennessee (us/tn/sumner-county) or Robertson County, Tennessee (us/tn/robertson-county).
+
+Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/portland/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Portland for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/portland/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Portland.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Portland](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/portland/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
 
 ## Town of Powells Crossroads (us/tn/powells-crossroads)
 
@@ -4156,7 +4200,11 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
 
 - [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/sumner-county/jurisdiction.yaml): website, main contact, and parent government
+- [Find the right office in Sumner County](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/sumner-county/services/choose-a-county-office.md): Find county offices for deeds, vehicle records, elections and property questions, and check municipal boundaries for local services.
+  - source-checked · Checked by codex on 2026-11-22.
 - [Find the Sumner County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/sumner-county/services/find-a-property-map.md): Search Sumner County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a Sumner County governing body decision](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/sumner-county/services/follow-county-business.md): Find the regular meeting agenda, the source of the county’s authority and the record of what the governing body voted to adopt.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## City of Sunbright (us/tn/sunbright)
@@ -4493,6 +4541,16 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 
 - [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/weakley-county/jurisdiction.yaml): website, main contact, and parent government
 - [Find the Weakley County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/weakley-county/services/find-a-property-map.md): Search Weakley County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## City of Westmoreland (us/tn/westmoreland)
+
+Parent guide sections, nearest first: Sumner County, Tennessee (us/tn/sumner-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/westmoreland/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Westmoreland for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/westmoreland/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Westmoreland.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Westmoreland](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/westmoreland/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## Town of White Bluff (us/tn/white-bluff)
