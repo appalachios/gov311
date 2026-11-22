@@ -1,0 +1,15 @@
+name: "City of Rockwood"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:rockwood
+parent: us/tn/roane-county
+aliases: ["Rockwood"]
+website: https://cityofrockwoodtn.gov/
+general_contact:
+  name: "Rockwood municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/rockwood
+  phone: "(865) 354-0611"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/rockwood
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

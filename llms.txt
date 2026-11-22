@@ -1674,6 +1674,18 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 - [Follow a Hardin County governing body decision](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/hardin-county/services/follow-county-business.md): Find the regular meeting agenda, the source of the county’s authority and the record of what the governing body voted to adopt.
   - source-checked · Checked by codex on 2026-11-22.
 
+## City of Harriman (us/tn/harriman)
+
+For county services, check which county contains the address. Choose one of these guide sections: Roane County, Tennessee (us/tn/roane-county) or Morgan County, Tennessee (us/tn/morgan-county).
+
+Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/harriman/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Harriman for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/harriman/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Harriman.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Harriman](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/harriman/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
 ## City of Harrogate (us/tn/harrogate)
 
 Parent guide sections, nearest first: Claiborne County, Tennessee (us/tn/claiborne-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
@@ -2018,6 +2030,16 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 - [Contact Kingsport for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/kingsport/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Kingsport.
   - source-checked · Checked by codex on 2026-11-22.
 - [Follow a proposed ordinance in Kingsport](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/kingsport/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## City of Kingston (us/tn/kingston)
+
+Parent guide sections, nearest first: Roane County, Tennessee (us/tn/roane-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/kingston/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Kingston for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/kingston/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Kingston.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Kingston](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/kingston/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## Town of Kingston Springs (us/tn/kingston-springs)
@@ -3345,7 +3367,11 @@ Parent guide sections, nearest first: Obion County, Tennessee (us/tn/obion-count
 Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
 
 - [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/roane-county/jurisdiction.yaml): website, main contact, and parent government
+- [Find the right office in Roane County](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/roane-county/services/choose-a-county-office.md): Find county offices for deeds, vehicle records, elections and property questions, and check municipal boundaries for local services.
+  - source-checked · Checked by codex on 2026-11-22.
 - [Find the Roane County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/roane-county/services/find-a-property-map.md): Search Roane County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a Roane County governing body decision](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/roane-county/services/follow-county-business.md): Find the regular meeting agenda, the source of the county’s authority and the record of what the governing body voted to adopt.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## Robertson County, Tennessee (us/tn/robertson-county)
@@ -3364,6 +3390,16 @@ Parent guide sections, nearest first: Blount County, Tennessee (us/tn/blount-cou
 - [Contact Rockford for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/rockford/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Rockford.
   - source-checked · Checked by codex on 2026-11-22.
 - [Follow a proposed ordinance in Rockford](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/rockford/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## City of Rockwood (us/tn/rockwood)
+
+Parent guide sections, nearest first: Roane County, Tennessee (us/tn/roane-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/rockwood/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Rockwood for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/rockwood/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Rockwood.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Rockwood](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/rockwood/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## City of Rocky Top (us/tn/rocky-top)

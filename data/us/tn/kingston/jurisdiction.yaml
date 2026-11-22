@@ -1,0 +1,15 @@
+name: "City of Kingston"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:kingston
+parent: us/tn/roane-county
+aliases: ["Kingston"]
+website: https://kingstontn.gov/
+general_contact:
+  name: "Kingston municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/kingston
+  phone: "(865) 376-6584"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/kingston
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex
