@@ -1,0 +1,16 @@
+name: "City of Johnson City"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:johnson_city
+parent: us/tn/_state
+county_options: ["us/tn/carter-county", "us/tn/sullivan-county", "us/tn/washington-county"]
+aliases: ["Johnson City"]
+website: https://www.johnsoncitytn.org/
+general_contact:
+  name: "Johnson City municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/johnson-city
+  phone: "(423) 434-6000"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/johnson-city
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex
