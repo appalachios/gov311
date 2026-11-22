@@ -583,6 +583,16 @@ Parent guide sections, nearest first: Polk County, Tennessee (us/tn/polk-county)
 - [How Copperhill passes an ordinance](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/copperhill/codes/city-ordinances.md): Read the proposal before its second vote, then check the minutes and get the ordinance on file with the city recorder.
   - source-checked · Checked by codex on 2026-11-21.
 
+## City of Crab Orchard (us/tn/crab-orchard)
+
+Parent guide sections, nearest first: Cumberland County, Tennessee (us/tn/cumberland-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/crab-orchard/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Crab Orchard for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/crab-orchard/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Crab Orchard.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Crab Orchard](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/crab-orchard/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
 ## Crockett County, Tennessee (us/tn/crockett-county)
 
 Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
@@ -595,12 +605,26 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 - [Follow a Crockett County governing body decision](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/crockett-county/services/follow-county-business.md): Find the regular meeting agenda, the source of the county’s authority and the record of what the governing body voted to adopt.
   - source-checked · Checked by codex on 2026-11-22.
 
+## City of Crossville (us/tn/crossville)
+
+Parent guide sections, nearest first: Cumberland County, Tennessee (us/tn/cumberland-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/crossville/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Crossville for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/crossville/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Crossville.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Crossville](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/crossville/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
 ## Cumberland County, Tennessee (us/tn/cumberland-county)
 
 Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
 
 - [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/cumberland-county/jurisdiction.yaml): website, main contact, and parent government
+- [Find the right office in Cumberland County](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/cumberland-county/services/choose-a-county-office.md): Find county offices for deeds, vehicle records, elections and property questions, and check municipal boundaries for local services.
+  - source-checked · Checked by codex on 2026-11-22.
 - [Find the Cumberland County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/cumberland-county/services/find-a-property-map.md): Search Cumberland County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a Cumberland County governing body decision](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/cumberland-county/services/follow-county-business.md): Find the regular meeting agenda, the source of the county’s authority and the record of what the governing body voted to adopt.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## Town of Cumberland Gap (us/tn/cumberland-gap)
@@ -1523,6 +1547,16 @@ Parent guide sections, nearest first: Bledsoe County, Tennessee (us/tn/bledsoe-c
 - [Contact Pikeville for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/pikeville/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Pikeville.
   - source-checked · Checked by codex on 2026-11-22.
 - [Follow a proposed ordinance in Pikeville](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/pikeville/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## Town of Pleasant Hill (us/tn/pleasant-hill)
+
+Parent guide sections, nearest first: Cumberland County, Tennessee (us/tn/cumberland-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/pleasant-hill/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Pleasant Hill for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/pleasant-hill/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Pleasant Hill.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Pleasant Hill](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/pleasant-hill/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## Town of Pleasant View (us/tn/pleasant-view)

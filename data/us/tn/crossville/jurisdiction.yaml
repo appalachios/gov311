@@ -1,0 +1,15 @@
+name: "City of Crossville"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:crossville
+parent: us/tn/cumberland-county
+aliases: ["Crossville"]
+website: https://crossvilletn.gov/
+general_contact:
+  name: "Crossville municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/crossville
+  phone: "(931) 484-5113"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/crossville
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex
