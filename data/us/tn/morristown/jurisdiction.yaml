@@ -1,0 +1,15 @@
+name: "City of Morristown"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:morristown
+parent: us/tn/hamblen-county
+aliases: ["Morristown"]
+website: https://www.mymorristown.com/
+general_contact:
+  name: "Morristown municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/morristown
+  phone: "(423) 581-0100"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/morristown
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex
