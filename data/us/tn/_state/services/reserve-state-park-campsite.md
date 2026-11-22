@@ -11,7 +11,7 @@ sources:
   - https://www.tn.gov/news/2013/3/20/tennessee-state-parks-announce-new-campground-reservation-system.html
 last_verified: 2026-11-21
 verified_by: codex
-trust: draft
+trust: source-checked
 ---
 
 Open the [Tennessee State Parks reservation site](https://reserve.tnstateparks.com/) and choose your park and dates. Check the site description and price before you reserve. You can also contact the individual park about availability. [Official reservation link](https://shop.tnstateparks.com/pages/faqs) · [How the campground reservation system works](https://www.tn.gov/news/2013/3/20/tennessee-state-parks-announce-new-campground-reservation-system.html)

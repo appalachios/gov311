@@ -29,12 +29,16 @@ guides:
 sources:
   - https://www.tn.gov/attorneygeneral/working-for-tennessee/consumer/resources/laws.html
   - https://publications.tnsosfiles.com/acts/107/pub/pc0847.pdf
-  - https://www.capitol.tn.gov/Bills/114/Bill/SB1088.pdf
+  - https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HB2683&ga=107
+  - https://publications.tnsosfiles.com/acts/112/pub/pc0182.pdf
   - https://www.help4tn.org/senior-services/legal-information/long-term-care-housing/non-urlta-renters
   - https://las.org/wp-content/uploads/2026/02/Evictions-KYR.pdf
 last_verified: 2026-11-21
-verified_by: claude-code
+verified_by: codex
 trust: draft
+human_review:
+  - reason: conflicting-evidence
+    description: The Attorney General and Help4TN list different counties. Have a reviewer confirm county coverage against the current text of section 66-28-102 before using either list.
 ---
 
 ## Read this first
@@ -43,19 +47,17 @@ If you have received an eviction notice or court papers, call a legal aid office
 
 ## What this law is
 
-The Uniform Residential Landlord and Tenant Act (URLTA) is the Tennessee law that sets rules between landlords and renters. It applies only in some counties, based on population. Renters in other counties fall under a different part of the Tennessee Code.
-
-This entry does not restate the rules. It tells you where to read them.
+Tennessee’s Uniform Residential Landlord and Tenant Act applies in some counties. If you need to know whether it covers your home, look up section 66-28-102 or ask legal aid. The [Attorney General’s consumer guide](https://www.tn.gov/attorneygeneral/working-for-tennessee/consumer/resources/laws.html) and [Help4TN’s renter guide](https://www.help4tn.org/senior-services/legal-information/long-term-care-housing/non-urlta-renters) give different county lists. The legislature changed the population test in 2012 and the census language in 2021. [2012 legislative record](https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HB2683&ga=107) · [2021 public chapter](https://publications.tnsosfiles.com/acts/112/pub/pc0182.pdf)
 
 ## Where to read the law
 
 The official text is the Tennessee Code, Title 66, Chapter 28. The state provides free public access through LexisNexis.
 
-The site asks each visitor to prove they are a person before it shows the code. Most AI tools cannot open it. A person can open it in a web browser.
+Open the Code in your browser if the site asks you to prove you are a person.
 
 ## Easier places to start
 
-Legal aid organizations publish plain-language guides to this law. The front matter of this entry links to them under `guides`. They are easier to read than the statute, and they say which counties the law covers. Check the date on each guide, because the law changes.
+For help reading an eviction notice in Davidson County, start with the [Legal Aid Society’s eviction guide](https://las.org/wp-content/uploads/2026/02/Evictions-KYR.pdf). [Help4TN](https://www.help4tn.org/topics/370/renters-homeowners) also has guides on repairs, deposits, and other housing questions.
 
 ## Where to get help
 

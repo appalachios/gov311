@@ -9,7 +9,7 @@ sources:
   - https://www.tn.gov/ecd/small-business/bero/pdfs-you-can-use-now.html
 last_verified: 2026-11-21
 verified_by: codex
-trust: draft
+trust: source-checked
 ---
 
 Open **How to Start a Business** on the department’s [small business guides page](https://www.tn.gov/ecd/small-business/bero/pdfs-you-can-use-now.html) for a flowchart of registration, permits, and sources of help. The same page links to the online **TN SmartStart** guide for financing and mentorship.

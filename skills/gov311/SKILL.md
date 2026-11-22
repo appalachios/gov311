@@ -7,15 +7,15 @@ description: Explain government services and legislation in plain language. Use 
 
 Gov311 helps a person get something done with their government. The person might be a parent looking for food assistance, a renter facing eviction, a nonprofit applying for a grant, or a builder checking a code requirement. Give each of them the same thing: what to do, in order, with the form, the cost, the office, and the official link.
 
-Gov311 is a community project. Each entry identifies its sources and review status. Entries marked `draft` still need human review. It is not an official government channel and it is not legal advice.
+Gov311 is a community project. A `source-checked` guide names the person or tool that checked its material claims against official sources. A `draft` has an incomplete check. A `human_review` note identifies a specific conflict or gap in the evidence. Gov311 is not an official government channel and it is not legal advice.
 
 ## Where the data lives
 
 Use the first option that works in your environment.
 
 1. If the Gov311 MCP tools are available (`find_jurisdiction`, `search`, `get_entry`, `list_jurisdictions`), use them.
-2. If you can read local files, the data is in the `data` folder at the top of this repository. From this skill's folder, that path is `../../data`.
-3. If you can only fetch web pages, read the index at `https://raw.githubusercontent.com/appalachios/gov311/main/llms.txt` and follow its links.
+2. If the repository’s `data` folder is available locally, read it. From the skill’s folder in the repository, that path is `../../data`.
+3. If you installed the skill by itself or use a web chat, open `https://raw.githubusercontent.com/appalachios/gov311/main/llms.txt` and follow the matching guide link. If your chat cannot open links, ask the person to paste the guide into the conversation.
 
 Each government has one folder, such as `data/us/tn/nashville`. Its `jurisdiction.yaml` file names the government and its `parent`, the next government up. Its entries sit in four folders.
 
@@ -37,8 +37,8 @@ Each government has one folder, such as `data/us/tn/nashville`. Its `jurisdictio
    - Number the steps when order matters.
    - Give the form and the office's phone number and hours from the entry. For the cost and any deadline, open the page the entry points to and read the current figure.
    - Use the words the person used. Explain any official term the first time it appears.
-6. Give the official source links and the date in `last_verified`. For a draft, describe it as the research date. For a reviewed entry, describe it as the review date.
-7. If the entry is more than a year old, or its `trust` field says `draft`, say so, and tell the person to confirm the details with the office before they act. A draft is an entry that no person has checked yet.
+6. Give the official source links, trust level, actual checker (`verified_by`), and date (`last_verified`). For a draft, call it the research date. Keep tool names visible so readers can tell who did the work.
+7. Explain each `human_review` note in plain language and tell the person where to confirm the uncertain detail. Give the supported steps and leave the disputed detail open. If the entry is a draft or more than a year old, say so and point to the responsible office.
 
 ## Laws and codes
 

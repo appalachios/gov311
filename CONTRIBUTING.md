@@ -110,7 +110,9 @@ Cities and counties sit side by side under their state. The `parent` field in `j
    `npm run build` updates `llms.txt`, the index that web-only AI tools read. `npm run check` confirms that every entry follows the format.
 5. Open a pull request. A maintainer for that place reviews it.
 
-### Fields every entry needs
+If you change the Gov311 skill itself, run `python3 scripts/package-skill.py` and include the updated download with your change.
+
+### Guide fields
 
 | Field | What to write |
 | --- | --- |
@@ -118,9 +120,10 @@ Cities and counties sit side by side under their state. The `parent` field in `j
 | `summary` | One or two sentences. Search results show this text. |
 | `audiences` | Who the entry helps: `residents-in-need`, `nonprofits`, `builders`, `homeowners`, `renters`, `small-business`, or `everyone` |
 | `sources` | The official pages where a reader can confirm the facts |
-| `last_verified` | The date you checked every fact, written as `YYYY-MM-DD` |
-| `verified_by` | Your GitHub username |
-| `trust` | `community` for a new entry that you checked yourself. See trust levels below. |
+| `last_verified` | The date of the source check or draft research, written as `YYYY-MM-DD` |
+| `verified_by` | The GitHub username of the person or the name of the tool that did that work |
+| `trust` | Use the level that describes the work actually done. See [Trust levels](#trust-levels). |
+| `human_review` | Include only when evidence is missing or conflicting. Name each detail a person needs to check and why. |
 
 Each entry type has a few fields of its own, such as `cost` and `forms` for a service or `official_text` and `covers` for a code. The templates show them, and [`data/_schema/entry.schema.json`](data/_schema/entry.schema.json) lists them all.
 
@@ -191,14 +194,24 @@ List offices, roles, and public phone lines. Do not list a private person's name
 
 | Level | Meaning |
 | --- | --- |
-| `draft` | An AI tool researched the entry, or no person has checked it yet. |
-| `community` | One contributor checked the entry against its sources. |
+| `draft` | The source check is incomplete. |
+| `source-checked` | The named person or tool checked the guide’s material claims against the official sources it cites. |
+| `community` | A human contributor checked the entry against its sources. |
 | `verified` | A second person confirmed it independently. |
 | `official` | An employee of that government submitted or confirmed it. |
 
-A reviewer raises an entry from `community` to `verified` after checking it against the sources.
+To mark a guide `source-checked`, read the responsible agency’s or program operator’s published instructions and check the details a reader will rely on, including which office to call, who qualifies, and how to apply. A working link alone tells you only that the page opens. Record the actual checker in `verified_by` (for example, `codex` for a check performed by Codex) and the date in `last_verified`.
 
-You can use an AI tool to research and draft an entry. Mark it `draft` until you have opened every source yourself and confirmed each fact. Then change it to `community` and put your username in `verified_by`. AI tools that read Gov311 tell the person when an entry is still a draft. If you work for a government and want to maintain your agency's entries, open an issue. We would be glad to have you.
+If official sources disagree or you cannot find evidence for a material detail, correct what you can. Leave any unresolved guide at `draft` and add a `human_review` note for each open question. For example, if two pages give different addresses, tell the reader where to confirm the address before making a trip.
+
+```yaml
+trust: draft
+human_review:
+  - reason: conflicting-evidence
+    description: The office directory and the application give different mailing addresses. Confirm with the permits office before mailing the form.
+```
+
+Use `missing-evidence` when the responsible office’s sources do not establish a detail. When someone resolves the question, cite the evidence, update the guide, and remove that note. Once every question is resolved and the check is complete, update the trust level, checker, and date. Reserve `verified` for an independent second human check and `official` for confirmation or submission by the responsible government.
 
 ## Keeping entries current
 

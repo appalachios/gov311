@@ -1,6 +1,6 @@
 # Gov311
 
-> Plain-language guides to government services, contacts, codes, and help. Read the entry for its official sources, research or review date, and trust level. An entry marked draft still needs human review. Gov311 is a community project. It is not an official government channel and it is not legal advice.
+> Gov311 is an independent community guide to government services, contacts, laws, and help. A source-checked guide names the person or tool that checked it against official sources. A draft has an incomplete check. A human review note tells you which detail to confirm with the office. Use the official links in each guide when you answer.
 
 To answer a question, find the person's city or county below, then read the matching entry. If the local section has no answer, check the state section, then the federal section.
 
@@ -8,92 +8,176 @@ To answer a question, find the person's city or county below, then read the matc
 
 - [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/_federal/jurisdiction.yaml): website, main contact, and parent government
 - [Get your organization ready to apply for a federal grant](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/_federal/services/apply-for-federal-grant.md): Before an organization can apply for a federal grant on Grants.gov, it must register in SAM.gov and set up a Grants.gov account. Registration is free and is not instant, so start early.
+  - draft · Research by claude-code on 2026-11-21.
 - [Call 211 for local help with food, housing, and bills](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/_federal/help/211.md): Dial 211 to talk with a person who can connect you to local help with food, housing, utility bills, and other needs. The call is confidential and the line answers 24 hours a day.
+  - draft · Research by claude-code on 2026-11-21.
 - [Find government benefits you may qualify for](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/_federal/help/benefit-finder.md): The USA.gov benefit finder asks a few questions and lists the government benefits you may qualify for, with instructions for applying to each one.
+  - draft · Research by claude-code on 2026-11-21.
 
 ## State of Tennessee (us/tn/_state)
 
 - [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/_state/jurisdiction.yaml): website, main contact, and parent government
 - [Appeal a TennCare eligibility or medical decision](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/_state/services/appeal-a-tenncare-decision.md): The notice tells you what TennCare decided. Use an eligibility appeal to challenge a decision about getting or keeping coverage. Use a medical appeal for a problem getting care through your plan.
+  - source-checked · Checked by codex on 2026-11-21.
 - [Appeal a Tennessee property tax assessment](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/_state/services/appeal-property-assessment.md): Start with the assessor in the county where the property is located. If you disagree with the county board’s decision, the State Board of Equalization explains how to file a value appeal.
+  - source-checked · Checked by codex on 2026-11-21.
 - [Apply for a Tennessee Arts Commission grant](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/_state/services/apply-for-arts-grant.md): The Tennessee Arts Commission publishes grant programs for artists and organizations. Each program has its own guidelines and application schedule.
+  - source-checked · Checked by codex on 2026-11-21.
 - [Apply for Families First cash assistance in Tennessee](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/_state/services/apply-for-families-first.md): Families First is Tennessee’s Temporary Assistance for Needy Families program. The Department of Human Services takes the application, interviews your household, and helps you prepare a plan before approval.
+  - source-checked · Checked by codex on 2026-11-21.
 - [Apply for Tennessee SNAP food benefits](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/_state/services/apply-for-snap.md): The Tennessee Department of Human Services takes food assistance applications online, by mail, and at county offices. It screens some households for faster help based on need.
+  - source-checked · Checked by codex on 2026-11-21.
 - [Apply for Tennessee Promise and other state college aid](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/_state/services/apply-for-state-college-aid.md): The Tennessee Higher Education Commission's student portal takes applications for Tennessee Promise and other state aid. Each program lists its own forms and deadlines.
+  - source-checked · Checked by codex on 2026-11-21.
 - [Apply for a job with Tennessee state government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/_state/services/apply-for-state-job.md): People who do not already work for the state can search the Department of Human Resources’ careers portal by agency, job title, or county and apply from the listing.
+  - source-checked · Checked by codex on 2026-11-21.
 - [Apply for TennCare health coverage](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/_state/services/apply-for-tenncare.md): Use TennCare Connect to apply for Tennessee Medicaid, check an application, or read a letter about your coverage. You can also apply by phone.
+  - source-checked · Checked by codex on 2026-11-21.
 - [Find Tennessee state contracts open for bids](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/_state/services/bid-on-state-contracts.md): Use the Central Procurement Office’s supplier pages to find bid opportunities, check an event’s submission instructions, and register for a state contract award.
+  - source-checked · Checked by codex on 2026-11-21.
 - [Get help paying for child care in Tennessee](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/_state/services/child-care-payment-assistance.md): The Department of Human Services explains which child care payment programs take applications or referrals and how to respond to a Smart Steps waitlist invitation.
+  - source-checked · Checked by codex on 2026-11-21.
 - [Find and claim unclaimed money in Tennessee](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/_state/services/claim-unclaimed-property.md): Search the Tennessee Department of Treasury's records for money a business has turned over to the state, such as an old paycheck or bank balance. Searching and filing a claim are free.
+  - source-checked · Checked by codex on 2026-11-21.
 - [File a complaint about a Tennessee community or technical college](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/_state/services/file-a-college-complaint.md): The Tennessee Board of Regents has a complaint process for its community colleges and Colleges of Applied Technology. Where you file depends on the school and the kind of concern.
+  - source-checked · Checked by codex on 2026-11-21.
 - [Ask Tennessee Consumer Affairs for help with a business dispute](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/_state/services/file-consumer-complaint.md): If you cannot resolve a purchase or service dispute with a business, the Attorney General's Division of Consumer Affairs can ask the business to respond and help both sides reach an agreement.
+  - source-checked · Checked by codex on 2026-11-21.
 - [File a discrimination complaint with the Tennessee Attorney General](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/_state/services/file-discrimination-complaint.md): The Civil Rights Enforcement Division takes state discrimination complaints about work, housing, education, and places that serve the public. It now handles the work of the former Tennessee Human Rights Commission.
+  - source-checked · Checked by codex on 2026-11-21.
 - [File a complaint about a Tennessee bank, credit union, or lender](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/_state/services/file-financial-institution-complaint.md): The Department of Financial Institutions handles complaints about financial institutions it regulates. Its Consumer Resources staff can help you identify the regulator for your account or loan.
+  - source-checked · Checked by codex on 2026-11-21.
 - [File for unemployment benefits in Tennessee](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/_state/services/file-for-unemployment.md): File an unemployment insurance claim through Jobs4TN, check for messages about your claim, and certify each week you still need benefits.
+  - source-checked · Checked by codex on 2026-11-21.
 - [Report a problem with care at a Tennessee hospital or nursing home](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/_state/services/file-health-facility-complaint.md): The Health Facilities Commission investigates complaints about care at health facilities. A complaint about an individual licensed health professional goes to the Department of Health.
+  - source-checked · Checked by codex on 2026-11-21.
 - [File a complaint about your Tennessee insurance policy](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/_state/services/file-insurance-complaint.md): Consumer Insurance Services reviews complaints about insurers and agents, including disputed claims. The Department of Commerce and Insurance directs some kinds of coverage to a different office.
+  - source-checked · Checked by codex on 2026-11-21.
 - [Find the right office for a Tennessee utility complaint](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/_state/services/file-utility-complaint.md): The route for a billing or service complaint depends on who regulates your utility. Start with the provider’s name as it appears on the bill.
+  - source-checked · Checked by codex on 2026-11-21.
 - [Find the Tennessee board that licenses a profession](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/_state/services/find-a-licensing-board.md): Look up the agency for a profession, find application and renewal instructions, or check an individual’s license. Tennessee has a separate lookup for health care professionals.
-- [Find a Tennessee appeals case or reach the trial court clerk](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/_state/services/find-court-case.md): Find a case by the court named on your paperwork. Tennessee has a statewide search for its appellate courts. County clerks keep trial court dockets, including some appeals.
+  - source-checked · Checked by codex on 2026-11-21.
+- [Find a Tennessee appeals case or reach the trial court clerk](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/_state/services/find-court-case.md): Find a case by the court named on your paperwork. Tennessee has a statewide search for its appellate courts. For a case in a trial court, ask that court’s clerk for the docket, even if the case is an appeal.
+  - source-checked · Checked by codex on 2026-11-21.
 - [Find a Tennessee legislative hearing, agenda, or floor vote](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/_state/services/find-legislative-hearings.md): Use the committee named in a bill’s history to find its meeting, see which bills are on the agenda, and check what happened after the meeting.
+  - source-checked · Checked by codex on 2026-11-21.
 - [Find a Tennessee parole hearing or ask about a decision](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/_state/services/find-parole-hearing.md): The Board of Parole publishes hearing schedules and participation instructions. Families with questions about a person in state prison can ask a parole officer at that facility about the hearing or decision.
+  - source-checked · Checked by codex on 2026-11-21.
 - [Form a Tennessee limited liability company](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/_state/services/form-tennessee-llc.md): File articles of organization with the Secretary of State to create a new Tennessee LLC. The state provides an online filing system and instructions for filing on paper.
+  - source-checked · Checked by codex on 2026-11-21.
 - [Get a certified copy of a Tennessee birth certificate](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/_state/services/get-a-birth-certificate.md): Request a certified birth certificate from a county health department or the Tennessee Office of Vital Records. The state also names its authorized online vendor.
+  - source-checked · Checked by codex on 2026-11-21.
 - [Buy or reprint a Tennessee fishing license](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/_state/services/get-a-fishing-license.md): Use the Tennessee Wildlife Resources Agency's licensing system to buy a fishing license or print another copy. People who have held a Tennessee fishing license or registered a boat already have an account.
+  - source-checked · Checked by codex on 2026-11-21.
 - [Get a Tennessee alcohol server permit](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/_state/services/get-alcohol-server-permit.md): The Alcoholic Beverage Commission issues individual permits for people who serve liquor, wine, or high-gravity beer at businesses licensed for on-premises consumption.
+  - source-checked · Checked by codex on 2026-11-21.
 - [How a bill becomes law in Tennessee](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/_state/services/legislative-process.md): Follow a general bill through committee, the House and Senate, and the governor. Learn when to look for a public chapter and where to check its effective date.
+  - source-checked · Checked by codex on 2026-11-21.
 - [Check whether a Tennessee property is on the National Register of Historic Places](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/_state/services/look-up-historic-property.md): The Tennessee Historical Commission’s map and listing spreadsheet can help you find a historic property or district. Commission staff can check an address and explain how to propose a property for listing.
+  - source-checked · Checked by codex on 2026-11-21.
 - [Make a WIC appointment in Tennessee](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/_state/services/make-a-wic-appointment.md): A local WIC clinic takes applications for food and nutrition support during pregnancy, after birth, and for infants and young children. The Tennessee Department of Health lists clinics by county.
+  - source-checked · Checked by codex on 2026-11-21.
 - [Read a Tennessee caption bill and find the amendments that passed](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/_state/services/read-a-caption-bill.md): A Tennessee bill can keep its number and title while an amendment replaces its contents. Use the House and Senate action histories to trace the change from the filed bill to the final act.
+  - source-checked · Checked by codex on 2026-11-21.
 - [Read a Tennessee public chapter and find the law it changed](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/_state/services/read-a-public-chapter.md): Follow the code references in an enacted bill, identify which words changed, and check when each provision applies. A driver licensing law shows how to read the instructions.
+  - source-checked · Checked by codex on 2026-11-21.
 - [Find Tennessee’s state budget and agency spending proposals](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/_state/services/read-the-state-budget.md): Find the governor’s recommended budget, look up a department’s proposed funding, and trace what the General Assembly approved.
+  - source-checked · Checked by codex on 2026-11-21.
 - [Register a charity before you ask for donations in Tennessee](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/_state/services/register-charity.md): How a charitable organization registers with the Tennessee Secretary of State to solicit contributions and renews each year, and where the state publishes the fees, the renewal deadline, and who must register.
+  - source-checked · Checked by codex on 2026-11-21.
 - [Register for Tennessee business tax](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/_state/services/register-for-business-tax.md): The Department of Revenue takes state business tax registrations through TNTAP. Its guidance explains when a county or city clerk issues a separate business license.
+  - source-checked · Checked by codex on 2026-11-21.
 - [Register to vote or update your Tennessee voter registration](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/_state/services/register-to-vote.md): Use the Secretary of State's online application or a paper form. If you moved, the right choice in the online application depends on whether you changed counties.
+  - source-checked · Checked by codex on 2026-11-21.
 - [Title and register a vehicle after moving to Tennessee](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/_state/services/register-vehicle-after-moving.md): Your county clerk takes the application for a Tennessee title and license plate. The Department of Revenue lists the paperwork to bring, including what to do if a lender holds your title.
+  - source-checked · Checked by codex on 2026-11-21.
 - [Report a pothole or debris on a Tennessee state road](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/_state/services/report-a-state-road-problem.md): The Tennessee Department of Transportation takes maintenance requests for interstates and state routes. Use the road repair hotline or the online form to tell crews where the problem is.
+  - source-checked · Checked by codex on 2026-11-21.
 - [Report an injury at work in Tennessee](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/_state/services/report-work-injury.md): Tell your supervisor about a work injury to start a workers’ compensation claim. The Bureau of Workers’ Compensation helps injured workers who have trouble with the process.
+  - source-checked · Checked by codex on 2026-11-21.
 - [Get Tennessee’s official travel guide](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/_state/services/request-a-vacation-guide.md): The Tennessee Department of Tourist Development offers its vacation guide online and mails print copies on request.
+  - source-checked · Checked by codex on 2026-11-21.
 - [Get a transcript or diploma from a Tennessee public high school](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/_state/services/request-high-school-records.md): Ask the district where you attended high school for your records. Public charter schools handle their own requests, and Tennessee uses a separate service for high school equivalency records.
+  - source-checked · Checked by codex on 2026-11-21.
 - [Schedule a school field trip to the Tennessee State Museum](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/_state/services/request-state-museum-field-trip.md): Teachers and school groups can request a guided visit to the Tennessee State Museum in Nashville. The museum’s scheduling office confirms the date and time.
+  - source-checked · Checked by codex on 2026-11-21.
 - [Request a public record from a Tennessee state agency](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/_state/services/request-state-public-records.md): Find the records coordinator for the agency that holds the document. Its public records policy tells you how to inspect the record or ask for a copy.
+  - source-checked · Checked by codex on 2026-11-21.
 - [Request a Tennessee criminal history check](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/_state/services/request-tennessee-background-check.md): The Tennessee Bureau of Investigation offers a name-based search of Tennessee criminal history records. Its public portal shows the fee and explains what the report covers.
+  - source-checked · Checked by codex on 2026-11-21.
 - [Reserve a campsite at a Tennessee state park](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/_state/services/reserve-state-park-campsite.md): Use the state parks reservation site to check your dates and choose a campsite. The individual park describes the types of sites it offers.
+  - source-checked · Checked by codex on 2026-11-21.
 - [Look up Tennessee campaign donations and spending](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/_state/services/search-campaign-finance.md): The Registry of Election Finance publishes filings from state candidates and political action committees. You can look up financial reports, contributions, and expenditures.
+  - source-checked · Checked by codex on 2026-11-21.
 - [Find and track pending bills in the Tennessee General Assembly](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/_state/services/track-a-bill.md): Search the current or a past General Assembly, find both bill numbers, and read the latest action in each chamber. Use My Bills to follow proposals through the session.
+  - source-checked · Checked by codex on 2026-11-21.
 - [Track a proposed amendment to the Tennessee Constitution](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/_state/services/track-a-constitutional-amendment.md): Follow a proposed constitutional change across two General Assemblies, find the text voters saw, and look up the statewide election result.
+  - source-checked · Checked by codex on 2026-11-21.
 - [Transfer an out-of-state driver license to Tennessee](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/_state/services/transfer-driver-license.md): The Department of Safety and Homeland Security handles license transfers at full-service Driver Services Centers. You can start the application and have the department check your documents before you go.
+  - source-checked · Checked by codex on 2026-11-21.
 - [Check a Tennessee contractor's license](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/_state/services/verify-contractor-license.md): Look up a contractor in the Department of Commerce and Insurance's public license search. The record shows license status, the expiration date, and any public disciplinary actions.
+  - source-checked · Checked by codex on 2026-11-21.
 - [Arrange a visit to someone in a Tennessee state prison](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/_state/services/visit-someone-in-state-prison.md): Send the visitor application to the prison where the person is housed. Once approved, arrange a visit using that prison’s scheduling instructions.
+  - source-checked · Checked by codex on 2026-11-21.
 - [Find your Area Agency on Aging and Disability in Tennessee](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/_state/contacts/aging-and-disability-assistance.md): The Department of Disability and Aging connects older adults, people with disabilities and family caregivers with regional offices. Staff can help you find local support, including meals.
+  - source-checked · Checked by codex on 2026-11-21.
 - [Tennessee Secretary of State, Division of Charitable Solicitations](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/_state/contacts/charities-division.md): The state office that registers charitable organizations that ask the public for donations in Tennessee.
+  - source-checked · Checked by codex on 2026-11-21.
 - [Tennessee Child Abuse Hotline](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/_state/contacts/child-abuse-hotline.md): The Department of Children’s Services takes reports of suspected child abuse or neglect in Tennessee. Its online reporting form is for situations that can wait for review.
+  - source-checked · Checked by codex on 2026-11-21.
 - [Ask for an independent review of a Tennessee child welfare case](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/_state/contacts/childrens-services-ombudsman.md): The Tennessee Commission on Children and Youth’s ombudsman helps resolve concerns about foster care, kinship care, and Child Protective Services cases.
+  - source-checked · Checked by codex on 2026-11-21.
 - [Report suspected misuse of Tennessee public money or property](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/_state/contacts/comptroller-fraud-hotline.md): The Comptroller takes reports about fraud, waste, or abuse involving state agencies and local governments.
+  - source-checked · Checked by codex on 2026-11-21.
 - [Find the Tennessee field office for an environmental complaint](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/_state/contacts/environmental-field-offices.md): The Department of Environment and Conservation routes pollution concerns and permit questions to regional field offices. The field office map shows which office serves the area.
+  - source-checked · Checked by codex on 2026-11-21.
 - [Tennessee Department of Human Services family assistance offices](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/_state/contacts/family-assistance.md): Find the office for your county to submit a food, cash, or child care assistance application and turn in documents.
+  - source-checked · Checked by codex on 2026-11-21.
 - [Find your Tennessee state senator and representative](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/_state/contacts/find-your-legislator.md): Look up the members of the Tennessee General Assembly who represent your home address and find their office phone numbers or email addresses.
+  - source-checked · Checked by codex on 2026-11-21.
 - [Ask the Tennessee Governor’s Office for help with a state agency](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/_state/contacts/governor-constituent-services.md): After you have tried to resolve an issue with the state agency that handles it, you can ask the Governor’s Office for help.
+  - source-checked · Checked by codex on 2026-11-21.
 - [Get help for a military family in Tennessee](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/_state/contacts/military-family-readiness.md): The Tennessee Military Department’s family readiness staff connects service members, veterans, and families with help for military IDs, financial needs, and TRICARE questions.
+  - source-checked · Checked by codex on 2026-11-21.
 - [Report a food safety problem at a Tennessee grocery store](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/_state/contacts/retail-food-safety.md): The Tennessee Department of Agriculture handles food safety complaints about grocery stores and convenience stores. Restaurant complaints go to the health department.
+  - source-checked · Checked by codex on 2026-11-21.
 - [Find the right Tennessee government office](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/_state/contacts/state-government-directory.md): Use Tennessee’s directory to reach a state department, contact a legislator, or find the city or county office that handles a local service.
+  - source-checked · Checked by codex on 2026-11-21.
 - [Find a Tennessee veterans service officer for help with a claim](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/_state/contacts/veterans-service-offices.md): The Tennessee Department of Veterans Services lists state field offices and county service officers. You can make an appointment for help filing a veterans benefits claim.
+  - source-checked · Checked by codex on 2026-11-21.
 - [Where to find Tennessee's landlord and tenant law](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/_state/codes/renter-protections.md): Points to the Tennessee law that covers eviction notices, lockouts, repairs, security deposits, and late fees for renters, to plain-language guides from legal aid, and to free legal help.
+  - draft · Research by codex on 2026-11-21.
+  - Human review (conflicting evidence). The Attorney General and Help4TN list different counties. Have a reviewer confirm county coverage against the current text of section 66-28-102 before using either list.
 - [Where to find Tennessee state agency rules and proposed changes](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/_state/codes/state-agency-rules.md): The Secretary of State publishes the official compilation of agency rules and the Administrative Register, where agencies publish notices and proposed changes.
+  - source-checked · Checked by codex on 2026-11-21.
 - [Where to read the Tennessee Code and newly enacted laws](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/_state/codes/tennessee-code.md): Use the Tennessee Code to look up a statute, a public chapter to read the change lawmakers enacted, or the private acts index for a law affecting one city or county.
+  - source-checked · Checked by codex on 2026-11-21.
 - [Find addiction treatment through the Tennessee REDLINE](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/_state/help/addiction-treatment-referrals.md): Call or text for a confidential referral to treatment for substance use or problem gambling. You can ask for help for yourself or a family member.
+  - source-checked · Checked by codex on 2026-11-21.
 - [Find outpatient mental health care through Tennessee’s Behavioral Health Safety Net](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/_state/help/behavioral-health-safety-net.md): Adults looking for help paying for outpatient mental health care can ask a participating provider about Tennessee’s Behavioral Health Safety Net. Services include therapy and psychiatric medication management.
+  - source-checked · Checked by codex on 2026-11-21.
 - [Find shelter and recovery help after a Tennessee disaster](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/_state/help/disaster-recovery.md): The Tennessee Emergency Management Authority lists shelters and directs people to help with housing, cleanup, and other needs after a disaster. Available programs depend on the event and location.
+  - source-checked · Checked by codex on 2026-11-21.
 - [Find rental housing or a housing voucher office in Tennessee](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/_state/help/find-rental-housing.md): Use Tennessee’s free rental search to look for an apartment. For help paying rent through a Housing Choice Voucher, check the agency that serves the area where you want to live.
+  - source-checked · Checked by codex on 2026-11-21.
 - [Ask a lawyer a question online for free (TN Free Legal Answers)](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/_state/help/free-legal-answers.md): A website where Tennesseans who qualify can post a question about a civil legal problem and get a written answer from a volunteer lawyer at no cost.
+  - source-checked · Checked by codex on 2026-11-21.
 - [Find Tennessee help with starting a small business](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/_state/help/small-business-startup.md): The Department of Economic and Community Development publishes a startup guide covering registration, permits, financing, and business support.
+  - source-checked · Checked by codex on 2026-11-21.
 
 ## Metropolitan Government of Nashville and Davidson County (us/tn/nashville)
 
 - [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/nashville/jurisdiction.yaml): website, main contact, and parent government
 - [Get a residential building permit in Nashville](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/nashville/services/residential-building-permit.md): How to apply for a building permit for a house in Nashville, including what to gather, how homeowners and contractors apply, and where Metro publishes the fees and the list of projects that need a permit.
+  - draft · Research by codex on 2026-11-21.
+  - Human review (conflicting evidence). Metro’s residential permit instructions accept applications by email. Its ePermits page tells homeowners to apply in person. Ask the Zoning Help Desk whether a homeowner can complete filing by email.
 - [Metro Nashville Department of Codes and Building Safety](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/nashville/contacts/codes-department.md): The Metro department that issues building permits, answers zoning questions, inspects construction, and enforces property standards.
+  - source-checked · Checked by codex on 2026-11-21.
 - [hubNashville 311, Nashville's line for service requests and questions](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/nashville/contacts/hubnashville.md): hubNashville is the one place to request a Metro Nashville service, ask a question, or give feedback. You do not need to know which department handles your issue.
-- [Where to find the building codes Metro Nashville enforces](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/nashville/codes/building-codes.md): Points to Metro Nashville's official list of adopted building, residential, electrical, plumbing, mechanical, and energy codes, to the local amendments, and to the office that answers code questions.
+  - source-checked · Checked by codex on 2026-11-21.
+- [Where to find the building codes Metro Nashville enforces](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/nashville/codes/building-codes.md): Points to Metro Nashville's official list of adopted building, residential, electrical, plumbing, mechanical, and energy codes, the ordinance containing the local amendments, and the office that answers code questions.
+  - source-checked · Checked by codex on 2026-11-21.
 - [Look up zoning rules for a Nashville property](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/nashville/codes/zoning.md): Nashville's zoning rules are in Title 17 of the Metro Code. The Davidson County Parcel Viewer shows the zoning district and overlays for any property.
+  - source-checked · Checked by codex on 2026-11-21.
 - [Free legal help with an eviction in Nashville](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/nashville/help/eviction-legal-help.md): The Legal Aid Society offers free legal help to Davidson County renters who qualify, including a phone line for people facing eviction. Court deadlines are short, so call as soon as you receive a notice or court papers.
+  - source-checked · Checked by codex on 2026-11-21.

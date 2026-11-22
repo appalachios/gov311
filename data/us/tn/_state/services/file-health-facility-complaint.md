@@ -10,7 +10,7 @@ sources:
   - https://www.tn.gov/hfc/division-of-licensure-and-regulation.html
 last_verified: 2026-11-21
 verified_by: codex
-trust: draft
+trust: source-checked
 ---
 
 For a problem with care at a facility, open the Health Facilities Commission’s [complaint instructions](https://www.tn.gov/hfc/division-of-licensure-and-regulation/filing-a-complaint.html) and select **Public Records and Complaints**. You can also call the Complaint Intake Unit at **1-877-287-0010** or download a form and mail it. The page has a separate form for complaints about unlicensed facilities.

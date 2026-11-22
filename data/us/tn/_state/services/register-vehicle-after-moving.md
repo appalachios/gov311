@@ -13,7 +13,7 @@ sources:
   - https://revenue.support.tn.gov/hc/en-us/articles/360060097432--VR-4-Registration-Fees
 last_verified: 2026-11-21
 verified_by: codex
-trust: draft
+trust: source-checked
 ---
 
 1. Gather proof of identity and Tennessee residency, your most recent out-of-state registration, and your out-of-state title. If a lender holds the title, bring the lender’s name and address so the clerk can request it. Revenue's checklist links to the identification and residency documents it accepts. [New resident title and plate checklist](https://revenue.support.tn.gov/hc/en-us/articles/360059963672-VTR-48-Procedure-for-New-Residents-to-Get-a-Tennessee-License-Plate)

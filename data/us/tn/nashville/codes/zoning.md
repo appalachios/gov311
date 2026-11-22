@@ -18,18 +18,19 @@ official_text:
     how_to_find: Search for the address, then open the zoning tab.
 department: contacts/codes-department
 sources:
+  - https://www.nashville.gov/departments/codes/construction-and-permits/land-use-and-zoning-information/understanding-zoning-code
   - https://www.nashville.gov/departments/codes
   - https://www.nashville.gov/departments/codes/construction-and-permits/building-permits-central/addition-single-family-residence
 last_verified: 2026-11-21
-verified_by: claude-code
-trust: draft
+verified_by: codex
+trust: source-checked
 ---
 
 ## What the rule says
 
 Zoning rules control how a property can be used and where a structure can sit on its lot. Each property belongs to a zoning district. Some properties also sit in an overlay, an extra layer of rules for a specific area such as a historic neighborhood.
 
-Title 17 of the Metro Code of Ordinances holds the rules for each district. This entry does not restate them. It shows you how to find the ones that apply to a property.
+Metro explains how base zoning and overlays work in its [guide to Title 17](https://www.nashville.gov/departments/codes/construction-and-permits/land-use-and-zoning-information/understanding-zoning-code). Use the steps below to find the rules for your property.
 
 ## How to look up a property
 

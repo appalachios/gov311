@@ -14,7 +14,7 @@ sources:
   - https://tnmuseum.org/virtual-field-trips
 last_verified: 2026-11-21
 verified_by: codex
-trust: draft
+trust: source-checked
 ---
 
 Choose a museum program for your students’ grade and the history topic you are teaching. The [museum’s field trip guide](https://tnmuseum.org/field-trips) also lists a separate State Capitol tour and says when requests open for each semester.

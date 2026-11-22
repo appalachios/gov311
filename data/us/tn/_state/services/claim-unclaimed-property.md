@@ -15,7 +15,7 @@ sources:
   - https://unclaimedproperty.tn.gov/app/claim-status-search
 last_verified: 2026-11-21
 verified_by: codex
-trust: draft
+trust: source-checked
 ---
 
 1. Search for your name or business in Tennessee's unclaimed property records. If you find a match, start a claim from that record. [State unclaimed property search](https://unclaimedproperty.tn.gov/app/claim-search)

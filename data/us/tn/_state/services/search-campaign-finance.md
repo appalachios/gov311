@@ -10,7 +10,7 @@ sources:
   - https://elect.hamiltontn.gov/CandidateInfo/WheretoFile.aspx
 last_verified: 2026-11-21
 verified_by: codex
-trust: draft
+trust: source-checked
 ---
 
 1. Open the [Registry’s campaign finance search](https://apps.tn.gov/tncamp/public/cpsearch.htm). Choose **Candidates** or **PACs** (political action committees) and enter the candidate’s last name or the committee’s name. Use the office, district, or election year fields to narrow your search.

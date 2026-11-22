@@ -31,7 +31,7 @@ sources:
   - https://www.ctas.tennessee.edu/eli/private-acts
 last_verified: 2026-11-21
 verified_by: codex
-trust: draft
+trust: source-checked
 ---
 
 For an existing statute, open **Tennessee Code** from the [General Assembly’s legislation page](https://wapp.capitol.tn.gov/apps/BillInfo/Legislation). Use the section number from the document you are reading. The legislature links to LexisNexis for the Code. If the text does not display in an automated reader, open the official link in a browser. Justia also has an unofficial copy you can browse by year. Check the edition and confirm the wording against the official text. [Library of Congress guide](https://guides.loc.gov/law-us-tennessee/legislative) · [Justia’s Tennessee Code](https://law.justia.com/codes/tennessee/)

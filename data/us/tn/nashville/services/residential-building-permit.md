@@ -6,7 +6,7 @@ keywords: [building permit, deck, addition, garage, shed, pool, roof, renovation
 department: contacts/codes-department
 cost:
   description: Metro calculates the fee from the value of the project and adds a zoning examination fee and a technology fee. Metro publishes the amounts in its Codes fee schedule. Trade permits and re-inspections have their own fees.
-  source: https://www.nashville.gov/sites/default/files/2022-12/Codes-Fees-Schedule-221215.pdf
+  source: https://www.nashville.gov/sites/default/files/2025-12/Building-Permit-Fee-Scheudle-2025.pdf
 forms:
   - name: Residential Building Permit Application
     url: https://www.nashville.gov/sites/default/files/2024-04/Codes-Residential-Building-Permit-Application.pdf
@@ -19,11 +19,15 @@ sources:
   - https://www.nashville.gov/departments/codes/construction-and-permits/building-permit-process
   - https://www.nashville.gov/departments/codes/construction-and-permits/e-permits-system
   - https://www.nashville.gov/departments/codes/construction-and-permits/building-permits-central
-  - https://www.nashville.gov/sites/default/files/2022-12/Codes-Fees-Schedule-221215.pdf
+  - https://www.nashville.gov/departments/codes/construction-and-permits/publications-list
+  - https://www.nashville.gov/sites/default/files/2025-12/Building-Permit-Fee-Scheudle-2025.pdf
   - https://www.nashville.gov/sites/default/files/2022-09/Building-Permit-Required.pdf
 last_verified: 2026-11-21
-verified_by: claude-code
+verified_by: codex
 trust: draft
+human_review:
+  - reason: conflicting-evidence
+    description: Metro’s residential permit instructions accept applications by email. Its ePermits page tells homeowners to apply in person. Ask the Zoning Help Desk whether a homeowner can complete filing by email.
 ---
 
 ## Who needs this
@@ -53,13 +57,11 @@ A property owner who lives in, or plans to live in, a single-family home can get
 
 1. Complete the permit application.
 2. Complete the Affidavit of Exemption and the Self Permit Affidavit, and have both notarized. Metro requires the notarization before you submit them.
-3. Email the application and your documents to zoninghelpdesk@nashville.gov. A zoning examiner is assigned to review the application.
-4. Wait for approvals. Most applications also need approval from other departments, such as Water and Sewer, Health, Planning, Public Works, or Historical Zoning.
+3. Call the Zoning Help Desk at 615-862-6510 to confirm how to file. The [residential permit instructions](https://www.nashville.gov/departments/codes/construction-and-permits/residential-building-permits) direct applicants to email zoninghelpdesk@nashville.gov. The [ePermits page](https://www.nashville.gov/departments/codes/construction-and-permits/e-permits-system) tells homeowners to come to the office.
+4. Use the checklist your zoning examiner sends you to obtain the required approvals. Contact each department on your checklist and make sure it signs off before you request the permit.
 5. Pay the fees. Metro issues the permit with an inspection checklist that lists the inspections your project needs.
 6. Schedule each inspection on the checklist as the work reaches that stage.
 7. After the final inspection, contact the Use and Occupancy Division for the final letter.
-
-Metro's pages disagree about how a homeowner submits the application. The residential permit page says to email the Zoning Help Desk. The ePermits page says homeowners must come to the office. Call 615-862-6510 to confirm before you submit.
 
 A self permit cannot be used for a detached accessory dwelling unit (DADU), a second small home on the same lot.
 
@@ -75,7 +77,7 @@ Electrical, plumbing, gas and mechanical, and low-voltage work each need a separ
 
 Metro calculates the building permit fee from the value of the project, then adds a zoning examination fee and a technology fee. Trade permits and re-inspections have their own fees.
 
-Gov311 does not restate the amounts, because they change. Read them in Metro's [Codes fee schedule](https://www.nashville.gov/sites/default/files/2022-12/Codes-Fees-Schedule-221215.pdf). The schedule that Metro's permit process page links to is dated December 2022, so ask the Codes Department at 615-862-6500 whether it is still current.
+Open **Permit Fee Schedule** on Metro's [Codes Publications List](https://www.nashville.gov/departments/codes/construction-and-permits/publications-list). The [schedule](https://www.nashville.gov/sites/default/files/2025-12/Building-Permit-Fee-Scheudle-2025.pdf) lists the valuation, plan review and trade fees. Call 615-862-6500 if you need help estimating the cost of your project.
 
 ## Common mistakes
 

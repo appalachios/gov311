@@ -11,7 +11,7 @@ sources:
   - https://www.tn.gov/attorneygeneral/cred/cred-s-complaint-process.html
 last_verified: 2026-11-21
 verified_by: codex
-trust: draft
+trust: source-checked
 ---
 
 Start with the Attorney General’s Civil Rights Enforcement Division if you want Tennessee to review a discrimination complaint. The state transferred this work from the former Tennessee Human Rights Commission. The division explains which issues it handles, including retaliation for reporting discrimination. [About the division](https://www.tn.gov/attorneygeneral/cred/about-cred.html)

@@ -10,7 +10,7 @@ sources:
   - https://search.cloud.commerce.tn.gov/
 last_verified: 2026-11-21
 verified_by: codex
-trust: draft
+trust: source-checked
 ---
 
 Look up the person or company you plan to hire in the state's public license search. Match the name on the record to the name on your estimate, then check the license status and expiration date. The state also displays public disciplinary actions. [Verify Public Search](https://search.cloud.commerce.tn.gov/)

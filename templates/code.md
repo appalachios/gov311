@@ -22,8 +22,10 @@ department: contacts/office-name
 sources:
   - https://example.gov/official-page
 last_verified: 2026-01-01
-verified_by: your-github-username
-trust: community
+verified_by: your-username-or-tool-name
+trust: draft
+# After checking the official sources, update the checker, date, and trust level.
+# If evidence is missing or conflicts, describe the open question under human_review.
 ---
 
 ## What this covers

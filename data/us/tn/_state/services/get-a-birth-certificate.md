@@ -15,7 +15,7 @@ sources:
   - https://vitalrecords.tn.gov/hc/en-us/articles/36329848421651-Fees
 last_verified: 2026-11-21
 verified_by: codex
-trust: draft
+trust: source-checked
 ---
 
 If Tennessee Vital Records has registered the birth, any Tennessee county health department can issue a certified copy. Bring identification and check the state’s instructions for documents showing your right to request the record. The instructions also list the Nashville Vital Records counter and its hours. [In-person ordering instructions](https://vitalrecords.tn.gov/hc/en-us/articles/36323891148435-How-do-I-get-my-certificate-In-Person-Local-County-Health-Department-Mail-or-Online)

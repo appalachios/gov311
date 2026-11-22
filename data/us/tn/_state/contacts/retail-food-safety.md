@@ -12,7 +12,7 @@ sources:
   - https://www.shelbytnhealth.com/186/Environmental-Health-Food-Safety-Program
 last_verified: 2026-11-21
 verified_by: codex
-trust: draft
+trust: source-checked
 ---
 
 For a sanitation or food safety problem at a grocery store or convenience store, use the **Retail Food Complaint Form** on the Department of Agriculture's food safety page. If you need help reaching the right inspector, call the department's Food and Dairy office at **615-837-5193**. [Retail food complaints](https://www.tn.gov/agriculture/consumers/food-safety.html) · [Food and Dairy contact](https://www.tn.gov/agriculture/department/ellington-ag-center/contact-tda.html)

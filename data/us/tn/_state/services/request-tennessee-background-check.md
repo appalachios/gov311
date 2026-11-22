@@ -12,7 +12,7 @@ sources:
   - https://tbibackgrounds.tbi.tn.gov/Toris/
 last_verified: 2026-11-21
 verified_by: codex
-trust: draft
+trust: source-checked
 ---
 
 Open the Tennessee Bureau of Investigation’s [Tennessee Open Records Information Services](https://tbibackgrounds.tbi.tn.gov/Toris/) page. Read the description of the records covered before paying. This search looks for Tennessee records under the name you enter. If a record comes back, TBI describes it as a possible match to that person.

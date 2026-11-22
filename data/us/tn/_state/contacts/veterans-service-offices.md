@@ -10,7 +10,7 @@ sources:
   - https://www.tn.gov/veteran/contact-us/county-veterans-services.html
 last_verified: 2026-11-21
 verified_by: codex
-trust: draft
+trust: source-checked
 ---
 
 For help filing a claim, find the nearest office in the [state field office directory](https://www.tn.gov/veteran/contact-us/state-veterans-services-offices.html) and call to make an appointment. The [Department of Veterans Services](https://www.tn.gov/veteran/) directs veterans to its staff for help with benefits claims.

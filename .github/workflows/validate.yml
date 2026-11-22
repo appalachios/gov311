@@ -18,7 +18,7 @@ jobs:
           node-version: 22
           cache: npm
       - run: npm ci
-      - name: Check entries against the schema
-        run: npm run validate
-      - name: Check that llms.txt is current
-        run: npm run build -- --check
+      - name: Validate guides, check the index, and test trust levels
+        run: npm run check
+      - name: Check the downloadable skill
+        run: python3 scripts/package-skill.py --check

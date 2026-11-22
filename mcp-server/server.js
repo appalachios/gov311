@@ -10,7 +10,7 @@ import { ENTRY_TYPES, STALE_AFTER_DAYS, daysSince, jurisdictionChain, loadData }
 const AUDIENCES = ["residents-in-need", "nonprofits", "builders", "homeowners", "renters", "small-business", "everyone"];
 const NOTICE =
   "Gov311 is a community project. It is not an official government channel and it is not legal advice. " +
-  "Give the person the official sources and the research or review date. Identify drafts as awaiting human review.";
+  "Give the person the official sources, trust level, checker name, and date. Explain any human_review notes before someone relies on the affected detail.";
 
 const { jurisdictions, entries } = loadData();
 const text = (value) => ({ content: [{ type: "text", text: JSON.stringify(value, null, 2) }] });
@@ -36,12 +36,13 @@ function freshness(meta) {
     last_verified,
     verified_by: meta.verified_by,
     trust: meta.trust,
+    ...(meta.human_review && { human_review: meta.human_review }),
     stale: age > STALE_AFTER_DAYS,
     ...(age > STALE_AFTER_DAYS && {
       stale_warning: `No one has verified this entry in ${age} days. Tell the person to confirm it with the official source.`,
     }),
     ...(meta.trust === "draft" && {
-      draft_warning: "No person has checked this entry yet. Tell the person it is a draft and to confirm it with the official source.",
+      draft_warning: "This guide has an incomplete source check. Confirm the details with the responsible office before acting on them.",
     }),
   };
 }
@@ -120,7 +121,7 @@ server.tool(
         jurisdiction: jurisdictions.get(entry.jurisdiction).meta.name,
         title: entry.meta.title,
         summary: entry.meta.summary,
-        last_verified: isoDate(entry.meta.last_verified),
+        ...freshness(entry.meta),
       }));
     return text({
       results,
@@ -155,6 +156,7 @@ server.tool(
           address: department.meta.address,
           hours: department.meta.hours,
           url: department.meta.url,
+          ...freshness(department.meta),
         },
       }),
       body: entry.body,

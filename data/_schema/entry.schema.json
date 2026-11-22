@@ -23,6 +23,8 @@
   "type": "object",
   "additionalProperties": false,
   "required": ["title", "summary", "audiences", "sources", "last_verified", "verified_by", "trust"],
+  "if": { "required": ["human_review"] },
+  "then": { "properties": { "trust": { "const": "draft" } } },
   "properties": {
     "title": { "type": "string", "minLength": 5, "maxLength": 90 },
     "summary": {
@@ -47,14 +49,28 @@
     },
     "sources": { "$ref": "#/definitions/sources" },
     "last_verified": {
-      "description": "For a draft, the research date. For a reviewed entry, the date a person last checked it against its sources.",
+      "description": "Date the named person or tool last checked the guide against its sources, or researched it if still a draft.",
       "type": "string",
       "format": "date"
     },
-    "verified_by": { "description": "GitHub username of the person who checked it. For a draft, name the tool that researched it.", "type": "string", "minLength": 1 },
+    "verified_by": { "description": "GitHub username of the person or name of the tool that performed the latest check or draft research.", "type": "string", "pattern": "\\S" },
     "trust": {
-      "description": "draft: researched with AI help or not yet checked by a person. community: one contributor checked it. verified: a second person confirmed it. official: a government employee submitted or confirmed it.",
-      "enum": ["draft", "community", "verified", "official"]
+      "description": "draft: the source check is incomplete. source-checked: the named person or tool checked the guide's material claims against official sources. community: a human contributor checked it. verified: a second person independently confirmed it. official: a government employee submitted or confirmed it.",
+      "enum": ["draft", "source-checked", "community", "verified", "official"]
+    },
+    "human_review": {
+      "description": "Unresolved facts a person needs to check. Record what is missing or which official sources disagree.",
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["reason", "description"],
+        "properties": {
+          "reason": { "enum": ["conflicting-evidence", "missing-evidence"] },
+          "description": { "type": "string", "pattern": "\\S" }
+        }
+      }
     },
 
     "department": {

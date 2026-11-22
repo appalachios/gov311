@@ -16,7 +16,7 @@ sources:
   - https://onedhs.tn.gov/
 last_verified: 2026-11-21
 verified_by: codex
-trust: draft
+trust: source-checked
 ---
 
 1. Apply through the One DHS Customer Portal or use the paper Family Assistance Application (HS-0169). The same form lets you request SNAP if you also need food assistance. [One DHS Customer Portal](https://onedhs.tn.gov/) · [Printable applications](https://www.tn.gov/humanservices/for-families/families-first-tanf/applying-for-services.html)

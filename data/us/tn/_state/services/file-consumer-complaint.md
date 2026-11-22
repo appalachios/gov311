@@ -10,7 +10,7 @@ sources:
   - https://www.tn.gov/attorneygeneral/working-for-tennessee/file-a-consumer-complaint.html
 last_verified: 2026-11-21
 verified_by: codex
-trust: draft
+trust: source-checked
 ---
 
 1. Contact the business and ask a manager or the owner to resolve the problem. If that fails, read **Who can file a complaint** to check whether the division can handle your dispute. [Consumer Affairs complaint instructions](https://www.tn.gov/attorneygeneral/working-for-tennessee/consumer/file-a-complaint.html)

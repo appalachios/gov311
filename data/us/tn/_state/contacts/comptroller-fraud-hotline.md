@@ -10,7 +10,7 @@ sources:
   - https://comptroller.tn.gov/quick-links/report-fraud--waste---abuse.html
 last_verified: 2026-11-21
 verified_by: codex
-trust: draft
+trust: source-checked
 ---
 
 Call the Comptroller’s hotline at 1.800.232.5454 to report suspected misuse of government funds or property. The hotline covers concerns involving state departments, cities, and counties. [Comptroller’s guide to reporting](https://www.comptroller.tn.gov/office-functions/investigations/fraud-waste-and-abuse.html)

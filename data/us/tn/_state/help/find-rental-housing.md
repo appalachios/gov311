@@ -15,7 +15,7 @@ sources:
   - https://www.hud.gov/states/tennessee
 last_verified: 2026-11-21
 verified_by: codex
-trust: draft
+trust: source-checked
 ---
 
 **To find an apartment**, search [TNHousingSearch.org](https://www.tnhousingsearch.org/) by city, county, or ZIP code, or call the rental search line at 1-877-428-8844. The Tennessee Housing Development Agency (THDA) sponsors the service. Contact the property manager to ask about vacancies and how to apply. [Rental search service](https://tnhousingsearch.org/About.html) · [HUD’s Tennessee housing guide](https://www.hud.gov/states/tennessee)

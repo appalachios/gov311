@@ -9,7 +9,7 @@ sources:
   - https://lwdsupport.tn.gov/hc/en-us/articles/201353900-My-supervisor-won-t-accept-my-work-injury-claim
 last_verified: 2026-11-21
 verified_by: codex
-trust: draft
+trust: source-checked
 ---
 
 1. Tell your supervisor about the work injury promptly. Your employer reports it to the insurance adjuster. The bureau’s guide lists the reporting deadline and links to separate instructions for Tennessee state government employees. [Report a workplace injury](https://www.tn.gov/workforce/injuries-at-work/injured-workers/injured-workers/filing-a-claim.html)

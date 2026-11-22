@@ -13,7 +13,7 @@ sources:
   - https://www.tn.gov/content/tn/workforce/unemployment/appeal-an-agency-decision.html
 last_verified: 2026-11-21
 verified_by: codex
-trust: draft
+trust: source-checked
 ---
 
 1. Gather the dates you worked for each employer, what you earned, and why each job ended. The state shows the questions you will see on the claim. [Application questions](https://www.tn.gov/workforce/unemployment/apply-for-benefits-redirect-2/online-application/application-questions.html)

@@ -9,7 +9,7 @@ sources:
   - https://wapp.capitol.tn.gov/apps/Information/Help/Contacting
 last_verified: 2026-11-21
 verified_by: codex
-trust: draft
+trust: source-checked
 ---
 
 Enter your house number, street name, and city in [Find My Legislator](https://wapp.capitol.tn.gov/Apps/fml/lookup). Look for your Tennessee Senate and House districts.

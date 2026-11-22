@@ -24,7 +24,7 @@ sources:
   - https://www.tn.gov/sbe/meetings/meetings-calendar/2026/4/24/april-24--2026-sbe-public-rulemaking-hearing.html
 last_verified: 2026-11-21
 verified_by: codex
-trust: draft
+trust: source-checked
 ---
 
 If an agency refers you to a regulation, get its name or rule number. Open the [State Library and Archives’ guide to Secretary of State publications](https://digitaltennessee.tnsos.gov/sos/) and choose **Rules and Regulations by Month** for the official rules in effect. The [effective rules page](https://sos.tn.gov/publications/services/effective-rules-and-regulations-by-month) turned away the automated reader when this guide was prepared. You can locate a rule by agency in [Cornell’s unofficial compilation](https://www.law.cornell.edu/regulations/tennessee) and confirm the current text in the state’s publication.

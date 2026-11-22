@@ -11,7 +11,7 @@ sources:
   - https://carat.app.tn.gov/carat/referral/emergency.html
 last_verified: 2026-11-21
 verified_by: codex
-trust: draft
+trust: source-checked
 ---
 
 **Call 911 if a child is in a life-threatening emergency.** If you are unsure whether a report needs an emergency response, call the Tennessee Child Abuse Hotline at 1-877-237-0004. [Department emergency instructions](https://carat.app.tn.gov/carat/referral/emergency.html)

@@ -11,7 +11,7 @@ sources:
   - https://www.tn.gov/humanservices/for-families/child-care-services/child-care-payment-assistance.html.html
 last_verified: 2026-11-21
 verified_by: codex
-trust: draft
+trust: source-checked
 ---
 
 Choose your county in the state directory before making a trip. The listing gives the office address, phone number and hours. You can pick up and return a paper application for SNAP food benefits or Families First cash assistance. The offices also accept paper applications for child care payment assistance. [Family assistance offices](https://www.tn.gov/content/tn/humanservices/for-families/supplemental-nutrition-assistance-program-snap/office-locator-family-assistance.html) · [Child care application instructions](https://www.tn.gov/humanservices/for-families/child-care-services/child-care-payment-assistance.html.html)

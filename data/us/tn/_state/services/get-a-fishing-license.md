@@ -16,7 +16,7 @@ sources:
   - https://www.gooutdoorstennessee.com/
 last_verified: 2026-11-21
 verified_by: codex
-trust: draft
+trust: source-checked
 ---
 
 1. Check the Tennessee Wildlife Resources Agency's fee schedule for your residency and the kind of fishing you plan to do. The schedule also lists special permits for particular waters. [Fishing licenses, fees, and special permits](https://www.tn.gov/twra/license-sales.html)

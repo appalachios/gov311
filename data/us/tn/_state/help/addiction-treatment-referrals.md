@@ -11,7 +11,7 @@ sources:
   - https://www.taadas.org/tn-redline
 last_verified: 2026-11-21
 verified_by: codex
-trust: draft
+trust: source-checked
 ---
 
 Call or text 800-889-9789 and tell the Tennessee REDLINE what kind of treatment you are looking for. Staff give referrals by phone or text and can send referral details by text after a call. Conversations are confidential. [Tennessee REDLINE](https://www.tn.gov/behavioral-health/substance-abuse-services/prevention/tennessee-redline.html)

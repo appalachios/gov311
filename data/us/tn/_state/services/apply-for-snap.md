@@ -15,7 +15,7 @@ sources:
   - https://onedhs.tn.gov/
 last_verified: 2026-11-21
 verified_by: codex
-trust: draft
+trust: source-checked
 ---
 
 1. Apply through the [One DHS Customer Portal](https://onedhs.tn.gov/), or get a paper application from a [county family assistance office](https://www.tn.gov/humanservices/for-families/supplemental-nutrition-assistance-program-snap/office-locator-family-assistance.html). To apply by mail, use the **Forms and Applications** link under **Submit a Paper Application by Mail** and send the completed form to the Cookeville address shown there. [SNAP submission instructions](https://www.tn.gov/humanservices/for-families/supplemental-nutrition-assistance-program-snap/applying-for-services.html.html)

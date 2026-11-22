@@ -9,7 +9,7 @@ sources:
   - https://internet.health.tn.gov/Licensure/
 last_verified: 2026-11-21
 verified_by: codex
-trust: draft
+trust: source-checked
 ---
 
 **To apply or renew**, search the state’s [regulated professions directory](https://licenses.app.tn.gov/licenses/) by occupation or topic. For example, a search for “hair” can help you find the licensing instructions for a cosmetologist. The directory covers the regulatory boards in Commerce and Insurance and the Consumer and Industry Services division in Agriculture. For a health care occupation, choose the profession from the Department of Health’s [board list](https://www.tn.gov/content/tn/health/licensure.html).
