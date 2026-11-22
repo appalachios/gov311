@@ -4,6 +4,7 @@ summary: "Find the municipal office, check who serves a street address and get t
 audiences: [everyone]
 keywords: ["city hall", "town hall", "municipal services", "utility service", "address", "permits"]
 sources:
+  - "https://newtazewelltn.org/building.html"
   - "https://www.mtas.tennessee.edu/directories/cities/new-tazewell"
   - "https://newtazewelltn.org/"
   - "https://tnecd.com/?force_download=129209"
@@ -17,3 +18,7 @@ The municipal directory lists **413 1st Avenue, PO Box 609, New Tazewell, TN 378
 The municipality reports these services in its utility listing: **Garbage**. Give the service address and ask whether the municipal system serves that location, how to start service and where to report a problem. [Municipal utilities listing](https://www.mtas.tennessee.edu/directories/cities/new-tazewell)
 
 For a county assessment or recorded deed, use the county where the land sits. [Claiborne County records](../../claiborne-county/services/find-a-property-map.md)
+
+## More municipal services
+
+- **Building & Codes**. Check which permits or inspections apply to your project before starting work. [Building & Codes](https://newtazewelltn.org/building.html)
