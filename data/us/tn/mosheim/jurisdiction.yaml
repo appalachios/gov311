@@ -1,0 +1,15 @@
+name: "Town of Mosheim"
+level: town
+ocd_id: ocd-division/country:us/state:tn/place:mosheim
+parent: us/tn/greene-county
+aliases: ["Mosheim"]
+website: https://www.mosheim.net/
+general_contact:
+  name: "Mosheim municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/mosheim
+  phone: "(423) 422-4051"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/mosheim
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

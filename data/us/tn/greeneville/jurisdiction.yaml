@@ -1,0 +1,15 @@
+name: "Town of Greeneville"
+level: town
+ocd_id: ocd-division/country:us/state:tn/place:greeneville
+parent: us/tn/greene-county
+aliases: ["Greeneville"]
+website: https://www.mtas.tennessee.edu/directories/cities/greeneville
+general_contact:
+  name: "Greeneville municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/greeneville
+  phone: "(423) 639-7105"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/greeneville
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex
