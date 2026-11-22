@@ -4329,9 +4329,9 @@ Parent guide sections, nearest first: Dickson County, Tennessee (us/tn/dickson-c
 - [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/slayden/jurisdiction.yaml): website, main contact, and parent government
 - [Contact Slayden for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/slayden/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Slayden.
   - source-checked · Checked by codex on 2026-11-22.
-- [Follow a proposed ordinance in Slayden](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/slayden/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+- [Follow a proposed ordinance in Slayden](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/slayden/services/track-a-municipal-ordinance.md): Slayden’s charter identifies who presides at council meetings. The recorder can supply the town’s adopted rules and the vote on a proposal.
   - draft · Research by codex on 2026-11-22.
-  - Human review (missing evidence). The cited records establish the procedure described here. They do not establish the general number of readings for a new ordinance in Slayden. Ask the municipal recorder for the current charter section or adopted procedural rule before quoting a count.
+  - Human review (missing evidence). The private-act charter, including the 1990 amendments, sets no general reading count. UT lists no public municipal code. The town recorder’s copy of any adopted council rules is needed to determine whether Slayden requires additional readings.
 
 ## Smith County, Tennessee (us/tn/smith-county)
 
