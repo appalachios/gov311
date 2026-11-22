@@ -1,0 +1,15 @@
+name: "City of Dunlap"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:dunlap
+parent: us/tn/sequatchie-county
+aliases: ["Dunlap"]
+website: https://www.mtas.tennessee.edu/directories/cities/dunlap
+general_contact:
+  name: "Dunlap municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/dunlap
+  phone: "(423) 949-2115"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/dunlap
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

@@ -1200,6 +1200,16 @@ Parent guide sections, nearest first: Polk County, Tennessee (us/tn/polk-county)
 - [Find Ducktown zoning and follow a proposed rezoning](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/ducktown/codes/zoning.md): Find a property on the city's planning map, read the rules for its district and check the planning commission's recommendation before following the final vote at City Hall.
   - source-checked · Checked by codex on 2026-11-21.
 
+## City of Dunlap (us/tn/dunlap)
+
+Parent guide sections, nearest first: Sequatchie County, Tennessee (us/tn/sequatchie-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/dunlap/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Dunlap for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/dunlap/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Dunlap.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Dunlap](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/dunlap/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
 ## City of Dyer (us/tn/dyer)
 
 Parent guide sections, nearest first: Gibson County, Tennessee (us/tn/gibson-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
@@ -3684,7 +3694,11 @@ Parent guide sections, nearest first: McNairy County, Tennessee (us/tn/mcnairy-c
 Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
 
 - [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/sequatchie-county/jurisdiction.yaml): website, main contact, and parent government
+- [Find the right office in Sequatchie County](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/sequatchie-county/services/choose-a-county-office.md): Find county offices for deeds, vehicle records, elections and property questions, and check municipal boundaries for local services.
+  - source-checked · Checked by codex on 2026-11-22.
 - [Find the Sequatchie County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/sequatchie-county/services/find-a-property-map.md): Search Sequatchie County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a Sequatchie County governing body decision](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/sequatchie-county/services/follow-county-business.md): Find the regular meeting agenda, the source of the county’s authority and the record of what the governing body voted to adopt.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## Sevier County, Tennessee (us/tn/sevier-county)
