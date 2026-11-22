@@ -1950,6 +1950,16 @@ Parent guide sections, nearest first: Franklin County, Tennessee (us/tn/franklin
 - [Follow a proposed ordinance in Huntland](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/huntland/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
+## Town of Huntsville (us/tn/huntsville)
+
+Parent guide sections, nearest first: Scott County, Tennessee (us/tn/scott-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/huntsville/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Huntsville for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/huntsville/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Huntsville.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Huntsville](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/huntsville/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
 ## Town of Jacksboro (us/tn/jacksboro)
 
 Parent guide sections, nearest first: Campbell County, Tennessee (us/tn/campbell-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
@@ -3092,6 +3102,17 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 - [Start town water and sewer service in Oliver Springs](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/oliver-springs/services/start-town-water-service.md): Bring proof of ownership or a lease, identification and the connection payment to the Water Department.
   - source-checked · Checked by codex on 2026-11-22.
 
+## Town of Oneida (us/tn/oneida)
+
+Parent guide sections, nearest first: Scott County, Tennessee (us/tn/scott-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/oneida/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Oneida for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/oneida/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Oneida.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Oneida](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/oneida/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - draft · Research by codex on 2026-11-22.
+  - Human review (missing evidence). The cited records establish the procedure described here. They do not establish the general number of readings for a new ordinance in Oneida. Ask the municipal recorder for the current charter section or adopted procedural rule before quoting a count.
+
 ## City of Orlinda (us/tn/orlinda)
 
 Parent guide sections, nearest first: Robertson County, Tennessee (us/tn/robertson-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
@@ -3629,7 +3650,11 @@ Parent guide sections, nearest first: Hardin County, Tennessee (us/tn/hardin-cou
 Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
 
 - [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/scott-county/jurisdiction.yaml): website, main contact, and parent government
+- [Find the right office in Scott County](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/scott-county/services/choose-a-county-office.md): Find county offices for deeds, vehicle records, elections and property questions, and check municipal boundaries for local services.
+  - source-checked · Checked by codex on 2026-11-22.
 - [Find the Scott County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/scott-county/services/find-a-property-map.md): Search Scott County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a Scott County governing body decision](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/scott-county/services/follow-county-business.md): Find the regular meeting agenda, the source of the county’s authority and the record of what the governing body voted to adopt.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## Town of Scotts Hill (us/tn/scotts-hill)
@@ -4320,6 +4345,16 @@ Parent guide sections, nearest first: Franklin County, Tennessee (us/tn/franklin
 - [Contact Winchester for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/winchester/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Winchester.
   - source-checked · Checked by codex on 2026-11-22.
 - [Follow a proposed ordinance in Winchester](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/winchester/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## City of Winfield (us/tn/winfield)
+
+Parent guide sections, nearest first: Scott County, Tennessee (us/tn/scott-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/winfield/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Winfield for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/winfield/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Winfield.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Winfield](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/winfield/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## Town of Woodbury (us/tn/woodbury)
