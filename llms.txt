@@ -39,6 +39,8 @@ Parent guide sections, nearest first: United States federal government (us/_fede
   - source-checked · Checked by codex on 2026-11-21.
 - [Find Tennessee state contracts open for bids](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/_state/services/bid-on-state-contracts.md): Use the Central Procurement Office’s supplier pages to find bid opportunities, check an event’s submission instructions, and register for a state contract award.
   - source-checked · Checked by codex on 2026-11-21.
+- [Find out how many readings a Tennessee ordinance needs](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/_state/services/check-municipal-ordinance-readings.md): Check the city charter, the board’s adopted rules and the law for the proposal before deciding whether the next vote can be final.
+  - source-checked · Checked by codex on 2026-11-22.
 - [Get help paying for child care in Tennessee](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/_state/services/child-care-payment-assistance.md): The Department of Human Services explains which child care payment programs take applications or referrals and how to respond to a Smart Steps waitlist invitation.
   - source-checked · Checked by codex on 2026-11-21.
 - [Find and claim unclaimed money in Tennessee](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/_state/services/claim-unclaimed-property.md): Search the Tennessee Department of Treasury's records for money a business has turned over to the state, such as an old paycheck or bank balance. Searching and filing a claim are free.

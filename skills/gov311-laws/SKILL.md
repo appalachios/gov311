@@ -28,6 +28,8 @@ Use the site's normal interactive CAPTCHA verification with the user's permissio
 
 Link to the operative record and give the guide's `trust`, `verified_by`, and `last_verified`. Flag drafts or checks more than a year old and explain any outstanding `human_review` question. If you find official records beyond Gov311's coverage, say which ones you used.
 
-For a Tennessee local measure, identify the governing body, read its charter or county authority, then compare the proposed text and amendments with the recorded vote and the adopted instrument. A published meeting schedule helps locate the session. Check the dated notice for changes.
+For a Tennessee ordinance, verify the required readings in the effective charter, municipal code, adopted board rules and any law specific to the proposal. If the charter is silent, identify the state default and check whether the board adopted an additional step. A signed measure shows what happened to that measure. Cite the general rule before applying its reading count to another proposal. [Guide to ordinance readings](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/_state/services/check-municipal-ordinance-readings.md)
+
+For an annexation, find the adopted instrument and its map or legal description. Check later amendments, deannexations and court decisions concerning the tract. A service plan can have an earlier map. If the disputed line separates counties, identify the law or survey locating that line as well.
 
 When someone starts with a county, call `find_jurisdiction` for its ID, then `list_jurisdictions` with that ID as `county` to find its municipalities. For an unincorporated address, start with the county itself. If a boundary guide flags conflicting evidence, ask which parcel or adopted boundary instrument establishes the responsible office.
