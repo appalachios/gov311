@@ -603,6 +603,23 @@ Parent guide sections, nearest first: Dickson County, Tennessee (us/tn/dickson-c
 - [Follow a proposed ordinance in Charlotte](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/charlotte/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
+## City of Chattanooga (us/tn/chattanooga)
+
+For county services, check which county contains the address. Choose one of these guide sections: Hamilton County, Tennessee (us/tn/hamilton-county) or Marion County, Tennessee (us/tn/marion-county).
+
+Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/chattanooga/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Chattanooga for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/chattanooga/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Chattanooga.
+  - draft · Research by codex on 2026-11-22.
+  - Human review (conflicting evidence). Hamilton County is confirmed. UT’s municipal directory lists Hamilton and Marion. The Comptroller’s city-limit outline overlaps its Marion County outline along the county line, but the 2026 Census place and county polygons show Chattanooga only in Hamilton, as does the 2020 Census relationship file. The Comptroller’s recorded city changes for Chattanooga identify Hamilton. No controlling description establishing Marion jurisdiction for a specific parcel was located. For land on the Marion line, confirm the parcel and applicable annexation record with the assessor and city recorder before selecting a county office.
+- [Report a missed Chattanooga garbage collection](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/chattanooga/services/report-a-missed-garbage-collection.md): Check the scheduled pickup and cart placement, then open a city service request.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Chattanooga](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/chattanooga/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a Chattanooga rezoning from first reading to final vote](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/chattanooga/services/track-a-rezoning-to-the-final-ordinance.md): Use a case number to follow a proposal across both agendas, then read the recorded action and the adopted conditions.
+  - source-checked · Checked by codex on 2026-11-22.
+
 ## Cheatham County, Tennessee (us/tn/cheatham-county)
 
 Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
@@ -713,6 +730,18 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 - [Find the Coffee County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/coffee-county/services/find-a-property-map.md): Search Coffee County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
   - source-checked · Checked by codex on 2026-11-22.
 - [Follow a Coffee County governing body decision](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/coffee-county/services/follow-county-business.md): Find the regular meeting agenda, the source of the county’s authority and the record of what the governing body voted to adopt.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## City of Collegedale (us/tn/collegedale)
+
+Parent guide sections, nearest first: Hamilton County, Tennessee (us/tn/hamilton-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/collegedale/jurisdiction.yaml): website, main contact, and parent government
+- [Apply for a Collegedale building or trade permit](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/collegedale/services/choose-a-construction-permit-and-inspection.md): Choose the application by project type and use the city’s building permit portal.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Contact Collegedale for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/collegedale/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Collegedale.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Collegedale](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/collegedale/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## City of Copperhill (us/tn/copperhill)
@@ -929,6 +958,18 @@ Parent guide sections, nearest first: Dyer County, Tennessee (us/tn/dyer-county)
 - [Contact Dyersburg for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/dyersburg/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Dyersburg.
   - source-checked · Checked by codex on 2026-11-22.
 - [Follow a proposed ordinance in Dyersburg](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/dyersburg/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## City of East Ridge (us/tn/east-ridge)
+
+Parent guide sections, nearest first: Hamilton County, Tennessee (us/tn/hamilton-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/east-ridge/jurisdiction.yaml): website, main contact, and parent government
+- [Find the East Ridge building permit desk](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/east-ridge/services/choose-a-construction-permit-and-inspection.md): Bring an East Ridge construction question to the city’s Building Codes office.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Contact East Ridge for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/east-ridge/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in East Ridge.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in East Ridge](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/east-ridge/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## City of Elizabethton (us/tn/elizabethton)
@@ -1224,8 +1265,16 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
 
 - [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/hamilton-county/jurisdiction.yaml): website, main contact, and parent government
+- [Find the right office in Hamilton County](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/hamilton-county/services/choose-a-county-office.md): Find county offices for deeds, vehicle records, elections and property questions, and check municipal boundaries for local services.
+  - source-checked · Checked by codex on 2026-11-22.
 - [Find a Hamilton County parcel in GISMO](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/hamilton-county/services/find-a-property-map.md): Use GISMO for a parcel map or commission district. The assessor lists the property’s value, the trustee has the county tax bill and Hamilton County Schools has an address lookup for school assignments.
   - source-checked · Checked by codex on 2026-11-21.
+- [Find a Hamilton County zoning case and submit a comment](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/hamilton-county/services/find-a-zoning-case-and-comment.md): Locate the parcel, choose the correct planning office and track the public hearing to the deciding body.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a Hamilton County governing body decision](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/hamilton-county/services/follow-county-business.md): Find the regular meeting agenda, the source of the county’s authority and the record of what the governing body voted to adopt.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Speak before a Hamilton County Commission vote](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/hamilton-county/services/speak-at-a-county-commission-vote.md): Choose the voting meeting, match the resolution number and find the motion in the minutes.
+  - source-checked · Checked by codex on 2026-11-22.
 
 ## Hancock County, Tennessee (us/tn/hancock-county)
 
@@ -1607,6 +1656,18 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 - [Find the Lake County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/lake-county/services/find-a-property-map.md): Search Lake County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
   - source-checked · Checked by codex on 2026-11-22.
 
+## City of Lakesite (us/tn/lakesite)
+
+Parent guide sections, nearest first: Hamilton County, Tennessee (us/tn/hamilton-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/lakesite/jurisdiction.yaml): website, main contact, and parent government
+- [Apply for a Lakesite building permit](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/lakesite/services/choose-a-construction-permit-and-inspection.md): Submit through the city’s permit portal and arrange inspections through its Building and Codes office.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Contact Lakesite for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/lakesite/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Lakesite.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Lakesite](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/lakesite/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
 ## Lauderdale County, Tennessee (us/tn/lauderdale-county)
 
 Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
@@ -1647,6 +1708,18 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 
 - [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/lincoln-county/jurisdiction.yaml): website, main contact, and parent government
 - [Find the Lincoln County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/lincoln-county/services/find-a-property-map.md): Search Lincoln County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## Town of Lookout Mountain (us/tn/lookout-mountain)
+
+Parent guide sections, nearest first: Hamilton County, Tennessee (us/tn/hamilton-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/lookout-mountain/jurisdiction.yaml): website, main contact, and parent government
+- [Prepare a Lookout Mountain, Tennessee, permit application](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/lookout-mountain/services/choose-a-construction-permit-and-inspection.md): Use the Tennessee town’s form and document the proposed work, lot setbacks and contractor credentials.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Contact Lookout Mountain for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/lookout-mountain/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Lookout Mountain.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Lookout Mountain](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/lookout-mountain/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## Loudon County, Tennessee (us/tn/loudon-county)
@@ -2217,12 +2290,36 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 - [Find the Putnam County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/putnam-county/services/find-a-property-map.md): Search Putnam County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
   - source-checked · Checked by codex on 2026-11-22.
 
+## City of Red Bank (us/tn/red-bank)
+
+Parent guide sections, nearest first: Hamilton County, Tennessee (us/tn/hamilton-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/red-bank/jurisdiction.yaml): website, main contact, and parent government
+- [Apply to Red Bank for a local construction permit](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/red-bank/services/choose-a-construction-permit-and-inspection.md): Start with the city permit office for land inside Red Bank, even when a county directory lists both phone numbers.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Contact Red Bank for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/red-bank/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Red Bank.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Red Bank](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/red-bank/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
 ## Rhea County, Tennessee (us/tn/rhea-county)
 
 Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
 
 - [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/rhea-county/jurisdiction.yaml): website, main contact, and parent government
 - [Find the Rhea County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/rhea-county/services/find-a-property-map.md): Search Rhea County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## City of Ridgeside (us/tn/ridgeside)
+
+Parent guide sections, nearest first: Hamilton County, Tennessee (us/tn/hamilton-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/ridgeside/jurisdiction.yaml): website, main contact, and parent government
+- [Arrange a construction permit or inspection in Ridgeside](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/ridgeside/services/choose-a-construction-permit-and-inspection.md): Hamilton County handles Ridgeside construction permits and inspections. Ridgeside takes other city requests.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Contact Ridgeside for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/ridgeside/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Ridgeside.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Ridgeside](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/ridgeside/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## Town of Ridgetop (us/tn/ridgetop)
@@ -2369,6 +2466,18 @@ Parent guide sections, nearest first: Bedford County, Tennessee (us/tn/bedford-c
 - [Follow a Shelbyville ordinance through City Council](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/shelbyville/services/follow-a-local-law.md): Find the proposal, read past the title and check new ordinances awaiting inclusion in the municipal code.
   - source-checked · Checked by codex on 2026-11-22.
 
+## Town of Signal Mountain (us/tn/signal-mountain)
+
+Parent guide sections, nearest first: Hamilton County, Tennessee (us/tn/hamilton-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/signal-mountain/jurisdiction.yaml): website, main contact, and parent government
+- [Submit and track a Signal Mountain permit](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/signal-mountain/services/choose-a-construction-permit-and-inspection.md): The Town of Signal Mountain accepts permit applications through its online permit center.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Contact Signal Mountain for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/signal-mountain/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Signal Mountain.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Signal Mountain](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/signal-mountain/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
 ## Town of Silerton (us/tn/silerton)
 
 For county services, check which county contains the address. Choose one of these guide sections: Chester County, Tennessee (us/tn/chester-county) or Hardeman County, Tennessee (us/tn/hardeman-county).
@@ -2407,6 +2516,18 @@ Parent guide sections, nearest first: DeKalb County, Tennessee (us/tn/dekalb-cou
 - [Contact Smithville for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/smithville/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Smithville.
   - source-checked · Checked by codex on 2026-11-22.
 - [Follow a proposed ordinance in Smithville](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/smithville/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## City of Soddy-Daisy (us/tn/soddy-daisy)
+
+Parent guide sections, nearest first: Hamilton County, Tennessee (us/tn/hamilton-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/soddy-daisy/jurisdiction.yaml): website, main contact, and parent government
+- [Schedule the right Soddy-Daisy construction inspection](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/soddy-daisy/services/choose-a-construction-permit-and-inspection.md): Use the city’s inspection sequence before pouring a slab or covering rough-in work.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Contact Soddy-Daisy for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/soddy-daisy/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Soddy-Daisy.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Soddy-Daisy](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/soddy-daisy/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## Town of Somerville (us/tn/somerville)
@@ -2575,6 +2696,18 @@ Parent guide sections, nearest first: Dickson County, Tennessee (us/tn/dickson-c
 - [Contact Vanleer for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/vanleer/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Vanleer.
   - source-checked · Checked by codex on 2026-11-22.
 - [Follow a proposed ordinance in Vanleer](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/vanleer/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## Town of Walden (us/tn/walden)
+
+Parent guide sections, nearest first: Hamilton County, Tennessee (us/tn/hamilton-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/walden/jurisdiction.yaml): website, main contact, and parent government
+- [Arrange a construction permit in the Town of Walden](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/walden/services/choose-a-construction-permit-and-inspection.md): Use county building inspections for construction inside Walden and Town Hall for town approvals.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Contact Walden for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/walden/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Walden.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Walden](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/walden/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## Warren County, Tennessee (us/tn/warren-county)

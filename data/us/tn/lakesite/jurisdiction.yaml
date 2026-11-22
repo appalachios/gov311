@@ -1,0 +1,15 @@
+name: "City of Lakesite"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:lakesite
+parent: us/tn/hamilton-county
+aliases: ["Lakesite"]
+website: https://www.lakesitetn.gov/
+general_contact:
+  name: "Lakesite municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/lakesite
+  phone: "(423) 842-2533"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/lakesite
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

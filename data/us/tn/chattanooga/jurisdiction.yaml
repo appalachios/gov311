@@ -1,0 +1,17 @@
+name: "City of Chattanooga"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:chattanooga
+parent: us/tn/_state
+county_options: [us/tn/hamilton-county, us/tn/marion-county]
+aliases: ["Chattanooga"]
+website: https://chattanooga.gov/
+general_contact:
+  name: "Chattanooga municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/chattanooga
+  phone: "(423) 643-7800"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/chattanooga
+  - https://tnecd.com/?force_download=129209
+  - https://tn-cot.maps.arcgis.com/apps/dashboards/cc2701dd6ef2463ab7944e62120d9b9e
+last_verified: 2026-11-22
+verified_by: codex

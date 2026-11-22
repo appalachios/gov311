@@ -1,0 +1,15 @@
+name: "City of Collegedale"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:collegedale
+parent: us/tn/hamilton-county
+aliases: ["Collegedale"]
+website: https://www.collegedaletn.gov/
+general_contact:
+  name: "Collegedale municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/collegedale
+  phone: "(423) 396-3135"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/collegedale
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

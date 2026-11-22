@@ -1,0 +1,15 @@
+name: "City of Ridgeside"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:ridgeside
+parent: us/tn/hamilton-county
+aliases: ["Ridgeside"]
+website: https://www.ridgesidetn.gov/
+general_contact:
+  name: "Ridgeside municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/ridgeside
+  phone: "(423) 698-4326"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/ridgeside
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

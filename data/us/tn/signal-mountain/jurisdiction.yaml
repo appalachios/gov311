@@ -1,0 +1,15 @@
+name: "Town of Signal Mountain"
+level: town
+ocd_id: ocd-division/country:us/state:tn/place:signal_mountain
+parent: us/tn/hamilton-county
+aliases: ["Signal Mountain"]
+website: https://www.signalmountaintn.gov/
+general_contact:
+  name: "Signal Mountain municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/signal-mountain
+  phone: "(423) 886-2177"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/signal-mountain
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

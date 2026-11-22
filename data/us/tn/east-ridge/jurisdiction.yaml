@@ -1,0 +1,15 @@
+name: "City of East Ridge"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:east_ridge
+parent: us/tn/hamilton-county
+aliases: ["East Ridge"]
+website: https://www.eastridgetn.gov/
+general_contact:
+  name: "East Ridge municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/east-ridge
+  phone: "(423) 867-7711"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/east-ridge
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex
