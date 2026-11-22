@@ -1,0 +1,15 @@
+name: "Town of Greenfield"
+level: town
+ocd_id: ocd-division/country:us/state:tn/place:greenfield
+parent: us/tn/weakley-county
+aliases: ["Greenfield"]
+website: https://www.mtas.tennessee.edu/directories/cities/greenfield
+general_contact:
+  name: "Greenfield municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/greenfield
+  phone: "(731) 235-2330"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/greenfield
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

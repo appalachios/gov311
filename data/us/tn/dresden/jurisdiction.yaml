@@ -1,0 +1,15 @@
+name: "Town of Dresden"
+level: town
+ocd_id: ocd-division/country:us/state:tn/place:dresden
+parent: us/tn/weakley-county
+aliases: ["Dresden"]
+website: https://www.cityofdresden.net/
+general_contact:
+  name: "Dresden municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/dresden
+  phone: "(731) 364-2270"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/dresden
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

@@ -1339,6 +1339,16 @@ Parent guide sections, nearest first: DeKalb County, Tennessee (us/tn/dekalb-cou
 - [Follow a proposed ordinance in Dowelltown](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/dowelltown/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
+## Town of Dresden (us/tn/dresden)
+
+Parent guide sections, nearest first: Weakley County, Tennessee (us/tn/weakley-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/dresden/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Dresden for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/dresden/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Dresden.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Dresden](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/dresden/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
 ## City of Ducktown (us/tn/ducktown)
 
 Parent guide sections, nearest first: Polk County, Tennessee (us/tn/polk-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
@@ -1779,6 +1789,16 @@ Parent guide sections, nearest first: Tipton County, Tennessee (us/tn/tipton-cou
 - [Follow a proposed ordinance in Gilt Edge](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/gilt-edge/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
+## Town of Gleason (us/tn/gleason)
+
+Parent guide sections, nearest first: Weakley County, Tennessee (us/tn/weakley-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/gleason/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Gleason for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/gleason/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Gleason.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Gleason](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/gleason/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
 ## City of Goodlettsville (us/tn/goodlettsville)
 
 For county services, check which county contains the address. Choose one of these guide sections: Metropolitan Government of Nashville and Davidson County (us/tn/nashville) or Sumner County, Tennessee (us/tn/sumner-county).
@@ -1875,6 +1895,16 @@ Parent guide sections, nearest first: Greene County, Tennessee (us/tn/greene-cou
 - [Contact Greeneville for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/greeneville/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Greeneville.
   - source-checked · Checked by codex on 2026-11-22.
 - [Follow a proposed ordinance in Greeneville](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/greeneville/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## Town of Greenfield (us/tn/greenfield)
+
+Parent guide sections, nearest first: Weakley County, Tennessee (us/tn/weakley-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/greenfield/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Greenfield for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/greenfield/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Greenfield.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Greenfield](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/greenfield/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## City of Gruetli-Laager (us/tn/gruetli-laager)
@@ -2867,6 +2897,16 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 - [Find the Marshall County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/marshall-county/services/find-a-property-map.md): Search Marshall County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
   - source-checked · Checked by codex on 2026-11-22.
 - [Follow a Marshall County governing body decision](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/marshall-county/services/follow-county-business.md): Find the regular meeting agenda, the source of the county’s authority and the record of what the governing body voted to adopt.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## City of Martin (us/tn/martin)
+
+Parent guide sections, nearest first: Weakley County, Tennessee (us/tn/weakley-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/martin/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Martin for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/martin/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Martin.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Martin](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/martin/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## City of Maryville (us/tn/maryville)
@@ -4137,6 +4177,16 @@ Parent guide sections, nearest first: Sevier County, Tennessee (us/tn/sevier-cou
 - [Follow a proposed ordinance in Sevierville](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/sevierville/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
+## Town of Sharon (us/tn/sharon)
+
+Parent guide sections, nearest first: Weakley County, Tennessee (us/tn/weakley-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/sharon/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Sharon for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/sharon/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Sharon.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Sharon](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/sharon/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
 ## Shelby County, Tennessee (us/tn/shelby-county)
 
 Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
@@ -4799,7 +4849,11 @@ Parent guide sections, nearest first: Wayne County, Tennessee (us/tn/wayne-count
 Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
 
 - [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/weakley-county/jurisdiction.yaml): website, main contact, and parent government
+- [Find the right office in Weakley County](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/weakley-county/services/choose-a-county-office.md): Find county offices for deeds, vehicle records, elections and property questions, and check municipal boundaries for local services.
+  - source-checked · Checked by codex on 2026-11-22.
 - [Find the Weakley County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/weakley-county/services/find-a-property-map.md): Search Weakley County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a Weakley County governing body decision](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/weakley-county/services/follow-county-business.md): Find the regular meeting agenda, the source of the county’s authority and the record of what the governing body voted to adopt.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## City of Westmoreland (us/tn/westmoreland)

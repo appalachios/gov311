@@ -1,0 +1,15 @@
+name: "City of Martin"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:martin
+parent: us/tn/weakley-county
+aliases: ["Martin"]
+website: https://www.cityofmartin.net/
+general_contact:
+  name: "Martin municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/martin
+  phone: "(731) 587-3126"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/martin
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex
