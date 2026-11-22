@@ -1,0 +1,15 @@
+name: "Town of Spring City"
+level: town
+ocd_id: ocd-division/country:us/state:tn/place:spring_city
+parent: us/tn/rhea-county
+aliases: ["Spring City"]
+website: https://www.townofspringcitytn.com/
+general_contact:
+  name: "Spring City municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/spring-city
+  phone: "(423) 365-6441"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/spring-city
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

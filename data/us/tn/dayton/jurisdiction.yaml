@@ -1,0 +1,15 @@
+name: "City of Dayton"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:dayton
+parent: us/tn/rhea-county
+aliases: ["Dayton"]
+website: https://www.daytontn.net/
+general_contact:
+  name: "Dayton municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/dayton
+  phone: "(423) 775-1817"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/dayton
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex
