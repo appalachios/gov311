@@ -1,0 +1,15 @@
+name: "Town of Cornersville"
+level: town
+ocd_id: ocd-division/country:us/state:tn/place:cornersville
+parent: us/tn/marshall-county
+aliases: ["Cornersville"]
+website: https://www.cornersvilletn.org/
+general_contact:
+  name: "Cornersville municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/cornersville
+  phone: "(931) 293-4482"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/cornersville
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

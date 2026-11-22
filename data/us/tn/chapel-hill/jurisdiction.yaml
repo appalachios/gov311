@@ -1,0 +1,15 @@
+name: "Town of Chapel Hill"
+level: town
+ocd_id: ocd-division/country:us/state:tn/place:chapel_hill
+parent: us/tn/marshall-county
+aliases: ["Chapel Hill"]
+website: https://www.townofchapelhilltn.gov/
+general_contact:
+  name: "Chapel Hill municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/chapel-hill
+  phone: "(931) 364-7632"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/chapel-hill
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex
