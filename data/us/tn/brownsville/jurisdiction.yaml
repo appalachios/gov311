@@ -1,0 +1,15 @@
+name: "City of Brownsville"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:brownsville
+parent: us/tn/haywood-county
+aliases: ["Brownsville"]
+website: https://www.brownsvilletn.gov/
+general_contact:
+  name: "Brownsville municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/brownsville
+  phone: "(731) 772-1212"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/brownsville
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

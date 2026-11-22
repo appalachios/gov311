@@ -503,6 +503,16 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 - [Follow a Bradley County governing body decision](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/bradley-county/services/follow-county-business.md): Find the regular meeting agenda, the source of the county’s authority and the record of what the governing body voted to adopt.
   - source-checked · Checked by codex on 2026-11-22.
 
+## City of Brownsville (us/tn/brownsville)
+
+Parent guide sections, nearest first: Haywood County, Tennessee (us/tn/haywood-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/brownsville/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Brownsville for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/brownsville/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Brownsville.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Brownsville](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/brownsville/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
 ## Town of Bruceton (us/tn/bruceton)
 
 Parent guide sections, nearest first: Carroll County, Tennessee (us/tn/carroll-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
@@ -1391,7 +1401,11 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
 
 - [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/haywood-county/jurisdiction.yaml): website, main contact, and parent government
+- [Find the right office in Haywood County](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/haywood-county/services/choose-a-county-office.md): Find county offices for deeds, vehicle records, elections and property questions, and check municipal boundaries for local services.
+  - source-checked · Checked by codex on 2026-11-22.
 - [Find the Haywood County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/haywood-county/services/find-a-property-map.md): Search Haywood County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a Haywood County governing body decision](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/haywood-county/services/follow-county-business.md): Find the regular meeting agenda, the source of the county’s authority and the record of what the governing body voted to adopt.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## City of Henderson (us/tn/henderson)
@@ -2708,6 +2722,16 @@ Parent guide sections, nearest first: Fayette County, Tennessee (us/tn/fayette-c
 - [Contact Somerville for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/somerville/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Somerville.
   - source-checked · Checked by codex on 2026-11-22.
 - [Follow a proposed ordinance in Somerville](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/somerville/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## Town of Stanton (us/tn/stanton)
+
+Parent guide sections, nearest first: Haywood County, Tennessee (us/tn/haywood-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/stanton/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Stanton for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/stanton/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Stanton.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Stanton](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/stanton/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## Stewart County, Tennessee (us/tn/stewart-county)
