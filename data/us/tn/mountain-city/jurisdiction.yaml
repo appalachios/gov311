@@ -1,0 +1,15 @@
+name: "Town of Mountain City"
+level: town
+ocd_id: ocd-division/country:us/state:tn/place:mountain_city
+parent: us/tn/johnson-county
+aliases: ["Mountain City"]
+website: https://www.mountaincitytn.org/
+general_contact:
+  name: "Mountain City municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/mountain-city
+  phone: "(423) 727-8005"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/mountain-city
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex
