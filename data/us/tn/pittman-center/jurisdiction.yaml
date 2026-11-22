@@ -1,0 +1,15 @@
+name: "Town of Pittman Center"
+level: town
+ocd_id: ocd-division/country:us/state:tn/place:pittman_center
+parent: us/tn/sevier-county
+aliases: ["Pittman Center"]
+website: https://pittmancentertn.gov/
+general_contact:
+  name: "Pittman Center municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/pittman-center
+  phone: "(865) 436-5499"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/pittman-center
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

@@ -1,0 +1,15 @@
+name: "City of Sevierville"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:sevierville
+parent: us/tn/sevier-county
+aliases: ["Sevierville"]
+website: https://www.seviervilletn.org/
+general_contact:
+  name: "Sevierville municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/sevierville
+  phone: "(865) 453-5504"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/sevierville
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex
