@@ -399,6 +399,16 @@ Parent guide sections, nearest first: Carroll County, Tennessee (us/tn/carroll-c
 - [Follow a proposed ordinance in Bruceton](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/bruceton/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
+## Town of Burns (us/tn/burns)
+
+Parent guide sections, nearest first: Dickson County, Tennessee (us/tn/dickson-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/burns/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Burns for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/burns/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Burns.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Burns](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/burns/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
 ## City of Camden (us/tn/camden)
 
 Parent guide sections, nearest first: Benton County, Tennessee (us/tn/benton-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
@@ -489,6 +499,16 @@ Parent guide sections, nearest first: Bradley County, Tennessee (us/tn/bradley-c
 - [Contact Charleston for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/charleston/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Charleston.
   - source-checked · Checked by codex on 2026-11-22.
 - [Follow a proposed ordinance in Charleston](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/charleston/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## City of Charlotte (us/tn/charlotte)
+
+Parent guide sections, nearest first: Dickson County, Tennessee (us/tn/dickson-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/charlotte/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Charlotte for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/charlotte/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Charlotte.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Charlotte](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/charlotte/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## Cheatham County, Tennessee (us/tn/cheatham-county)
@@ -701,12 +721,26 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 - [Follow a DeKalb County governing body decision](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/dekalb-county/services/follow-county-business.md): Find the regular meeting agenda, the source of the county’s authority and the record of what the governing body voted to adopt.
   - source-checked · Checked by codex on 2026-11-22.
 
+## City of Dickson (us/tn/dickson)
+
+Parent guide sections, nearest first: Dickson County, Tennessee (us/tn/dickson-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/dickson/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Dickson for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/dickson/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Dickson.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Dickson](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/dickson/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
 ## Dickson County, Tennessee (us/tn/dickson-county)
 
 Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
 
 - [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/dickson-county/jurisdiction.yaml): website, main contact, and parent government
+- [Find the right office in Dickson County](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/dickson-county/services/choose-a-county-office.md): Find county offices for deeds, vehicle records, elections and property questions, and check municipal boundaries for local services.
+  - source-checked · Checked by codex on 2026-11-22.
 - [Find the Dickson County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/dickson-county/services/find-a-property-map.md): Search Dickson County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a Dickson County governing body decision](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/dickson-county/services/follow-county-business.md): Find the regular meeting agenda, the source of the county’s authority and the record of what the governing body voted to adopt.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## Town of Dowelltown (us/tn/dowelltown)
@@ -1879,6 +1913,16 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 - [Follow a proposed ordinance in Silerton](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/silerton/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
+## Town of Slayden (us/tn/slayden)
+
+Parent guide sections, nearest first: Dickson County, Tennessee (us/tn/dickson-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/slayden/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Slayden for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/slayden/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Slayden.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Slayden](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/slayden/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
 ## Smith County, Tennessee (us/tn/smith-county)
 
 Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
@@ -2003,6 +2047,16 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 - [Find the Van Buren County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/van-buren-county/services/find-a-property-map.md): Search Van Buren County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
   - source-checked · Checked by codex on 2026-11-22.
 
+## Town of Vanleer (us/tn/vanleer)
+
+Parent guide sections, nearest first: Dickson County, Tennessee (us/tn/dickson-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/vanleer/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Vanleer for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/vanleer/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Vanleer.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Vanleer](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/vanleer/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
 ## Warren County, Tennessee (us/tn/warren-county)
 
 Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
@@ -2057,6 +2111,16 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 
 - [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/weakley-county/jurisdiction.yaml): website, main contact, and parent government
 - [Find the Weakley County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/weakley-county/services/find-a-property-map.md): Search Weakley County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## Town of White Bluff (us/tn/white-bluff)
+
+Parent guide sections, nearest first: Dickson County, Tennessee (us/tn/dickson-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/white-bluff/jurisdiction.yaml): website, main contact, and parent government
+- [Contact White Bluff for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/white-bluff/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in White Bluff.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in White Bluff](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/white-bluff/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## White County, Tennessee (us/tn/white-county)

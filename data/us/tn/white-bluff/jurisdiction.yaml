@@ -1,0 +1,15 @@
+name: "Town of White Bluff"
+level: town
+ocd_id: ocd-division/country:us/state:tn/place:white_bluff
+parent: us/tn/dickson-county
+aliases: ["White Bluff"]
+website: https://townofwhitebluff.gov/
+general_contact:
+  name: "White Bluff municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/white-bluff
+  phone: "(615) 797-3131"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/white-bluff
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

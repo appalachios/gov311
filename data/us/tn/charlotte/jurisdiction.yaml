@@ -1,0 +1,15 @@
+name: "City of Charlotte"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:charlotte
+parent: us/tn/dickson-county
+aliases: ["Charlotte"]
+website: https://www.cityofcharlottetn.gov/
+general_contact:
+  name: "Charlotte municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/charlotte
+  phone: "(615) 789-4184"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/charlotte
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

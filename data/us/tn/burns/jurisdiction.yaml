@@ -1,0 +1,15 @@
+name: "Town of Burns"
+level: town
+ocd_id: ocd-division/country:us/state:tn/place:burns
+parent: us/tn/dickson-county
+aliases: ["Burns"]
+website: https://www.burnstn.gov
+general_contact:
+  name: "Burns municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/burns
+  phone: "(615) 446-2851"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/burns
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex
