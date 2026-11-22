@@ -1281,7 +1281,11 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
 
 - [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/hancock-county/jurisdiction.yaml): website, main contact, and parent government
+- [Find the right office in Hancock County](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/hancock-county/services/choose-a-county-office.md): Find county offices for deeds, vehicle records, elections and property questions, and check municipal boundaries for local services.
+  - source-checked · Checked by codex on 2026-11-22.
 - [Find the Hancock County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/hancock-county/services/find-a-property-map.md): Search Hancock County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a Hancock County governing body decision](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/hancock-county/services/follow-county-business.md): Find the regular meeting agenda, the source of the county’s authority and the record of what the governing body voted to adopt.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## Hardeman County, Tennessee (us/tn/hardeman-county)
@@ -2516,6 +2520,16 @@ Parent guide sections, nearest first: DeKalb County, Tennessee (us/tn/dekalb-cou
 - [Contact Smithville for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/smithville/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Smithville.
   - source-checked · Checked by codex on 2026-11-22.
 - [Follow a proposed ordinance in Smithville](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/smithville/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## Town of Sneedville (us/tn/sneedville)
+
+Parent guide sections, nearest first: Hancock County, Tennessee (us/tn/hancock-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/sneedville/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Sneedville for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/sneedville/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Sneedville.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Sneedville](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/sneedville/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## City of Soddy-Daisy (us/tn/soddy-daisy)
