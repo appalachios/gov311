@@ -4,6 +4,7 @@ summary: "Find the meeting, read the proposed language against the charter and c
 audiences: [everyone]
 keywords: ["ordinance", "charter", "code", "agenda", "pending law", "meeting", "amendment", "minutes"]
 sources:
+  - "https://www.mtas.tennessee.edu/sites/default/files/private/charters/Cleveland_cht.pdf#page=18"
   - "https://www.mtas.tennessee.edu/directories/cities/cleveland"
   - "https://www.mtas.tennessee.edu/code/municipal-code-cleveland"
   - "https://www.mtas.tennessee.edu/charter/cleveland"
@@ -18,3 +19,5 @@ To follow a proposal in Cleveland, get the dated meeting notice, agenda, propose
 Look up the charter for the governing body’s powers, readings and vote requirements. Compare a proposed ordinance with the current code section it would change. [Municipal Code](https://www.mtas.tennessee.edu/code/municipal-code-cleveland) · [Municipal Charter](https://www.mtas.tennessee.edu/charter/cleveland)
 
 After the meeting, use the minutes to identify the motion that actually passed. Ask the recorder or clerk for the adopted ordinance, any amendments and the effective date. A proposal can change during consideration, and a recent ordinance may still be waiting to appear in the code. [Tennessee agenda and minutes requirements](https://comptroller.tn.gov/office-functions/open-records-counsel/open-meetings/frequently-asked-questions/tennessee-open-meetings-act-faqs.html)
+
+The charter requires two meetings on separate days, with at least twelve days between first and final passage. Written copies must be available at meetings and at City Hall before the final vote. [Charter classification](https://www.mtas.tennessee.edu/charter/cleveland) · [Governing text](https://www.mtas.tennessee.edu/sites/default/files/private/charters/Cleveland_cht.pdf#page=18)
