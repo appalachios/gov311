@@ -1,0 +1,15 @@
+name: "City of Winchester"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:winchester
+parent: us/tn/franklin-county
+aliases: ["Winchester"]
+website: https://www.mtas.tennessee.edu/directories/cities/winchester
+general_contact:
+  name: "Winchester municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/winchester
+  phone: "(931) 967-2532"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/winchester
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

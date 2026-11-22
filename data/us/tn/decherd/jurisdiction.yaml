@@ -1,0 +1,15 @@
+name: "City of Decherd"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:decherd
+parent: us/tn/franklin-county
+aliases: ["Decherd"]
+website: https://www.mtas.tennessee.edu/directories/cities/decherd
+general_contact:
+  name: "Decherd municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/decherd
+  phone: "(931) 967-5181"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/decherd
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

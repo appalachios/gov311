@@ -653,6 +653,16 @@ Parent guide sections, nearest first: Polk County, Tennessee (us/tn/polk-county)
 - [How Copperhill passes an ordinance](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/copperhill/codes/city-ordinances.md): Read the proposal before its second vote, then check the minutes and get the ordinance on file with the city recorder.
   - source-checked · Checked by codex on 2026-11-21.
 
+## City of Cowan (us/tn/cowan)
+
+Parent guide sections, nearest first: Franklin County, Tennessee (us/tn/franklin-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/cowan/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Cowan for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/cowan/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Cowan.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Cowan](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/cowan/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
 ## City of Crab Orchard (us/tn/crab-orchard)
 
 Parent guide sections, nearest first: Cumberland County, Tennessee (us/tn/cumberland-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
@@ -727,6 +737,16 @@ Parent guide sections, nearest first: Decatur County, Tennessee (us/tn/decatur-c
 - [Contact Decaturville for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/decaturville/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Decaturville.
   - source-checked · Checked by codex on 2026-11-22.
 - [Follow a proposed ordinance in Decaturville](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/decaturville/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## City of Decherd (us/tn/decherd)
+
+Parent guide sections, nearest first: Franklin County, Tennessee (us/tn/franklin-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/decherd/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Decherd for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/decherd/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Decherd.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Decherd](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/decherd/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## DeKalb County, Tennessee (us/tn/dekalb-county)
@@ -841,6 +861,16 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 - [Follow a proposed ordinance in Enville](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/enville/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
+## Town of Estill Springs (us/tn/estill-springs)
+
+Parent guide sections, nearest first: Franklin County, Tennessee (us/tn/franklin-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/estill-springs/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Estill Springs for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/estill-springs/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Estill Springs.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Estill Springs](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/estill-springs/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
 ## Town of Farragut (us/tn/farragut)
 
 For county services, check which county contains the address. Choose one of these guide sections: Knox County, Tennessee (us/tn/knox-county) or Loudon County, Tennessee (us/tn/loudon-county).
@@ -914,7 +944,11 @@ Parent guide sections, nearest first: Metropolitan Government of Nashville and D
 Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
 
 - [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/franklin-county/jurisdiction.yaml): website, main contact, and parent government
+- [Find the right office in Franklin County](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/franklin-county/services/choose-a-county-office.md): Find county offices for deeds, vehicle records, elections and property questions, and check municipal boundaries for local services.
+  - source-checked · Checked by codex on 2026-11-22.
 - [Find the Franklin County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/franklin-county/services/find-a-property-map.md): Search Franklin County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a Franklin County governing body decision](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/franklin-county/services/follow-county-business.md): Find the regular meeting agenda, the source of the county’s authority and the record of what the governing body voted to adopt.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## City of Friendship (us/tn/friendship)
@@ -1155,6 +1189,16 @@ Parent guide sections, nearest first: Carroll County, Tennessee (us/tn/carroll-c
 - [Contact Huntingdon for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/huntingdon/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Huntingdon.
   - source-checked · Checked by codex on 2026-11-22.
 - [Follow a proposed ordinance in Huntingdon](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/huntingdon/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## Town of Huntland (us/tn/huntland)
+
+Parent guide sections, nearest first: Franklin County, Tennessee (us/tn/franklin-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/huntland/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Huntland for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/huntland/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Huntland.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Huntland](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/huntland/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## Town of Jacksboro (us/tn/jacksboro)
@@ -2311,6 +2355,16 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 
 - [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/wilson-county/jurisdiction.yaml): website, main contact, and parent government
 - [Find the Wilson County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/wilson-county/services/find-a-property-map.md): Search Wilson County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## City of Winchester (us/tn/winchester)
+
+Parent guide sections, nearest first: Franklin County, Tennessee (us/tn/franklin-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/winchester/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Winchester for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/winchester/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Winchester.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Winchester](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/winchester/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## Town of Woodbury (us/tn/woodbury)

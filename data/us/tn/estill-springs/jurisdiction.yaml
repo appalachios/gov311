@@ -1,0 +1,15 @@
+name: "Town of Estill Springs"
+level: town
+ocd_id: ocd-division/country:us/state:tn/place:estill_springs
+parent: us/tn/franklin-county
+aliases: ["Estill Springs"]
+website: https://www.estillspringstn.gov/
+general_contact:
+  name: "Estill Springs municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/estill-springs
+  phone: "(931) 649-5188"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/estill-springs
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex
