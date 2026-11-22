@@ -625,6 +625,16 @@ Parent guide sections, nearest first: Clay County, Tennessee (us/tn/clay-county)
 - [Follow a proposed ordinance in Celina](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/celina/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
+## Town of Centerville (us/tn/centerville)
+
+Parent guide sections, nearest first: Hickman County, Tennessee (us/tn/hickman-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/centerville/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Centerville for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/centerville/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Centerville.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Centerville](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/centerville/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
 ## City of Charleston (us/tn/charleston)
 
 Parent guide sections, nearest first: Bradley County, Tennessee (us/tn/bradley-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
@@ -1467,8 +1477,12 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
 
 - [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/hickman-county/jurisdiction.yaml): website, main contact, and parent government
+- [Find the right office in Hickman County](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/hickman-county/services/choose-a-county-office.md): Find county offices for deeds, vehicle records, elections and property questions, and check municipal boundaries for local services.
+  - source-checked · Checked by codex on 2026-11-22.
 - [Find a Hickman County parcel map, tax record or zoning district](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/hickman-county/services/find-a-property-map.md): Use the assessor’s parcel map for the land and its assessment. The county has a separate zoning map, and Hickman County Schools publishes its attendance map.
   - source-checked · Checked by codex on 2026-11-21.
+- [Follow a Hickman County governing body decision](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/hickman-county/services/follow-county-business.md): Find the regular meeting agenda, the source of the county’s authority and the record of what the governing body voted to adopt.
+  - source-checked · Checked by codex on 2026-11-22.
 
 ## Town of Hickory Valley (us/tn/hickory-valley)
 

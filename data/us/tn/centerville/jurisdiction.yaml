@@ -1,0 +1,15 @@
+name: "Town of Centerville"
+level: town
+ocd_id: ocd-division/country:us/state:tn/place:centerville
+parent: us/tn/hickman-county
+aliases: ["Centerville"]
+website: https://centervilletn.org/
+general_contact:
+  name: "Centerville municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/centerville
+  phone: "(931) 729-4246"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/centerville
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex
