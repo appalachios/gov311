@@ -634,7 +634,7 @@ Parent guide sections, nearest first: Tipton County, Tennessee (us/tn/tipton-cou
   - source-checked · Checked by codex on 2026-11-22.
 - [Follow a proposed ordinance in Brighton](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/brighton/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - draft · Research by codex on 2026-11-22.
-  - Human review (missing evidence). The cited records establish the procedure described here. They do not establish the general number of readings for a new ordinance in Brighton. Ask the municipal recorder for the current charter section or adopted procedural rule before quoting a count.
+  - Human review (missing evidence). The charter sets no general reading count. Two readings are documented for Ordinance 20261013. The general local adoption rule still needs the current code or board rules.
 
 ## City of Bristol (us/tn/bristol)
 
@@ -1758,7 +1758,7 @@ Parent guide sections, nearest first: Tipton County, Tennessee (us/tn/tipton-cou
   - source-checked · Checked by codex on 2026-11-22.
 - [Follow a proposed ordinance in Garland](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/garland/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - draft · Research by codex on 2026-11-22.
-  - Human review (missing evidence). The cited records establish the procedure described here. They do not establish the general number of readings for a new ordinance in Garland. Ask the municipal recorder for the current charter section or adopted procedural rule before quoting a count.
+  - Human review (missing evidence). The charter sets no general reading count. The municipal directory has no public code listing. The current board rules or ordinance book would establish whether the town requires extra readings.
 
 ## Town of Gates (us/tn/gates)
 
