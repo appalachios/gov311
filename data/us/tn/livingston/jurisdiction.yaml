@@ -1,0 +1,15 @@
+name: "Town of Livingston"
+level: town
+ocd_id: ocd-division/country:us/state:tn/place:livingston
+parent: us/tn/overton-county
+aliases: ["Livingston"]
+website: https://www.cityoflivingston.net/
+general_contact:
+  name: "Livingston municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/livingston
+  phone: "(931) 823-1269"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/livingston
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex
