@@ -1,0 +1,15 @@
+name: "Town of Braden"
+level: town
+ocd_id: ocd-division/country:us/state:tn/place:braden
+parent: us/tn/fayette-county
+aliases: ["Braden"]
+website: https://www.mtas.tennessee.edu/directories/cities/braden
+general_contact:
+  name: "Braden municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/braden
+  phone: "(901) 594-5100"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/braden
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

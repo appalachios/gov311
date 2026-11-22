@@ -1,0 +1,15 @@
+name: "Town of Rossville"
+level: town
+ocd_id: ocd-division/country:us/state:tn/place:rossville
+parent: us/tn/fayette-county
+aliases: ["Rossville"]
+website: https://townofrossville.com/
+general_contact:
+  name: "Rossville municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/rossville
+  phone: "(901) 853-4681"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/rossville
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

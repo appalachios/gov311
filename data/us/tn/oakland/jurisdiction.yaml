@@ -1,0 +1,15 @@
+name: "Town of Oakland"
+level: town
+ocd_id: ocd-division/country:us/state:tn/place:oakland
+parent: us/tn/fayette-county
+aliases: ["Oakland"]
+website: https://www.mtas.tennessee.edu/directories/cities/oakland
+general_contact:
+  name: "Oakland municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/oakland
+  phone: "(901) 465-8523"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/oakland
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex
