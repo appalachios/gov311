@@ -4,6 +4,7 @@ summary: "Find the meeting, read the proposed language against the charter and c
 audiences: [everyone]
 keywords: ["ordinance", "charter", "code", "agenda", "pending law", "meeting", "amendment", "minutes"]
 sources:
+  - "https://www.mtas.tennessee.edu/sites/default/files/private/charters/TOONE_cht.pdf#page=4"
   - "https://www.mtas.tennessee.edu/directories/cities/toone"
   - "https://www.mtas.tennessee.edu/charter/toone"
   - "https://comptroller.tn.gov/office-functions/open-records-counsel/open-meetings/frequently-asked-questions/tennessee-open-meetings-act-faqs.html"
@@ -17,3 +18,5 @@ To follow a proposal in Toone, get the dated meeting notice, agenda, proposed te
 Look up the charter for the governing body’s powers, readings and vote requirements. Compare a proposed ordinance with the current code section it would change. [Municipal Code](https://www.mtas.tennessee.edu/directories/cities/toone) · [Municipal Charter](https://www.mtas.tennessee.edu/charter/toone)
 
 After the meeting, use the minutes to identify the motion that actually passed. Ask the recorder or clerk for the adopted ordinance, any amendments and the effective date. A proposal can change during consideration, and a recent ordinance may still be waiting to appear in the code. [Tennessee agenda and minutes requirements](https://comptroller.tn.gov/office-functions/open-records-counsel/open-meetings/frequently-asked-questions/tennessee-open-meetings-act-faqs.html)
+
+The charter requires two readings by majority vote. Check the mayor’s signature or whether the veto window expired at the next regular board meeting. [Charter classification](https://www.mtas.tennessee.edu/charter/toone) · [Governing text](https://www.mtas.tennessee.edu/sites/default/files/private/charters/TOONE_cht.pdf#page=4)
