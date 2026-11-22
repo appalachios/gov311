@@ -1,0 +1,15 @@
+name: "Town of Toone"
+level: town
+ocd_id: ocd-division/country:us/state:tn/place:toone
+parent: us/tn/hardeman-county
+aliases: ["Toone"]
+website: https://www.mtas.tennessee.edu/directories/cities/toone
+general_contact:
+  name: "Toone municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/toone
+  phone: "(731) 658-9770"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/toone
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex
