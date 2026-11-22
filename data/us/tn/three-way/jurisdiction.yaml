@@ -1,0 +1,15 @@
+name: "City of Three Way"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:three_way
+parent: us/tn/madison-county
+aliases: ["Three Way"]
+website: https://cityofthreeway.org/
+general_contact:
+  name: "Three Way municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/three-way
+  phone: "(731) 784-7782"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/three-way
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

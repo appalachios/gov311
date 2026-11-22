@@ -1688,6 +1688,16 @@ Parent guide sections, nearest first: Campbell County, Tennessee (us/tn/campbell
 - [Follow a proposed ordinance in Jacksboro](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/jacksboro/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
+## City of Jackson (us/tn/jackson)
+
+Parent guide sections, nearest first: Madison County, Tennessee (us/tn/madison-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/jackson/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Jackson for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/jackson/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Jackson.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Jackson](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/jackson/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
 ## Jackson County, Tennessee (us/tn/jackson-county)
 
 Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
@@ -2153,7 +2163,11 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
 
 - [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/madison-county/jurisdiction.yaml): website, main contact, and parent government
+- [Find the right office in Madison County](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/madison-county/services/choose-a-county-office.md): Find county offices for deeds, vehicle records, elections and property questions, and check municipal boundaries for local services.
+  - source-checked · Checked by codex on 2026-11-22.
 - [Find the Madison County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/madison-county/services/find-a-property-map.md): Search Madison County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a Madison County governing body decision](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/madison-county/services/follow-county-business.md): Find the regular meeting agenda, the source of the county’s authority and the record of what the governing body voted to adopt.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## City of Manchester (us/tn/manchester)
@@ -2266,6 +2280,16 @@ Parent guide sections, nearest first: Gibson County, Tennessee (us/tn/gibson-cou
 - [Contact Medina for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/medina/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Medina.
   - source-checked · Checked by codex on 2026-11-22.
 - [Follow a proposed ordinance in Medina](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/medina/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## City of Medon (us/tn/medon)
+
+Parent guide sections, nearest first: Madison County, Tennessee (us/tn/madison-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/medon/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Medon for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/medon/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Medon.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Medon](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/medon/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## Meigs County, Tennessee (us/tn/meigs-county)
@@ -3204,6 +3228,16 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 - [Contact Tennessee Ridge for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/tennessee-ridge/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Tennessee Ridge.
   - source-checked · Checked by codex on 2026-11-22.
 - [Follow a proposed ordinance in Tennessee Ridge](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/tennessee-ridge/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## City of Three Way (us/tn/three-way)
+
+Parent guide sections, nearest first: Madison County, Tennessee (us/tn/madison-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/three-way/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Three Way for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/three-way/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Three Way.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Three Way](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/three-way/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## Tipton County, Tennessee (us/tn/tipton-county)
