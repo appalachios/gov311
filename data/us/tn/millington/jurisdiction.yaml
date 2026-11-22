@@ -1,0 +1,15 @@
+name: "City of Millington"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:millington
+parent: us/tn/shelby-county
+aliases: ["Millington"]
+website: https://www.millingtontn.gov/
+general_contact:
+  name: "Millington municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/millington
+  phone: "(901) 873-5701"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/millington
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

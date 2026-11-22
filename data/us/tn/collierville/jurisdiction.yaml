@@ -1,0 +1,15 @@
+name: "Town of Collierville"
+level: town
+ocd_id: ocd-division/country:us/state:tn/place:collierville
+parent: us/tn/shelby-county
+aliases: ["Collierville"]
+website: https://www.mtas.tennessee.edu/directories/cities/collierville
+general_contact:
+  name: "Collierville municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/collierville
+  phone: "(901) 457-2200"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/collierville
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

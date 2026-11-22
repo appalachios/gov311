@@ -286,6 +286,20 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 - [Follow a proposed ordinance in Ardmore](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/ardmore/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
+## Town of Arlington (us/tn/arlington)
+
+Parent guide sections, nearest first: Shelby County, Tennessee (us/tn/shelby-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/arlington/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Arlington for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/arlington/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Arlington.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Find an Arlington board packet and request the adopted town ordinance](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/arlington/services/read-a-town-board-packet.md): Use the meeting archive, ordinance collection and town records request for three different stages of a proposal.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Start an Arlington residential building permit](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/arlington/services/start-a-residential-permit.md): Get town plan approval and check how Arlington forwards the fees before county issuance.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Arlington](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/arlington/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
 ## Town of Ashland City (us/tn/ashland-city)
 
 Parent guide sections, nearest first: Cheatham County, Tennessee (us/tn/cheatham-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
@@ -344,6 +358,20 @@ Parent guide sections, nearest first: Jefferson County, Tennessee (us/tn/jeffers
 - [Contact Baneberry for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/baneberry/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Baneberry.
   - source-checked · Checked by codex on 2026-11-22.
 - [Follow a proposed ordinance in Baneberry](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/baneberry/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## City of Bartlett (us/tn/bartlett)
+
+Parent guide sections, nearest first: Shelby County, Tennessee (us/tn/shelby-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/bartlett/jurisdiction.yaml): website, main contact, and parent government
+- [Check a Bartlett sanitation route or report a missed collection](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/bartlett/services/check-a-sanitation-route.md): Find the sanitation route map and reach Bartlett Public Works about the collection at your address.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Find a Bartlett ordinance in the aldermen’s meeting archive](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/bartlett/services/find-aldermen-meeting-records.md): Locate the board agenda and minutes, then compare the adopted measure with the city code.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Contact Bartlett for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/bartlett/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Bartlett.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Bartlett](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/bartlett/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## City of Baxter (us/tn/baxter)
@@ -914,6 +942,20 @@ Parent guide sections, nearest first: Hamilton County, Tennessee (us/tn/hamilton
 - [Contact Collegedale for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/collegedale/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Collegedale.
   - source-checked · Checked by codex on 2026-11-22.
 - [Follow a proposed ordinance in Collegedale](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/collegedale/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## Town of Collierville (us/tn/collierville)
+
+Parent guide sections, nearest first: Shelby County, Tennessee (us/tn/shelby-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/collierville/jurisdiction.yaml): website, main contact, and parent government
+- [Comment on a Collierville board item before the vote](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/collierville/services/comment-on-a-board-item.md): Find the right meeting and submit a comment on the specific item through the town’s public meeting portal.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Find a Collierville sanitation collection day](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/collierville/services/find-sanitation-collection-day.md): Locate the residential collection schedule and check the guidance for the material you want picked up.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Contact Collierville for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/collierville/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Collierville.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Collierville](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/collierville/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## City of Columbia (us/tn/columbia)
@@ -1524,6 +1566,20 @@ Parent guide sections, nearest first: Sevier County, Tennessee (us/tn/sevier-cou
 - [Contact Gatlinburg for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/gatlinburg/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Gatlinburg.
   - source-checked · Checked by codex on 2026-11-22.
 - [Follow a proposed ordinance in Gatlinburg](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/gatlinburg/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## City of Germantown (us/tn/germantown)
+
+Parent guide sections, nearest first: Shelby County, Tennessee (us/tn/shelby-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/germantown/jurisdiction.yaml): website, main contact, and parent government
+- [Get foundation approval for a new home in Germantown](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/germantown/services/permit-a-new-home-foundation.md): Coordinate city stormwater and foundation survey approval with the joint construction office.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Contact Germantown for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/germantown/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Germantown.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Read the Germantown aldermen’s agenda, minutes and video](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/germantown/services/read-aldermen-meeting-records.md): Select the meeting date in the board archive and follow an ordinance across readings.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Germantown](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/germantown/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## Town of Gibson (us/tn/gibson)
@@ -2322,6 +2378,20 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 - [Follow a Lake County governing body decision](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/lake-county/services/follow-county-business.md): Find the regular meeting agenda, the source of the county’s authority and the record of what the governing body voted to adopt.
   - source-checked · Checked by codex on 2026-11-22.
 
+## City of Lakeland (us/tn/lakeland)
+
+Parent guide sections, nearest first: Shelby County, Tennessee (us/tn/shelby-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/lakeland/jurisdiction.yaml): website, main contact, and parent government
+- [Check the sewer charge on a Lakeland utility bill](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/lakeland/services/check-city-sewer-charges.md): Read the residential minimum and usage charge or the commercial rate for the meter size.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Contact Lakeland for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/lakeland/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Lakeland.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Find Lakeland commission records for a proposed ordinance](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/lakeland/services/read-the-city-commission-agenda.md): Use the city agenda archive and distinguish the work session from the meeting at which commissioners took action.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Lakeland](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/lakeland/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
 ## City of Lakesite (us/tn/lakesite)
 
 Parent guide sections, nearest first: Hamilton County, Tennessee (us/tn/hamilton-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
@@ -2716,6 +2786,20 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 - [Follow a Meigs County governing body decision](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/meigs-county/services/follow-county-business.md): Find the regular meeting agenda, the source of the county’s authority and the record of what the governing body voted to adopt.
   - source-checked · Checked by codex on 2026-11-22.
 
+## City of Memphis (us/tn/memphis)
+
+Parent guide sections, nearest first: Shelby County, Tennessee (us/tn/shelby-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/memphis/jurisdiction.yaml): website, main contact, and parent government
+- [Check whether a Memphis ordinance passed as amended](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/memphis/services/check-the-final-council-vote.md): Trace an ordinance number from the committee and regular agendas to its final-reading vote.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Contact Memphis for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/memphis/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Memphis.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Report a Memphis service problem and track the request](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/memphis/services/track-a-311-service-request.md): Submit a trash, recycling or sewer problem to city 311 and retain the request number for follow-up.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Memphis](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/memphis/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
 ## Town of Michie (us/tn/michie)
 
 Parent guide sections, nearest first: McNairy County, Tennessee (us/tn/mcnairy-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
@@ -2768,6 +2852,20 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 - [Contact Millersville for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/millersville/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Millersville.
   - source-checked · Checked by codex on 2026-11-22.
 - [Follow a proposed ordinance in Millersville](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/millersville/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## City of Millington (us/tn/millington)
+
+Parent guide sections, nearest first: Shelby County, Tennessee (us/tn/shelby-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/millington/jurisdiction.yaml): website, main contact, and parent government
+- [Trace a Millington ordinance from the board packet to the minutes](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/millington/services/follow-the-aldermen-agenda.md): Find the dated regular meeting packet and check the aldermen’s final action.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Contact Millington for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/millington/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Millington.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Start or restore Millington water service](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/millington/services/start-city-water-service.md): Bring your service documents to City Hall and distinguish a water main break from a billing reconnection.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Millington](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/millington/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## City of Minor Hill (us/tn/minor-hill)
@@ -3758,8 +3856,16 @@ Parent guide sections, nearest first: Sevier County, Tennessee (us/tn/sevier-cou
 Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
 
 - [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/shelby-county/jurisdiction.yaml): website, main contact, and parent government
+- [Find the right office in Shelby County](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/shelby-county/services/choose-a-county-office.md): Find county offices for deeds, vehicle records, elections and property questions, and check municipal boundaries for local services.
+  - source-checked · Checked by codex on 2026-11-22.
 - [Find a Shelby County parcel map, deed or tax record](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/shelby-county/services/find-a-property-map.md): Search the Register of Deeds map for a parcel, its sale history, appraisal and tax links. Use your home address to look up a commissioner or school assignment.
   - source-checked · Checked by codex on 2026-11-21.
+- [Follow a Shelby County governing body decision](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/shelby-county/services/follow-county-business.md): Find the regular meeting agenda, the source of the county’s authority and the record of what the governing body voted to adopt.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a Shelby County ordinance through three readings](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/shelby-county/services/follow-three-ordinance-readings.md): Find the proposal, compare all three readings and verify the effective date after the county mayor acts.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Find the right first stop for a Shelby County residential building permit](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/shelby-county/services/identify-residential-permit-approvals.md): Use the site address to identify which city approvals the joint construction office needs before it issues a permit.
+  - source-checked · Checked by codex on 2026-11-22.
 
 ## City of Shelbyville (us/tn/shelbyville)
 
