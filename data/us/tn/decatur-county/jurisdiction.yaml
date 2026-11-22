@@ -1,0 +1,10 @@
+name: Decatur County, Tennessee
+level: county
+ocd_id: ocd-division/country:us/state:tn/county:decatur
+parent: us/tn/_state
+aliases: [Decatur County]
+website: https://www.ctas.tennessee.edu/county/decatur
+sources:
+  - https://www.ctas.tennessee.edu/county/decatur
+last_verified: 2026-11-22
+verified_by: codex

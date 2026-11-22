@@ -1,0 +1,11 @@
+name: Marshall County, Tennessee
+level: county
+ocd_id: ocd-division/country:us/state:tn/county:marshall
+parent: us/tn/_state
+aliases: [Marshall County]
+website: https://marshallcountytn.gov/
+sources:
+  - https://www.ctas.tennessee.edu/county/marshall
+  - https://marshallcountytn.gov/
+last_verified: 2026-11-22
+verified_by: codex

@@ -1,0 +1,11 @@
+name: Sullivan County, Tennessee
+level: county
+ocd_id: ocd-division/country:us/state:tn/county:sullivan
+parent: us/tn/_state
+aliases: [Sullivan County]
+website: https://sullivancountytn.gov/
+sources:
+  - https://www.ctas.tennessee.edu/county/sullivan
+  - https://sullivancountytn.gov/
+last_verified: 2026-11-22
+verified_by: codex

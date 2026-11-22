@@ -1,0 +1,10 @@
+name: Crockett County, Tennessee
+level: county
+ocd_id: ocd-division/country:us/state:tn/county:crockett
+parent: us/tn/_state
+aliases: [Crockett County]
+website: https://www.ctas.tennessee.edu/county/crockett
+sources:
+  - https://www.ctas.tennessee.edu/county/crockett
+last_verified: 2026-11-22
+verified_by: codex

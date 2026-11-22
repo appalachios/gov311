@@ -1,0 +1,11 @@
+name: Humphreys County, Tennessee
+level: county
+ocd_id: ocd-division/country:us/state:tn/county:humphreys
+parent: us/tn/_state
+aliases: [Humphreys County]
+website: https://www.humphreyscountytn.gov/
+sources:
+  - https://www.ctas.tennessee.edu/county/humphreys
+  - https://www.humphreyscountytn.gov/
+last_verified: 2026-11-22
+verified_by: codex

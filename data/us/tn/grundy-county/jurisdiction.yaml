@@ -1,0 +1,11 @@
+name: Grundy County, Tennessee
+level: county
+ocd_id: ocd-division/country:us/state:tn/county:grundy
+parent: us/tn/_state
+aliases: [Grundy County]
+website: https://www.grundycountytn.net/
+sources:
+  - https://www.ctas.tennessee.edu/county/grundy
+  - https://www.grundycountytn.net/
+last_verified: 2026-11-22
+verified_by: codex

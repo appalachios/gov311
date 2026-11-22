@@ -1,0 +1,11 @@
+name: Blount County, Tennessee
+level: county
+ocd_id: ocd-division/country:us/state:tn/county:blount
+parent: us/tn/_state
+aliases: [Blount County]
+website: https://www.blounttn.gov/
+sources:
+  - https://www.ctas.tennessee.edu/county/blount
+  - https://www.blounttn.gov/
+last_verified: 2026-11-22
+verified_by: codex

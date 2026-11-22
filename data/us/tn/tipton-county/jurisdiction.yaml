@@ -1,0 +1,11 @@
+name: Tipton County, Tennessee
+level: county
+ocd_id: ocd-division/country:us/state:tn/county:tipton
+parent: us/tn/_state
+aliases: [Tipton County]
+website: https://www.tiptonco.com/
+sources:
+  - https://www.ctas.tennessee.edu/county/tipton
+  - https://www.tiptonco.com/
+last_verified: 2026-11-22
+verified_by: codex

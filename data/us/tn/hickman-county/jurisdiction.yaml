@@ -1,0 +1,15 @@
+name: Hickman County, Tennessee
+level: county
+ocd_id: ocd-division/country:us/state:tn/county:hickman
+parent: us/tn/_state
+aliases: [Hickman County, Hickman County TN, unincorporated Hickman County]
+website: https://hickmancountytn.gov/
+general_contact:
+  name: Hickman County Mayor’s Office
+  phone: 931-729-2492
+  url: https://hickmancountytn.gov/departments/mayor
+sources:
+  - https://hickmancountytn.gov/
+  - https://hickmancountytn.gov/departments/mayor
+last_verified: 2026-11-21
+verified_by: codex

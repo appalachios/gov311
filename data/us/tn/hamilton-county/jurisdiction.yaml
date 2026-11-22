@@ -1,0 +1,15 @@
+name: Hamilton County, Tennessee
+level: county
+ocd_id: ocd-division/country:us/state:tn/county:hamilton
+parent: us/tn/_state
+aliases: [Hamilton County, Hamilton County TN, unincorporated Hamilton County]
+website: https://www.hamiltontn.gov/
+general_contact:
+  name: Hamilton County Mayor’s Office
+  phone: 423-209-6100
+  url: https://www.hamiltontn.gov/Mayor.aspx
+sources:
+  - https://www.hamiltontn.gov/Mayor.aspx
+  - https://www.ctas.tennessee.edu/county/hamilton
+last_verified: 2026-11-21
+verified_by: codex

@@ -1,0 +1,11 @@
+name: Sequatchie County, Tennessee
+level: county
+ocd_id: ocd-division/country:us/state:tn/county:sequatchie
+parent: us/tn/_state
+aliases: [Sequatchie County]
+website: https://sequatchiecountytn.gov/
+sources:
+  - https://www.ctas.tennessee.edu/county/sequatchie
+  - https://sequatchiecountytn.gov/
+last_verified: 2026-11-22
+verified_by: codex

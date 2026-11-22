@@ -1,0 +1,11 @@
+name: Van Buren County, Tennessee
+level: county
+ocd_id: ocd-division/country:us/state:tn/county:van_buren
+parent: us/tn/_state
+aliases: [Van Buren County]
+website: https://vanburencountytn.com/
+sources:
+  - https://www.ctas.tennessee.edu/county/van-buren
+  - https://vanburencountytn.com/
+last_verified: 2026-11-22
+verified_by: codex

@@ -1,0 +1,15 @@
+name: Shelby County, Tennessee
+level: county
+ocd_id: ocd-division/country:us/state:tn/county:shelby
+parent: us/tn/_state
+aliases: [Shelby County, Shelby County TN, unincorporated Shelby County]
+website: https://www.shelbycountytn.gov/
+general_contact:
+  name: Shelby County Mayor’s Action Center
+  phone: 901-222-2300
+  url: https://www.shelbycountytn.gov/1512/Report-A-Concern
+sources:
+  - https://www.shelbycountytn.gov/
+  - https://www.shelbycountytn.gov/1512/Report-A-Concern
+last_verified: 2026-11-21
+verified_by: codex

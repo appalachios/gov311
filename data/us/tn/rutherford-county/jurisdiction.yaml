@@ -1,0 +1,15 @@
+name: Rutherford County, Tennessee
+level: county
+ocd_id: ocd-division/country:us/state:tn/county:rutherford
+parent: us/tn/_state
+aliases: [Rutherford County, Rutherford County TN, unincorporated Rutherford County]
+website: https://rutherfordcountytn.gov/
+general_contact:
+  name: Rutherford County Mayor’s Office
+  phone: 615-898-7745
+  url: https://rutherfordcountytn.gov/county_mayor
+sources:
+  - https://rutherfordcountytn.gov/county_mayor
+  - https://rutherfordcountytn.gov/
+last_verified: 2026-11-21
+verified_by: codex

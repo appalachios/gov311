@@ -1,0 +1,11 @@
+name: Putnam County, Tennessee
+level: county
+ocd_id: ocd-division/country:us/state:tn/county:putnam
+parent: us/tn/_state
+aliases: [Putnam County]
+website: https://putnamcountytn.gov/index.php
+sources:
+  - https://www.ctas.tennessee.edu/county/putnam
+  - https://putnamcountytn.gov/index.php
+last_verified: 2026-11-22
+verified_by: codex

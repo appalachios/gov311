@@ -1,0 +1,11 @@
+name: Campbell County, Tennessee
+level: county
+ocd_id: ocd-division/country:us/state:tn/county:campbell
+parent: us/tn/_state
+aliases: [Campbell County]
+website: https://campbellcountytn.gov/
+sources:
+  - https://www.ctas.tennessee.edu/county/campbell
+  - https://campbellcountytn.gov/
+last_verified: 2026-11-22
+verified_by: codex

@@ -1,0 +1,11 @@
+name: Carroll County, Tennessee
+level: county
+ocd_id: ocd-division/country:us/state:tn/county:carroll
+parent: us/tn/_state
+aliases: [Carroll County]
+website: https://www.carrollcountytn.gov/
+sources:
+  - https://www.ctas.tennessee.edu/county/carroll
+  - https://www.carrollcountytn.gov/
+last_verified: 2026-11-22
+verified_by: codex

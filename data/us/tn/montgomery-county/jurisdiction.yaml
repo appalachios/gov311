@@ -1,0 +1,15 @@
+name: Montgomery County, Tennessee
+level: county
+ocd_id: ocd-division/country:us/state:tn/county:montgomery
+parent: us/tn/_state
+aliases: [Montgomery County, Montgomery County TN, unincorporated Montgomery County]
+website: https://montgomerytn.gov/
+general_contact:
+  name: Montgomery County Mayor’s Office
+  phone: 931-648-5787
+  url: https://montgomerytn.gov/mayor
+sources:
+  - https://montgomerytn.gov/mayor
+  - https://montgomerytn.gov/department/directory
+last_verified: 2026-11-21
+verified_by: codex

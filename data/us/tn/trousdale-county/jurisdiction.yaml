@@ -1,0 +1,11 @@
+name: Hartsville/Trousdale County, Tennessee
+level: consolidated-city-county
+ocd_id: ocd-division/country:us/state:tn/county:trousdale
+parent: us/tn/_state
+aliases: [Trousdale County, Hartsville]
+website: https://www.trousdalecountytn.gov/
+sources:
+  - https://www.ctas.tennessee.edu/county/trousdale
+  - https://www.trousdalecountytn.gov/
+last_verified: 2026-11-22
+verified_by: codex

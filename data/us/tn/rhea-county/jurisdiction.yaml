@@ -1,0 +1,10 @@
+name: Rhea County, Tennessee
+level: county
+ocd_id: ocd-division/country:us/state:tn/county:rhea
+parent: us/tn/_state
+aliases: [Rhea County]
+website: https://www.ctas.tennessee.edu/county/rhea
+sources:
+  - https://www.ctas.tennessee.edu/county/rhea
+last_verified: 2026-11-22
+verified_by: codex

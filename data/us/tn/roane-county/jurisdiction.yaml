@@ -1,0 +1,11 @@
+name: Roane County, Tennessee
+level: county
+ocd_id: ocd-division/country:us/state:tn/county:roane
+parent: us/tn/_state
+aliases: [Roane County]
+website: https://roanecountytn.gov/
+sources:
+  - https://www.ctas.tennessee.edu/county/roane
+  - https://roanecountytn.gov/
+last_verified: 2026-11-22
+verified_by: codex
