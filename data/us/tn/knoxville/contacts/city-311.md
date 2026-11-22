@@ -7,6 +7,7 @@ phone: 865-215-4311
 url: https://www.knoxvilletn.gov/284/_311
 hours: Monday through Friday, 7 a.m. to 5 p.m. Eastern, except holidays
 sources:
+  - "https://www.knoxvilletn.gov/1189/Licenses-Permits-Inspections"
   - https://www.knoxvilletn.gov/284/_311
   - https://www.knoxvilletn.gov/291/Service-Request-Tips
   - https://www.knoxvilletn.gov/889/Development-Process
@@ -21,3 +22,7 @@ Call **311** or **865-215-4311** for a Knoxville city service. You can also choo
 A Knoxville mailing address can be outside city limits. Use the address in KGIS Maps and follow the city’s instructions to check the parcel. If it is in Farragut or unincorporated Knox County, start with that government for local permits and road maintenance. The county handles deeds and assessments even for parcels in the city. [City boundary lookup instructions](https://www.knoxvilletn.gov/889/Development-Process) · [City and county property contacts](https://www.knoxvilletn.gov/477/Property-Taxes)
 
 Use **911** for an emergency. [City service request instructions](https://www.knoxvilletn.gov/291/Service-Request-Tips)
+
+## More municipal services
+
+- **Permits / Licenses**. Check which permits or inspections apply to your project before starting work. [Permits / Licenses](https://www.knoxvilletn.gov/1189/Licenses-Permits-Inspections)
