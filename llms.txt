@@ -172,6 +172,16 @@ Parent guide sections, nearest first: United States federal government (us/_fede
 - [Find Tennessee help with starting a small business](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/_state/help/small-business-startup.md): The Department of Economic and Community Development publishes a startup guide covering registration, permits, financing, and business support.
   - source-checked · Checked by codex on 2026-11-21.
 
+## City of Alcoa (us/tn/alcoa)
+
+Parent guide sections, nearest first: Blount County, Tennessee (us/tn/blount-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/alcoa/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Alcoa for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/alcoa/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Alcoa.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Alcoa](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/alcoa/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
 ## Anderson County, Tennessee (us/tn/anderson-county)
 
 Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
@@ -280,7 +290,11 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
 
 - [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/blount-county/jurisdiction.yaml): website, main contact, and parent government
+- [Find the right office in Blount County](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/blount-county/services/choose-a-county-office.md): Find county offices for deeds, vehicle records, elections and property questions, and check municipal boundaries for local services.
+  - source-checked · Checked by codex on 2026-11-22.
 - [Find the Blount County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/blount-county/services/find-a-property-map.md): Search Blount County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a Blount County governing body decision](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/blount-county/services/follow-county-business.md): Find the regular meeting agenda, the source of the county’s authority and the record of what the governing body voted to adopt.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## Bradley County, Tennessee (us/tn/bradley-county)
@@ -543,6 +557,16 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 
 - [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/franklin-county/jurisdiction.yaml): website, main contact, and parent government
 - [Find the Franklin County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/franklin-county/services/find-a-property-map.md): Search Franklin County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## City of Friendsville (us/tn/friendsville)
+
+Parent guide sections, nearest first: Blount County, Tennessee (us/tn/blount-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/friendsville/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Friendsville for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/friendsville/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Friendsville.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Friendsville](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/friendsville/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## Gibson County, Tennessee (us/tn/gibson-county)
@@ -879,6 +903,16 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 - [Find the deed, assessment or tax bill for a Loudon County parcel](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/loudon-county/services/find-property-records.md): Use Loudon County land records when the parcel lies on its side of the Knox County line. Part of Farragut falls in Loudon County.
   - source-checked · Checked by codex on 2026-11-21.
 
+## Town of Louisville (us/tn/louisville)
+
+Parent guide sections, nearest first: Blount County, Tennessee (us/tn/blount-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/louisville/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Louisville for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/louisville/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Louisville.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Louisville](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/louisville/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
 ## Macon County, Tennessee (us/tn/macon-county)
 
 Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
@@ -909,6 +943,16 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 
 - [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/marshall-county/jurisdiction.yaml): website, main contact, and parent government
 - [Find the Marshall County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/marshall-county/services/find-a-property-map.md): Search Marshall County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## City of Maryville (us/tn/maryville)
+
+Parent guide sections, nearest first: Blount County, Tennessee (us/tn/blount-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/maryville/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Maryville for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/maryville/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Maryville.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Maryville](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/maryville/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## Maury County, Tennessee (us/tn/maury-county)
@@ -1167,6 +1211,16 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 - [Find the Robertson County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/robertson-county/services/find-a-property-map.md): Search Robertson County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
   - source-checked · Checked by codex on 2026-11-22.
 
+## City of Rockford (us/tn/rockford)
+
+Parent guide sections, nearest first: Blount County, Tennessee (us/tn/blount-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/rockford/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Rockford for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/rockford/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Rockford.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Rockford](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/rockford/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
 ## City of Rocky Top (us/tn/rocky-top)
 
 For county services, check which county contains the address. Choose one of these guide sections: Anderson County, Tennessee (us/tn/anderson-county) or Campbell County, Tennessee (us/tn/campbell-county).
@@ -1269,6 +1323,16 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 
 - [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/tipton-county/jurisdiction.yaml): website, main contact, and parent government
 - [Find the Tipton County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/tipton-county/services/find-a-property-map.md): Search Tipton County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## City of Townsend (us/tn/townsend)
+
+Parent guide sections, nearest first: Blount County, Tennessee (us/tn/blount-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/townsend/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Townsend for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/townsend/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Townsend.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Townsend](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/townsend/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## Hartsville/Trousdale County, Tennessee (us/tn/trousdale-county)

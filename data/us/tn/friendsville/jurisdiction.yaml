@@ -1,0 +1,15 @@
+name: "City of Friendsville"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:friendsville
+parent: us/tn/blount-county
+aliases: ["Friendsville"]
+website: https://www.friendsvilletn.gov/
+general_contact:
+  name: "Friendsville municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/friendsville
+  phone: "(865) 995-2831"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/friendsville
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

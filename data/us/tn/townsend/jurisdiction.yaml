@@ -1,0 +1,15 @@
+name: "City of Townsend"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:townsend
+parent: us/tn/blount-county
+aliases: ["Townsend"]
+website: https://www.cityoftownsend.com/wp
+general_contact:
+  name: "Townsend municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/townsend
+  phone: "(865) 448-6886"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/townsend
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

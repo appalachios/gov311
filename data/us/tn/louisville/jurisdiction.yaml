@@ -1,0 +1,15 @@
+name: "Town of Louisville"
+level: town
+ocd_id: ocd-division/country:us/state:tn/place:louisville
+parent: us/tn/blount-county
+aliases: ["Louisville"]
+website: https://www.mtas.tennessee.edu/directories/cities/louisville
+general_contact:
+  name: "Louisville municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/louisville
+  phone: "(865) 681-1983"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/louisville
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

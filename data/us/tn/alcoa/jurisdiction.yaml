@@ -1,0 +1,15 @@
+name: "City of Alcoa"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:alcoa
+parent: us/tn/blount-county
+aliases: ["Alcoa"]
+website: https://www.cityofalcoa-tn.gov/
+general_contact:
+  name: "Alcoa municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/alcoa
+  phone: "(865) 380-4700"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/alcoa
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex
