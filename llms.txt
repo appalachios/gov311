@@ -672,7 +672,21 @@ Parent guide sections, nearest first: Claiborne County, Tennessee (us/tn/claibor
 Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
 
 - [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/decatur-county/jurisdiction.yaml): website, main contact, and parent government
+- [Find the right office in Decatur County](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/decatur-county/services/choose-a-county-office.md): Find county offices for deeds, vehicle records, elections and property questions, and check municipal boundaries for local services.
+  - source-checked · Checked by codex on 2026-11-22.
 - [Find the Decatur County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/decatur-county/services/find-a-property-map.md): Search Decatur County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a Decatur County governing body decision](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/decatur-county/services/follow-county-business.md): Find the regular meeting agenda, the source of the county’s authority and the record of what the governing body voted to adopt.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## Town of Decaturville (us/tn/decaturville)
+
+Parent guide sections, nearest first: Decatur County, Tennessee (us/tn/decatur-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/decaturville/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Decaturville for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/decaturville/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Decaturville.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Decaturville](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/decaturville/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## DeKalb County, Tennessee (us/tn/dekalb-county)
@@ -1607,6 +1621,16 @@ Parent guide sections, nearest first: Cocke County, Tennessee (us/tn/cocke-count
 - [Follow a proposed ordinance in Parrottsville](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/parrottsville/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
+## City of Parsons (us/tn/parsons)
+
+Parent guide sections, nearest first: Decatur County, Tennessee (us/tn/decatur-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/parsons/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Parsons for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/parsons/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Parsons.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Parsons](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/parsons/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
 ## Town of Pegram (us/tn/pegram)
 
 Parent guide sections, nearest first: Cheatham County, Tennessee (us/tn/cheatham-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
@@ -1795,6 +1819,18 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 
 - [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/scott-county/jurisdiction.yaml): website, main contact, and parent government
 - [Find the Scott County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/scott-county/services/find-a-property-map.md): Search Scott County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## Town of Scotts Hill (us/tn/scotts-hill)
+
+For county services, check which county contains the address. Choose one of these guide sections: Decatur County, Tennessee (us/tn/decatur-county) or Henderson County, Tennessee (us/tn/henderson-county).
+
+Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/scotts-hill/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Scotts Hill for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/scotts-hill/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Scotts Hill.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Scotts Hill](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/scotts-hill/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## Sequatchie County, Tennessee (us/tn/sequatchie-county)

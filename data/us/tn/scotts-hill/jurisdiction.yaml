@@ -1,0 +1,16 @@
+name: "Town of Scotts Hill"
+level: town
+ocd_id: ocd-division/country:us/state:tn/place:scotts_hill
+parent: us/tn/_state
+county_options: ["us/tn/decatur-county", "us/tn/henderson-county"]
+aliases: ["Scotts Hill"]
+website: https://www.cityofscottshill.com/
+general_contact:
+  name: "Scotts Hill municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/scotts-hill
+  phone: "(731) 549-3175"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/scotts-hill
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex
