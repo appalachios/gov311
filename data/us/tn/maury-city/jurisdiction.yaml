@@ -1,0 +1,15 @@
+name: "Town of Maury City"
+level: town
+ocd_id: ocd-division/country:us/state:tn/place:maury_city
+parent: us/tn/crockett-county
+aliases: ["Maury City"]
+website: https://townofmaurycity.com/
+general_contact:
+  name: "Maury City municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/maury-city
+  phone: "(731) 656-2119"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/maury-city
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

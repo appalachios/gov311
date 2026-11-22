@@ -1,0 +1,15 @@
+name: "City of Bells"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:bells
+parent: us/tn/crockett-county
+aliases: ["Bells"]
+website: https://www.mtas.tennessee.edu/directories/cities/bells
+general_contact:
+  name: "Bells municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/bells
+  phone: "(731) 663-2334"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/bells
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

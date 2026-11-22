@@ -172,6 +172,16 @@ Parent guide sections, nearest first: United States federal government (us/_fede
 - [Find Tennessee help with starting a small business](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/_state/help/small-business-startup.md): The Department of Economic and Community Development publishes a startup guide covering registration, permits, financing, and business support.
   - source-checked · Checked by codex on 2026-11-21.
 
+## Town of Alamo (us/tn/alamo)
+
+Parent guide sections, nearest first: Crockett County, Tennessee (us/tn/crockett-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/alamo/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Alamo for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/alamo/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Alamo.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Alamo](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/alamo/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
 ## City of Alcoa (us/tn/alcoa)
 
 Parent guide sections, nearest first: Blount County, Tennessee (us/tn/blount-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
@@ -252,6 +262,16 @@ Parent guide sections, nearest first: Bedford County, Tennessee (us/tn/bedford-c
 - [Follow a Bell Buckle ordinance and check its publication](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/bell-buckle/services/follow-a-local-law.md): Get the agenda and both readings, then check whether the ordinance or its caption was published.
   - source-checked · Checked by codex on 2026-11-22.
 - [Pay a Bell Buckle water bill](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/bell-buckle/services/pay-a-water-bill.md): Use the payment portal linked by the water department and find the town’s drinking water reports.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## City of Bells (us/tn/bells)
+
+Parent guide sections, nearest first: Crockett County, Tennessee (us/tn/crockett-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/bells/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Bells for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/bells/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Bells.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Bells](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/bells/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## City of Benton (us/tn/benton)
@@ -568,7 +588,11 @@ Parent guide sections, nearest first: Polk County, Tennessee (us/tn/polk-county)
 Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
 
 - [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/crockett-county/jurisdiction.yaml): website, main contact, and parent government
+- [Find the right office in Crockett County](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/crockett-county/services/choose-a-county-office.md): Find county offices for deeds, vehicle records, elections and property questions, and check municipal boundaries for local services.
+  - source-checked · Checked by codex on 2026-11-22.
 - [Find the Crockett County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/crockett-county/services/find-a-property-map.md): Search Crockett County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a Crockett County governing body decision](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/crockett-county/services/follow-county-business.md): Find the regular meeting agenda, the source of the county’s authority and the record of what the governing body voted to adopt.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## Cumberland County, Tennessee (us/tn/cumberland-county)
@@ -725,6 +749,16 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 - [Find the Franklin County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/franklin-county/services/find-a-property-map.md): Search Franklin County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
   - source-checked · Checked by codex on 2026-11-22.
 
+## City of Friendship (us/tn/friendship)
+
+Parent guide sections, nearest first: Crockett County, Tennessee (us/tn/crockett-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/friendship/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Friendship for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/friendship/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Friendship.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Friendship](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/friendship/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
 ## City of Friendsville (us/tn/friendsville)
 
 Parent guide sections, nearest first: Blount County, Tennessee (us/tn/blount-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
@@ -733,6 +767,16 @@ Parent guide sections, nearest first: Blount County, Tennessee (us/tn/blount-cou
 - [Contact Friendsville for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/friendsville/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Friendsville.
   - source-checked · Checked by codex on 2026-11-22.
 - [Follow a proposed ordinance in Friendsville](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/friendsville/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## Town of Gadsden (us/tn/gadsden)
+
+Parent guide sections, nearest first: Crockett County, Tennessee (us/tn/crockett-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/gadsden/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Gadsden for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/gadsden/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Gadsden.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Gadsden](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/gadsden/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## Gibson County, Tennessee (us/tn/gibson-county)
@@ -1221,6 +1265,16 @@ Parent guide sections, nearest first: Blount County, Tennessee (us/tn/blount-cou
 - [Contact Maryville for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/maryville/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Maryville.
   - source-checked · Checked by codex on 2026-11-22.
 - [Follow a proposed ordinance in Maryville](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/maryville/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## Town of Maury City (us/tn/maury-city)
+
+Parent guide sections, nearest first: Crockett County, Tennessee (us/tn/crockett-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/maury-city/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Maury City for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/maury-city/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Maury City.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Maury City](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/maury-city/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## Maury County, Tennessee (us/tn/maury-county)

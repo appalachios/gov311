@@ -1,0 +1,15 @@
+name: "City of Friendship"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:friendship
+parent: us/tn/crockett-county
+aliases: ["Friendship"]
+website: https://www.mtas.tennessee.edu/directories/cities/friendship
+general_contact:
+  name: "Friendship municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/friendship
+  phone: "(731) 677-2396"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/friendship
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex
