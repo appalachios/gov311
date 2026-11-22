@@ -1,0 +1,15 @@
+name: Chester County, Tennessee
+level: county
+ocd_id: ocd-division/country:us/state:tn/county:chester
+parent: us/tn/_state
+aliases: [Chester County, Chester County TN, unincorporated Chester County]
+website: https://www.chestercountytn.org/
+general_contact:
+  name: Chester County Mayor’s Office
+  phone: 731-989-5672
+  url: https://www.chestercountytn.org/mayor.html
+sources:
+  - https://www.chestercountytn.org/
+  - https://www.chestercountytn.org/mayor.html
+last_verified: 2026-11-21
+verified_by: codex

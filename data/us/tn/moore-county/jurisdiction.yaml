@@ -1,0 +1,11 @@
+name: Lynchburg/Moore County, Tennessee
+level: consolidated-city-county
+ocd_id: ocd-division/country:us/state:tn/county:moore
+parent: us/tn/_state
+aliases: [Moore County, Lynchburg]
+website: https://metromoorecounty.org/
+sources:
+  - https://www.ctas.tennessee.edu/county/moore
+  - https://metromoorecounty.org/
+last_verified: 2026-11-22
+verified_by: codex

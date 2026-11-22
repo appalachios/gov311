@@ -1,0 +1,10 @@
+name: Houston County, Tennessee
+level: county
+ocd_id: ocd-division/country:us/state:tn/county:houston
+parent: us/tn/_state
+aliases: [Houston County]
+website: https://www.ctas.tennessee.edu/county/houston
+sources:
+  - https://www.ctas.tennessee.edu/county/houston
+last_verified: 2026-11-22
+verified_by: codex

@@ -1,0 +1,11 @@
+name: Weakley County, Tennessee
+level: county
+ocd_id: ocd-division/country:us/state:tn/county:weakley
+parent: us/tn/_state
+aliases: [Weakley County]
+website: https://www.weakleycountytn.gov/
+sources:
+  - https://www.ctas.tennessee.edu/county/weakley
+  - https://www.weakleycountytn.gov/
+last_verified: 2026-11-22
+verified_by: codex

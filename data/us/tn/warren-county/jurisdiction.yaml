@@ -1,0 +1,10 @@
+name: Warren County, Tennessee
+level: county
+ocd_id: ocd-division/country:us/state:tn/county:warren
+parent: us/tn/_state
+aliases: [Warren County]
+website: https://www.ctas.tennessee.edu/county/warren
+sources:
+  - https://www.ctas.tennessee.edu/county/warren
+last_verified: 2026-11-22
+verified_by: codex

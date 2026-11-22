@@ -1,0 +1,15 @@
+name: Williamson County, Tennessee
+level: county
+ocd_id: ocd-division/country:us/state:tn/county:williamson
+parent: us/tn/_state
+aliases: [Williamson County, Williamson County TN, unincorporated Williamson County]
+website: https://www.williamsoncounty-tn.gov/
+general_contact:
+  name: Williamson County Mayor’s Office
+  phone: 615-790-5700
+  url: https://www.williamsoncounty-tn.gov/55/County-Mayor
+sources:
+  - https://www.williamsoncounty-tn.gov/55/County-Mayor
+  - https://www.ctas.tennessee.edu/county/williamson
+last_verified: 2026-11-21
+verified_by: codex

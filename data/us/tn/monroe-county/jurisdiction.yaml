@@ -1,0 +1,11 @@
+name: Monroe County, Tennessee
+level: county
+ocd_id: ocd-division/country:us/state:tn/county:monroe
+parent: us/tn/_state
+aliases: [Monroe County]
+website: https://monroetn.gov
+sources:
+  - https://www.ctas.tennessee.edu/county/monroe
+  - https://monroetn.gov
+last_verified: 2026-11-22
+verified_by: codex

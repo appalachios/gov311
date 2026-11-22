@@ -1,0 +1,11 @@
+name: Bedford County, Tennessee
+level: county
+ocd_id: ocd-division/country:us/state:tn/county:bedford
+parent: us/tn/_state
+aliases: [Bedford County]
+website: https://www.bedfordcountytn.gov/
+sources:
+  - https://www.ctas.tennessee.edu/county/bedford
+  - https://www.bedfordcountytn.gov/
+last_verified: 2026-11-22
+verified_by: codex

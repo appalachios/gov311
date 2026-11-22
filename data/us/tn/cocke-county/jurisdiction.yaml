@@ -1,0 +1,11 @@
+name: Cocke County, Tennessee
+level: county
+ocd_id: ocd-division/country:us/state:tn/county:cocke
+parent: us/tn/_state
+aliases: [Cocke County]
+website: https://www.cockecountytn.gov/
+sources:
+  - https://www.ctas.tennessee.edu/county/cocke
+  - https://www.cockecountytn.gov/
+last_verified: 2026-11-22
+verified_by: codex

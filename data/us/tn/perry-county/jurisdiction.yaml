@@ -1,0 +1,11 @@
+name: Perry County, Tennessee
+level: county
+ocd_id: ocd-division/country:us/state:tn/county:perry
+parent: us/tn/_state
+aliases: [Perry County]
+website: https://perrycountytn.com/
+sources:
+  - https://www.ctas.tennessee.edu/county/perry
+  - https://perrycountytn.com/
+last_verified: 2026-11-22
+verified_by: codex

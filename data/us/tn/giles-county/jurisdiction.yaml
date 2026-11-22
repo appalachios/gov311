@@ -1,0 +1,11 @@
+name: Giles County, Tennessee
+level: county
+ocd_id: ocd-division/country:us/state:tn/county:giles
+parent: us/tn/_state
+aliases: [Giles County]
+website: https://gilescountytn.gov/
+sources:
+  - https://www.ctas.tennessee.edu/county/giles
+  - https://gilescountytn.gov/
+last_verified: 2026-11-22
+verified_by: codex

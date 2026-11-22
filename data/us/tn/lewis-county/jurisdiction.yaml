@@ -1,0 +1,11 @@
+name: Lewis County, Tennessee
+level: county
+ocd_id: ocd-division/country:us/state:tn/county:lewis
+parent: us/tn/_state
+aliases: [Lewis County]
+website: https://www.lewiscountytn.com/
+sources:
+  - https://www.ctas.tennessee.edu/county/lewis
+  - https://www.lewiscountytn.com/
+last_verified: 2026-11-22
+verified_by: codex

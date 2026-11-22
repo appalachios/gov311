@@ -1,0 +1,10 @@
+name: Pickett County, Tennessee
+level: county
+ocd_id: ocd-division/country:us/state:tn/county:pickett
+parent: us/tn/_state
+aliases: [Pickett County]
+website: https://www.ctas.tennessee.edu/county/pickett
+sources:
+  - https://www.ctas.tennessee.edu/county/pickett
+last_verified: 2026-11-22
+verified_by: codex

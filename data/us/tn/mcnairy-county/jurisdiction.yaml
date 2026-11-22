@@ -1,0 +1,11 @@
+name: McNairy County, Tennessee
+level: county
+ocd_id: ocd-division/country:us/state:tn/county:mcnairy
+parent: us/tn/_state
+aliases: [McNairy County]
+website: https://www.mcnairycountytn.org/
+sources:
+  - https://www.ctas.tennessee.edu/county/mcnairy
+  - https://www.mcnairycountytn.org/
+last_verified: 2026-11-22
+verified_by: codex

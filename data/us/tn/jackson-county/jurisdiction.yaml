@@ -1,0 +1,11 @@
+name: Jackson County, Tennessee
+level: county
+ocd_id: ocd-division/country:us/state:tn/county:jackson
+parent: us/tn/_state
+aliases: [Jackson County]
+website: https://jacksoncountytn.gov
+sources:
+  - https://www.ctas.tennessee.edu/county/jackson
+  - https://jacksoncountytn.gov
+last_verified: 2026-11-22
+verified_by: codex

@@ -1,0 +1,11 @@
+name: Grainger County, Tennessee
+level: county
+ocd_id: ocd-division/country:us/state:tn/county:grainger
+parent: us/tn/_state
+aliases: [Grainger County]
+website: https://graingercountytn.com/
+sources:
+  - https://www.ctas.tennessee.edu/county/grainger
+  - https://graingercountytn.com/
+last_verified: 2026-11-22
+verified_by: codex

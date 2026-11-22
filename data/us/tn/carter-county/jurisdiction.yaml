@@ -1,0 +1,11 @@
+name: Carter County, Tennessee
+level: county
+ocd_id: ocd-division/country:us/state:tn/county:carter
+parent: us/tn/_state
+aliases: [Carter County]
+website: https://www.cartercountytn.gov/
+sources:
+  - https://www.ctas.tennessee.edu/county/carter
+  - https://www.cartercountytn.gov/
+last_verified: 2026-11-22
+verified_by: codex

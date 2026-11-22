@@ -1,0 +1,11 @@
+name: Henderson County, Tennessee
+level: county
+ocd_id: ocd-division/country:us/state:tn/county:henderson
+parent: us/tn/_state
+aliases: [Henderson County]
+website: https://www.hendersoncountytn.gov/en-US
+sources:
+  - https://www.ctas.tennessee.edu/county/henderson
+  - https://www.hendersoncountytn.gov/en-US
+last_verified: 2026-11-22
+verified_by: codex

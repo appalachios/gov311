@@ -1,0 +1,11 @@
+name: Hawkins County, Tennessee
+level: county
+ocd_id: ocd-division/country:us/state:tn/county:hawkins
+parent: us/tn/_state
+aliases: [Hawkins County]
+website: https://www.hawkinscountytn.gov/
+sources:
+  - https://www.ctas.tennessee.edu/county/hawkins
+  - https://www.hawkinscountytn.gov/
+last_verified: 2026-11-22
+verified_by: codex

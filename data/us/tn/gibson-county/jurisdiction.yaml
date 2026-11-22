@@ -1,0 +1,11 @@
+name: Gibson County, Tennessee
+level: county
+ocd_id: ocd-division/country:us/state:tn/county:gibson
+parent: us/tn/_state
+aliases: [Gibson County]
+website: https://gibsoncountytn.com/
+sources:
+  - https://www.ctas.tennessee.edu/county/gibson
+  - https://gibsoncountytn.com/
+last_verified: 2026-11-22
+verified_by: codex

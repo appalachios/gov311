@@ -1,0 +1,11 @@
+name: Jefferson County, Tennessee
+level: county
+ocd_id: ocd-division/country:us/state:tn/county:jefferson
+parent: us/tn/_state
+aliases: [Jefferson County]
+website: https://jeffersoncountytn.gov/
+sources:
+  - https://www.ctas.tennessee.edu/county/jefferson
+  - https://jeffersoncountytn.gov/
+last_verified: 2026-11-22
+verified_by: codex

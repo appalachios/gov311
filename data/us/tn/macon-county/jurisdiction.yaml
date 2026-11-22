@@ -1,0 +1,11 @@
+name: Macon County, Tennessee
+level: county
+ocd_id: ocd-division/country:us/state:tn/county:macon
+parent: us/tn/_state
+aliases: [Macon County]
+website: https://www.maconcountytn.gov/
+sources:
+  - https://www.ctas.tennessee.edu/county/macon
+  - https://www.maconcountytn.gov/
+last_verified: 2026-11-22
+verified_by: codex

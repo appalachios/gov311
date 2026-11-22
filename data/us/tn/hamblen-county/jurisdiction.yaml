@@ -1,0 +1,11 @@
+name: Hamblen County, Tennessee
+level: county
+ocd_id: ocd-division/country:us/state:tn/county:hamblen
+parent: us/tn/_state
+aliases: [Hamblen County]
+website: https://hamblencountytn.gov/
+sources:
+  - https://www.ctas.tennessee.edu/county/hamblen
+  - https://hamblencountytn.gov/
+last_verified: 2026-11-22
+verified_by: codex

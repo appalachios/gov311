@@ -1,0 +1,11 @@
+name: Bledsoe County, Tennessee
+level: county
+ocd_id: ocd-division/country:us/state:tn/county:bledsoe
+parent: us/tn/_state
+aliases: [Bledsoe County]
+website: https://www.pikeville-bledsoe.com/
+sources:
+  - https://www.ctas.tennessee.edu/county/bledsoe
+  - https://www.pikeville-bledsoe.com/
+last_verified: 2026-11-22
+verified_by: codex

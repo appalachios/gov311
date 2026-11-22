@@ -1,0 +1,11 @@
+name: Overton County, Tennessee
+level: county
+ocd_id: ocd-division/country:us/state:tn/county:overton
+parent: us/tn/_state
+aliases: [Overton County]
+website: https://overtoncountytn.gov/
+sources:
+  - https://www.ctas.tennessee.edu/county/overton
+  - https://overtoncountytn.gov/
+last_verified: 2026-11-22
+verified_by: codex

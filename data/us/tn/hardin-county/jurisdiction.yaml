@@ -1,0 +1,11 @@
+name: Hardin County, Tennessee
+level: county
+ocd_id: ocd-division/country:us/state:tn/county:hardin
+parent: us/tn/_state
+aliases: [Hardin County]
+website: https://www.hardincogov.com/
+sources:
+  - https://www.ctas.tennessee.edu/county/hardin
+  - https://www.hardincogov.com/
+last_verified: 2026-11-22
+verified_by: codex

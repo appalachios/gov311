@@ -2,7 +2,9 @@
 
 Many cities have a 311 line for questions about local services. Gov311 brings that idea to AI chat. Ask where to apply for food assistance, who issues a building permit, or how to tell whether a bill became law. Each guide points you to the government office or public record behind the answer.
 
-Gov311 is a community project covering Tennessee state government, Metro Nashville, Knox and Polk counties and their municipalities, and selected federal services. You can use the guides in a chat or read them yourself. The guides are independent of the agencies they describe.
+Gov311 is a community project covering Tennessee state government, Metro Nashville, Knox and Polk counties and their municipalities, and selected federal services. All 95 Tennessee counties also have a property guide. Choose your county for its parcel map, tax records, elected officials and school contacts. [Find your county’s property guide](data/us/tn/_state/services/find-a-property-map.md#county-guides)
+
+You can use the guides in a chat or read them yourself. The guides are independent of the agencies they describe.
 
 ## Ask in ChatGPT, Claude, or Grok Bot
 

@@ -1,0 +1,11 @@
+name: Maury County, Tennessee
+level: county
+ocd_id: ocd-division/country:us/state:tn/county:maury
+parent: us/tn/_state
+aliases: [Maury County]
+website: https://www.maurycounty-tn.gov/
+sources:
+  - https://www.ctas.tennessee.edu/county/maury
+  - https://www.maurycounty-tn.gov/
+last_verified: 2026-11-22
+verified_by: codex
