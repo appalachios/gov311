@@ -1,0 +1,15 @@
+name: "City of Cleveland"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:cleveland
+parent: us/tn/bradley-county
+aliases: ["Cleveland"]
+website: https://clevelandtn.gov/
+general_contact:
+  name: "Cleveland municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/cleveland
+  phone: "(423) 476-8931"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/cleveland
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex
