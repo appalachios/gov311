@@ -4,6 +4,7 @@ summary: "Find the meeting, read the proposed language against the charter and c
 audiences: [everyone]
 keywords: ["ordinance", "charter", "code", "agenda", "pending law", "meeting", "amendment", "minutes"]
 sources:
+  - "https://codelibrary.amlegal.com/codes/crossville/latest/crossville_tn/0-0-0-208"
   - "https://www.mtas.tennessee.edu/directories/cities/crossville"
   - "https://www.mtas.tennessee.edu/code/municipal-code-crossville"
   - "https://www.mtas.tennessee.edu/charter/crossville"
@@ -18,3 +19,5 @@ To follow a proposal in Crossville, get the dated meeting notice, agenda, propos
 Look up the charter for the governing body’s powers, readings and vote requirements. Compare a proposed ordinance with the current code section it would change. [Municipal Code](https://www.mtas.tennessee.edu/code/municipal-code-crossville) · [Municipal Charter](https://www.mtas.tennessee.edu/charter/crossville)
 
 After the meeting, use the minutes to identify the motion that actually passed. Ask the recorder or clerk for the adopted ordinance, any amendments and the effective date. A proposal can change during consideration, and a recent ordinance may still be waiting to appear in the code. [Tennessee agenda and minutes requirements](https://comptroller.tn.gov/office-functions/open-records-counsel/open-meetings/frequently-asked-questions/tennessee-open-meetings-act-faqs.html)
+
+Charter article VI, § 2 requires open readings on three different days. An ordinary ordinance takes effect at least 15 days after first passage. An emergency ordinance can take effect on final passage with a unanimous vote of the members present, and the emergency procedure excludes franchise grants, renewals and extensions and other special privileges. [Charter classification](https://www.mtas.tennessee.edu/charter/crossville) · [Governing text](https://codelibrary.amlegal.com/codes/crossville/latest/crossville_tn/0-0-0-208)
