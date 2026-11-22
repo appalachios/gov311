@@ -4,6 +4,7 @@ summary: "Find the meeting, read the proposed language against the charter and c
 audiences: [everyone]
 keywords: ["ordinance", "charter", "code", "agenda", "pending law", "meeting", "amendment", "minutes"]
 sources:
+  - "https://www.mtas.tennessee.edu/system/files/codes/Tullahoma-t1.pdf#page=15"
   - "https://www.mtas.tennessee.edu/directories/cities/tullahoma"
   - "https://www.mtas.tennessee.edu/code/municipal-code-tullahoma"
   - "https://www.mtas.tennessee.edu/charter/tullahoma"
@@ -19,3 +20,5 @@ To follow a proposal in Tullahoma, get the dated meeting notice, agenda, propose
 Look up the charter for the governing body’s powers, readings and vote requirements. Compare a proposed ordinance with the current code section it would change. [Municipal Code](https://www.mtas.tennessee.edu/code/municipal-code-tullahoma) · [Municipal Charter](https://www.mtas.tennessee.edu/charter/tullahoma)
 
 After the meeting, use the minutes to identify the motion that actually passed. Ask the recorder or clerk for the adopted ordinance, any amendments and the effective date. A proposal can change during consideration, and a recent ordinance may still be waiting to appear in the code. [Tennessee agenda and minutes requirements](https://comptroller.tn.gov/office-functions/open-records-counsel/open-meetings/frequently-asked-questions/tennessee-open-meetings-act-faqs.html)
+
+Municipal Code § 1-208 requires three readings on three different days for ordinances concerning appropriations or taxes. Other ordinances need two readings, and at least one vote must win a majority of the entire board. Captions may be read aloud, but the full ordinance goes into the minutes on final passage. [Charter classification](https://www.mtas.tennessee.edu/charter/tullahoma) · [Governing text](https://www.mtas.tennessee.edu/system/files/codes/Tullahoma-t1.pdf#page=15)

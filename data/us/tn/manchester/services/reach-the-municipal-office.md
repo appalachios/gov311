@@ -4,6 +4,10 @@ summary: "Find the municipal office, check who serves a street address and get t
 audiences: [everyone]
 keywords: ["city hall", "town hall", "municipal services", "utility service", "address", "permits"]
 sources:
+  - "https://www.cityofmanchestertn.gov/departments/planning_and_codes/iworq.php"
+  - "https://www.cityofmanchestertn.gov/departments/water_utility_billing/index.php"
+  - "https://www.cityofmanchestertn.gov/departments/finance/property_tax_freeze_program.php"
+  - "https://www.cityofmanchestertn.gov/departments/finance/open_records.php"
   - "https://www.mtas.tennessee.edu/directories/cities/manchester"
   - "https://www.cityofmanchestertn.gov/"
   - "https://www.cityofmanchestertn.gov/departments/planning_and_codes/building_codes.php"
@@ -20,3 +24,10 @@ The municipality reports these services in its utility listing: **Garbage, Sewer
 For construction at this address, check the municipal permit office’s project instructions. [Municipal building permits](https://www.cityofmanchestertn.gov/departments/planning_and_codes/building_codes.php)
 
 For a county assessment or recorded deed, use the county where the land sits. [Coffee County records](../../coffee-county/services/find-a-property-map.md)
+
+## More municipal services
+
+- **Open Records Request**. Find the instructions for requesting an existing municipal record. [Open Records Request](https://www.cityofmanchestertn.gov/departments/finance/open_records.php)
+- **Property Tax Freeze Program**. Use the city’s property tax page to look up billing or payment information. [Property Tax Freeze Program](https://www.cityofmanchestertn.gov/departments/finance/property_tax_freeze_program.php)
+- **Water Utility Billing**. Use the billing page to find payment instructions for your account. [Water Utility Billing](https://www.cityofmanchestertn.gov/departments/water_utility_billing/index.php)
+- **Manchester iWorQ (Permits and Applications)**. Check which permits or inspections apply to your project before starting work. [Manchester iWorQ (Permits and Applications)](https://www.cityofmanchestertn.gov/departments/planning_and_codes/iworq.php)
