@@ -1,0 +1,15 @@
+name: "City of Cross Plains"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:cross_plains
+parent: us/tn/robertson-county
+aliases: ["Cross Plains"]
+website: https://crossplainstn.gov/
+general_contact:
+  name: "Cross Plains municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/cross-plains
+  phone: "(615) 654-2555"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/cross-plains
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

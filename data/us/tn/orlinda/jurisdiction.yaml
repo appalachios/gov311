@@ -1,0 +1,15 @@
+name: "City of Orlinda"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:orlinda
+parent: us/tn/robertson-county
+aliases: ["Orlinda"]
+website: https://cityoforlindatn.com/
+general_contact:
+  name: "Orlinda municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/orlinda
+  phone: "(615) 654-3366"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/orlinda
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

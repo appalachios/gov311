@@ -1,0 +1,15 @@
+name: "City of Greenbrier"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:greenbrier
+parent: us/tn/robertson-county
+aliases: ["Greenbrier"]
+website: https://www.greenbriertn.org/
+general_contact:
+  name: "Greenbrier municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/greenbrier
+  phone: "(615) 643-4531"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/greenbrier
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

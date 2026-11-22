@@ -172,6 +172,16 @@ Parent guide sections, nearest first: United States federal government (us/_fede
 - [Find Tennessee help with starting a small business](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/_state/help/small-business-startup.md): The Department of Economic and Community Development publishes a startup guide covering registration, permits, financing, and business support.
   - source-checked · Checked by codex on 2026-11-21.
 
+## City of Adams (us/tn/adams)
+
+Parent guide sections, nearest first: Robertson County, Tennessee (us/tn/robertson-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/adams/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Adams for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/adams/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Adams.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Adams](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/adams/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
 ## City of Adamsville (us/tn/adamsville)
 
 For county services, check which county contains the address. Choose one of these guide sections: Hardin County, Tennessee (us/tn/hardin-county) or McNairy County, Tennessee (us/tn/mcnairy-county).
@@ -685,6 +695,16 @@ Parent guide sections, nearest first: Campbell County, Tennessee (us/tn/campbell
 - [Follow a proposed ordinance in Caryville](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/caryville/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
+## Town of Cedar Hill (us/tn/cedar-hill)
+
+Parent guide sections, nearest first: Robertson County, Tennessee (us/tn/robertson-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/cedar-hill/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Cedar Hill for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/cedar-hill/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Cedar Hill.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Cedar Hill](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/cedar-hill/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
 ## Town of Celina (us/tn/celina)
 
 Parent guide sections, nearest first: Clay County, Tennessee (us/tn/clay-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
@@ -916,6 +936,16 @@ Parent guide sections, nearest first: Putnam County, Tennessee (us/tn/putnam-cou
 - [Follow a proposed ordinance in Cookeville](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/cookeville/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
+## Town of Coopertown (us/tn/coopertown)
+
+Parent guide sections, nearest first: Robertson County, Tennessee (us/tn/robertson-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/coopertown/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Coopertown for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/coopertown/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Coopertown.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Coopertown](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/coopertown/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
 ## City of Copperhill (us/tn/copperhill)
 
 Parent guide sections, nearest first: Polk County, Tennessee (us/tn/polk-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
@@ -986,6 +1016,16 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 - [Find the Crockett County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/crockett-county/services/find-a-property-map.md): Search Crockett County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
   - source-checked · Checked by codex on 2026-11-22.
 - [Follow a Crockett County governing body decision](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/crockett-county/services/follow-county-business.md): Find the regular meeting agenda, the source of the county’s authority and the record of what the governing body voted to adopt.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## City of Cross Plains (us/tn/cross-plains)
+
+Parent guide sections, nearest first: Robertson County, Tennessee (us/tn/robertson-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/cross-plains/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Cross Plains for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/cross-plains/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Cross Plains.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Cross Plains](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/cross-plains/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## City of Crossville (us/tn/crossville)
@@ -1544,6 +1584,16 @@ Parent guide sections, nearest first: Loudon County, Tennessee (us/tn/loudon-cou
 - [Contact Greenback for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/greenback/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Greenback.
   - source-checked · Checked by codex on 2026-11-22.
 - [Follow a proposed ordinance in Greenback](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/greenback/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## City of Greenbrier (us/tn/greenbrier)
+
+Parent guide sections, nearest first: Robertson County, Tennessee (us/tn/robertson-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/greenbrier/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Greenbrier for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/greenbrier/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Greenbrier.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Greenbrier](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/greenbrier/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## Greene County, Tennessee (us/tn/greene-county)
@@ -2658,6 +2708,18 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 - [Follow a proposed ordinance in Milledgeville](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/milledgeville/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
+## City of Millersville (us/tn/millersville)
+
+For county services, check which county contains the address. Choose one of these guide sections: Robertson County, Tennessee (us/tn/robertson-county) or Sumner County, Tennessee (us/tn/sumner-county).
+
+Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/millersville/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Millersville for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/millersville/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Millersville.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Millersville](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/millersville/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
 ## City of Minor Hill (us/tn/minor-hill)
 
 Parent guide sections, nearest first: Giles County, Tennessee (us/tn/giles-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
@@ -2998,6 +3060,16 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 - [Find an Oliver Springs council vote or Water Board action](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/oliver-springs/services/follow-a-council-measure.md): Choose the board that heard the item and match its meeting agenda to the minutes.
   - source-checked · Checked by codex on 2026-11-22.
 - [Start town water and sewer service in Oliver Springs](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/oliver-springs/services/start-town-water-service.md): Bring proof of ownership or a lease, identification and the connection payment to the Water Department.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## City of Orlinda (us/tn/orlinda)
+
+Parent guide sections, nearest first: Robertson County, Tennessee (us/tn/robertson-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/orlinda/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Orlinda for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/orlinda/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Orlinda.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Orlinda](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/orlinda/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## Town of Orme (us/tn/orme)
@@ -3379,7 +3451,11 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
 
 - [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/robertson-county/jurisdiction.yaml): website, main contact, and parent government
+- [Find the right office in Robertson County](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/robertson-county/services/choose-a-county-office.md): Find county offices for deeds, vehicle records, elections and property questions, and check municipal boundaries for local services.
+  - source-checked · Checked by codex on 2026-11-22.
 - [Find the Robertson County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/robertson-county/services/find-a-property-map.md): Search Robertson County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a Robertson County governing body decision](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/robertson-county/services/follow-county-business.md): Find the regular meeting agenda, the source of the county’s authority and the record of what the governing body voted to adopt.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## City of Rockford (us/tn/rockford)
@@ -3702,6 +3778,16 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 - [Contact Spring Hill for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/spring-hill/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Spring Hill.
   - source-checked · Checked by codex on 2026-11-22.
 - [Follow a proposed ordinance in Spring Hill](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/spring-hill/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## City of Springfield (us/tn/springfield)
+
+Parent guide sections, nearest first: Robertson County, Tennessee (us/tn/robertson-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/springfield/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Springfield for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/springfield/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Springfield.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Springfield](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/springfield/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## City of St. Joseph (us/tn/st-joseph)
@@ -4110,6 +4196,18 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 
 - [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/white-county/jurisdiction.yaml): website, main contact, and parent government
 - [Find the White County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/white-county/services/find-a-property-map.md): Search White County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## City of White House (us/tn/white-house)
+
+For county services, check which county contains the address. Choose one of these guide sections: Robertson County, Tennessee (us/tn/robertson-county) or Sumner County, Tennessee (us/tn/sumner-county).
+
+Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/white-house/jurisdiction.yaml): website, main contact, and parent government
+- [Contact White House for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/white-house/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in White House.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in White House](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/white-house/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## Town of White Pine (us/tn/white-pine)

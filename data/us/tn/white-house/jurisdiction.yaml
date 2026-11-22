@@ -1,0 +1,16 @@
+name: "City of White House"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:white_house
+parent: us/tn/_state
+county_options: ["us/tn/robertson-county", "us/tn/sumner-county"]
+aliases: ["White House"]
+website: https://www.whitehousetn.gov/
+general_contact:
+  name: "White House municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/white-house
+  phone: "(615) 672-4350"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/white-house
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

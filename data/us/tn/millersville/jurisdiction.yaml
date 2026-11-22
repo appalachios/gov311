@@ -1,0 +1,16 @@
+name: "City of Millersville"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:millersville
+parent: us/tn/_state
+county_options: ["us/tn/robertson-county", "us/tn/sumner-county"]
+aliases: ["Millersville"]
+website: https://www.cityofmillersville.com/
+general_contact:
+  name: "Millersville municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/millersville
+  phone: "(615) 859-0880"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/millersville
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex
