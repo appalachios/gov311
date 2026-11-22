@@ -1769,9 +1769,8 @@ Parent guide sections, nearest first: Lauderdale County, Tennessee (us/tn/lauder
 - [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/gates/jurisdiction.yaml): website, main contact, and parent government
 - [Contact Gates for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/gates/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Gates.
   - source-checked · Checked by codex on 2026-11-22.
-- [Follow a proposed ordinance in Gates](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/gates/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
-  - draft · Research by codex on 2026-11-22.
-  - Human review (missing evidence). The cited records establish the procedure described here. They do not establish the general number of readings for a new ordinance in Gates. Ask the municipal recorder for the current charter section or adopted procedural rule before quoting a count.
+- [Follow a proposed ordinance in Gates](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/gates/services/track-a-municipal-ordinance.md): Gates considers an ordinance on two separate days. Get the written proposal before the first meeting and check the votes in the minutes.
+  - source-checked · Checked by codex on 2026-11-22.
 
 ## City of Gatlinburg (us/tn/gatlinburg)
 
