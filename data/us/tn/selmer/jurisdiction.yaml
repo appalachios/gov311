@@ -1,0 +1,15 @@
+name: "Town of Selmer"
+level: town
+ocd_id: ocd-division/country:us/state:tn/place:selmer
+parent: us/tn/mcnairy-county
+aliases: ["Selmer"]
+website: https://www.townofselmer.com/
+general_contact:
+  name: "Selmer municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/selmer
+  phone: "(731) 645-3241"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/selmer
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

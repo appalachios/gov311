@@ -1,0 +1,15 @@
+name: "Town of Stantonville"
+level: town
+ocd_id: ocd-division/country:us/state:tn/place:stantonville
+parent: us/tn/mcnairy-county
+aliases: ["Stantonville"]
+website: https://www.mtas.tennessee.edu/directories/cities/stantonville
+general_contact:
+  name: "Stantonville municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/stantonville
+  phone: "(731) 315-5877"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/stantonville
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

@@ -1,0 +1,15 @@
+name: "Town of Eastview"
+level: town
+ocd_id: ocd-division/country:us/state:tn/place:eastview
+parent: us/tn/mcnairy-county
+aliases: ["Eastview"]
+website: https://www.mtas.tennessee.edu/directories/cities/eastview
+general_contact:
+  name: "Eastview municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/eastview
+  phone: "(731) 645-3428"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/eastview
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex
