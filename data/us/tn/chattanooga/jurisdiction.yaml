@@ -2,6 +2,9 @@ name: "City of Chattanooga"
 level: city
 ocd_id: ocd-division/country:us/state:tn/place:chattanooga
 parent: us/tn/_state
+county_review:
+  county: us/tn/marion-county
+  entry: us/tn/chattanooga/services/reach-the-municipal-office
 county_options: [us/tn/hamilton-county, us/tn/marion-county]
 aliases: ["Chattanooga"]
 website: https://chattanooga.gov/

@@ -869,6 +869,8 @@ Parent guide sections, nearest first: Dickson County, Tennessee (us/tn/dickson-c
 
 For county services, check which county contains the address. Choose one of these guide sections: Hamilton County, Tennessee (us/tn/hamilton-county) or Marion County, Tennessee (us/tn/marion-county).
 
+Boundary under review for us/tn/marion-county. Check the parcel with the offices in the [boundary guide](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/chattanooga/services/reach-the-municipal-office.md) before using that county’s records.
+
 Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
 
 - [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/chattanooga/jurisdiction.yaml): website, main contact, and parent government

@@ -232,3 +232,5 @@ The validator warns when an entry's `last_verified` date is more than one year o
 ## License
 
 By contributing, you agree that your contribution is licensed under the [Apache License 2.0](LICENSE).
+
+If official records disagree about a county boundary, use `county_review` to name the disputed county and a local guide documenting the conflicting evidence. Include the sources and the record that would settle the question. County searches omit that county’s inherited results until the parcel location is confirmed.
