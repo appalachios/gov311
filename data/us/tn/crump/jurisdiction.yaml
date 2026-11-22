@@ -1,0 +1,15 @@
+name: "Town of Crump"
+level: town
+ocd_id: ocd-division/country:us/state:tn/place:crump
+parent: us/tn/hardin-county
+aliases: ["Crump"]
+website: https://www.mtas.tennessee.edu/directories/cities/crump
+general_contact:
+  name: "Crump municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/crump
+  phone: "(731) 632-4224"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/crump
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

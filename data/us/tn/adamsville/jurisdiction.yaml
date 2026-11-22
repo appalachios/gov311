@@ -1,0 +1,16 @@
+name: "City of Adamsville"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:adamsville
+parent: us/tn/_state
+county_options: ["us/tn/hardin-county", "us/tn/mcnairy-county"]
+aliases: ["Adamsville"]
+website: https://www.cityofadamsville.com/
+general_contact:
+  name: "Adamsville municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/adamsville
+  phone: "(731) 632-1401"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/adamsville
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

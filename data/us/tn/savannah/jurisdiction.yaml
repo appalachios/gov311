@@ -1,0 +1,15 @@
+name: "City of Savannah"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:savannah
+parent: us/tn/hardin-county
+aliases: ["Savannah"]
+website: https://cityofsavannah.org/
+general_contact:
+  name: "Savannah municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/savannah
+  phone: "(731) 925-3300"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/savannah
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

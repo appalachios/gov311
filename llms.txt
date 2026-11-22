@@ -172,6 +172,18 @@ Parent guide sections, nearest first: United States federal government (us/_fede
 - [Find Tennessee help with starting a small business](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/_state/help/small-business-startup.md): The Department of Economic and Community Development publishes a startup guide covering registration, permits, financing, and business support.
   - source-checked · Checked by codex on 2026-11-21.
 
+## City of Adamsville (us/tn/adamsville)
+
+For county services, check which county contains the address. Choose one of these guide sections: Hardin County, Tennessee (us/tn/hardin-county) or McNairy County, Tennessee (us/tn/mcnairy-county).
+
+Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/adamsville/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Adamsville for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/adamsville/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Adamsville.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Adamsville](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/adamsville/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
 ## Town of Alamo (us/tn/alamo)
 
 Parent guide sections, nearest first: Crockett County, Tennessee (us/tn/crockett-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
@@ -816,6 +828,16 @@ Parent guide sections, nearest first: Cumberland County, Tennessee (us/tn/cumber
 - [Follow a proposed ordinance in Crossville](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/crossville/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
+## Town of Crump (us/tn/crump)
+
+Parent guide sections, nearest first: Hardin County, Tennessee (us/tn/hardin-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/crump/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Crump for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/crump/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Crump.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Crump](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/crump/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
 ## Cumberland County, Tennessee (us/tn/cumberland-county)
 
 Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
@@ -1315,7 +1337,11 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
 
 - [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/hardin-county/jurisdiction.yaml): website, main contact, and parent government
+- [Find the right office in Hardin County](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/hardin-county/services/choose-a-county-office.md): Find county offices for deeds, vehicle records, elections and property questions, and check municipal boundaries for local services.
+  - source-checked · Checked by codex on 2026-11-22.
 - [Find the Hardin County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/hardin-county/services/find-a-property-map.md): Search Hardin County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a Hardin County governing body decision](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/hardin-county/services/follow-county-business.md): Find the regular meeting agenda, the source of the county’s authority and the record of what the governing body voted to adopt.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## City of Harrogate (us/tn/harrogate)
@@ -2460,6 +2486,16 @@ Parent guide sections, nearest first: Grainger County, Tennessee (us/tn/grainger
 - [Follow a proposed ordinance in Rutledge](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/rutledge/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
+## Town of Saltillo (us/tn/saltillo)
+
+Parent guide sections, nearest first: Hardin County, Tennessee (us/tn/hardin-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/saltillo/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Saltillo for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/saltillo/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Saltillo.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Saltillo](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/saltillo/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
 ## Town of Saulsbury (us/tn/saulsbury)
 
 Parent guide sections, nearest first: Hardeman County, Tennessee (us/tn/hardeman-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
@@ -2468,6 +2504,16 @@ Parent guide sections, nearest first: Hardeman County, Tennessee (us/tn/hardeman
 - [Contact Saulsbury for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/saulsbury/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Saulsbury.
   - source-checked · Checked by codex on 2026-11-22.
 - [Follow a proposed ordinance in Saulsbury](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/saulsbury/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## City of Savannah (us/tn/savannah)
+
+Parent guide sections, nearest first: Hardin County, Tennessee (us/tn/hardin-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/savannah/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Savannah for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/savannah/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Savannah.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Savannah](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/savannah/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## Scott County, Tennessee (us/tn/scott-county)
