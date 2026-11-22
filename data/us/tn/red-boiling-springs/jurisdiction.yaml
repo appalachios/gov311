@@ -1,0 +1,15 @@
+name: "City of Red Boiling Springs"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:red_boiling_springs
+parent: us/tn/macon-county
+aliases: ["Red Boiling Springs"]
+website: https://redboilingspringstn.com/
+general_contact:
+  name: "Red Boiling Springs municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/red-boiling-springs
+  phone: "(615) 699-2011"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/red-boiling-springs
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

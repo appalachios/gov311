@@ -1,0 +1,15 @@
+name: "City of Lafayette"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:lafayette
+parent: us/tn/macon-county
+aliases: ["Lafayette"]
+website: https://www.lafayette-tn.org/
+general_contact:
+  name: "Lafayette municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/lafayette
+  phone: "(615) 666-2194"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/lafayette
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

@@ -1938,6 +1938,16 @@ Parent guide sections, nearest first: Fayette County, Tennessee (us/tn/fayette-c
 - [Follow a proposed ordinance in La Grange](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/la-grange/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
+## City of Lafayette (us/tn/lafayette)
+
+Parent guide sections, nearest first: Macon County, Tennessee (us/tn/macon-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/lafayette/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Lafayette for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/lafayette/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Lafayette.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Lafayette](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/lafayette/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
 ## City of LaFollette (us/tn/lafollette)
 
 Parent guide sections, nearest first: Campbell County, Tennessee (us/tn/campbell-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
@@ -2131,7 +2141,11 @@ Parent guide sections, nearest first: Giles County, Tennessee (us/tn/giles-count
 Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
 
 - [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/macon-county/jurisdiction.yaml): website, main contact, and parent government
+- [Find the right office in Macon County](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/macon-county/services/choose-a-county-office.md): Find county offices for deeds, vehicle records, elections and property questions, and check municipal boundaries for local services.
+  - source-checked · Checked by codex on 2026-11-22.
 - [Find the Macon County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/macon-county/services/find-a-property-map.md): Search Macon County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a Macon County governing body decision](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/macon-county/services/follow-county-business.md): Find the regular meeting agenda, the source of the county’s authority and the record of what the governing body voted to adopt.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## Madison County, Tennessee (us/tn/madison-county)
@@ -2786,6 +2800,16 @@ Parent guide sections, nearest first: Hamilton County, Tennessee (us/tn/hamilton
 - [Contact Red Bank for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/red-bank/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Red Bank.
   - source-checked · Checked by codex on 2026-11-22.
 - [Follow a proposed ordinance in Red Bank](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/red-bank/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## City of Red Boiling Springs (us/tn/red-boiling-springs)
+
+Parent guide sections, nearest first: Macon County, Tennessee (us/tn/macon-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/red-boiling-springs/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Red Boiling Springs for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/red-boiling-springs/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Red Boiling Springs.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Red Boiling Springs](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/red-boiling-springs/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## Rhea County, Tennessee (us/tn/rhea-county)
