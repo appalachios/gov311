@@ -4,6 +4,7 @@ summary: "Find the meeting, read the proposed language against the charter and c
 audiences: [everyone]
 keywords: ["ordinance", "charter", "code", "agenda", "pending law", "meeting", "amendment", "minutes"]
 sources:
+  - "https://www.mtas.tennessee.edu/sites/default/files/private/charters/Puryear_cht.pdf#page=10"
   - "https://www.mtas.tennessee.edu/directories/cities/puryear"
   - "https://www.mtas.tennessee.edu/code/municipal-code-puryear"
   - "https://www.mtas.tennessee.edu/charter/puryear"
@@ -18,3 +19,5 @@ To follow a proposal in Puryear, get the dated meeting notice, agenda, proposed 
 Look up the charter for the governing body’s powers, readings and vote requirements. Compare a proposed ordinance with the current code section it would change. [Municipal Code](https://www.mtas.tennessee.edu/code/municipal-code-puryear) · [Municipal Charter](https://www.mtas.tennessee.edu/charter/puryear)
 
 After the meeting, use the minutes to identify the motion that actually passed. Ask the recorder or clerk for the adopted ordinance, any amendments and the effective date. A proposal can change during consideration, and a recent ordinance may still be waiting to appear in the code. [Tennessee agenda and minutes requirements](https://comptroller.tn.gov/office-functions/open-records-counsel/open-meetings/frequently-asked-questions/tennessee-open-meetings-act-faqs.html)
+
+Section 12 requires an ordinance for a regulatory measure, a penalty or a franchise. A majority of the board must approve it. It takes effect when finally read and adopted unless the text specifies another date. [Charter classification](https://www.mtas.tennessee.edu/charter/puryear) · [Governing text](https://www.mtas.tennessee.edu/sites/default/files/private/charters/Puryear_cht.pdf#page=10)
