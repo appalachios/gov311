@@ -549,6 +549,16 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 - [Follow a Blount County governing body decision](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/blount-county/services/follow-county-business.md): Find the regular meeting agenda, the source of the county’s authority and the record of what the governing body voted to adopt.
   - source-checked · Checked by codex on 2026-11-22.
 
+## Town of Bluff City (us/tn/bluff-city)
+
+Parent guide sections, nearest first: Sullivan County, Tennessee (us/tn/sullivan-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/bluff-city/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Bluff City for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/bluff-city/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Bluff City.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Bluff City](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/bluff-city/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
 ## City of Bolivar (us/tn/bolivar)
 
 Parent guide sections, nearest first: Hardeman County, Tennessee (us/tn/hardeman-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
@@ -589,6 +599,16 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 - [Find the Bradley County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/bradley-county/services/find-a-property-map.md): Search Bradley County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
   - source-checked · Checked by codex on 2026-11-22.
 - [Follow a Bradley County governing body decision](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/bradley-county/services/follow-county-business.md): Find the regular meeting agenda, the source of the county’s authority and the record of what the governing body voted to adopt.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## City of Bristol (us/tn/bristol)
+
+Parent guide sections, nearest first: Sullivan County, Tennessee (us/tn/sullivan-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/bristol/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Bristol for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/bristol/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Bristol.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Bristol](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/bristol/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## City of Brownsville (us/tn/brownsville)
@@ -4124,7 +4144,11 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
 
 - [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/sullivan-county/jurisdiction.yaml): website, main contact, and parent government
+- [Find the right office in Sullivan County](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/sullivan-county/services/choose-a-county-office.md): Find county offices for deeds, vehicle records, elections and property questions, and check municipal boundaries for local services.
+  - source-checked · Checked by codex on 2026-11-22.
 - [Find the Sullivan County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/sullivan-county/services/find-a-property-map.md): Search Sullivan County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a Sullivan County governing body decision](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/sullivan-county/services/follow-county-business.md): Find the regular meeting agenda, the source of the county’s authority and the record of what the governing body voted to adopt.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## Sumner County, Tennessee (us/tn/sumner-county)
