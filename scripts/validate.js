@@ -41,6 +41,17 @@ for (const j of jurisdictions.values()) {
   if (jurisdictionChain(jurisdictions, j.id).at(-1).meta.parent === j.id) {
     fail(j.file, "The parent links form a cycle. Each chain must end at a national government.");
   }
+  if (Array.isArray(j.meta.county_options)) {
+    if (!["city", "town"].includes(j.meta.level) || jurisdictions.get(j.meta.parent)?.meta.level !== "state") {
+      fail(j.file, "A municipality with county_options must name the shared state as its parent.");
+    }
+    for (const id of j.meta.county_options) {
+      const county = jurisdictions.get(id);
+      if (county?.meta.level !== "county" || county.meta.parent !== j.meta.parent) {
+        fail(j.file, `county_options includes "${id}", which must be a county in the same state.`);
+      }
+    }
+  }
   checkDate(j.file, j.meta.last_verified);
 }
 

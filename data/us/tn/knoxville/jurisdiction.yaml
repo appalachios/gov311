@@ -1,0 +1,17 @@
+name: City of Knoxville
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:knoxville
+parent: us/tn/knox-county
+aliases: [Knoxville]
+website: https://www.knoxvilletn.gov/
+general_contact:
+  name: City of Knoxville 311
+  phone: 865-215-4311
+  url: https://www.knoxvilletn.gov/284/_311
+  hours: Monday through Friday, 7 a.m. to 5 p.m. Eastern, except holidays
+sources:
+  - https://www.knoxvilletn.gov/284/_311
+  - https://www.knoxvilletn.gov/27/Government
+  - https://www.ctas.tennessee.edu/directory/Knox
+last_verified: 2026-11-21
+verified_by: codex

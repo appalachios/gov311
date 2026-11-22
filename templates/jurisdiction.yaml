@@ -2,6 +2,8 @@ name: City of Example
 level: city # federal, state, county, city, consolidated-city-county, town, special-district, or tribal
 ocd_id: ocd-division/country:us/state:xx/place:example
 parent: us/xx/_state
+# For a municipality crossing county lines, use the shared state as parent and list its counties:
+# county_options: [us/xx/first-county, us/xx/second-county]
 aliases: [Example City]
 website: https://www.example.gov
 general_contact:

@@ -2,7 +2,7 @@
 
 Many cities have a 311 line for questions about local services. Gov311 brings that idea to AI chat. Ask where to apply for food assistance, who issues a building permit, or how to tell whether a bill became law. Each guide points you to the government office or public record behind the answer.
 
-Gov311 is a community project covering Tennessee state government, Metro Nashville, Polk County and its three cities, and selected federal services. You can use the guides in a chat or read them yourself. The guides are independent of the agencies they describe.
+Gov311 is a community project covering Tennessee state government, Metro Nashville, Knox and Polk counties and their municipalities, and selected federal services. You can use the guides in a chat or read them yourself. The guides are independent of the agencies they describe.
 
 ## Ask in ChatGPT, Claude, or Grok Bot
 
@@ -54,6 +54,12 @@ each time I ask a question.
 ```
 
 To save Gov311 Services or Gov311 Laws, replace the name and link in that message with the ones from its row. In a new chat, try “Use Gov311 Laws to help me find a proposed ordinance.”
+
+### Ask about Knox County, Tennessee
+
+For a Knoxville mailing address, look up the parcel in **KGIS Maps** and check whether it is inside Knoxville, inside Farragut or in unincorporated Knox County. Part of Farragut lies in Loudon County. For a parcel on that side, select **Loudon** in the Tennessee Property Viewer. [Open KGIS Maps](https://www.kgis.org/kgismaps/map.htm) · [Find your county’s property map](data/us/tn/_state/services/find-a-property-map.md) · [Official municipal boundaries](https://comptroller.tn.gov/office-functions/pa/gisredistricting/municipal-boundaries.html)
+
+Try “Does the vote on my Knoxville rezoning application settle it?” or “Where can I get a deed for the Loudon County part of Farragut?” [Knox County](data/us/tn/knox-county) · [Knoxville](data/us/tn/knoxville) · [Farragut](data/us/tn/farragut) · [Loudon County land records](data/us/tn/loudon-county/services/find-property-records.md)
 
 ### Ask about Polk County, Tennessee
 

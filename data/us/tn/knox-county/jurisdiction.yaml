@@ -1,0 +1,16 @@
+name: Knox County, Tennessee
+level: county
+ocd_id: ocd-division/country:us/state:tn/county:knox
+parent: us/tn/_state
+aliases: [Knox County, Knox County TN, unincorporated Knox County]
+website: https://www.knoxcounty.org/
+general_contact:
+  name: Knox County Mayor’s Office
+  phone: 865-215-2005
+  url: https://www.knoxcounty.org/countymayor/
+sources:
+  - https://www.ctas.tennessee.edu/county/knox
+  - https://www.knoxcounty.org/
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-21
+verified_by: codex

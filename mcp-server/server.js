@@ -26,6 +26,7 @@ function describeJurisdiction(j) {
     website: j.meta.website,
     general_contact: j.meta.general_contact,
     parent: j.meta.parent ?? null,
+    ...(j.meta.county_options && { county_options: j.meta.county_options }),
   };
 }
 
@@ -68,7 +69,7 @@ server.tool(
 
 server.tool(
   "find_jurisdiction",
-  "Find a government by name or by a place qualified with its county and state, such as 'Benton, Polk County, TN'. Returns each match and its parent chain, nearest first. For unincorporated areas, look up the county.",
+  "Find a government by name or by a place qualified with its county and state, such as 'Benton, Polk County, TN'. Returns each match and its parent chain, nearest first. For a town spanning counties, pass a matched county to search, or resolve county_options using the address when needed. For unincorporated areas, look up the county.",
   { place: z.string().describe("City, county, state, or country name") },
   async ({ place }) => {
     const matches = findJurisdictions(jurisdictions, place);
@@ -81,7 +82,8 @@ server.tool(
     return text({
       matches: matches.map((j) => ({
         ...describeJurisdiction(j),
-        chain: jurisdictionChain(jurisdictions, j.id).map((c) => c.id),
+        ...(j.county && { county: j.county }),
+        chain: jurisdictionChain(jurisdictions, j.id, j.county).map((c) => c.id),
       })),
     });
   },
@@ -93,15 +95,20 @@ server.tool(
   {
     query: z.string().describe("What the person needs, in plain words. Example: 'permit to build a deck'"),
     jurisdiction: z.string().optional().describe("Jurisdiction id from find_jurisdiction, for example us/tn/nashville"),
+    county: z.string().optional().describe("County jurisdiction ID for a municipality that crosses a county line. Use the county covering the address."),
     type: z.enum(ENTRY_TYPES).optional().describe("services: how to do something. contacts: who to call. codes: rules and laws. help: free or low-cost assistance."),
     audience: z.enum(AUDIENCES).optional(),
     limit: z.number().int().min(1).max(25).optional(),
   },
-  async ({ query, jurisdiction, type, audience, limit = 8 }) => {
+  async ({ query, jurisdiction, county, type, audience, limit = 8 }) => {
     if (jurisdiction && !jurisdictions.has(jurisdiction)) {
       return text({ error: `Unknown jurisdiction "${jurisdiction}". Call find_jurisdiction or list_jurisdictions first.` });
     }
-    const chain = jurisdiction ? jurisdictionChain(jurisdictions, jurisdiction).map((j) => j.id) : null;
+    const chain = jurisdiction ? jurisdictionChain(jurisdictions, jurisdiction, county).map((j) => j.id) : null;
+    if (county && (jurisdictions.get(county)?.meta.level !== "county" || !chain?.includes(county))) {
+      return text({ error: "The county must cover the requested jurisdiction. Check find_jurisdiction for the available counties." });
+    }
+    const options = jurisdictions.get(jurisdiction)?.meta.county_options;
     const queryWords = words(query);
     const results = [...entries.values()]
       .filter((e) => !chain || chain.includes(e.jurisdiction))
@@ -121,6 +128,7 @@ server.tool(
       }));
     return text({
       results,
+      ...(!county && options && { county_options: options, county_note: "This municipality spans counties. For a county service, confirm the parcel or residence county and search again with its county ID." }),
       note: results.length
         ? "Call get_entry with an id to read the full steps, contacts, and sources."
         : "No entry matched. Consult the responsible government's official sources and say which information came from outside Gov311.",
