@@ -1,0 +1,15 @@
+name: "Town of Byrdstown"
+level: town
+ocd_id: ocd-division/country:us/state:tn/place:byrdstown
+parent: us/tn/pickett-county
+aliases: ["Byrdstown"]
+website: https://byrdstownwater.com/
+general_contact:
+  name: "Byrdstown municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/byrdstown
+  phone: "(931) 864-6215"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/byrdstown
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex
