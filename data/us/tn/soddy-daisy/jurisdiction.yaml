@@ -1,0 +1,15 @@
+name: "City of Soddy-Daisy"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:soddydaisy
+parent: us/tn/hamilton-county
+aliases: ["Soddy-Daisy"]
+website: https://soddy-daisy.org/
+general_contact:
+  name: "Soddy-Daisy municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/soddy-daisy
+  phone: "(423) 332-5323"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/soddy-daisy
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

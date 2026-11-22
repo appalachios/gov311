@@ -1,0 +1,15 @@
+name: "City of Red Bank"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:red_bank
+parent: us/tn/hamilton-county
+aliases: ["Red Bank"]
+website: https://www.redbanktn.gov/
+general_contact:
+  name: "Red Bank municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/red-bank
+  phone: "(423) 877-1103"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/red-bank
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

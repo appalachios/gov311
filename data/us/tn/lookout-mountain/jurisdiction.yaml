@@ -1,0 +1,15 @@
+name: "Town of Lookout Mountain"
+level: town
+ocd_id: ocd-division/country:us/state:tn/place:lookout_mountain
+parent: us/tn/hamilton-county
+aliases: ["Lookout Mountain"]
+website: https://lookoutmtn.us/
+general_contact:
+  name: "Lookout Mountain municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/lookout-mountain
+  phone: "(423) 821-1226"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/lookout-mountain
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

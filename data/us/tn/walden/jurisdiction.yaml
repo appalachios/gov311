@@ -1,0 +1,15 @@
+name: "Town of Walden"
+level: town
+ocd_id: ocd-division/country:us/state:tn/place:walden
+parent: us/tn/hamilton-county
+aliases: ["Walden"]
+website: https://www.waldentn.gov/
+general_contact:
+  name: "Walden municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/walden
+  phone: "(423) 886-4362"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/walden
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex
