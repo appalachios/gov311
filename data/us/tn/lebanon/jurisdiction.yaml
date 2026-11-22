@@ -1,0 +1,15 @@
+name: "City of Lebanon"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:lebanon
+parent: us/tn/wilson-county
+aliases: ["Lebanon"]
+website: https://www.lebanontn.org/
+general_contact:
+  name: "Lebanon municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/lebanon
+  phone: "(615) 443-2839"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/lebanon
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex
