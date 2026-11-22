@@ -1,0 +1,15 @@
+name: "City of Milan"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:milan
+parent: us/tn/gibson-county
+aliases: ["Milan"]
+website: https://cityofmilantn.com/
+general_contact:
+  name: "Milan municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/milan
+  phone: "(731) 686-3301"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/milan
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

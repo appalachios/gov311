@@ -1,0 +1,16 @@
+name: "Town of Kenton"
+level: town
+ocd_id: ocd-division/country:us/state:tn/place:kenton
+parent: us/tn/_state
+county_options: ["us/tn/gibson-county", "us/tn/obion-county"]
+aliases: ["Kenton"]
+website: https://www.cityofkentontn.com/
+general_contact:
+  name: "Kenton municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/kenton
+  phone: "(731) 749-5767"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/kenton
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

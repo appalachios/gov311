@@ -1,0 +1,15 @@
+name: "City of Dyer"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:dyer
+parent: us/tn/gibson-county
+aliases: ["Dyer"]
+website: https://cityofdyertn.com/
+general_contact:
+  name: "Dyer municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/dyer
+  phone: "(731) 692-3767"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/dyer
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

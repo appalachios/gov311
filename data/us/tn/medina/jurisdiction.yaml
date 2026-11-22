@@ -1,0 +1,15 @@
+name: "Town of Medina"
+level: town
+ocd_id: ocd-division/country:us/state:tn/place:medina
+parent: us/tn/gibson-county
+aliases: ["Medina"]
+website: https://cityofmedinatn.org/
+general_contact:
+  name: "Medina municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/medina
+  phone: "(731) 783-3913"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/medina
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

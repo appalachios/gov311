@@ -1,0 +1,15 @@
+name: "Town of Rutherford"
+level: town
+ocd_id: ocd-division/country:us/state:tn/place:rutherford
+parent: us/tn/gibson-county
+aliases: ["Rutherford"]
+website: https://www.mtas.tennessee.edu/directories/cities/rutherford
+general_contact:
+  name: "Rutherford municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/rutherford
+  phone: "(731) 665-7166"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/rutherford
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

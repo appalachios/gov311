@@ -397,6 +397,16 @@ Parent guide sections, nearest first: Fayette County, Tennessee (us/tn/fayette-c
 - [Follow a proposed ordinance in Braden](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/braden/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
+## City of Bradford (us/tn/bradford)
+
+Parent guide sections, nearest first: Gibson County, Tennessee (us/tn/gibson-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/bradford/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Bradford for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/bradford/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Bradford.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Bradford](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/bradford/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
 ## Bradley County, Tennessee (us/tn/bradley-county)
 
 Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
@@ -817,6 +827,16 @@ Parent guide sections, nearest first: Polk County, Tennessee (us/tn/polk-county)
 - [Find Ducktown zoning and follow a proposed rezoning](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/ducktown/codes/zoning.md): Find a property on the city's planning map, read the rules for its district and check the planning commission's recommendation before following the final vote at City Hall.
   - source-checked · Checked by codex on 2026-11-21.
 
+## City of Dyer (us/tn/dyer)
+
+Parent guide sections, nearest first: Gibson County, Tennessee (us/tn/gibson-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/dyer/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Dyer for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/dyer/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Dyer.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Dyer](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/dyer/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
 ## Dyer County, Tennessee (us/tn/dyer-county)
 
 Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
@@ -991,12 +1011,26 @@ Parent guide sections, nearest first: Fayette County, Tennessee (us/tn/fayette-c
 - [Follow a proposed ordinance in Gallaway](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/gallaway/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
+## Town of Gibson (us/tn/gibson)
+
+Parent guide sections, nearest first: Gibson County, Tennessee (us/tn/gibson-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/gibson/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Gibson for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/gibson/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Gibson.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Gibson](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/gibson/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
 ## Gibson County, Tennessee (us/tn/gibson-county)
 
 Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
 
 - [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/gibson-county/jurisdiction.yaml): website, main contact, and parent government
+- [Find the right office in Gibson County](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/gibson-county/services/choose-a-county-office.md): Find county offices for deeds, vehicle records, elections and property questions, and check municipal boundaries for local services.
+  - source-checked · Checked by codex on 2026-11-22.
 - [Find the Gibson County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/gibson-county/services/find-a-property-map.md): Search Gibson County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a Gibson County governing body decision](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/gibson-county/services/follow-county-business.md): Find the regular meeting agenda, the source of the county’s authority and the record of what the governing body voted to adopt.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## Giles County, Tennessee (us/tn/giles-county)
@@ -1173,6 +1207,16 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 - [Find the Houston County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/houston-county/services/find-a-property-map.md): Search Houston County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
   - source-checked · Checked by codex on 2026-11-22.
 
+## City of Humboldt (us/tn/humboldt)
+
+Parent guide sections, nearest first: Gibson County, Tennessee (us/tn/gibson-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/humboldt/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Humboldt for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/humboldt/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Humboldt.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Humboldt](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/humboldt/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
 ## Humphreys County, Tennessee (us/tn/humphreys-county)
 
 Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
@@ -1265,6 +1309,18 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 
 - [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/johnson-county/jurisdiction.yaml): website, main contact, and parent government
 - [Find the Johnson County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/johnson-county/services/find-a-property-map.md): Search Johnson County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## Town of Kenton (us/tn/kenton)
+
+For county services, check which county contains the address. Choose one of these guide sections: Gibson County, Tennessee (us/tn/gibson-county) or Obion County, Tennessee (us/tn/obion-county).
+
+Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/kenton/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Kenton for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/kenton/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Kenton.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Kenton](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/kenton/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## Town of Kingston Springs (us/tn/kingston-springs)
@@ -1599,12 +1655,32 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 - [Find the McNairy County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/mcnairy-county/services/find-a-property-map.md): Search McNairy County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
   - source-checked · Checked by codex on 2026-11-22.
 
+## Town of Medina (us/tn/medina)
+
+Parent guide sections, nearest first: Gibson County, Tennessee (us/tn/gibson-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/medina/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Medina for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/medina/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Medina.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Medina](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/medina/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
 ## Meigs County, Tennessee (us/tn/meigs-county)
 
 Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
 
 - [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/meigs-county/jurisdiction.yaml): website, main contact, and parent government
 - [Find the Meigs County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/meigs-county/services/find-a-property-map.md): Search Meigs County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## City of Milan (us/tn/milan)
+
+Parent guide sections, nearest first: Gibson County, Tennessee (us/tn/gibson-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/milan/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Milan for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/milan/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Milan.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Milan](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/milan/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## Town of Milledgeville (us/tn/milledgeville)
@@ -2017,6 +2093,16 @@ Parent guide sections, nearest first: Fayette County, Tennessee (us/tn/fayette-c
 - [Follow a proposed ordinance in Rossville](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/rossville/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
+## Town of Rutherford (us/tn/rutherford)
+
+Parent guide sections, nearest first: Gibson County, Tennessee (us/tn/gibson-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/rutherford/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Rutherford for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/rutherford/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Rutherford.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Rutherford](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/rutherford/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
 ## Rutherford County, Tennessee (us/tn/rutherford-county)
 
 Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
@@ -2179,6 +2265,16 @@ Parent guide sections, nearest first: Blount County, Tennessee (us/tn/blount-cou
 - [Contact Townsend for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/townsend/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Townsend.
   - source-checked · Checked by codex on 2026-11-22.
 - [Follow a proposed ordinance in Townsend](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/townsend/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## City of Trenton (us/tn/trenton)
+
+Parent guide sections, nearest first: Gibson County, Tennessee (us/tn/gibson-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/trenton/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Trenton for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/trenton/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Trenton.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Trenton](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/trenton/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## Town of Trezevant (us/tn/trezevant)
@@ -2375,4 +2471,14 @@ Parent guide sections, nearest first: Cannon County, Tennessee (us/tn/cannon-cou
 - [Contact Woodbury for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/woodbury/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Woodbury.
   - source-checked · Checked by codex on 2026-11-22.
 - [Follow a proposed ordinance in Woodbury](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/woodbury/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## City of Yorkville (us/tn/yorkville)
+
+Parent guide sections, nearest first: Gibson County, Tennessee (us/tn/gibson-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/yorkville/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Yorkville for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/yorkville/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Yorkville.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Yorkville](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/yorkville/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.

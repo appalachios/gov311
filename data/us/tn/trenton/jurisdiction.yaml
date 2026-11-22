@@ -1,0 +1,15 @@
+name: "City of Trenton"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:trenton
+parent: us/tn/gibson-county
+aliases: ["Trenton"]
+website: https://www.trentontn.net/
+general_contact:
+  name: "Trenton municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/trenton
+  phone: "(731) 855-2013"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/trenton
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

@@ -1,0 +1,15 @@
+name: "City of Bradford"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:bradford
+parent: us/tn/gibson-county
+aliases: ["Bradford"]
+website: https://www.cityofbradford.net/
+general_contact:
+  name: "Bradford municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/bradford
+  phone: "(731) 742-3465"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/bradford
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex
