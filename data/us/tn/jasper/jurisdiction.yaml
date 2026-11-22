@@ -1,0 +1,15 @@
+name: "Town of Jasper"
+level: town
+ocd_id: ocd-division/country:us/state:tn/place:jasper
+parent: us/tn/marion-county
+aliases: ["Jasper"]
+website: https://www.mtas.tennessee.edu/directories/cities/jasper
+general_contact:
+  name: "Jasper municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/jasper
+  phone: "(423) 942-3180"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/jasper
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

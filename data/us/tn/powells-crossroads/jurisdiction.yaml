@@ -1,0 +1,15 @@
+name: "Town of Powells Crossroads"
+level: town
+ocd_id: ocd-division/country:us/state:tn/place:powells_crossroads
+parent: us/tn/marion-county
+aliases: ["Powells Crossroads"]
+website: https://www.mtas.tennessee.edu/directories/cities/powells-crossroads
+general_contact:
+  name: "Powells Crossroads municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/powells-crossroads
+  phone: "(423) 658-6582"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/powells-crossroads
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

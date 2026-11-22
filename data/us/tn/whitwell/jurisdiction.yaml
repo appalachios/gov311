@@ -1,0 +1,15 @@
+name: "City of Whitwell"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:whitwell
+parent: us/tn/marion-county
+aliases: ["Whitwell"]
+website: https://cityofwhitwell.com/
+general_contact:
+  name: "Whitwell municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/whitwell
+  phone: "(423) 658-5151"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/whitwell
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex
