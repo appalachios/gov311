@@ -1,0 +1,15 @@
+name: "Town of Auburntown"
+level: town
+ocd_id: ocd-division/country:us/state:tn/place:auburntown
+parent: us/tn/cannon-county
+aliases: ["Auburntown"]
+website: https://www.mtas.tennessee.edu/directories/cities/auburntown
+general_contact:
+  name: "Auburntown municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/auburntown
+  phone: "(615) 830-2672"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/auburntown
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

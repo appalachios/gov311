@@ -1,0 +1,15 @@
+name: "Town of Woodbury"
+level: town
+ocd_id: ocd-division/country:us/state:tn/place:woodbury
+parent: us/tn/cannon-county
+aliases: ["Woodbury"]
+website: https://www.mtas.tennessee.edu/directories/cities/woodbury
+general_contact:
+  name: "Woodbury municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/woodbury
+  phone: "(615) 563-4221"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/woodbury
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex
