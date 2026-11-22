@@ -87,7 +87,7 @@ export function jurisdictionChain(jurisdictions, id, county) {
   while (current && !seen.has(current.id)) {
     chain.push(current);
     seen.add(current.id);
-    const parent = county && current.meta.county_options?.includes(county) ? county : current.meta.parent;
+    const parent = county && current.meta.county_options?.includes(county) && current.meta.county_review?.county !== county ? county : current.meta.parent;
     current = jurisdictions.get(parent);
   }
   return chain;

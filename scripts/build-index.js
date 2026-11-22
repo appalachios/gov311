@@ -23,6 +23,10 @@ for (const j of [...jurisdictions.values()].sort((a, b) => a.id.localeCompare(b.
     const choices = j.meta.county_options.map((id) => `${jurisdictions.get(id).meta.name} (${id})`);
     lines.push(`For county services, check which county contains the address. Choose one of these guide sections: ${choices.join(" or ")}.`, "");
   }
+  if (j.meta.county_review) {
+    const review = j.meta.county_review;
+    lines.push(`Boundary under review for ${review.county}. Check the parcel with the offices in the [boundary guide](${RAW}/${review.entry}.md) before using that county’s records.`, "");
+  }
   const parents = jurisdictionChain(jurisdictions, j.id).slice(1);
   if (parents.length) {
     lines.push(`Parent guide sections, nearest first: ${parents.map((p) => `${p.meta.name} (${p.id})`).join(" → ")}.`, "");

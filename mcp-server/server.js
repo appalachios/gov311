@@ -26,6 +26,7 @@ function describeJurisdiction(j) {
     website: j.meta.website,
     general_contact: j.meta.general_contact,
     parent: j.meta.parent ?? null,
+    ...(j.meta.county_review && { county_review: j.meta.county_review }),
     ...(j.meta.county_options && { county_options: j.meta.county_options }),
   };
 }
@@ -105,7 +106,8 @@ server.tool(
       return text({ error: `Unknown jurisdiction "${jurisdiction}". Call find_jurisdiction or list_jurisdictions first.` });
     }
     const chain = jurisdiction ? jurisdictionChain(jurisdictions, jurisdiction, county).map((j) => j.id) : null;
-    if (county && (!["county", "consolidated-city-county"].includes(jurisdictions.get(county)?.meta.level) || !chain?.includes(county))) {
+    const review = jurisdictions.get(jurisdiction)?.meta.county_review;
+    if (county && county !== review?.county && (!["county", "consolidated-city-county"].includes(jurisdictions.get(county)?.meta.level) || !chain?.includes(county))) {
       return text({ error: "The county must cover the requested jurisdiction. Check find_jurisdiction for the available counties." });
     }
     const options = jurisdictions.get(jurisdiction)?.meta.county_options;
@@ -128,6 +130,7 @@ server.tool(
       }));
     return text({
       results,
+      ...(review && (!county || county === review.county) && { county_review: review, boundary_note: "Read the linked evidence guide before giving a county-specific answer. If the parcel record confirms the county, search that county directly." }),
       ...(!county && options && { county_options: options, county_note: "This municipality spans counties. For a county service, confirm the parcel or residence county and search again with its county ID." }),
       note: results.length
         ? "Call get_entry with an id to read the full steps, contacts, and sources."

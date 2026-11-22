@@ -20,6 +20,13 @@ test("Farragut searches use only the confirmed county for county services", asyn
   const knox = "us/tn/knox-county";
   const loudon = "us/tn/loudon-county";
   const common = ["us/tn/_state", "us/_federal"];
+  const disputed = { jurisdiction: "us/tn/chattanooga", county: "us/tn/marion-county" };
+  const match = (await call("find_jurisdiction", { place: "Chattanooga, Marion County, TN" })).matches[0];
+  assert.equal(match.county_review.county, disputed.county);
+  assert.ok(!match.chain.includes(disputed.county));
+  const conditional = await call("search", { ...disputed, query: "deed" });
+  assert.equal(conditional.county_review.county, disputed.county);
+  assert.ok(conditional.results.every((row) => !row.id.startsWith(disputed.county + "/")));
   const unknown = (await call("find_jurisdiction", { place: "Farragut, TN" })).matches;
   assert.equal(unknown.length, 1);
   assert.deepEqual(unknown[0].chain, [town, ...common]);

@@ -52,6 +52,14 @@ for (const j of jurisdictions.values()) {
       }
     }
   }
+  if (j.meta.county_review) {
+    const { county, entry } = j.meta.county_review;
+    const evidence = entries.get(entry);
+    if (!j.meta.county_options?.includes(county) || evidence?.jurisdiction !== j.id ||
+        !evidence?.meta.human_review?.some((note) => note.reason === "conflicting-evidence")) {
+      fail(j.file, "A county_review must name a county option and a local guide documenting conflicting evidence.");
+    }
+  }
   checkDate(j.file, j.meta.last_verified);
 }
 

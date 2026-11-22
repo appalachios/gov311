@@ -26,6 +26,16 @@
       "type": "string",
       "pattern": "^[a-z0-9_/-]+$"
     },
+    "county_review": {
+      "description": "A disputed county boundary and the local guide documenting the evidence.",
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["county", "entry"],
+      "properties": {
+        "county": { "type": "string" },
+        "entry": { "type": "string" }
+      }
+    },
     "county_options": {
       "description": "Counties a municipality spans. Set parent to their shared state. Select only the county that contains the address when a county service is needed.",
       "type": "array",
