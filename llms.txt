@@ -1241,7 +1241,8 @@ Parent guide sections, nearest first: Jefferson County, Tennessee (us/tn/jeffers
 - [Contact Dandridge for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/dandridge/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Dandridge.
   - source-checked · Checked by codex on 2026-11-22.
 - [Follow a proposed ordinance in Dandridge](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/dandridge/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
-  - source-checked · Checked by codex on 2026-11-22.
+  - draft · Research by codex on 2026-11-22.
+  - Human review (missing evidence). The cited records establish the procedure described here. They do not establish the general number of readings for a new ordinance in Dandridge. Ask the municipal recorder for the current charter section or adopted procedural rule before quoting a count.
 
 ## City of Dayton (us/tn/dayton)
 
@@ -5016,7 +5017,8 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 - [Contact White Pine for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/white-pine/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in White Pine.
   - source-checked · Checked by codex on 2026-11-22.
 - [Follow a proposed ordinance in White Pine](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/white-pine/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
-  - source-checked · Checked by codex on 2026-11-22.
+  - draft · Research by codex on 2026-11-22.
+  - Human review (missing evidence). The cited records establish the procedure described here. They do not establish the general number of readings for a new ordinance in White Pine. Ask the municipal recorder for the current charter section or adopted procedural rule before quoting a count.
 
 ## Town of Whiteville (us/tn/whiteville)
 
