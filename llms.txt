@@ -276,6 +276,16 @@ Parent guide sections, nearest first: Cheatham County, Tennessee (us/tn/cheatham
 - [Follow a proposed ordinance in Ashland City](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/ashland-city/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
+## City of Athens (us/tn/athens)
+
+Parent guide sections, nearest first: McMinn County, Tennessee (us/tn/mcminn-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/athens/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Athens for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/athens/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Athens.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Athens](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/athens/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
 ## Town of Atwood (us/tn/atwood)
 
 Parent guide sections, nearest first: Carroll County, Tennessee (us/tn/carroll-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
@@ -551,6 +561,16 @@ Parent guide sections, nearest first: Dickson County, Tennessee (us/tn/dickson-c
 - [Contact Burns for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/burns/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Burns.
   - source-checked · Checked by codex on 2026-11-22.
 - [Follow a proposed ordinance in Burns](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/burns/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## Town of Calhoun (us/tn/calhoun)
+
+Parent guide sections, nearest first: McMinn County, Tennessee (us/tn/mcminn-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/calhoun/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Calhoun for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/calhoun/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Calhoun.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Calhoun](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/calhoun/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## City of Camden (us/tn/camden)
@@ -1124,6 +1144,16 @@ Parent guide sections, nearest first: Giles County, Tennessee (us/tn/giles-count
 - [Follow a proposed ordinance in Elkton](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/elkton/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
+## Town of Englewood (us/tn/englewood)
+
+Parent guide sections, nearest first: McMinn County, Tennessee (us/tn/mcminn-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/englewood/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Englewood for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/englewood/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Englewood.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Englewood](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/englewood/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
 ## Town of Enville (us/tn/enville)
 
 For county services, check which county contains the address. Choose one of these guide sections: Chester County, Tennessee (us/tn/chester-county) or McNairy County, Tennessee (us/tn/mcnairy-county).
@@ -1164,6 +1194,16 @@ Parent guide sections, nearest first: Lawrence County, Tennessee (us/tn/lawrence
 - [Contact Ethridge for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/ethridge/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Ethridge.
   - source-checked · Checked by codex on 2026-11-22.
 - [Follow a proposed ordinance in Ethridge](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/ethridge/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## City of Etowah (us/tn/etowah)
+
+Parent guide sections, nearest first: McMinn County, Tennessee (us/tn/mcminn-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/etowah/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Etowah for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/etowah/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Etowah.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Etowah](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/etowah/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## Town of Farragut (us/tn/farragut)
@@ -2333,7 +2373,11 @@ Parent guide sections, nearest first: Carroll County, Tennessee (us/tn/carroll-c
 Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
 
 - [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/mcminn-county/jurisdiction.yaml): website, main contact, and parent government
+- [Find the right office in McMinn County](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/mcminn-county/services/choose-a-county-office.md): Find county offices for deeds, vehicle records, elections and property questions, and check municipal boundaries for local services.
+  - source-checked · Checked by codex on 2026-11-22.
 - [Find the McMinn County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/mcminn-county/services/find-a-property-map.md): Search McMinn County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a McMinn County governing body decision](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/mcminn-county/services/follow-county-business.md): Find the regular meeting agenda, the source of the county’s authority and the record of what the governing body voted to adopt.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## McNairy County, Tennessee (us/tn/mcnairy-county)
@@ -2604,6 +2648,16 @@ Parent guide sections, nearest first: Cocke County, Tennessee (us/tn/cocke-count
 - [Contact Newport for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/newport/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Newport.
   - source-checked · Checked by codex on 2026-11-22.
 - [Follow a proposed ordinance in Newport](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/newport/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## City of Niota (us/tn/niota)
+
+Parent guide sections, nearest first: McMinn County, Tennessee (us/tn/mcminn-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/niota/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Niota for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/niota/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Niota.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Niota](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/niota/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## Town of Normandy (us/tn/normandy)

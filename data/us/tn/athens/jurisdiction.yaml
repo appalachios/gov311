@@ -1,0 +1,15 @@
+name: "City of Athens"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:athens
+parent: us/tn/mcminn-county
+aliases: ["Athens"]
+website: https://cityofathenstn.com/
+general_contact:
+  name: "Athens municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/athens
+  phone: "(423) 744-2700"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/athens
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

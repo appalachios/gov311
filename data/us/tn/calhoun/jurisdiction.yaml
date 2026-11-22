@@ -1,0 +1,15 @@
+name: "Town of Calhoun"
+level: town
+ocd_id: ocd-division/country:us/state:tn/place:calhoun
+parent: us/tn/mcminn-county
+aliases: ["Calhoun"]
+website: https://www.calhounrivertown.com/
+general_contact:
+  name: "Calhoun municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/calhoun
+  phone: "(423) 336-2348"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/calhoun
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex
