@@ -4,6 +4,7 @@ summary: "Find the meeting, read the proposed language against the charter and c
 audiences: [everyone]
 keywords: ["ordinance", "charter", "code", "agenda", "pending law", "meeting", "amendment", "minutes"]
 sources:
+  - "https://www.mtas.tennessee.edu/sites/default/files/private/charters/Linden_cht.pdf#page=5"
   - "https://www.mtas.tennessee.edu/directories/cities/linden"
   - "https://www.mtas.tennessee.edu/code/municipal-code-linden"
   - "https://www.mtas.tennessee.edu/charter/linden"
@@ -18,3 +19,5 @@ To follow a proposal in Linden, get the dated meeting notice, agenda, proposed t
 Look up the charter for the governing body’s powers, readings and vote requirements. Compare a proposed ordinance with the current code section it would change. [Municipal Code](https://www.mtas.tennessee.edu/code/municipal-code-linden) · [Municipal Charter](https://www.mtas.tennessee.edu/charter/linden)
 
 After the meeting, use the minutes to identify the motion that actually passed. Ask the recorder or clerk for the adopted ordinance, any amendments and the effective date. A proposal can change during consideration, and a recent ordinance may still be waiting to appear in the code. [Tennessee agenda and minutes requirements](https://comptroller.tn.gov/office-functions/open-records-counsel/open-meetings/frequently-asked-questions/tennessee-open-meetings-act-faqs.html)
+
+Linden requires majority approval on two readings at different meetings. A mayoral veto must return with written objections at the next regular meeting. The entire board can override it by majority vote. If the mayor does not return the ordinance by that meeting, it takes effect without a signature. [Charter classification](https://www.mtas.tennessee.edu/charter/linden) · [Governing text](https://www.mtas.tennessee.edu/sites/default/files/private/charters/Linden_cht.pdf#page=5)
