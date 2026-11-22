@@ -4,6 +4,7 @@ summary: "Find the municipal office, check who serves a street address and get t
 audiences: [everyone]
 keywords: ["city hall", "town hall", "municipal services", "utility service", "address", "permits"]
 sources:
+  - "https://townofmonteagle-tn.gov/utilities/"
   - "https://tn-cot.maps.arcgis.com/apps/dashboards/cc2701dd6ef2463ab7944e62120d9b9e"
   - "https://www2.census.gov/geo/tiger/TIGER2026/COUNTY/tl_2026_us_county.zip"
   - "https://www2.census.gov/geo/tiger/TIGER2026/PLACE/tl_2026_47_place.zip"
@@ -23,3 +24,7 @@ The municipality reports these services in its utility listing: **Sewer, Water**
 For a county assessment or recorded deed, use the county where the land sits. The municipality extends into Grundy, Marion, Franklin. [Grundy County records](../../grundy-county/services/find-a-property-map.md) · [Marion County records](../../marion-county/services/find-a-property-map.md) · [Franklin County records](../../franklin-county/services/find-a-property-map.md)
 
 The Census place-by-county table lists Monteagle in Grundy, Marion, Franklin. The 2026 Census TIGER/Line place and county polygons and the Tennessee Comptroller’s current city and county map also show land in each of these counties. Use the parcel’s county for county services. [Boundary source](https://www2.census.gov/geo/docs/reference/codes2020/national_place_by_county2020.txt)
+
+## More municipal services
+
+- **Utilities**. Find the city utility office and check who serves the address. [Utilities](https://townofmonteagle-tn.gov/utilities/)
