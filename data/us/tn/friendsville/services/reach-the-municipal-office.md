@@ -4,6 +4,7 @@ summary: "Find the municipal office, check who serves a street address and get t
 audiences: [everyone]
 keywords: ["city hall", "town hall", "municipal services", "utility service", "address", "permits"]
 sources:
+  - "https://www.friendsvilletn.gov/public-records"
   - "https://www.mtas.tennessee.edu/directories/cities/friendsville"
   - "https://www.friendsvilletn.gov/"
   - "https://tnecd.com/?force_download=129209"
@@ -15,3 +16,7 @@ trust: source-checked
 The municipal directory lists **213 W. College Avenue, P.O. Box 56, Friendsville, TN 37737** as the contact address for Friendsville. Call **(865) 995-2831** to confirm where to file or visit. [Municipal office and officials](https://www.mtas.tennessee.edu/directories/cities/friendsville) · [Municipal website](https://www.friendsvilletn.gov/)
 
 For a county assessment or recorded deed, use the county where the land sits. [Blount County records](../../blount-county/services/find-a-property-map.md)
+
+## More municipal services
+
+- **Public Records**. Find the instructions for requesting an existing municipal record. [Public Records](https://www.friendsvilletn.gov/public-records)
