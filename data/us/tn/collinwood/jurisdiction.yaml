@@ -1,0 +1,15 @@
+name: "City of Collinwood"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:collinwood
+parent: us/tn/wayne-county
+aliases: ["Collinwood"]
+website: https://www.cityofcollinwood.org/
+general_contact:
+  name: "Collinwood municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/collinwood
+  phone: "(931) 724-9107"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/collinwood
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

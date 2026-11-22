@@ -1,0 +1,15 @@
+name: "City of Clifton"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:clifton
+parent: us/tn/wayne-county
+aliases: ["Clifton"]
+website: https://cityofclifton.com/
+general_contact:
+  name: "Clifton municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/clifton
+  phone: "(931) 676-3370"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/clifton
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex
