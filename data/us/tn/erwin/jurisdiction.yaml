@@ -1,0 +1,15 @@
+name: "Town of Erwin"
+level: town
+ocd_id: ocd-division/country:us/state:tn/place:erwin
+parent: us/tn/unicoi-county
+aliases: ["Erwin"]
+website: https://www.erwintn.org/
+general_contact:
+  name: "Erwin municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/erwin
+  phone: "(423) 743-6231"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/erwin
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex
