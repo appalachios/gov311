@@ -1,0 +1,15 @@
+name: "City of Dyersburg"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:dyersburg
+parent: us/tn/dyer-county
+aliases: ["Dyersburg"]
+website: https://www.mtas.tennessee.edu/directories/cities/dyersburg
+general_contact:
+  name: "Dyersburg municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/dyersburg
+  phone: "(731) 286-7604"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/dyersburg
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

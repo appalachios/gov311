@@ -782,7 +782,21 @@ Parent guide sections, nearest first: Polk County, Tennessee (us/tn/polk-county)
 Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
 
 - [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/dyer-county/jurisdiction.yaml): website, main contact, and parent government
+- [Find the right office in Dyer County](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/dyer-county/services/choose-a-county-office.md): Find county offices for deeds, vehicle records, elections and property questions, and check municipal boundaries for local services.
+  - source-checked · Checked by codex on 2026-11-22.
 - [Find the Dyer County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/dyer-county/services/find-a-property-map.md): Search Dyer County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a Dyer County governing body decision](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/dyer-county/services/follow-county-business.md): Find the regular meeting agenda, the source of the county’s authority and the record of what the governing body voted to adopt.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## City of Dyersburg (us/tn/dyersburg)
+
+Parent guide sections, nearest first: Dyer County, Tennessee (us/tn/dyer-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/dyersburg/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Dyersburg for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/dyersburg/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Dyersburg.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Dyersburg](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/dyersburg/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## City of Elizabethton (us/tn/elizabethton)
@@ -1561,6 +1575,16 @@ Parent guide sections, nearest first: Claiborne County, Tennessee (us/tn/claibor
 - [Follow a proposed ordinance in New Tazewell](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/new-tazewell/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
+## Town of Newbern (us/tn/newbern)
+
+Parent guide sections, nearest first: Dyer County, Tennessee (us/tn/dyer-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/newbern/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Newbern for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/newbern/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Newbern.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Newbern](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/newbern/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
 ## City of Newport (us/tn/newport)
 
 Parent guide sections, nearest first: Cocke County, Tennessee (us/tn/cocke-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
@@ -2001,6 +2025,18 @@ Parent guide sections, nearest first: Carroll County, Tennessee (us/tn/carroll-c
 - [Contact Trezevant for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/trezevant/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Trezevant.
   - source-checked · Checked by codex on 2026-11-22.
 - [Follow a proposed ordinance in Trezevant](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/trezevant/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## Town of Trimble (us/tn/trimble)
+
+For county services, check which county contains the address. Choose one of these guide sections: Dyer County, Tennessee (us/tn/dyer-county) or Obion County, Tennessee (us/tn/obion-county).
+
+Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/trimble/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Trimble for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/trimble/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Trimble.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Trimble](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/trimble/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## Hartsville/Trousdale County, Tennessee (us/tn/trousdale-county)

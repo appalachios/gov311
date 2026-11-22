@@ -1,0 +1,15 @@
+name: "Town of Newbern"
+level: town
+ocd_id: ocd-division/country:us/state:tn/place:newbern
+parent: us/tn/dyer-county
+aliases: ["Newbern"]
+website: https://www.cityofnewbern.org/
+general_contact:
+  name: "Newbern municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/newbern
+  phone: "(731) 627-3221"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/newbern
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex
