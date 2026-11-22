@@ -1,0 +1,15 @@
+name: "City of Plainview"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:plainview
+parent: us/tn/union-county
+aliases: ["Plainview"]
+website: https://www.mtas.tennessee.edu/directories/cities/plainview
+general_contact:
+  name: "Plainview municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/plainview
+  phone: "(865) 992-5841"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/plainview
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

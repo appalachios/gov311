@@ -1,0 +1,15 @@
+name: "City of Luttrell"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:luttrell
+parent: us/tn/union-county
+aliases: ["Luttrell"]
+website: https://www.mtas.tennessee.edu/directories/cities/luttrell
+general_contact:
+  name: "Luttrell municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/luttrell
+  phone: "(865) 992-0870"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/luttrell
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

@@ -2741,6 +2741,16 @@ Parent guide sections, nearest first: Blount County, Tennessee (us/tn/blount-cou
 - [Follow a proposed ordinance in Louisville](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/louisville/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
+## City of Luttrell (us/tn/luttrell)
+
+Parent guide sections, nearest first: Union County, Tennessee (us/tn/union-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/luttrell/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Luttrell for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/luttrell/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Luttrell.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Luttrell](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/luttrell/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
 ## Town of Lynnville (us/tn/lynnville)
 
 Parent guide sections, nearest first: Giles County, Tennessee (us/tn/giles-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
@@ -2859,6 +2869,16 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 - [Find the Maury County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/maury-county/services/find-a-property-map.md): Search Maury County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
   - source-checked · Checked by codex on 2026-11-22.
 - [Follow a Maury County governing body decision](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/maury-county/services/follow-county-business.md): Find the regular meeting agenda, the source of the county’s authority and the record of what the governing body voted to adopt.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## City of Maynardville (us/tn/maynardville)
+
+Parent guide sections, nearest first: Union County, Tennessee (us/tn/union-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/maynardville/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Maynardville for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/maynardville/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Maynardville.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Maynardville](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/maynardville/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## City of McEwen (us/tn/mcewen)
@@ -3591,6 +3611,16 @@ Parent guide sections, nearest first: Sevier County, Tennessee (us/tn/sevier-cou
 - [Contact Pittman Center for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/pittman-center/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Pittman Center.
   - source-checked · Checked by codex on 2026-11-22.
 - [Follow a proposed ordinance in Pittman Center](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/pittman-center/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## City of Plainview (us/tn/plainview)
+
+Parent guide sections, nearest first: Union County, Tennessee (us/tn/union-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/plainview/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Plainview for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/plainview/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Plainview.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Plainview](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/plainview/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## Town of Pleasant Hill (us/tn/pleasant-hill)
@@ -4542,7 +4572,11 @@ Parent guide sections, nearest first: Obion County, Tennessee (us/tn/obion-count
 Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
 
 - [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/union-county/jurisdiction.yaml): website, main contact, and parent government
+- [Find the right office in Union County](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/union-county/services/choose-a-county-office.md): Find county offices for deeds, vehicle records, elections and property questions, and check municipal boundaries for local services.
+  - source-checked · Checked by codex on 2026-11-22.
 - [Find the Union County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/union-county/services/find-a-property-map.md): Search Union County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a Union County governing body decision](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/union-county/services/follow-county-business.md): Find the regular meeting agenda, the source of the county’s authority and the record of what the governing body voted to adopt.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## Van Buren County, Tennessee (us/tn/van-buren-county)

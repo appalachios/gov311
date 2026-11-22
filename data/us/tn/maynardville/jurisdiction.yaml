@@ -1,0 +1,15 @@
+name: "City of Maynardville"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:maynardville
+parent: us/tn/union-county
+aliases: ["Maynardville"]
+website: https://www.maynardvilletn.com/
+general_contact:
+  name: "Maynardville municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/maynardville
+  phone: "(865) 992-3821"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/maynardville
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex
