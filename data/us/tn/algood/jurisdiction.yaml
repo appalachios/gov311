@@ -1,0 +1,15 @@
+name: "City of Algood"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:algood
+parent: us/tn/putnam-county
+aliases: ["Algood"]
+website: https://algood-tn.com/
+general_contact:
+  name: "Algood municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/algood
+  phone: "(931) 537-9545"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/algood
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

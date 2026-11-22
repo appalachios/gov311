@@ -1,0 +1,15 @@
+name: "City of Baxter"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:baxter
+parent: us/tn/putnam-county
+aliases: ["Baxter"]
+website: https://www.baxtertn.gov/
+general_contact:
+  name: "Baxter municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/baxter
+  phone: "(931) 858-4111"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/baxter
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex
