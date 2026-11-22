@@ -1,0 +1,15 @@
+name: "Town of Kingston Springs"
+level: town
+ocd_id: ocd-division/country:us/state:tn/place:kingston_springs
+parent: us/tn/cheatham-county
+aliases: ["Kingston Springs"]
+website: https://kingstonsprings.net/
+general_contact:
+  name: "Kingston Springs municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/kingston-springs
+  phone: "(615) 952-2110"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/kingston-springs
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

@@ -1,0 +1,15 @@
+name: "Town of Pegram"
+level: town
+ocd_id: ocd-division/country:us/state:tn/place:pegram
+parent: us/tn/cheatham-county
+aliases: ["Pegram"]
+website: https://www.pegram.net/
+general_contact:
+  name: "Pegram municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/pegram
+  phone: "(615) 646-0773"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/pegram
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex
