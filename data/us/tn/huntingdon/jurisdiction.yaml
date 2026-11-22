@@ -1,0 +1,15 @@
+name: "Town of Huntingdon"
+level: town
+ocd_id: ocd-division/country:us/state:tn/place:huntingdon
+parent: us/tn/carroll-county
+aliases: ["Huntingdon"]
+website: https://www.mtas.tennessee.edu/directories/cities/huntingdon
+general_contact:
+  name: "Huntingdon municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/huntingdon
+  phone: "(731) 986-2900"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/huntingdon
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

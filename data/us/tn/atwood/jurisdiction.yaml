@@ -1,0 +1,15 @@
+name: "Town of Atwood"
+level: town
+ocd_id: ocd-division/country:us/state:tn/place:atwood
+parent: us/tn/carroll-county
+aliases: ["Atwood"]
+website: https://www.mtas.tennessee.edu/directories/cities/atwood
+general_contact:
+  name: "Atwood municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/atwood
+  phone: "(731) 662-7689"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/atwood
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

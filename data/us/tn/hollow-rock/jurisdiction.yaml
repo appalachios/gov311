@@ -1,0 +1,15 @@
+name: "Town of Hollow Rock"
+level: town
+ocd_id: ocd-division/country:us/state:tn/place:hollow_rock
+parent: us/tn/carroll-county
+aliases: ["Hollow Rock"]
+website: https://www.mtas.tennessee.edu/directories/cities/hollow-rock
+general_contact:
+  name: "Hollow Rock municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/hollow-rock
+  phone: "(731) 586-7773"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/hollow-rock
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

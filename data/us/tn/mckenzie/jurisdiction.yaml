@@ -1,0 +1,16 @@
+name: "City of McKenzie"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:mckenzie
+parent: us/tn/_state
+county_options: ["us/tn/carroll-county", "us/tn/henry-county", "us/tn/weakley-county"]
+aliases: ["McKenzie"]
+website: https://mckenzietn.org/
+general_contact:
+  name: "McKenzie municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/mckenzie
+  phone: "(731) 352-2292"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/mckenzie
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

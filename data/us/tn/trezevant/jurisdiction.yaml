@@ -1,0 +1,15 @@
+name: "Town of Trezevant"
+level: town
+ocd_id: ocd-division/country:us/state:tn/place:trezevant
+parent: us/tn/carroll-county
+aliases: ["Trezevant"]
+website: https://www.mtas.tennessee.edu/directories/cities/trezevant
+general_contact:
+  name: "Trezevant municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/trezevant
+  phone: "(731) 669-4831"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/trezevant
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex
