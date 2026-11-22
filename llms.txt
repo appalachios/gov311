@@ -826,6 +826,16 @@ Parent guide sections, nearest first: Hamilton County, Tennessee (us/tn/hamilton
 - [Follow a proposed ordinance in Collegedale](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/collegedale/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
+## City of Columbia (us/tn/columbia)
+
+Parent guide sections, nearest first: Maury County, Tennessee (us/tn/maury-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/columbia/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Columbia for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/columbia/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Columbia.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Columbia](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/columbia/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
 ## City of Copperhill (us/tn/copperhill)
 
 Parent guide sections, nearest first: Polk County, Tennessee (us/tn/polk-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
@@ -2279,7 +2289,11 @@ Parent guide sections, nearest first: Crockett County, Tennessee (us/tn/crockett
 Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
 
 - [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/maury-county/jurisdiction.yaml): website, main contact, and parent government
+- [Find the right office in Maury County](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/maury-county/services/choose-a-county-office.md): Find county offices for deeds, vehicle records, elections and property questions, and check municipal boundaries for local services.
+  - source-checked · Checked by codex on 2026-11-22.
 - [Find the Maury County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/maury-county/services/find-a-property-map.md): Search Maury County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a Maury County governing body decision](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/maury-county/services/follow-county-business.md): Find the regular meeting agenda, the source of the county’s authority and the record of what the governing body voted to adopt.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## City of McEwen (us/tn/mcewen)
@@ -2482,6 +2496,16 @@ Parent guide sections, nearest first: Hawkins County, Tennessee (us/tn/hawkins-c
 - [Contact Mount Carmel for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/mount-carmel/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Mount Carmel.
   - source-checked · Checked by codex on 2026-11-22.
 - [Follow a proposed ordinance in Mount Carmel](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/mount-carmel/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## City of Mount Pleasant (us/tn/mount-pleasant)
+
+Parent guide sections, nearest first: Maury County, Tennessee (us/tn/maury-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/mount-pleasant/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Mount Pleasant for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/mount-pleasant/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Mount Pleasant.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Mount Pleasant](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/mount-pleasant/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## Town of Mountain City (us/tn/mountain-city)
@@ -3250,6 +3274,18 @@ Parent guide sections, nearest first: Marion County, Tennessee (us/tn/marion-cou
 - [Contact South Pittsburg for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/south-pittsburg/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in South Pittsburg.
   - source-checked · Checked by codex on 2026-11-22.
 - [Follow a proposed ordinance in South Pittsburg](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/south-pittsburg/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## City of Spring Hill (us/tn/spring-hill)
+
+For county services, check which county contains the address. Choose one of these guide sections: Maury County, Tennessee (us/tn/maury-county) or Williamson County, Tennessee (us/tn/williamson-county).
+
+Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/spring-hill/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Spring Hill for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/spring-hill/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Spring Hill.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Spring Hill](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/spring-hill/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## City of St. Joseph (us/tn/st-joseph)
