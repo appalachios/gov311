@@ -713,6 +713,16 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 - [Follow a Carter County governing body decision](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/carter-county/services/follow-county-business.md): Find the regular meeting agenda, the source of the county’s authority and the record of what the governing body voted to adopt.
   - source-checked · Checked by codex on 2026-11-22.
 
+## Town of Carthage (us/tn/carthage)
+
+Parent guide sections, nearest first: Smith County, Tennessee (us/tn/smith-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/carthage/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Carthage for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/carthage/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Carthage.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Carthage](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/carthage/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
 ## Town of Caryville (us/tn/caryville)
 
 Parent guide sections, nearest first: Campbell County, Tennessee (us/tn/campbell-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
@@ -1626,6 +1636,16 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 - [Contact Goodlettsville for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/goodlettsville/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Goodlettsville.
   - source-checked · Checked by codex on 2026-11-22.
 - [Follow a proposed ordinance in Goodlettsville](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/goodlettsville/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## Town of Gordonsville (us/tn/gordonsville)
+
+Parent guide sections, nearest first: Smith County, Tennessee (us/tn/smith-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/gordonsville/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Gordonsville for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/gordonsville/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Gordonsville.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Gordonsville](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/gordonsville/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## Grainger County, Tennessee (us/tn/grainger-county)
@@ -3916,7 +3936,11 @@ Parent guide sections, nearest first: Dickson County, Tennessee (us/tn/dickson-c
 Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
 
 - [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/smith-county/jurisdiction.yaml): website, main contact, and parent government
+- [Find the right office in Smith County](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/smith-county/services/choose-a-county-office.md): Find county offices for deeds, vehicle records, elections and property questions, and check municipal boundaries for local services.
+  - source-checked · Checked by codex on 2026-11-22.
 - [Find the Smith County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/smith-county/services/find-a-property-map.md): Search Smith County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a Smith County governing body decision](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/smith-county/services/follow-county-business.md): Find the regular meeting agenda, the source of the county’s authority and the record of what the governing body voted to adopt.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## City of Smithville (us/tn/smithville)
@@ -3969,6 +3993,16 @@ Parent guide sections, nearest first: Fayette County, Tennessee (us/tn/fayette-c
 - [Contact Somerville for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/somerville/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Somerville.
   - source-checked · Checked by codex on 2026-11-22.
 - [Follow a proposed ordinance in Somerville](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/somerville/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## Town of South Carthage (us/tn/south-carthage)
+
+Parent guide sections, nearest first: Smith County, Tennessee (us/tn/smith-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/south-carthage/jurisdiction.yaml): website, main contact, and parent government
+- [Contact South Carthage for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/south-carthage/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in South Carthage.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in South Carthage](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/south-carthage/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## City of South Fulton (us/tn/south-fulton)

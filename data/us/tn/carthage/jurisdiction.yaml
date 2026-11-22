@@ -1,0 +1,15 @@
+name: "Town of Carthage"
+level: town
+ocd_id: ocd-division/country:us/state:tn/place:carthage
+parent: us/tn/smith-county
+aliases: ["Carthage"]
+website: https://www.townofcarthagetn.gov/
+general_contact:
+  name: "Carthage municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/carthage
+  phone: "(615) 735-1881"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/carthage
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

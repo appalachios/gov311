@@ -1,0 +1,15 @@
+name: "Town of South Carthage"
+level: town
+ocd_id: ocd-division/country:us/state:tn/place:south_carthage
+parent: us/tn/smith-county
+aliases: ["South Carthage"]
+website: https://www.townofsouthcarthage.com/
+general_contact:
+  name: "South Carthage municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/south-carthage
+  phone: "(615) 735-2727"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/south-carthage
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex
