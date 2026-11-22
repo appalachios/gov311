@@ -4,6 +4,7 @@ summary: "Find the meeting, read the proposed language against the charter and c
 audiences: [everyone]
 keywords: ["ordinance", "charter", "code", "agenda", "pending law", "meeting", "amendment", "minutes"]
 sources:
+  - "https://www.mtas.tennessee.edu/sites/default/files/private/charters/Liberty_cht.pdf#page=6"
   - "https://www.mtas.tennessee.edu/directories/cities/liberty"
   - "https://www.mtas.tennessee.edu/charter/liberty"
   - "https://comptroller.tn.gov/office-functions/open-records-counsel/open-meetings/frequently-asked-questions/tennessee-open-meetings-act-faqs.html"
@@ -17,3 +18,5 @@ To follow a proposal in Liberty, get the dated meeting notice, agenda, proposed 
 Look up the charter for the governing body’s powers, readings and vote requirements. Compare a proposed ordinance with the current code section it would change. [Municipal Code](https://www.mtas.tennessee.edu/directories/cities/liberty) · [Municipal Charter](https://www.mtas.tennessee.edu/charter/liberty)
 
 After the meeting, use the minutes to identify the motion that actually passed. Ask the recorder or clerk for the adopted ordinance, any amendments and the effective date. A proposal can change during consideration, and a recent ordinance may still be waiting to appear in the code. [Tennessee agenda and minutes requirements](https://comptroller.tn.gov/office-functions/open-records-counsel/open-meetings/frequently-asked-questions/tennessee-open-meetings-act-faqs.html)
+
+The charter requires two readings and puts the second between one and two weeks after introduction. [Charter classification](https://www.mtas.tennessee.edu/charter/liberty) · [Governing text](https://www.mtas.tennessee.edu/sites/default/files/private/charters/Liberty_cht.pdf#page=6)
