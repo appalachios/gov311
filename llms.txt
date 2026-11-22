@@ -1516,6 +1516,16 @@ Parent guide sections, nearest first: Lauderdale County, Tennessee (us/tn/lauder
 - [Follow a proposed ordinance in Gates](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/gates/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
+## City of Gatlinburg (us/tn/gatlinburg)
+
+Parent guide sections, nearest first: Sevier County, Tennessee (us/tn/sevier-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/gatlinburg/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Gatlinburg for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/gatlinburg/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Gatlinburg.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Gatlinburg](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/gatlinburg/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
 ## Town of Gibson (us/tn/gibson)
 
 Parent guide sections, nearest first: Gibson County, Tennessee (us/tn/gibson-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
@@ -3261,6 +3271,16 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 - [Follow a Pickett County governing body decision](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/pickett-county/services/follow-county-business.md): Find the regular meeting agenda, the source of the county’s authority and the record of what the governing body voted to adopt.
   - source-checked · Checked by codex on 2026-11-22.
 
+## City of Pigeon Forge (us/tn/pigeon-forge)
+
+Parent guide sections, nearest first: Sevier County, Tennessee (us/tn/sevier-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/pigeon-forge/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Pigeon Forge for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/pigeon-forge/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Pigeon Forge.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Pigeon Forge](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/pigeon-forge/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
 ## City of Pikeville (us/tn/pikeville)
 
 Parent guide sections, nearest first: Bledsoe County, Tennessee (us/tn/bledsoe-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
@@ -3279,6 +3299,16 @@ Parent guide sections, nearest first: Fayette County, Tennessee (us/tn/fayette-c
 - [Contact Piperton for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/piperton/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Piperton.
   - source-checked · Checked by codex on 2026-11-22.
 - [Follow a proposed ordinance in Piperton](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/piperton/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## Town of Pittman Center (us/tn/pittman-center)
+
+Parent guide sections, nearest first: Sevier County, Tennessee (us/tn/sevier-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/pittman-center/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Pittman Center for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/pittman-center/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Pittman Center.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Pittman Center](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/pittman-center/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## Town of Pleasant Hill (us/tn/pleasant-hill)
@@ -3706,7 +3736,21 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
 
 - [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/sevier-county/jurisdiction.yaml): website, main contact, and parent government
+- [Find the right office in Sevier County](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/sevier-county/services/choose-a-county-office.md): Find county offices for deeds, vehicle records, elections and property questions, and check municipal boundaries for local services.
+  - source-checked · Checked by codex on 2026-11-22.
 - [Find the Sevier County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/sevier-county/services/find-a-property-map.md): Search Sevier County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a Sevier County governing body decision](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/sevier-county/services/follow-county-business.md): Find the regular meeting agenda, the source of the county’s authority and the record of what the governing body voted to adopt.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## City of Sevierville (us/tn/sevierville)
+
+Parent guide sections, nearest first: Sevier County, Tennessee (us/tn/sevier-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/sevierville/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Sevierville for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/sevierville/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Sevierville.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Sevierville](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/sevierville/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## Shelby County, Tennessee (us/tn/shelby-county)
