@@ -91,3 +91,42 @@ export function jurisdictionChain(jurisdictions, id) {
   }
   return chain;
 }
+
+const normalizePlace = (name) => name.toLowerCase().match(/[\p{L}\p{N}]+/gu)?.join(" ") ?? "";
+
+function placeNames(jurisdiction) {
+  const names = [jurisdiction.meta.name, ...(jurisdiction.meta.aliases ?? []), jurisdiction.id.split("/").at(-1)];
+  return names.map(normalizePlace);
+}
+
+/** Match a place's own name, optionally qualified by any of its actual parents. */
+export function findJurisdictions(jurisdictions, place) {
+  const idMatch = jurisdictions.get(place.trim().toLowerCase());
+  if (idMatch) return [idMatch];
+  const query = normalizePlace(place);
+  const rural = query.startsWith("unincorporated ");
+  const name = rural ? query.slice("unincorporated ".length) : query;
+  if (!name) return [];
+  const exact = [];
+  const partial = [];
+  for (const j of jurisdictions.values()) {
+    if (rural && !["county", "consolidated-city-county"].includes(j.meta.level)) continue;
+    const candidates = new Set([name]);
+    // Strip whole parent names from the end, in geographic order (e.g. TN, then Polk County).
+    // Keep the original at each step because any parent qualifier can be omitted.
+    for (const parent of jurisdictionChain(jurisdictions, j.id).slice(1).reverse()) {
+      for (const candidate of [...candidates]) {
+        for (const qualifier of placeNames(parent)) {
+          if (candidate.endsWith(" " + qualifier)) candidates.add(candidate.slice(0, -(qualifier.length + 1)));
+        }
+      }
+    }
+    const names = placeNames(j);
+    if (names.some((n) => candidates.has(n))) exact.push(j);
+    else {
+      const ownWords = new Set(names.flatMap((n) => n.split(" ")));
+      if ([...candidates].some((c) => c.split(" ").every((word) => ownWords.has(word)))) partial.push(j);
+    }
+  }
+  return exact.length ? exact : partial;
+}

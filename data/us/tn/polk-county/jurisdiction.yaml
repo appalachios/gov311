@@ -1,0 +1,16 @@
+name: Polk County, Tennessee
+level: county
+ocd_id: ocd-division/country:us/state:tn/county:polk
+parent: us/tn/_state
+aliases: [Polk County, Polk County TN, unincorporated Polk County]
+website: https://polkcountytn.gov/
+general_contact:
+  name: Polk County Executive’s Office
+  phone: 423-338-4527
+  url: https://polkcountytn.gov/county-executive/
+sources:
+  - https://polkcountytn.gov/county-executive/
+  - https://polkcountytn.gov/city-offices/
+  - https://www.ctas.tennessee.edu/county/polk
+last_verified: 2026-11-21
+verified_by: codex

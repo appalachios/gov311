@@ -1,0 +1,17 @@
+name: City of Copperhill
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:copperhill
+parent: us/tn/polk-county
+aliases:
+- Copperhill
+website: https://copperhill.gov/
+general_contact:
+  name: Copperhill City Hall
+  phone: 423-496-5141
+  url: https://copperhill.gov/city-hall/
+  hours: Monday through Friday, 8 a.m. to 4 p.m. Eastern
+sources:
+- https://copperhill.gov/city-hall/
+- https://polkcountytn.gov/city-offices/
+last_verified: 2026-11-21
+verified_by: codex

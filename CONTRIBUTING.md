@@ -88,6 +88,8 @@ data/
     tn/
       _state/                 State of Tennessee
       nashville/              Metro Nashville and Davidson County
+      polk-county/            Polk County
+      benton/                 City of Benton in Polk County
         jurisdiction.yaml     Names the government and its parent
         services/             How to do one task
         contacts/             Offices and phone lines
@@ -95,7 +97,7 @@ data/
         help/                 Free or low-cost help
 ```
 
-Cities and counties sit side by side under their state. The `parent` field in `jurisdiction.yaml` says which government is one level up. An AI tool follows `parent` to find every government that covers a person. For a Nashville resident it reads the Nashville folder, then Tennessee, then federal.
+Cities and counties sit side by side under their state. The `parent` field in `jurisdiction.yaml` says which government is one level up. For Benton, Copperhill and Ducktown, set the parent to `us/tn/polk-county`. A search from one of the cities then includes the city, Polk County, Tennessee and federal guides. Outside the city limits, start with the county. Check the authority responsible for each task before applying a rule to a parcel or address. Metro Nashville and Davidson County share one government, so that guide points directly to Tennessee.
 
 ## Add an entry
 
@@ -119,7 +121,7 @@ Cities and counties sit side by side under their state. The `parent` field in `j
    `npm run build` updates `llms.txt`, the index that web-only AI tools read. `npm run check` confirms that every entry follows the format.
 5. Open a pull request. A maintainer for that place reviews it.
 
-If you change the Gov311 skill itself, run `python3 scripts/package-skill.py` and include the updated download with your change.
+If you change a skill under `skills/`, run `python3 scripts/package-skill.py` and include the updated ZIP for that skill. Run `python3 scripts/package-skill.py --check` to verify all downloads.
 
 ### Guide fields
 

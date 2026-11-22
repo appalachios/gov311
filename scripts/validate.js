@@ -5,7 +5,7 @@ import { readFileSync } from "node:fs";
 import { join } from "node:path";
 import Ajv from "ajv";
 import addFormats from "ajv-formats";
-import { DATA_DIR, STALE_AFTER_DAYS, daysSince, loadData } from "./lib.js";
+import { DATA_DIR, STALE_AFTER_DAYS, daysSince, jurisdictionChain, loadData } from "./lib.js";
 
 const readSchema = (name) => JSON.parse(readFileSync(join(DATA_DIR, "_schema", name), "utf8"));
 const ajv = new Ajv({ allErrors: true, strict: false });
@@ -37,6 +37,10 @@ for (const j of jurisdictions.values()) {
   if (!/^[a-z0-9_/-]+$/.test(j.id)) fail(j.file, "Folder names must be lowercase letters, numbers, and hyphens.");
   if (j.meta.parent && !jurisdictions.has(j.meta.parent)) fail(j.file, `parent "${j.meta.parent}" has no jurisdiction.yaml.`);
   if (!j.meta.parent && j.meta.level !== "federal") fail(j.file, "Every jurisdiction below the national level needs a parent.");
+  if (j.meta.level === "federal" && j.meta.parent) fail(j.file, "A national government cannot have a parent.");
+  if (jurisdictionChain(jurisdictions, j.id).at(-1).meta.parent === j.id) {
+    fail(j.file, "The parent links form a cycle. Each chain must end at a national government.");
+  }
   checkDate(j.file, j.meta.last_verified);
 }
 

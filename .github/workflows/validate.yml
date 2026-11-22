@@ -18,7 +18,7 @@ jobs:
           node-version: 22
           cache: npm
       - run: npm ci
-      - name: Validate guides, check the index, and test trust levels
+      - name: Validate guides, the index, trust levels and jurisdiction routing
         run: npm run check
-      - name: Check the downloadable skill
+      - name: Check the downloadable skills
         run: python3 scripts/package-skill.py --check
