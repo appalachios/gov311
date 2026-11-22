@@ -1,0 +1,15 @@
+name: "City of Wartburg"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:wartburg
+parent: us/tn/morgan-county
+aliases: ["Wartburg"]
+website: https://www.mtas.tennessee.edu/directories/cities/wartburg
+general_contact:
+  name: "Wartburg municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/wartburg
+  phone: "(423) 346-2323"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/wartburg
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex
