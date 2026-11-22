@@ -1,0 +1,15 @@
+name: "Town of Palmer"
+level: town
+ocd_id: ocd-division/country:us/state:tn/place:palmer
+parent: us/tn/grundy-county
+aliases: ["Palmer"]
+website: https://www.mtas.tennessee.edu/directories/cities/palmer
+general_contact:
+  name: "Palmer municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/palmer
+  phone: "(931) 779-3247"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/palmer
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

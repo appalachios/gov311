@@ -212,6 +212,16 @@ Parent guide sections, nearest first: Fentress County, Tennessee (us/tn/fentress
 - [Follow a proposed ordinance in Allardt](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/allardt/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
+## Town of Altamont (us/tn/altamont)
+
+Parent guide sections, nearest first: Grundy County, Tennessee (us/tn/grundy-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/altamont/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Altamont for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/altamont/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Altamont.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Altamont](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/altamont/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
 ## Anderson County, Tennessee (us/tn/anderson-county)
 
 Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
@@ -304,6 +314,16 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 - [Find the Bedford County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/bedford-county/services/find-a-property-map.md): Search Bedford County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
   - source-checked · Checked by codex on 2026-11-22.
 - [Follow a Bedford County Commission proposal](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/bedford-county/services/follow-a-local-law.md): Find county meeting papers, sign up to speak and check the vote on the specific resolution you care about.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## Town of Beersheba Springs (us/tn/beersheba-springs)
+
+Parent guide sections, nearest first: Grundy County, Tennessee (us/tn/grundy-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/beersheba-springs/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Beersheba Springs for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/beersheba-springs/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Beersheba Springs.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Beersheba Springs](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/beersheba-springs/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## Town of Bell Buckle (us/tn/bell-buckle)
@@ -659,6 +679,16 @@ Parent guide sections, nearest first: Anderson County, Tennessee (us/tn/anderson
 - [Apply for a permit or report a code issue in Clinton](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/clinton/services/find-the-building-permit-office.md): Use city Codes Enforcement for property in Clinton and the county office for an unincorporated site.
   - source-checked · Checked by codex on 2026-11-22.
 - [Find a pending Clinton ordinance and the final vote](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/clinton/services/follow-a-council-measure.md): Compare the City Council agenda, council minutes and numbered ordinance for the same measure.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## City of Coalmont (us/tn/coalmont)
+
+Parent guide sections, nearest first: Grundy County, Tennessee (us/tn/grundy-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/coalmont/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Coalmont for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/coalmont/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Coalmont.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Coalmont](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/coalmont/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## Cocke County, Tennessee (us/tn/cocke-county)
@@ -1155,12 +1185,26 @@ Parent guide sections, nearest first: Greene County, Tennessee (us/tn/greene-cou
 - [Follow a proposed ordinance in Greeneville](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/greeneville/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
+## City of Gruetli-Laager (us/tn/gruetli-laager)
+
+Parent guide sections, nearest first: Grundy County, Tennessee (us/tn/grundy-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/gruetli-laager/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Gruetli-Laager for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/gruetli-laager/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Gruetli-Laager.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Gruetli-Laager](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/gruetli-laager/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
 ## Grundy County, Tennessee (us/tn/grundy-county)
 
 Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
 
 - [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/grundy-county/jurisdiction.yaml): website, main contact, and parent government
+- [Find the right office in Grundy County](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/grundy-county/services/choose-a-county-office.md): Find county offices for deeds, vehicle records, elections and property questions, and check municipal boundaries for local services.
+  - source-checked · Checked by codex on 2026-11-22.
 - [Find the Grundy County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/grundy-county/services/find-a-property-map.md): Search Grundy County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a Grundy County governing body decision](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/grundy-county/services/follow-county-business.md): Find the regular meeting agenda, the source of the county’s authority and the record of what the governing body voted to adopt.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## Hamblen County, Tennessee (us/tn/hamblen-county)
@@ -1797,6 +1841,18 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 - [Find the Monroe County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/monroe-county/services/find-a-property-map.md): Search Monroe County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
   - source-checked · Checked by codex on 2026-11-22.
 
+## Town of Monteagle (us/tn/monteagle)
+
+For county services, check which county contains the address. Choose one of these guide sections: Grundy County, Tennessee (us/tn/grundy-county) or Marion County, Tennessee (us/tn/marion-county) or Franklin County, Tennessee (us/tn/franklin-county).
+
+Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/monteagle/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Monteagle for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/monteagle/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Monteagle.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Monteagle](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/monteagle/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
 ## Montgomery County, Tennessee (us/tn/montgomery-county)
 
 Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
@@ -1981,6 +2037,16 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 
 - [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/overton-county/jurisdiction.yaml): website, main contact, and parent government
 - [Find the Overton County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/overton-county/services/find-a-property-map.md): Search Overton County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## Town of Palmer (us/tn/palmer)
+
+Parent guide sections, nearest first: Grundy County, Tennessee (us/tn/grundy-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/palmer/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Palmer for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/palmer/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Palmer.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Palmer](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/palmer/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## Town of Parrottsville (us/tn/parrottsville)
@@ -2389,6 +2455,16 @@ Parent guide sections, nearest first: Blount County, Tennessee (us/tn/blount-cou
 - [Contact Townsend for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/townsend/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Townsend.
   - source-checked · Checked by codex on 2026-11-22.
 - [Follow a proposed ordinance in Townsend](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/townsend/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## Town of Tracy City (us/tn/tracy-city)
+
+Parent guide sections, nearest first: Grundy County, Tennessee (us/tn/grundy-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/tracy-city/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Tracy City for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/tracy-city/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Tracy City.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Tracy City](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/tracy-city/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## City of Trenton (us/tn/trenton)

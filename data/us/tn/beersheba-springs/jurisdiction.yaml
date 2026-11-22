@@ -1,0 +1,15 @@
+name: "Town of Beersheba Springs"
+level: town
+ocd_id: ocd-division/country:us/state:tn/place:beersheba_springs
+parent: us/tn/grundy-county
+aliases: ["Beersheba Springs"]
+website: https://www.mtas.tennessee.edu/directories/cities/beersheba-springs
+general_contact:
+  name: "Beersheba Springs municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/beersheba-springs
+  phone: "(931) 692-3107"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/beersheba-springs
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

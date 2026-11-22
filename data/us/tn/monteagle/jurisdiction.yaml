@@ -1,0 +1,17 @@
+name: "Town of Monteagle"
+level: town
+ocd_id: ocd-division/country:us/state:tn/place:monteagle
+parent: us/tn/_state
+county_options: ["us/tn/grundy-county", "us/tn/marion-county", "us/tn/franklin-county"]
+aliases: ["Monteagle"]
+website: https://townofmonteagle-tn.gov/
+general_contact:
+  name: "Monteagle municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/monteagle
+  phone: "(931) 924-2265"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/monteagle
+  - https://tnecd.com/?force_download=129209
+  - https://www2.census.gov/geo/docs/reference/codes2020/national_place_by_county2020.txt
+last_verified: 2026-11-22
+verified_by: codex

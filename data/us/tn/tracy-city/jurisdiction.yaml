@@ -1,0 +1,15 @@
+name: "Town of Tracy City"
+level: town
+ocd_id: ocd-division/country:us/state:tn/place:tracy_city
+parent: us/tn/grundy-county
+aliases: ["Tracy City"]
+website: https://www.mtas.tennessee.edu/directories/cities/tracy-city
+general_contact:
+  name: "Tracy City municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/tracy-city
+  phone: "(931) 592-6213"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/tracy-city
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

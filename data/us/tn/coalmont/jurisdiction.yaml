@@ -1,0 +1,15 @@
+name: "City of Coalmont"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:coalmont
+parent: us/tn/grundy-county
+aliases: ["Coalmont"]
+website: https://www.mtas.tennessee.edu/directories/cities/coalmont
+general_contact:
+  name: "Coalmont municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/coalmont
+  phone: "(931) 592-9373"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/coalmont
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex
