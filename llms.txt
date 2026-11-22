@@ -9,6 +9,8 @@ Find the person's city below, or start with the county if they live outside city
 - [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/_federal/jurisdiction.yaml): website, main contact, and parent government
 - [Get your organization ready to apply for a federal grant](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/_federal/services/apply-for-federal-grant.md): Before an organization can apply for a federal grant on Grants.gov, it must register in SAM.gov and set up a Grants.gov account. Registration is free and is not instant, so start early.
   - draft · Research by claude-code on 2026-11-21.
+- [Find the county for a US street address](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/_federal/services/find-the-county-for-an-address.md): Use the Census Geocoder to identify the county for a matched address, then check local boundaries if the parcel is near a city or county line.
+  - source-checked · Checked by codex on 2026-11-22.
 - [Call 211 for local help with food, housing, and bills](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/_federal/help/211.md): Dial 211 to talk with a person who can connect you to local help with food, housing, utility bills, and other needs. The call is confidential and the line answers 24 hours a day.
   - draft · Research by claude-code on 2026-11-21.
 - [Find government benefits you may qualify for](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/_federal/help/benefit-finder.md): The USA.gov benefit finder asks a few questions and lists the government benefits you may qualify for, with instructions for applying to each one.
@@ -60,6 +62,8 @@ Parent guide sections, nearest first: United States federal government (us/_fede
 - [Find the Tennessee board that licenses a profession](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/_state/services/find-a-licensing-board.md): Look up the agency for a profession, find application and renewal instructions, or check an individual’s license. Tennessee has a separate lookup for health care professionals.
   - source-checked · Checked by codex on 2026-11-21.
 - [Find the property map for a Tennessee county](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/_state/services/find-a-property-map.md): Search the Tennessee Property Viewer for parcels in 86 counties. For the other nine, it links to local sites, including KGIS for Knox County.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Find who handles a Tennessee residential building permit](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/_state/services/find-a-residential-permit-office.md): Check the address and municipality in the State Fire Marshal’s jurisdiction table before applying for a state residential building permit.
   - source-checked · Checked by codex on 2026-11-22.
 - [Find a Tennessee appeals case or reach the trial court clerk](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/_state/services/find-court-case.md): Find a case by the court named on your paperwork. Tennessee has a statewide search for its appellate courts. For a case in a trial court, ask that court’s clerk for the docket, even if the case is an appeal.
   - source-checked · Checked by codex on 2026-11-21.
