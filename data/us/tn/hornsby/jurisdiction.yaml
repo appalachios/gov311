@@ -1,0 +1,15 @@
+name: "Town of Hornsby"
+level: town
+ocd_id: ocd-division/country:us/state:tn/place:hornsby
+parent: us/tn/hardeman-county
+aliases: ["Hornsby"]
+website: https://www.mtas.tennessee.edu/directories/cities/hornsby
+general_contact:
+  name: "Hornsby municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/hornsby
+  phone: "(731) 658-6188"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/hornsby
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

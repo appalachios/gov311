@@ -1,0 +1,15 @@
+name: "City of Bolivar"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:bolivar
+parent: us/tn/hardeman-county
+aliases: ["Bolivar"]
+website: https://www.cityofbolivar.com/
+general_contact:
+  name: "Bolivar municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/bolivar
+  phone: "(731) 658-2020"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/bolivar
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

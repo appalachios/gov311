@@ -449,6 +449,16 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 - [Follow a Blount County governing body decision](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/blount-county/services/follow-county-business.md): Find the regular meeting agenda, the source of the county’s authority and the record of what the governing body voted to adopt.
   - source-checked · Checked by codex on 2026-11-22.
 
+## City of Bolivar (us/tn/bolivar)
+
+Parent guide sections, nearest first: Hardeman County, Tennessee (us/tn/hardeman-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/bolivar/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Bolivar for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/bolivar/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Bolivar.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Bolivar](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/bolivar/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
 ## Town of Braden (us/tn/braden)
 
 Parent guide sections, nearest first: Fayette County, Tennessee (us/tn/fayette-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
@@ -1293,7 +1303,11 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
 
 - [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/hardeman-county/jurisdiction.yaml): website, main contact, and parent government
+- [Find the right office in Hardeman County](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/hardeman-county/services/choose-a-county-office.md): Find county offices for deeds, vehicle records, elections and property questions, and check municipal boundaries for local services.
+  - source-checked · Checked by codex on 2026-11-22.
 - [Find the Hardeman County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/hardeman-county/services/find-a-property-map.md): Search Hardeman County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a Hardeman County governing body decision](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/hardeman-county/services/follow-county-business.md): Find the regular meeting agenda, the source of the county’s authority and the record of what the governing body voted to adopt.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## Hardin County, Tennessee (us/tn/hardin-county)
@@ -1364,6 +1378,16 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 - [Find a Hickman County parcel map, tax record or zoning district](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/hickman-county/services/find-a-property-map.md): Use the assessor’s parcel map for the land and its assessment. The county has a separate zoning map, and Hickman County Schools publishes its attendance map.
   - source-checked · Checked by codex on 2026-11-21.
 
+## Town of Hickory Valley (us/tn/hickory-valley)
+
+Parent guide sections, nearest first: Hardeman County, Tennessee (us/tn/hardeman-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/hickory-valley/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Hickory Valley for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/hickory-valley/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Hickory Valley.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Hickory Valley](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/hickory-valley/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
 ## Town of Hollow Rock (us/tn/hollow-rock)
 
 Parent guide sections, nearest first: Carroll County, Tennessee (us/tn/carroll-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
@@ -1372,6 +1396,16 @@ Parent guide sections, nearest first: Carroll County, Tennessee (us/tn/carroll-c
 - [Contact Hollow Rock for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/hollow-rock/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Hollow Rock.
   - source-checked · Checked by codex on 2026-11-22.
 - [Follow a proposed ordinance in Hollow Rock](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/hollow-rock/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## Town of Hornsby (us/tn/hornsby)
+
+Parent guide sections, nearest first: Hardeman County, Tennessee (us/tn/hardeman-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/hornsby/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Hornsby for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/hornsby/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Hornsby.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Hornsby](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/hornsby/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## Houston County, Tennessee (us/tn/houston-county)
@@ -1880,6 +1914,16 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 
 - [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/meigs-county/jurisdiction.yaml): website, main contact, and parent government
 - [Find the Meigs County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/meigs-county/services/find-a-property-map.md): Search Meigs County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## City of Middleton (us/tn/middleton)
+
+Parent guide sections, nearest first: Hardeman County, Tennessee (us/tn/hardeman-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/middleton/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Middleton for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/middleton/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Middleton.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Middleton](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/middleton/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## City of Milan (us/tn/milan)
@@ -2416,6 +2460,16 @@ Parent guide sections, nearest first: Grainger County, Tennessee (us/tn/grainger
 - [Follow a proposed ordinance in Rutledge](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/rutledge/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
+## Town of Saulsbury (us/tn/saulsbury)
+
+Parent guide sections, nearest first: Hardeman County, Tennessee (us/tn/hardeman-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/saulsbury/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Saulsbury for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/saulsbury/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Saulsbury.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Saulsbury](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/saulsbury/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
 ## Scott County, Tennessee (us/tn/scott-county)
 
 Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
@@ -2594,6 +2648,16 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 
 - [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/tipton-county/jurisdiction.yaml): website, main contact, and parent government
 - [Find the Tipton County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/tipton-county/services/find-a-property-map.md): Search Tipton County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## Town of Toone (us/tn/toone)
+
+Parent guide sections, nearest first: Hardeman County, Tennessee (us/tn/hardeman-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/toone/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Toone for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/toone/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Toone.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Toone](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/toone/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## City of Townsend (us/tn/townsend)
@@ -2796,6 +2860,16 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 
 - [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/white-county/jurisdiction.yaml): website, main contact, and parent government
 - [Find the White County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/white-county/services/find-a-property-map.md): Search White County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## Town of Whiteville (us/tn/whiteville)
+
+Parent guide sections, nearest first: Hardeman County, Tennessee (us/tn/hardeman-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/whiteville/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Whiteville for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/whiteville/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Whiteville.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Whiteville](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/whiteville/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## Williamson County, Tennessee (us/tn/williamson-county)

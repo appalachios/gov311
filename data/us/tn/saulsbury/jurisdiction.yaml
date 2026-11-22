@@ -1,0 +1,15 @@
+name: "Town of Saulsbury"
+level: town
+ocd_id: ocd-division/country:us/state:tn/place:saulsbury
+parent: us/tn/hardeman-county
+aliases: ["Saulsbury"]
+website: https://www.mtas.tennessee.edu/directories/cities/saulsbury
+general_contact:
+  name: "Saulsbury municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/saulsbury
+  phone: "(731) 764-2084"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/saulsbury
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex
