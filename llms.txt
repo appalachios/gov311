@@ -3050,9 +3050,9 @@ Parent guide sections, nearest first: Carroll County, Tennessee (us/tn/carroll-c
 - [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/mclemoresville/jurisdiction.yaml): website, main contact, and parent government
 - [Contact McLemoresville for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/mclemoresville/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in McLemoresville.
   - source-checked · Checked by codex on 2026-11-22.
-- [Follow a proposed ordinance in McLemoresville](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/mclemoresville/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+- [Follow a proposed ordinance in McLemoresville](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/mclemoresville/services/track-a-municipal-ordinance.md): McLemoresville’s charter sets the meeting schedule. Find the state reading rule and ask the recorder which local rules apply.
   - draft · Research by codex on 2026-11-22.
-  - Human review (missing evidence). The cited records establish the procedure described here. They do not establish the general number of readings for a new ordinance in McLemoresville. Ask the municipal recorder for the current charter section or adopted procedural rule before quoting a count.
+  - Human review (missing evidence). The amended charter sets no general reading count. The town’s code of ethics records a roll-call vote without specifying how many readings preceded it. A current standing rule governing readings has not been located.
 
 ## McMinn County, Tennessee (us/tn/mcminn-county)
 
