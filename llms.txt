@@ -1182,6 +1182,16 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 - [Follow a Fayette County governing body decision](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/fayette-county/services/follow-county-business.md): Find the regular meeting agenda, the source of the county’s authority and the record of what the governing body voted to adopt.
   - source-checked · Checked by codex on 2026-11-22.
 
+## City of Fayetteville (us/tn/fayetteville)
+
+Parent guide sections, nearest first: Lincoln County, Tennessee (us/tn/lincoln-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/fayetteville/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Fayetteville for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/fayetteville/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Fayetteville.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Fayetteville](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/fayetteville/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
 ## Fentress County, Tennessee (us/tn/fentress-county)
 
 Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
@@ -2023,7 +2033,11 @@ Parent guide sections, nearest first: DeKalb County, Tennessee (us/tn/dekalb-cou
 Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
 
 - [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/lincoln-county/jurisdiction.yaml): website, main contact, and parent government
+- [Find the right office in Lincoln County](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/lincoln-county/services/choose-a-county-office.md): Find county offices for deeds, vehicle records, elections and property questions, and check municipal boundaries for local services.
+  - source-checked · Checked by codex on 2026-11-22.
 - [Find the Lincoln County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/lincoln-county/services/find-a-property-map.md): Search Lincoln County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a Lincoln County governing body decision](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/lincoln-county/services/follow-county-business.md): Find the regular meeting agenda, the source of the county’s authority and the record of what the governing body voted to adopt.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## Town of Lookout Mountain (us/tn/lookout-mountain)
@@ -2578,6 +2592,18 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 
 - [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/perry-county/jurisdiction.yaml): website, main contact, and parent government
 - [Find the Perry County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/perry-county/services/find-a-property-map.md): Search Perry County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## Town of Petersburg (us/tn/petersburg)
+
+For county services, check which county contains the address. Choose one of these guide sections: Lincoln County, Tennessee (us/tn/lincoln-county) or Marshall County, Tennessee (us/tn/marshall-county).
+
+Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/petersburg/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Petersburg for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/petersburg/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Petersburg.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Petersburg](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/petersburg/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## Pickett County, Tennessee (us/tn/pickett-county)
