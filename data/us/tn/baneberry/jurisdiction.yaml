@@ -1,0 +1,15 @@
+name: "City of Baneberry"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:baneberry
+parent: us/tn/jefferson-county
+aliases: ["Baneberry"]
+website: https://cityofbaneberry.com/
+general_contact:
+  name: "Baneberry municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/baneberry
+  phone: "(865) 674-0124"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/baneberry
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

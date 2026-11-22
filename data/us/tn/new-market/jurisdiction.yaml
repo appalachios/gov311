@@ -1,0 +1,15 @@
+name: "Town of New Market"
+level: town
+ocd_id: ocd-division/country:us/state:tn/place:new_market
+parent: us/tn/jefferson-county
+aliases: ["New Market"]
+website: https://www.mtas.tennessee.edu/directories/cities/new-market
+general_contact:
+  name: "New Market municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/new-market
+  phone: "(865) 475-3018"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/new-market
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

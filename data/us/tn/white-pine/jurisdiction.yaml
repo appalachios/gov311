@@ -1,0 +1,17 @@
+name: "Town of White Pine"
+level: town
+ocd_id: ocd-division/country:us/state:tn/place:white_pine
+parent: us/tn/_state
+county_options: ["us/tn/jefferson-county", "us/tn/hamblen-county"]
+aliases: ["White Pine"]
+website: https://whitepinetn.gov/
+general_contact:
+  name: "White Pine municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/white-pine
+  phone: "(865) 674-2556"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/white-pine
+  - https://tnecd.com/?force_download=129209
+  - https://www2.census.gov/geo/docs/reference/codes2020/national_place_by_county2020.txt
+last_verified: 2026-11-22
+verified_by: codex
