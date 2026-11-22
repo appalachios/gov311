@@ -1,0 +1,15 @@
+name: "Town of Henning"
+level: town
+ocd_id: ocd-division/country:us/state:tn/place:henning
+parent: us/tn/lauderdale-county
+aliases: ["Henning"]
+website: https://www.mtas.tennessee.edu/directories/cities/henning
+general_contact:
+  name: "Henning municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/henning
+  phone: "(731) 738-2997"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/henning
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex
