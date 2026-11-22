@@ -1,0 +1,15 @@
+name: "City of New Johnsonville"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:new_johnsonville
+parent: us/tn/humphreys-county
+aliases: ["New Johnsonville"]
+website: https://www.cityofnewjville.com/
+general_contact:
+  name: "New Johnsonville municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/new-johnsonville
+  phone: "(931) 535-2715"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/new-johnsonville
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

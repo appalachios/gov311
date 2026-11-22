@@ -1551,7 +1551,11 @@ Parent guide sections, nearest first: Gibson County, Tennessee (us/tn/gibson-cou
 Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
 
 - [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/humphreys-county/jurisdiction.yaml): website, main contact, and parent government
+- [Find the right office in Humphreys County](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/humphreys-county/services/choose-a-county-office.md): Find county offices for deeds, vehicle records, elections and property questions, and check municipal boundaries for local services.
+  - source-checked · Checked by codex on 2026-11-22.
 - [Find the Humphreys County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/humphreys-county/services/find-a-property-map.md): Search Humphreys County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a Humphreys County governing body decision](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/humphreys-county/services/follow-county-business.md): Find the regular meeting agenda, the source of the county’s authority and the record of what the governing body voted to adopt.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## Town of Huntingdon (us/tn/huntingdon)
@@ -2002,6 +2006,16 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 - [Find the Maury County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/maury-county/services/find-a-property-map.md): Search Maury County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
   - source-checked · Checked by codex on 2026-11-22.
 
+## City of McEwen (us/tn/mcewen)
+
+Parent guide sections, nearest first: Humphreys County, Tennessee (us/tn/humphreys-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/mcewen/jurisdiction.yaml): website, main contact, and parent government
+- [Contact McEwen for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/mcewen/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in McEwen.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in McEwen](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/mcewen/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
 ## City of McKenzie (us/tn/mckenzie)
 
 For county services, check which county contains the address. Choose one of these guide sections: Carroll County, Tennessee (us/tn/carroll-county) or Henry County, Tennessee (us/tn/henry-county) or Weakley County, Tennessee (us/tn/weakley-county).
@@ -2211,6 +2225,16 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
   - source-checked · Checked by codex on 2026-11-21.
 - [Free legal help with an eviction in Nashville](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/nashville/help/eviction-legal-help.md): The Legal Aid Society offers free legal help to Davidson County renters who qualify, including a phone line for people facing eviction. Court deadlines are short, so call as soon as you receive a notice or court papers.
   - source-checked · Checked by codex on 2026-11-21.
+
+## City of New Johnsonville (us/tn/new-johnsonville)
+
+Parent guide sections, nearest first: Humphreys County, Tennessee (us/tn/humphreys-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/new-johnsonville/jurisdiction.yaml): website, main contact, and parent government
+- [Contact New Johnsonville for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/new-johnsonville/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in New Johnsonville.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in New Johnsonville](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/new-johnsonville/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
 
 ## Town of New Tazewell (us/tn/new-tazewell)
 
@@ -3080,6 +3104,16 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 - [Contact Watauga for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/watauga/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Watauga.
   - source-checked · Checked by codex on 2026-11-22.
 - [Follow a proposed ordinance in Watauga](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/watauga/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## City of Waverly (us/tn/waverly)
+
+Parent guide sections, nearest first: Humphreys County, Tennessee (us/tn/humphreys-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/waverly/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Waverly for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/waverly/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Waverly.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Waverly](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/waverly/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## Wayne County, Tennessee (us/tn/wayne-county)

@@ -1,0 +1,15 @@
+name: "City of Waverly"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:waverly
+parent: us/tn/humphreys-county
+aliases: ["Waverly"]
+website: https://www.waverlytn.org/
+general_contact:
+  name: "Waverly municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/waverly
+  phone: "(931) 296-2101"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/waverly
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex
