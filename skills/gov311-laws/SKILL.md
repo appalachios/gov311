@@ -27,3 +27,5 @@ Some towns span counties. In a town with `county_options`, use town records for 
 Use the site's normal interactive CAPTCHA verification with the user's permission when the site and tool allow it. If access is restricted, try another official publication such as the signed act or ordinance. If the normal check requires a person, let them complete it or invite them to paste the relevant passage. When text remains unavailable, give the exact citation, where to get it, and the question it would settle.
 
 Link to the operative record and give the guide's `trust`, `verified_by`, and `last_verified`. Flag drafts or checks more than a year old and explain any outstanding `human_review` question. If you find official records beyond Gov311's coverage, say which ones you used.
+
+For a Tennessee local measure, identify the governing body, read its charter or county authority, then compare the proposed text and amendments with the recorded vote and the adopted instrument. A published meeting schedule helps locate the session. Check the dated notice for changes.
