@@ -4452,7 +4452,15 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
 
 - [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/trousdale-county/jurisdiction.yaml): website, main contact, and parent government
+- [Find the right office in Trousdale County](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/trousdale-county/services/choose-a-county-office.md): Find county offices for deeds, vehicle records, elections and property questions, and check municipal boundaries for local services.
+  - source-checked · Checked by codex on 2026-11-22.
 - [Find the Trousdale County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/trousdale-county/services/find-a-property-map.md): Search Trousdale County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a Trousdale County governing body decision](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/trousdale-county/services/follow-county-business.md): Find the regular meeting agenda, the source of the county’s authority and the record of what the governing body voted to adopt.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Contact Hartsville for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/trousdale-county/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Hartsville.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Hartsville](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/trousdale-county/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## Town of Troy (us/tn/troy)
