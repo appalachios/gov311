@@ -990,6 +990,16 @@ Parent guide sections, nearest first: Jefferson County, Tennessee (us/tn/jeffers
 - [Follow a proposed ordinance in Dandridge](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/dandridge/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
+## Town of Decatur (us/tn/decatur)
+
+Parent guide sections, nearest first: Meigs County, Tennessee (us/tn/meigs-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/decatur/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Decatur for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/decatur/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Decatur.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Decatur](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/decatur/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
 ## Decatur County, Tennessee (us/tn/decatur-county)
 
 Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
@@ -2457,7 +2467,11 @@ Parent guide sections, nearest first: Madison County, Tennessee (us/tn/madison-c
 Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
 
 - [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/meigs-county/jurisdiction.yaml): website, main contact, and parent government
+- [Find the right office in Meigs County](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/meigs-county/services/choose-a-county-office.md): Find county offices for deeds, vehicle records, elections and property questions, and check municipal boundaries for local services.
+  - source-checked · Checked by codex on 2026-11-22.
 - [Find the Meigs County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/meigs-county/services/find-a-property-map.md): Search Meigs County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a Meigs County governing body decision](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/meigs-county/services/follow-county-business.md): Find the regular meeting agenda, the source of the county’s authority and the record of what the governing body voted to adopt.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## Town of Michie (us/tn/michie)
