@@ -1,0 +1,15 @@
+name: "Town of Saltillo"
+level: town
+ocd_id: ocd-division/country:us/state:tn/place:saltillo
+parent: us/tn/hardin-county
+aliases: ["Saltillo"]
+website: https://www.mtas.tennessee.edu/directories/cities/saltillo
+general_contact:
+  name: "Saltillo municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/saltillo
+  phone: "(731) 325-7002"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/saltillo
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex
