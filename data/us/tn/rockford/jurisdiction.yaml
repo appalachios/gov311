@@ -1,0 +1,15 @@
+name: "City of Rockford"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:rockford
+parent: us/tn/blount-county
+aliases: ["Rockford"]
+website: https://www.mtas.tennessee.edu/directories/cities/rockford
+general_contact:
+  name: "Rockford municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/rockford
+  phone: "(865) 970-9665"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/rockford
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex
