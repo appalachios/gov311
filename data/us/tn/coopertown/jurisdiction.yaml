@@ -1,0 +1,15 @@
+name: "Town of Coopertown"
+level: town
+ocd_id: ocd-division/country:us/state:tn/place:coopertown
+parent: us/tn/robertson-county
+aliases: ["Coopertown"]
+website: https://www.coopertowntn.org/
+general_contact:
+  name: "Coopertown municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/coopertown
+  phone: "(615) 382-4470"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/coopertown
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

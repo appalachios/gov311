@@ -1,0 +1,15 @@
+name: "Town of Cedar Hill"
+level: town
+ocd_id: ocd-division/country:us/state:tn/place:cedar_hill
+parent: us/tn/robertson-county
+aliases: ["Cedar Hill"]
+website: https://www.cityofcedarhill.org/
+general_contact:
+  name: "Cedar Hill municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/cedar-hill
+  phone: "(615) 696-4802"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/cedar-hill
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

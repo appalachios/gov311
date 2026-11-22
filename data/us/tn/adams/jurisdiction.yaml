@@ -1,0 +1,15 @@
+name: "City of Adams"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:adams
+parent: us/tn/robertson-county
+aliases: ["Adams"]
+website: https://adamstennessee.net/
+general_contact:
+  name: "Adams municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/adams
+  phone: "(615) 696-2593"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/adams
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

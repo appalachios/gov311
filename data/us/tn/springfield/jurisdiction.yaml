@@ -1,0 +1,15 @@
+name: "City of Springfield"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:springfield
+parent: us/tn/robertson-county
+aliases: ["Springfield"]
+website: https://springfieldtn.gov/
+general_contact:
+  name: "Springfield municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/springfield
+  phone: "(615) 382-2200"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/springfield
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex
