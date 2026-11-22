@@ -1,0 +1,17 @@
+name: "City of Watauga"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:watauga
+parent: us/tn/_state
+county_options: ["us/tn/carter-county", "us/tn/washington-county"]
+aliases: ["Watauga"]
+website: https://www.mtas.tennessee.edu/directories/cities/watauga
+general_contact:
+  name: "Watauga municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/watauga
+  phone: "(423) 928-3490"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/watauga
+  - https://tnecd.com/?force_download=129209
+  - https://www2.census.gov/geo/docs/reference/codes2020/national_place_by_county2020.txt
+last_verified: 2026-11-22
+verified_by: codex

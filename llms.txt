@@ -394,7 +394,11 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
 
 - [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/carter-county/jurisdiction.yaml): website, main contact, and parent government
+- [Find the right office in Carter County](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/carter-county/services/choose-a-county-office.md): Find county offices for deeds, vehicle records, elections and property questions, and check municipal boundaries for local services.
+  - source-checked · Checked by codex on 2026-11-22.
 - [Find the Carter County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/carter-county/services/find-a-property-map.md): Search Carter County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a Carter County governing body decision](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/carter-county/services/follow-county-business.md): Find the regular meeting agenda, the source of the county’s authority and the record of what the governing body voted to adopt.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## Town of Caryville (us/tn/caryville)
@@ -585,6 +589,16 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 
 - [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/dyer-county/jurisdiction.yaml): website, main contact, and parent government
 - [Find the Dyer County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/dyer-county/services/find-a-property-map.md): Search Dyer County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## City of Elizabethton (us/tn/elizabethton)
+
+Parent guide sections, nearest first: Carter County, Tennessee (us/tn/carter-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/elizabethton/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Elizabethton for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/elizabethton/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Elizabethton.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Elizabethton](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/elizabethton/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## Town of Farragut (us/tn/farragut)
@@ -845,6 +859,18 @@ Parent guide sections, nearest first: Campbell County, Tennessee (us/tn/campbell
 - [Contact Jellico for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/jellico/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Jellico.
   - source-checked · Checked by codex on 2026-11-22.
 - [Follow a proposed ordinance in Jellico](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/jellico/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## City of Johnson City (us/tn/johnson-city)
+
+For county services, check which county contains the address. Choose one of these guide sections: Carter County, Tennessee (us/tn/carter-county) or Sullivan County, Tennessee (us/tn/sullivan-county) or Washington County, Tennessee (us/tn/washington-county).
+
+Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/johnson-city/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Johnson City for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/johnson-city/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Johnson City.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Johnson City](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/johnson-city/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## Johnson County, Tennessee (us/tn/johnson-county)
@@ -1561,6 +1587,18 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 
 - [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/washington-county/jurisdiction.yaml): website, main contact, and parent government
 - [Find the Washington County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/washington-county/services/find-a-property-map.md): Search Washington County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## City of Watauga (us/tn/watauga)
+
+For county services, check which county contains the address. Choose one of these guide sections: Carter County, Tennessee (us/tn/carter-county) or Washington County, Tennessee (us/tn/washington-county).
+
+Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/watauga/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Watauga for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/watauga/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Watauga.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Watauga](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/watauga/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## Wayne County, Tennessee (us/tn/wayne-county)

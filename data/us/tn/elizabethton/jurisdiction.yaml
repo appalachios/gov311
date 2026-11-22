@@ -1,0 +1,15 @@
+name: "City of Elizabethton"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:elizabethton
+parent: us/tn/carter-county
+aliases: ["Elizabethton"]
+website: https://www.elizabethton.org/
+general_contact:
+  name: "Elizabethton municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/elizabethton
+  phone: "(423) 547-6200"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/elizabethton
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex
