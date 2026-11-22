@@ -4,6 +4,11 @@ summary: "Find the municipal office, check who serves a street address and get t
 audiences: [everyone]
 keywords: ["city hall", "town hall", "municipal services", "utility service", "address", "permits"]
 sources:
+  - "https://elizabethtontn.municipalonlinepayments.com/elizabethtontn/utilities"
+  - "https://www.elizabethton.org/departments/streets___sanitation/solid_waste_services.php"
+  - "https://www.elizabethton.org/departments/city_clerk/open_records.php"
+  - "https://www.elizabethton.org/departments/city_clerk/index.php"
+  - "https://www.elizabethton.org/departments/building___codes_enforcement/index.php"
   - "https://www.mtas.tennessee.edu/directories/cities/elizabethton"
   - "https://www.elizabethton.org/"
   - "https://ci-elizabethton-tn.smartgovcommunity.com/Public/Home"
@@ -20,3 +25,11 @@ The municipality reports these services in its utility listing: **Electric, Garb
 For construction at this address, check the municipal permit office’s project instructions. [Municipal building permits](https://ci-elizabethton-tn.smartgovcommunity.com/Public/Home)
 
 For a county assessment or recorded deed, use the county where the land sits. [Carter County records](../../carter-county/services/find-a-property-map.md)
+
+## More municipal services
+
+- **Building & Codes Enforcement**. Check which permits or inspections apply to your project before starting work. [Building & Codes Enforcement](https://www.elizabethton.org/departments/building___codes_enforcement/index.php)
+- **City Clerk**. Use the municipal office contact information to ask where a city record is kept. [City Clerk](https://www.elizabethton.org/departments/city_clerk/index.php)
+- **Open Records**. Find the instructions for requesting an existing municipal record. [Open Records](https://www.elizabethton.org/departments/city_clerk/open_records.php)
+- **Solid Waste Services**. Check the collection or disposal instructions for the material you have. [Solid Waste Services](https://www.elizabethton.org/departments/streets___sanitation/solid_waste_services.php)
+- **Pay Your Utility Bill**. Use the billing page to find payment instructions for your account. [Pay Your Utility Bill](https://elizabethtontn.municipalonlinepayments.com/elizabethtontn/utilities)
