@@ -1,0 +1,15 @@
+name: "Town of Celina"
+level: town
+ocd_id: ocd-division/country:us/state:tn/place:celina
+parent: us/tn/clay-county
+aliases: ["Celina"]
+website: https://www.mtas.tennessee.edu/directories/cities/celina
+general_contact:
+  name: "Celina municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/celina
+  phone: "(931) 243-2115"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/celina
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex
