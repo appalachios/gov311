@@ -1,0 +1,15 @@
+name: "Town of Gainesboro"
+level: town
+ocd_id: ocd-division/country:us/state:tn/place:gainesboro
+parent: us/tn/jackson-county
+aliases: ["Gainesboro"]
+website: https://www.mtas.tennessee.edu/directories/cities/gainesboro
+general_contact:
+  name: "Gainesboro municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/gainesboro
+  phone: "(931) 268-9315"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/gainesboro
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex
