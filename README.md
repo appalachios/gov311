@@ -1,4 +1,4 @@
-# Gov311
+# ![Gov311](assets/brand/gov311-banner.png)
 
 Gov311 makes government easier to understand. Ask an AI assistant how to get a permit, who to call about a problem, or where to read your rights as a renter. It uses plain-language guides that point you to the office or official source for your question.
 
