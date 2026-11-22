@@ -1,0 +1,15 @@
+name: "Town of Greenback"
+level: town
+ocd_id: ocd-division/country:us/state:tn/place:greenback
+parent: us/tn/loudon-county
+aliases: ["Greenback"]
+website: https://www.greenbackgov.com/
+general_contact:
+  name: "Greenback municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/greenback
+  phone: "(865) 856-2224"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/greenback
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

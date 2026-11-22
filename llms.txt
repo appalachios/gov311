@@ -1356,6 +1356,16 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 - [Follow a proposed ordinance in Grand Junction](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/grand-junction/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
+## Town of Greenback (us/tn/greenback)
+
+Parent guide sections, nearest first: Loudon County, Tennessee (us/tn/loudon-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/greenback/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Greenback for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/greenback/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Greenback.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Greenback](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/greenback/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
 ## Greene County, Tennessee (us/tn/greene-county)
 
 Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
@@ -1996,6 +2006,16 @@ Parent guide sections, nearest first: Lawrence County, Tennessee (us/tn/lawrence
 - [Follow a proposed ordinance in Lawrenceburg](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/lawrenceburg/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
+## City of Lenoir City (us/tn/lenoir-city)
+
+Parent guide sections, nearest first: Loudon County, Tennessee (us/tn/loudon-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/lenoir-city/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Lenoir City for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/lenoir-city/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Lenoir City.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Lenoir City](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/lenoir-city/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
 ## Lewis County, Tennessee (us/tn/lewis-county)
 
 Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
@@ -2062,15 +2082,29 @@ Parent guide sections, nearest first: Lawrence County, Tennessee (us/tn/lawrence
 - [Follow a proposed ordinance in Loretto](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/loretto/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
+## City of Loudon (us/tn/loudon)
+
+Parent guide sections, nearest first: Loudon County, Tennessee (us/tn/loudon-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/loudon/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Loudon for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/loudon/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Loudon.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Loudon](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/loudon/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
 ## Loudon County, Tennessee (us/tn/loudon-county)
 
 Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
 
 - [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/loudon-county/jurisdiction.yaml): website, main contact, and parent government
+- [Find the right office in Loudon County](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/loudon-county/services/choose-a-county-office.md): Find county offices for deeds, vehicle records, elections and property questions, and check municipal boundaries for local services.
+  - source-checked · Checked by codex on 2026-11-22.
 - [Find the Loudon County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/loudon-county/services/find-a-property-map.md): Search Loudon County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
   - source-checked · Checked by codex on 2026-11-22.
 - [Find the deed, assessment or tax bill for a Loudon County parcel](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/loudon-county/services/find-property-records.md): Use Loudon County land records when the parcel lies on its side of the Knox County line. Part of Farragut falls in Loudon County.
   - source-checked · Checked by codex on 2026-11-21.
+- [Follow a Loudon County governing body decision](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/loudon-county/services/follow-county-business.md): Find the regular meeting agenda, the source of the county’s authority and the record of what the governing body voted to adopt.
+  - source-checked · Checked by codex on 2026-11-22.
 
 ## Town of Louisville (us/tn/louisville)
 
@@ -2604,6 +2638,16 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 - [Contact Petersburg for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/petersburg/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Petersburg.
   - source-checked · Checked by codex on 2026-11-22.
 - [Follow a proposed ordinance in Petersburg](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/petersburg/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## City of Philadelphia (us/tn/philadelphia)
+
+Parent guide sections, nearest first: Loudon County, Tennessee (us/tn/loudon-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/philadelphia/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Philadelphia for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/philadelphia/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Philadelphia.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Philadelphia](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/philadelphia/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## Pickett County, Tennessee (us/tn/pickett-county)

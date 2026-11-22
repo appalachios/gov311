@@ -1,0 +1,14 @@
+name: "City of Philadelphia"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:philadelphia
+parent: us/tn/loudon-county
+aliases: ["Philadelphia"]
+website: https://www.mtas.tennessee.edu/directories/cities/philadelphia
+general_contact:
+  name: "Philadelphia municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/philadelphia
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/philadelphia
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex
