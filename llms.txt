@@ -2320,6 +2320,16 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 - [Follow a Madison County governing body decision](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/madison-county/services/follow-county-business.md): Find the regular meeting agenda, the source of the county’s authority and the record of what the governing body voted to adopt.
   - source-checked · Checked by codex on 2026-11-22.
 
+## City of Madisonville (us/tn/madisonville)
+
+Parent guide sections, nearest first: Monroe County, Tennessee (us/tn/monroe-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/madisonville/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Madisonville for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/madisonville/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Madisonville.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Madisonville](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/madisonville/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
 ## City of Manchester (us/tn/manchester)
 
 Parent guide sections, nearest first: Coffee County, Tennessee (us/tn/coffee-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
@@ -2531,7 +2541,11 @@ Parent guide sections, nearest first: Giles County, Tennessee (us/tn/giles-count
 Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
 
 - [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/monroe-county/jurisdiction.yaml): website, main contact, and parent government
+- [Find the right office in Monroe County](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/monroe-county/services/choose-a-county-office.md): Find county offices for deeds, vehicle records, elections and property questions, and check municipal boundaries for local services.
+  - source-checked · Checked by codex on 2026-11-22.
 - [Find the Monroe County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/monroe-county/services/find-a-property-map.md): Search Monroe County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a Monroe County governing body decision](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/monroe-county/services/follow-county-business.md): Find the regular meeting agenda, the source of the county’s authority and the record of what the governing body voted to adopt.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## Town of Monteagle (us/tn/monteagle)
@@ -3494,6 +3508,18 @@ Parent guide sections, nearest first: Hawkins County, Tennessee (us/tn/hawkins-c
 - [Follow a proposed ordinance in Surgoinsville](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/surgoinsville/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
+## City of Sweetwater (us/tn/sweetwater)
+
+For county services, check which county contains the address. Choose one of these guide sections: Monroe County, Tennessee (us/tn/monroe-county) or McMinn County, Tennessee (us/tn/mcminn-county).
+
+Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/sweetwater/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Sweetwater for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/sweetwater/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Sweetwater.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Sweetwater](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/sweetwater/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
 ## Town of Tazewell (us/tn/tazewell)
 
 Parent guide sections, nearest first: Claiborne County, Tennessee (us/tn/claiborne-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
@@ -3502,6 +3528,16 @@ Parent guide sections, nearest first: Claiborne County, Tennessee (us/tn/claibor
 - [Contact Tazewell for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/tazewell/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Tazewell.
   - source-checked · Checked by codex on 2026-11-22.
 - [Follow a proposed ordinance in Tazewell](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/tazewell/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## Town of Tellico Plains (us/tn/tellico-plains)
+
+Parent guide sections, nearest first: Monroe County, Tennessee (us/tn/monroe-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/tellico-plains/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Tellico Plains for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/tellico-plains/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Tellico Plains.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Tellico Plains](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/tellico-plains/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## Town of Tennessee Ridge (us/tn/tennessee-ridge)
@@ -3668,6 +3704,16 @@ Parent guide sections, nearest first: Dickson County, Tennessee (us/tn/dickson-c
 - [Contact Vanleer for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/vanleer/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Vanleer.
   - source-checked · Checked by codex on 2026-11-22.
 - [Follow a proposed ordinance in Vanleer](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/vanleer/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## Town of Vonore (us/tn/vonore)
+
+Parent guide sections, nearest first: Monroe County, Tennessee (us/tn/monroe-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/vonore/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Vonore for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/vonore/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Vonore.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Vonore](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/vonore/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## Town of Walden (us/tn/walden)

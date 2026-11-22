@@ -1,0 +1,15 @@
+name: "City of Madisonville"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:madisonville
+parent: us/tn/monroe-county
+aliases: ["Madisonville"]
+website: https://www.madisonvilletn.net/
+general_contact:
+  name: "Madisonville municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/madisonville
+  phone: "(423) 442-9416"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/madisonville
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

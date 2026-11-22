@@ -1,0 +1,15 @@
+name: "Town of Vonore"
+level: town
+ocd_id: ocd-division/country:us/state:tn/place:vonore
+parent: us/tn/monroe-county
+aliases: ["Vonore"]
+website: https://www.town-of-vonore.com/
+general_contact:
+  name: "Vonore municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/vonore
+  phone: "(423) 884-6211"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/vonore
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex
