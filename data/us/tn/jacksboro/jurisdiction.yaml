@@ -1,0 +1,15 @@
+name: "Town of Jacksboro"
+level: town
+ocd_id: ocd-division/country:us/state:tn/place:jacksboro
+parent: us/tn/campbell-county
+aliases: ["Jacksboro"]
+website: https://www.mtas.tennessee.edu/directories/cities/jacksboro
+general_contact:
+  name: "Jacksboro municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/jacksboro
+  phone: "(423) 562-9312"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/jacksboro
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

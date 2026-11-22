@@ -1,0 +1,15 @@
+name: "City of Jellico"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:jellico
+parent: us/tn/campbell-county
+aliases: ["Jellico"]
+website: https://www.mtas.tennessee.edu/directories/cities/jellico
+general_contact:
+  name: "Jellico municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/jellico
+  phone: "(423) 784-6351"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/jellico
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex
