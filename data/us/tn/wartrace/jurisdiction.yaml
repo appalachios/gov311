@@ -1,0 +1,11 @@
+name: Town of Wartrace
+level: town
+ocd_id: ocd-division/country:us/state:tn/place:wartrace
+parent: us/tn/bedford-county
+aliases: [Wartrace]
+website: https://www.townofwartrace.com/
+sources:
+  - https://www.townofwartrace.com/
+  - https://www.ctas.tennessee.edu/county/bedford
+last_verified: 2026-11-22
+verified_by: codex

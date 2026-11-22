@@ -1,0 +1,11 @@
+name: Town of Bell Buckle
+level: town
+ocd_id: ocd-division/country:us/state:tn/place:bell_buckle
+parent: us/tn/bedford-county
+aliases: [Bell Buckle]
+website: https://www.townofbellbuckle.com/
+sources:
+  - https://www.townofbellbuckle.com/
+  - https://www.ctas.tennessee.edu/county/bedford
+last_verified: 2026-11-22
+verified_by: codex

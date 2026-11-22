@@ -1,0 +1,11 @@
+name: City of Shelbyville
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:shelbyville
+parent: us/tn/bedford-county
+aliases: [Shelbyville]
+website: https://www.shelbyvilletn.org/
+sources:
+  - https://www.shelbyvilletn.org/
+  - https://www.ctas.tennessee.edu/county/bedford
+last_verified: 2026-11-22
+verified_by: codex
