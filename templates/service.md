@@ -13,6 +13,7 @@ forms:
 apply:
   online: https://example.gov/apply
   in_person: Street address of the office
+  # by_email: applications@example.gov
 timeline: Where the office states how long it takes.
 deadline: Where the office states the filing deadline, if one applies.
 sources:
@@ -21,7 +22,7 @@ last_verified: 2026-01-01
 verified_by: your-username-or-tool-name
 trust: draft
 # After checking the official sources, update the checker, date, and trust level.
-# If evidence is missing or conflicts, describe the open question under human_review.
+# Use human_review for material questions that remain open after checking the controlling records.
 ---
 
 ## Who needs this

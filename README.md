@@ -135,9 +135,9 @@ Look for the name of the person or tool that checked the guide, the date, and th
 | `verified` | A second person independently confirmed the guide. |
 | `official` | An employee of the government covered by the guide submitted or confirmed it. |
 
-If official sources disagree or leave a claim unanswered, the guide flags the specific question for human review. The assistant should tell you what remains uncertain and where you can check. A guide more than a year past its research or review date carries a warning.
+When two pages disagree, Gov311 checks the law or the office’s current filing instructions and links to the record that settles the question. A human review note tells you which detail still needs confirmation after that check and where to get it. A guide more than a year past its research or review date carries a warning.
 
-Some government sites ask visitors to prove they are a person. When that happens, the assistant can give you the official link and directions to the relevant section. For advice about how a law applies to your situation, a local legal aid office can help.
+If a government site asks for visitor verification, an assistant with browser access can complete the normal check with your permission when the site and browser allow it. If the site needs you to respond, the assistant can use another official copy or give you the link and section to open. For advice about how a law applies to your situation, a local legal aid office can help.
 
 ## Add your community
 

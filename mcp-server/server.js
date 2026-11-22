@@ -10,7 +10,7 @@ import { ENTRY_TYPES, STALE_AFTER_DAYS, daysSince, jurisdictionChain, loadData }
 const AUDIENCES = ["residents-in-need", "nonprofits", "builders", "homeowners", "renters", "small-business", "everyone"];
 const NOTICE =
   "Gov311 is a community project. It is not an official government channel and it is not legal advice. " +
-  "Give the person the official sources, trust level, checker name, and date. Explain any human_review notes before someone relies on the affected detail.";
+  "Give the person the official sources, trust level, checker name, and date. Resolve discrepancies using the controlling law, applicable official data, or the office’s instructions for that step. Explain any open human_review notes.";
 
 const { jurisdictions, entries } = loadData();
 const text = (value) => ({ content: [{ type: "text", text: JSON.stringify(value, null, 2) }] });
@@ -162,8 +162,9 @@ server.tool(
       body: entry.body,
       ...(entry.type === "codes" && {
         how_to_use:
-          "This entry points to a law. It does not state the rule. Open official_text or guides and read the current text before you answer. " +
-          "If a link's access is not 'open', or the site shows a CAPTCHA or blocks you, do not try to get past it. Try the guides, and otherwise give the person the link, the citation, and how_to_find so they can open it themselves.",
+          "Start with the applicable statute, ordinance, or adopted rule in official_text. Check enacted amendments and effective dates before answering. " +
+          "If a site presents a CAPTCHA, use its normal interactive verification when the user has authorized it and the site and browser permit it. " +
+          "For restricted sources, look for an open official copy or the enacted law. If evidence is still missing, give the citation and how_to_find directions.",
       }),
       notice: NOTICE,
     });

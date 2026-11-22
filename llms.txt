@@ -145,9 +145,8 @@ To answer a question, find the person's city or county below, then read the matc
   - source-checked · Checked by codex on 2026-11-21.
 - [Find a Tennessee veterans service officer for help with a claim](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/_state/contacts/veterans-service-offices.md): The Tennessee Department of Veterans Services lists state field offices and county service officers. You can make an appointment for help filing a veterans benefits claim.
   - source-checked · Checked by codex on 2026-11-21.
-- [Where to find Tennessee's landlord and tenant law](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/_state/codes/renter-protections.md): Points to the Tennessee law that covers eviction notices, lockouts, repairs, security deposits, and late fees for renters, to plain-language guides from legal aid, and to free legal help.
-  - draft · Research by codex on 2026-11-21.
-  - Human review (conflicting evidence). The Attorney General and Help4TN list different counties. Have a reviewer confirm county coverage against the current text of section 66-28-102 before using either list.
+- [Where to find Tennessee's landlord and tenant law](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/_state/codes/renter-protections.md): Find the 17 counties covered by Tennessee’s Uniform Residential Landlord and Tenant Act, where to read the law on repairs and eviction, and how to reach free legal help.
+  - source-checked · Checked by codex on 2026-11-21.
 - [Where to find Tennessee state agency rules and proposed changes](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/_state/codes/state-agency-rules.md): The Secretary of State publishes the official compilation of agency rules and the Administrative Register, where agencies publish notices and proposed changes.
   - source-checked · Checked by codex on 2026-11-21.
 - [Where to read the Tennessee Code and newly enacted laws](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/_state/codes/tennessee-code.md): Use the Tennessee Code to look up a statute, a public chapter to read the change lawmakers enacted, or the private acts index for a law affecting one city or county.
@@ -168,9 +167,8 @@ To answer a question, find the person's city or county below, then read the matc
 ## Metropolitan Government of Nashville and Davidson County (us/tn/nashville)
 
 - [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/nashville/jurisdiction.yaml): website, main contact, and parent government
-- [Get a residential building permit in Nashville](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/nashville/services/residential-building-permit.md): How to apply for a building permit for a house in Nashville, including what to gather, how homeowners and contractors apply, and where Metro publishes the fees and the list of projects that need a permit.
-  - draft · Research by codex on 2026-11-21.
-  - Human review (conflicting evidence). Metro’s residential permit instructions accept applications by email. Its ePermits page tells homeowners to apply in person. Ask the Zoning Help Desk whether a homeowner can complete filing by email.
+- [Get a residential building permit in Nashville](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/nashville/services/residential-building-permit.md): Homeowners can email a signed application and notarized affidavits to start a Nashville residential self-permit. After the required approvals, contact Permit Issuance to obtain the permit. Registered contractors can file through ePermits.
+  - source-checked · Checked by codex on 2026-11-21.
 - [Metro Nashville Department of Codes and Building Safety](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/nashville/contacts/codes-department.md): The Metro department that issues building permits, answers zoning questions, inspects construction, and enforces property standards.
   - source-checked · Checked by codex on 2026-11-21.
 - [hubNashville 311, Nashville's line for service requests and questions](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/nashville/contacts/hubnashville.md): hubNashville is the one place to request a Metro Nashville service, ask a question, or give feedback. You do not need to know which department handles your issue.

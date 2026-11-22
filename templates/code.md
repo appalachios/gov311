@@ -1,6 +1,6 @@
 ---
 title: Where to find [plain name of the rule or law]
-summary: One or two plain sentences that say what the law covers and who it affects. Do not state the rule.
+summary: One or two plain sentences that say what the law covers and who it affects.
 audiences: [builders]
 keywords: [words, people, actually, use]
 citation: Official citation, if the law has one
@@ -10,7 +10,7 @@ covers:
 official_text:
   - name: Name of the code or statute
     url: https://example.gov/code
-    access: open # open, captcha, blocks-automated-tools, login, or paywall
+    access: open # open, captcha, blocks-automated-tools, terms-of-use, login, or paywall
     how_to_find: Which title, chapter, or section to open.
 unofficial_copies: # Optional. Open copies from an established legal publisher, for when the official site blocks AI tools.
   - name: Publisher name, title of the copy
@@ -25,12 +25,12 @@ last_verified: 2026-01-01
 verified_by: your-username-or-tool-name
 trust: draft
 # After checking the official sources, update the checker, date, and trust level.
-# If evidence is missing or conflicts, describe the open question under human_review.
+# Use human_review for material questions that remain open after checking the controlling records.
 ---
 
 ## What this covers
 
-Say what the law is about and who it affects. Do not state what the law requires. Gov311 points to laws. It does not restate them.
+Say what the law is about and who it affects. If two sources disagree, identify the specific finding and link to the provision and official records that settle it.
 
 ## Where to read it
 

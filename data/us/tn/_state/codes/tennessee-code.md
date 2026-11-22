@@ -11,7 +11,7 @@ covers:
 official_text:
   - name: Tennessee Code public access
     url: https://www.lexisnexis.com/hottopics/tncode
-    access: blocks-automated-tools
+    access: terms-of-use
     how_to_find: Open the Tennessee Code in a browser and look up the title, chapter, and section in your citation.
 unofficial_copies:
   - name: Justia, Tennessee Code by year

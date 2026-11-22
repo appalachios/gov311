@@ -95,6 +95,7 @@
         "online": { "type": "string", "format": "uri", "pattern": "^https://" },
         "in_person": { "type": "string" },
         "by_mail": { "type": "string" },
+        "by_email": { "type": "string", "format": "email" },
         "by_phone": { "type": "string" }
       }
     },
@@ -119,8 +120,8 @@
           "name": { "type": "string" },
           "url": { "type": "string", "format": "uri", "pattern": "^https://" },
           "access": {
-            "description": "open: anyone and any tool can read it. captcha: the site makes visitors prove they are a person. blocks-automated-tools: the site turns away AI tools and scripts without showing a challenge. login: needs a free account. paywall: costs money.",
-            "enum": ["open", "captcha", "blocks-automated-tools", "login", "paywall"]
+            "description": "open: public text. captcha: the site presents a visitor check. blocks-automated-tools: the site turns away automated readers. terms-of-use: the publisher requires agreement to terms before showing the text. login: needs a free account. paywall: costs money.",
+            "enum": ["open", "captcha", "blocks-automated-tools", "terms-of-use", "login", "paywall"]
           },
           "how_to_find": { "description": "How to get from this link to the right section.", "type": "string" }
         }
