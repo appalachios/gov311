@@ -4,6 +4,7 @@ summary: "Find the meeting, read the proposed language against the charter and c
 audiences: [everyone]
 keywords: ["ordinance", "charter", "code", "agenda", "pending law", "meeting", "amendment", "minutes"]
 sources:
+  - "https://www.mtas.tennessee.edu/system/files/codes/burns-t1.pdf"
   - "https://www.mtas.tennessee.edu/directories/cities/burns"
   - "https://www.mtas.tennessee.edu/code/municipal-code-burns"
   - "https://www.mtas.tennessee.edu/charter/burns"
@@ -19,3 +20,5 @@ To follow a proposal in Burns, get the dated meeting notice, agenda, proposed te
 Look up the charter for the governing body’s powers, readings and vote requirements. Compare a proposed ordinance with the current code section it would change. [Municipal Code](https://www.mtas.tennessee.edu/code/municipal-code-burns) · [Municipal Charter](https://www.mtas.tennessee.edu/charter/burns)
 
 After the meeting, use the minutes to identify the motion that actually passed. Ask the recorder or clerk for the adopted ordinance, any amendments and the effective date. A proposal can change during consideration, and a recent ordinance may still be waiting to appear in the code. [Tennessee agenda and minutes requirements](https://comptroller.tn.gov/office-functions/open-records-counsel/open-meetings/frequently-asked-questions/tennessee-open-meetings-act-faqs.html)
+
+Burns Code § 1-104 requires three affirmative votes and two readings at meetings at least a week apart. An emergency measure can take effect on adoption if it states the emergency and wins four votes on both readings on successive days. Franchises, exclusive contracts and special privileges cannot use that procedure. [Charter classification](https://www.mtas.tennessee.edu/charter/burns) · [Governing text](https://www.mtas.tennessee.edu/system/files/codes/burns-t1.pdf)
