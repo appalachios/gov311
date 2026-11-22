@@ -1,0 +1,15 @@
+name: "Town of Sneedville"
+level: town
+ocd_id: ocd-division/country:us/state:tn/place:sneedville
+parent: us/tn/hancock-county
+aliases: ["Sneedville"]
+website: https://www.mtas.tennessee.edu/directories/cities/sneedville
+general_contact:
+  name: "Sneedville municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/sneedville
+  phone: "(423) 733-2254"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/sneedville
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex
