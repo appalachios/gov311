@@ -1,0 +1,16 @@
+name: "City of Spring Hill"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:spring_hill
+parent: us/tn/_state
+county_options: ["us/tn/maury-county", "us/tn/williamson-county"]
+aliases: ["Spring Hill"]
+website: https://www.springhilltn.org/
+general_contact:
+  name: "Spring Hill municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/spring-hill
+  phone: "(931) 486-2252"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/spring-hill
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

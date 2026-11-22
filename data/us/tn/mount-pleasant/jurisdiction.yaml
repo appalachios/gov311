@@ -1,0 +1,15 @@
+name: "City of Mount Pleasant"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:mount_pleasant
+parent: us/tn/maury-county
+aliases: ["Mount Pleasant"]
+website: https://www.mtpleasant-tn.gov/
+general_contact:
+  name: "Mount Pleasant municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/mount-pleasant
+  phone: "(931) 379-7717"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/mount-pleasant
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

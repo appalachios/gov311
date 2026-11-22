@@ -1,0 +1,15 @@
+name: "City of Columbia"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:columbia
+parent: us/tn/maury-county
+aliases: ["Columbia"]
+website: https://www.columbiatn.gov/
+general_contact:
+  name: "Columbia municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/columbia
+  phone: "(931) 560-1500"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/columbia
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex
