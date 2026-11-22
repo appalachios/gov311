@@ -448,8 +448,12 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
 
 - [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/chester-county/jurisdiction.yaml): website, main contact, and parent government
+- [Find the right office in Chester County](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/chester-county/services/choose-a-county-office.md): Find county offices for deeds, vehicle records, elections and property questions, and check municipal boundaries for local services.
+  - source-checked · Checked by codex on 2026-11-22.
 - [Find a Chester County parcel map, assessment or tax bill](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/chester-county/services/find-a-property-map.md): Open the assessor’s Citizen Access Portal for parcel maps, property cards and sales. The trustee, election commission and school district offer separate lookups for bills, commissioners and school zones.
   - source-checked · Checked by codex on 2026-11-21.
+- [Follow a Chester County governing body decision](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/chester-county/services/follow-county-business.md): Find the regular meeting agenda, the source of the county’s authority and the record of what the governing body voted to adopt.
+  - source-checked · Checked by codex on 2026-11-22.
 
 ## Claiborne County, Tennessee (us/tn/claiborne-county)
 
@@ -615,6 +619,18 @@ Parent guide sections, nearest first: Carter County, Tennessee (us/tn/carter-cou
 - [Follow a proposed ordinance in Elizabethton](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/elizabethton/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
+## Town of Enville (us/tn/enville)
+
+For county services, check which county contains the address. Choose one of these guide sections: Chester County, Tennessee (us/tn/chester-county) or McNairy County, Tennessee (us/tn/mcnairy-county).
+
+Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/enville/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Enville for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/enville/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Enville.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Enville](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/enville/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
 ## Town of Farragut (us/tn/farragut)
 
 For county services, check which county contains the address. Choose one of these guide sections: Knox County, Tennessee (us/tn/knox-county) or Loudon County, Tennessee (us/tn/loudon-county).
@@ -777,6 +793,16 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 
 - [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/haywood-county/jurisdiction.yaml): website, main contact, and parent government
 - [Find the Haywood County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/haywood-county/services/find-a-property-map.md): Search Haywood County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## City of Henderson (us/tn/henderson)
+
+Parent guide sections, nearest first: Chester County, Tennessee (us/tn/chester-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/henderson/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Henderson for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/henderson/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Henderson.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Henderson](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/henderson/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## Henderson County, Tennessee (us/tn/henderson-county)
@@ -1195,6 +1221,18 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 - [Find the Meigs County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/meigs-county/services/find-a-property-map.md): Search Meigs County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
   - source-checked · Checked by codex on 2026-11-22.
 
+## Town of Milledgeville (us/tn/milledgeville)
+
+For county services, check which county contains the address. Choose one of these guide sections: Chester County, Tennessee (us/tn/chester-county) or Hardin County, Tennessee (us/tn/hardin-county) or McNairy County, Tennessee (us/tn/mcnairy-county).
+
+Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/milledgeville/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Milledgeville for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/milledgeville/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Milledgeville.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Milledgeville](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/milledgeville/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
 ## Monroe County, Tennessee (us/tn/monroe-county)
 
 Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
@@ -1511,6 +1549,18 @@ Parent guide sections, nearest first: Bedford County, Tennessee (us/tn/bedford-c
 - [Apply for a Shelbyville building permit](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/shelbyville/services/apply-for-a-building-permit.md): Use the city’s building department and application portal for a project inside Shelbyville.
   - source-checked · Checked by codex on 2026-11-22.
 - [Follow a Shelbyville ordinance through City Council](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/shelbyville/services/follow-a-local-law.md): Find the proposal, read past the title and check new ordinances awaiting inclusion in the municipal code.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## Town of Silerton (us/tn/silerton)
+
+For county services, check which county contains the address. Choose one of these guide sections: Chester County, Tennessee (us/tn/chester-county) or Hardeman County, Tennessee (us/tn/hardeman-county).
+
+Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/silerton/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Silerton for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/silerton/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Silerton.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Silerton](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/silerton/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## Smith County, Tennessee (us/tn/smith-county)

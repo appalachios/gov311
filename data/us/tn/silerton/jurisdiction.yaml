@@ -1,0 +1,16 @@
+name: "Town of Silerton"
+level: town
+ocd_id: ocd-division/country:us/state:tn/place:silerton
+parent: us/tn/_state
+county_options: ["us/tn/chester-county", "us/tn/hardeman-county"]
+aliases: ["Silerton"]
+website: https://www.mtas.tennessee.edu/directories/cities/silerton
+general_contact:
+  name: "Silerton municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/silerton
+  phone: "(731) 608-5072"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/silerton
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

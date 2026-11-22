@@ -1,0 +1,16 @@
+name: "Town of Milledgeville"
+level: town
+ocd_id: ocd-division/country:us/state:tn/place:milledgeville
+parent: us/tn/_state
+county_options: ["us/tn/chester-county", "us/tn/hardin-county", "us/tn/mcnairy-county"]
+aliases: ["Milledgeville"]
+website: https://www.mtas.tennessee.edu/directories/cities/milledgeville
+general_contact:
+  name: "Milledgeville municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/milledgeville
+  phone: "(731) 687-3011"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/milledgeville
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex
