@@ -4,6 +4,7 @@ summary: "Find the municipal office, check who serves a street address and get t
 audiences: [everyone]
 keywords: ["city hall", "town hall", "municipal services", "utility service", "address", "permits"]
 sources:
+  - "https://www.cityofkentontn.com/water-sewer/"
   - "https://www.mtas.tennessee.edu/directories/cities/kenton"
   - "https://www.cityofkentontn.com/"
   - "https://tnecd.com/?force_download=129209"
@@ -17,3 +18,7 @@ The municipal directory lists **108 North Poplar Street, Kenton, TN 38233** as t
 The municipality reports these services in its utility listing: **Sewer, Water**. Give the service address and ask whether the municipal system serves that location, how to start service and where to report a problem. [Municipal utilities listing](https://www.mtas.tennessee.edu/directories/cities/kenton)
 
 For a county assessment or recorded deed, use the county where the land sits. The municipality extends into Gibson, Obion. [Gibson County records](../../gibson-county/services/find-a-property-map.md) · [Obion County records](../../obion-county/services/find-a-property-map.md)
+
+## More municipal services
+
+- **Water & Sewer**. Find the city utility office and check who serves the address. [Water & Sewer](https://www.cityofkentontn.com/water-sewer/)
