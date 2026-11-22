@@ -1,0 +1,15 @@
+name: "City of Cowan"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:cowan
+parent: us/tn/franklin-county
+aliases: ["Cowan"]
+website: https://www.cityofcowan.com/
+general_contact:
+  name: "Cowan municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/cowan
+  phone: "(931) 967-7318"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/cowan
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

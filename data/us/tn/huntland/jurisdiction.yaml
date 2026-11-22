@@ -1,0 +1,15 @@
+name: "Town of Huntland"
+level: town
+ocd_id: ocd-division/country:us/state:tn/place:huntland
+parent: us/tn/franklin-county
+aliases: ["Huntland"]
+website: https://www.mtas.tennessee.edu/directories/cities/huntland
+general_contact:
+  name: "Huntland municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/huntland
+  phone: "(931) 469-0283"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/huntland
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex
