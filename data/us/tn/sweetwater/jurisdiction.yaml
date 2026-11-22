@@ -1,0 +1,17 @@
+name: "City of Sweetwater"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:sweetwater
+parent: us/tn/_state
+county_options: ["us/tn/monroe-county", "us/tn/mcminn-county"]
+aliases: ["Sweetwater"]
+website: https://www.sweetwatertn.gov/
+general_contact:
+  name: "Sweetwater municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/sweetwater
+  phone: "(423) 337-6979"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/sweetwater
+  - https://tnecd.com/?force_download=129209
+  - https://www2.census.gov/geo/docs/reference/codes2020/national_place_by_county2020.txt
+last_verified: 2026-11-22
+verified_by: codex

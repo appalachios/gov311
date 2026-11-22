@@ -1,0 +1,15 @@
+name: "Town of Tellico Plains"
+level: town
+ocd_id: ocd-division/country:us/state:tn/place:tellico_plains
+parent: us/tn/monroe-county
+aliases: ["Tellico Plains"]
+website: https://www.tellicoplainstn.com/
+general_contact:
+  name: "Tellico Plains municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/tellico-plains
+  phone: "(423) 253-2030"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/tellico-plains
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex
