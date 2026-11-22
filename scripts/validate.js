@@ -47,7 +47,7 @@ for (const j of jurisdictions.values()) {
     }
     for (const id of j.meta.county_options) {
       const county = jurisdictions.get(id);
-      if (county?.meta.level !== "county" || county.meta.parent !== j.meta.parent) {
+      if (!["county", "consolidated-city-county"].includes(county?.meta.level) || county.meta.parent !== j.meta.parent) {
         fail(j.file, `county_options includes "${id}", which must be a county in the same state.`);
       }
     }

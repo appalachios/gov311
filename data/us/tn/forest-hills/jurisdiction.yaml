@@ -1,0 +1,15 @@
+name: "City of Forest Hills"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:forest_hills
+parent: us/tn/nashville
+aliases: ["Forest Hills"]
+website: https://www.mtas.tennessee.edu/directories/cities/forest-hills
+general_contact:
+  name: "Forest Hills municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/forest-hills
+  phone: "(615) 372-8677"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/forest-hills
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

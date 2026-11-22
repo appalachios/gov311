@@ -105,7 +105,7 @@ server.tool(
       return text({ error: `Unknown jurisdiction "${jurisdiction}". Call find_jurisdiction or list_jurisdictions first.` });
     }
     const chain = jurisdiction ? jurisdictionChain(jurisdictions, jurisdiction, county).map((j) => j.id) : null;
-    if (county && (jurisdictions.get(county)?.meta.level !== "county" || !chain?.includes(county))) {
+    if (county && (!["county", "consolidated-city-county"].includes(jurisdictions.get(county)?.meta.level) || !chain?.includes(county))) {
       return text({ error: "The county must cover the requested jurisdiction. Check find_jurisdiction for the available counties." });
     }
     const options = jurisdictions.get(jurisdiction)?.meta.county_options;

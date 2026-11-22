@@ -1,0 +1,16 @@
+name: "Town of Ridgetop"
+level: town
+ocd_id: ocd-division/country:us/state:tn/place:ridgetop
+parent: us/tn/_state
+county_options: ["us/tn/nashville", "us/tn/robertson-county"]
+aliases: ["Ridgetop"]
+website: https://ridgetoptn.org/
+general_contact:
+  name: "Ridgetop municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/ridgetop
+  phone: "(615) 859-0596"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/ridgetop
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

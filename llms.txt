@@ -264,6 +264,16 @@ Parent guide sections, nearest first: Bedford County, Tennessee (us/tn/bedford-c
 - [Pay a Bell Buckle water bill](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/bell-buckle/services/pay-a-water-bill.md): Use the payment portal linked by the water department and find the town’s drinking water reports.
   - source-checked · Checked by codex on 2026-11-22.
 
+## City of Belle Meade (us/tn/belle-meade)
+
+Parent guide sections, nearest first: Metropolitan Government of Nashville and Davidson County (us/tn/nashville) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/belle-meade/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Belle Meade for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/belle-meade/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Belle Meade.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Belle Meade](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/belle-meade/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
 ## City of Bells (us/tn/bells)
 
 Parent guide sections, nearest first: Crockett County, Tennessee (us/tn/crockett-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
@@ -309,6 +319,16 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 - [Get a deed or plat in Benton County](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/benton-county/services/request-a-recorded-deed.md): Use the parcel record to identify the land and ask the register for the recorded document.
   - source-checked · Checked by codex on 2026-11-22.
 - [Get vehicle tags, a marriage license or county commission records](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/benton-county/services/use-the-county-clerk.md): Start with the Benton County Clerk for a title, registration, license or the official county legislative record.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## City of Berry Hill (us/tn/berry-hill)
+
+Parent guide sections, nearest first: Metropolitan Government of Nashville and Davidson County (us/tn/nashville) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/berry-hill/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Berry Hill for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/berry-hill/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Berry Hill.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Berry Hill](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/berry-hill/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## Town of Big Sandy (us/tn/big-sandy)
@@ -765,6 +785,16 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 - [Find the Fentress County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/fentress-county/services/find-a-property-map.md): Search Fentress County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
   - source-checked · Checked by codex on 2026-11-22.
 
+## City of Forest Hills (us/tn/forest-hills)
+
+Parent guide sections, nearest first: Metropolitan Government of Nashville and Davidson County (us/tn/nashville) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/forest-hills/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Forest Hills for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/forest-hills/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Forest Hills.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Forest Hills](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/forest-hills/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
 ## Franklin County, Tennessee (us/tn/franklin-county)
 
 Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
@@ -817,6 +847,18 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 
 - [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/giles-county/jurisdiction.yaml): website, main contact, and parent government
 - [Find the Giles County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/giles-county/services/find-a-property-map.md): Search Giles County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## City of Goodlettsville (us/tn/goodlettsville)
+
+For county services, check which county contains the address. Choose one of these guide sections: Metropolitan Government of Nashville and Davidson County (us/tn/nashville) or Sumner County, Tennessee (us/tn/sumner-county).
+
+Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/goodlettsville/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Goodlettsville for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/goodlettsville/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Goodlettsville.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Goodlettsville](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/goodlettsville/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## Grainger County, Tennessee (us/tn/grainger-county)
@@ -1404,10 +1446,18 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
 
 - [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/nashville/jurisdiction.yaml): website, main contact, and parent government
+- [Find the right office in Davidson County](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/nashville/services/choose-a-county-office.md): Find county offices for deeds, vehicle records, elections and property questions, and check municipal boundaries for local services.
+  - source-checked · Checked by codex on 2026-11-22.
 - [Find a Davidson County parcel in Nashville Parcel Viewer](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/nashville/services/find-a-property-map.md): Look up a parcel’s owner, assessment history, zoning and permits. Use the parcel or address to check a Metro tax bill, find a council member or look up a school.
   - source-checked · Checked by codex on 2026-11-21.
+- [Follow a Davidson County governing body decision](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/nashville/services/follow-county-business.md): Find the regular meeting agenda, the source of the county’s authority and the record of what the governing body voted to adopt.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Contact Nashville for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/nashville/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Nashville.
+  - source-checked · Checked by codex on 2026-11-22.
 - [Get a residential building permit in Nashville](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/nashville/services/residential-building-permit.md): Homeowners can email a signed application and notarized affidavits to start a Nashville residential self-permit. After the required approvals, contact Permit Issuance to obtain the permit. Registered contractors can file through ePermits.
   - source-checked · Checked by codex on 2026-11-21.
+- [Follow a proposed ordinance in Nashville](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/nashville/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
 - [Metro Nashville Department of Codes and Building Safety](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/nashville/contacts/codes-department.md): The Metro department that issues building permits, answers zoning questions, inspects construction, and enforces property standards.
   - source-checked · Checked by codex on 2026-11-21.
 - [hubNashville 311, Nashville's line for service requests and questions](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/nashville/contacts/hubnashville.md): hubNashville is the one place to request a Metro Nashville service, ask a question, or give feedback. You do not need to know which department handles your issue.
@@ -1457,6 +1507,16 @@ Parent guide sections, nearest first: Anderson County, Tennessee (us/tn/anderson
 - [Choose a Norris permit, utility or records form](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/norris/services/find-the-right-city-application.md): Find the city’s building, sign, zoning, utility and public records applications in one place.
   - source-checked · Checked by codex on 2026-11-22.
 - [Follow an ordinance through Norris City Council](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/norris/services/follow-a-council-measure.md): Use the dated council packet, council minutes and ordinance files to check changes to proposed language.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## City of Oak Hill (us/tn/oak-hill)
+
+Parent guide sections, nearest first: Metropolitan Government of Nashville and Davidson County (us/tn/nashville) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/oak-hill/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Oak Hill for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/oak-hill/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Oak Hill.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Oak Hill](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/oak-hill/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## City of Oak Ridge (us/tn/oak-ridge)
@@ -1633,6 +1693,18 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 
 - [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/rhea-county/jurisdiction.yaml): website, main contact, and parent government
 - [Find the Rhea County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/rhea-county/services/find-a-property-map.md): Search Rhea County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## Town of Ridgetop (us/tn/ridgetop)
+
+For county services, check which county contains the address. Choose one of these guide sections: Metropolitan Government of Nashville and Davidson County (us/tn/nashville) or Robertson County, Tennessee (us/tn/robertson-county).
+
+Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/ridgetop/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Ridgetop for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/ridgetop/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Ridgetop.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Ridgetop](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/ridgetop/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## Roane County, Tennessee (us/tn/roane-county)
