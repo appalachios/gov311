@@ -4,6 +4,7 @@ summary: "Find the meeting, read the proposed language against the charter and c
 audiences: [everyone]
 keywords: ["ordinance", "charter", "code", "agenda", "pending law", "meeting", "amendment", "minutes"]
 sources:
+  - "https://www.mtas.tennessee.edu/system/files/codes/friendship-t1.pdf#page=21"
   - "https://www.mtas.tennessee.edu/directories/cities/friendship"
   - "https://www.mtas.tennessee.edu/code/municipal-code-friendship"
   - "https://www.mtas.tennessee.edu/charter/friendship"
@@ -18,3 +19,5 @@ To follow a proposal in Friendship, get the dated meeting notice, agenda, propos
 Look up the charter for the governing body’s powers, readings and vote requirements. Compare a proposed ordinance with the current code section it would change. [Municipal Code](https://www.mtas.tennessee.edu/code/municipal-code-friendship) · [Municipal Charter](https://www.mtas.tennessee.edu/charter/friendship)
 
 After the meeting, use the minutes to identify the motion that actually passed. Ask the recorder or clerk for the adopted ordinance, any amendments and the effective date. A proposal can change during consideration, and a recent ordinance may still be waiting to appear in the code. [Tennessee agenda and minutes requirements](https://comptroller.tn.gov/office-functions/open-records-counsel/open-meetings/frequently-asked-questions/tennessee-open-meetings-act-faqs.html)
+
+An ordinance goes to each board member at introduction and can pass on one reading with a majority of members present. It takes effect only after the mayor signs and approves it and the recorder attests to it. [Charter classification](https://www.mtas.tennessee.edu/charter/friendship) · [Governing text](https://www.mtas.tennessee.edu/system/files/codes/friendship-t1.pdf#page=21)
