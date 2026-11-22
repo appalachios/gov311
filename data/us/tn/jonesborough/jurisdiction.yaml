@@ -1,0 +1,15 @@
+name: "Town of Jonesborough"
+level: town
+ocd_id: ocd-division/country:us/state:tn/place:jonesborough
+parent: us/tn/washington-county
+aliases: ["Jonesborough"]
+website: https://www.jonesboroughtn.org/
+general_contact:
+  name: "Jonesborough municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/jonesborough
+  phone: "(423) 753-1030"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/jonesborough
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

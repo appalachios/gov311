@@ -2307,6 +2307,16 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 - [Follow a Johnson County governing body decision](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/johnson-county/services/follow-county-business.md): Find the regular meeting agenda, the source of the county’s authority and the record of what the governing body voted to adopt.
   - source-checked · Checked by codex on 2026-11-22.
 
+## Town of Jonesborough (us/tn/jonesborough)
+
+Parent guide sections, nearest first: Washington County, Tennessee (us/tn/washington-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/jonesborough/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Jonesborough for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/jonesborough/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Jonesborough.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Jonesborough](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/jonesborough/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
 ## Town of Kenton (us/tn/kenton)
 
 For county services, check which county contains the address. Choose one of these guide sections: Gibson County, Tennessee (us/tn/gibson-county) or Obion County, Tennessee (us/tn/obion-county).
@@ -4713,7 +4723,11 @@ Parent guide sections, nearest first: Bedford County, Tennessee (us/tn/bedford-c
 Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
 
 - [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/washington-county/jurisdiction.yaml): website, main contact, and parent government
+- [Find the right office in Washington County](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/washington-county/services/choose-a-county-office.md): Find county offices for deeds, vehicle records, elections and property questions, and check municipal boundaries for local services.
+  - source-checked · Checked by codex on 2026-11-22.
 - [Find the Washington County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/washington-county/services/find-a-property-map.md): Search Washington County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a Washington County governing body decision](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/washington-county/services/follow-county-business.md): Find the regular meeting agenda, the source of the county’s authority and the record of what the governing body voted to adopt.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## City of Watauga (us/tn/watauga)
