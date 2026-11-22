@@ -1,0 +1,15 @@
+name: "Town of Bruceton"
+level: town
+ocd_id: ocd-division/country:us/state:tn/place:bruceton
+parent: us/tn/carroll-county
+aliases: ["Bruceton"]
+website: https://www.mtas.tennessee.edu/directories/cities/bruceton
+general_contact:
+  name: "Bruceton municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/bruceton
+  phone: "(731) 586-2401"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/bruceton
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

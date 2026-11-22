@@ -1,0 +1,15 @@
+name: "Town of McLemoresville"
+level: town
+ocd_id: ocd-division/country:us/state:tn/place:mclemoresville
+parent: us/tn/carroll-county
+aliases: ["McLemoresville"]
+website: https://www.mtas.tennessee.edu/directories/cities/mclemoresville
+general_contact:
+  name: "McLemoresville municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/mclemoresville
+  phone: "(731) 986-9440"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/mclemoresville
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

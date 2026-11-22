@@ -1,0 +1,15 @@
+name: "City of Clarksburg"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:clarksburg
+parent: us/tn/carroll-county
+aliases: ["Clarksburg"]
+website: https://clarksburgtn.org/
+general_contact:
+  name: "Clarksburg municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/clarksburg
+  phone: "(731) 986-5547"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/clarksburg
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

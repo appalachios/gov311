@@ -202,6 +202,16 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 - [Get help with a home energy bill in Anderson County](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/anderson-county/help/get-help-with-an-energy-bill.md): Contact ETHRA for regular or crisis energy assistance and check which application window applies.
   - source-checked · Checked by codex on 2026-11-22.
 
+## Town of Atwood (us/tn/atwood)
+
+Parent guide sections, nearest first: Carroll County, Tennessee (us/tn/carroll-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/atwood/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Atwood for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/atwood/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Atwood.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Atwood](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/atwood/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
 ## Town of Auburntown (us/tn/auburntown)
 
 Parent guide sections, nearest first: Cannon County, Tennessee (us/tn/cannon-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
@@ -319,6 +329,16 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 - [Follow a Bradley County governing body decision](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/bradley-county/services/follow-county-business.md): Find the regular meeting agenda, the source of the county’s authority and the record of what the governing body voted to adopt.
   - source-checked · Checked by codex on 2026-11-22.
 
+## Town of Bruceton (us/tn/bruceton)
+
+Parent guide sections, nearest first: Carroll County, Tennessee (us/tn/carroll-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/bruceton/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Bruceton for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/bruceton/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Bruceton.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Bruceton](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/bruceton/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
 ## City of Camden (us/tn/camden)
 
 Parent guide sections, nearest first: Benton County, Tennessee (us/tn/benton-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
@@ -362,7 +382,11 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
 
 - [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/carroll-county/jurisdiction.yaml): website, main contact, and parent government
+- [Find the right office in Carroll County](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/carroll-county/services/choose-a-county-office.md): Find county offices for deeds, vehicle records, elections and property questions, and check municipal boundaries for local services.
+  - source-checked · Checked by codex on 2026-11-22.
 - [Find the Carroll County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/carroll-county/services/find-a-property-map.md): Search Carroll County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a Carroll County governing body decision](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/carroll-county/services/follow-county-business.md): Find the regular meeting agenda, the source of the county’s authority and the record of what the governing body voted to adopt.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## Carter County, Tennessee (us/tn/carter-county)
@@ -415,6 +439,16 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 
 - [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/claiborne-county/jurisdiction.yaml): website, main contact, and parent government
 - [Find the Claiborne County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/claiborne-county/services/find-a-property-map.md): Search Claiborne County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## City of Clarksburg (us/tn/clarksburg)
+
+Parent guide sections, nearest first: Carroll County, Tennessee (us/tn/carroll-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/clarksburg/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Clarksburg for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/clarksburg/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Clarksburg.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Clarksburg](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/clarksburg/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## Clay County, Tennessee (us/tn/clay-county)
@@ -741,6 +775,16 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 - [Find a Hickman County parcel map, tax record or zoning district](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/hickman-county/services/find-a-property-map.md): Use the assessor’s parcel map for the land and its assessment. The county has a separate zoning map, and Hickman County Schools publishes its attendance map.
   - source-checked · Checked by codex on 2026-11-21.
 
+## Town of Hollow Rock (us/tn/hollow-rock)
+
+Parent guide sections, nearest first: Carroll County, Tennessee (us/tn/carroll-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/hollow-rock/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Hollow Rock for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/hollow-rock/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Hollow Rock.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Hollow Rock](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/hollow-rock/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
 ## Houston County, Tennessee (us/tn/houston-county)
 
 Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
@@ -755,6 +799,16 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 
 - [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/humphreys-county/jurisdiction.yaml): website, main contact, and parent government
 - [Find the Humphreys County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/humphreys-county/services/find-a-property-map.md): Search Humphreys County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## Town of Huntingdon (us/tn/huntingdon)
+
+Parent guide sections, nearest first: Carroll County, Tennessee (us/tn/carroll-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/huntingdon/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Huntingdon for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/huntingdon/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Huntingdon.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Huntingdon](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/huntingdon/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## Town of Jacksboro (us/tn/jacksboro)
@@ -1043,6 +1097,28 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 
 - [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/maury-county/jurisdiction.yaml): website, main contact, and parent government
 - [Find the Maury County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/maury-county/services/find-a-property-map.md): Search Maury County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## City of McKenzie (us/tn/mckenzie)
+
+For county services, check which county contains the address. Choose one of these guide sections: Carroll County, Tennessee (us/tn/carroll-county) or Henry County, Tennessee (us/tn/henry-county) or Weakley County, Tennessee (us/tn/weakley-county).
+
+Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/mckenzie/jurisdiction.yaml): website, main contact, and parent government
+- [Contact McKenzie for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/mckenzie/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in McKenzie.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in McKenzie](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/mckenzie/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## Town of McLemoresville (us/tn/mclemoresville)
+
+Parent guide sections, nearest first: Carroll County, Tennessee (us/tn/carroll-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/mclemoresville/jurisdiction.yaml): website, main contact, and parent government
+- [Contact McLemoresville for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/mclemoresville/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in McLemoresville.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in McLemoresville](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/mclemoresville/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## McMinn County, Tennessee (us/tn/mcminn-county)
@@ -1415,6 +1491,16 @@ Parent guide sections, nearest first: Blount County, Tennessee (us/tn/blount-cou
 - [Contact Townsend for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/townsend/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Townsend.
   - source-checked · Checked by codex on 2026-11-22.
 - [Follow a proposed ordinance in Townsend](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/townsend/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## Town of Trezevant (us/tn/trezevant)
+
+Parent guide sections, nearest first: Carroll County, Tennessee (us/tn/carroll-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/trezevant/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Trezevant for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/trezevant/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Trezevant.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Trezevant](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/trezevant/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## Hartsville/Trousdale County, Tennessee (us/tn/trousdale-county)
