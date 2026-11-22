@@ -1,0 +1,15 @@
+name: "Town of Baileyton"
+level: town
+ocd_id: ocd-division/country:us/state:tn/place:baileyton
+parent: us/tn/greene-county
+aliases: ["Baileyton"]
+website: https://www.mtas.tennessee.edu/directories/cities/baileyton
+general_contact:
+  name: "Baileyton municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/baileyton
+  phone: "(423) 234-6911"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/baileyton
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

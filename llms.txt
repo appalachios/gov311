@@ -274,6 +274,16 @@ Parent guide sections, nearest first: Cannon County, Tennessee (us/tn/cannon-cou
 - [Follow a proposed ordinance in Auburntown](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/auburntown/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
+## Town of Baileyton (us/tn/baileyton)
+
+Parent guide sections, nearest first: Greene County, Tennessee (us/tn/greene-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/baileyton/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Baileyton for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/baileyton/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Baileyton.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Baileyton](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/baileyton/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
 ## Town of Bean Station (us/tn/bean-station)
 
 Parent guide sections, nearest first: Grainger County, Tennessee (us/tn/grainger-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
@@ -1128,7 +1138,21 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
 
 - [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/greene-county/jurisdiction.yaml): website, main contact, and parent government
+- [Find the right office in Greene County](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/greene-county/services/choose-a-county-office.md): Find county offices for deeds, vehicle records, elections and property questions, and check municipal boundaries for local services.
+  - source-checked · Checked by codex on 2026-11-22.
 - [Find the Greene County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/greene-county/services/find-a-property-map.md): Search Greene County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a Greene County governing body decision](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/greene-county/services/follow-county-business.md): Find the regular meeting agenda, the source of the county’s authority and the record of what the governing body voted to adopt.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## Town of Greeneville (us/tn/greeneville)
+
+Parent guide sections, nearest first: Greene County, Tennessee (us/tn/greene-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/greeneville/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Greeneville for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/greeneville/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Greeneville.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Greeneville](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/greeneville/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## Grundy County, Tennessee (us/tn/grundy-county)
@@ -1807,6 +1831,16 @@ Parent guide sections, nearest first: Fayette County, Tennessee (us/tn/fayette-c
 - [Follow a proposed ordinance in Moscow](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/moscow/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
+## Town of Mosheim (us/tn/mosheim)
+
+Parent guide sections, nearest first: Greene County, Tennessee (us/tn/greene-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/mosheim/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Mosheim for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/mosheim/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Mosheim.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Mosheim](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/mosheim/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
 ## Metropolitan Government of Nashville and Davidson County (us/tn/nashville)
 
 Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
@@ -2407,6 +2441,16 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 - [Contact Tullahoma for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/tullahoma/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Tullahoma.
   - source-checked · Checked by codex on 2026-11-22.
 - [Follow a proposed ordinance in Tullahoma](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/tullahoma/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## City of Tusculum (us/tn/tusculum)
+
+Parent guide sections, nearest first: Greene County, Tennessee (us/tn/greene-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/tusculum/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Tusculum for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/tusculum/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Tusculum.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Tusculum](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/tusculum/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## Unicoi County, Tennessee (us/tn/unicoi-county)

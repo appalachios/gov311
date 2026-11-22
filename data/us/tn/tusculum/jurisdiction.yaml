@@ -1,0 +1,15 @@
+name: "City of Tusculum"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:tusculum
+parent: us/tn/greene-county
+aliases: ["Tusculum"]
+website: https://tusculumcity.org/
+general_contact:
+  name: "Tusculum municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/tusculum
+  phone: "(423) 638-6211"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/tusculum
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex
