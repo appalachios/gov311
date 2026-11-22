@@ -1,0 +1,15 @@
+name: "Town of Sardis"
+level: town
+ocd_id: ocd-division/country:us/state:tn/place:sardis
+parent: us/tn/henderson-county
+aliases: ["Sardis"]
+website: https://www.mtas.tennessee.edu/directories/cities/sardis
+general_contact:
+  name: "Sardis municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/sardis
+  phone: "(731) 858-2641"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/sardis
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

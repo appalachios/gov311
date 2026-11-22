@@ -1,0 +1,15 @@
+name: "City of Parker's Crossroads"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:parkers_crossroads
+parent: us/tn/henderson-county
+aliases: ["Parker's Crossroads"]
+website: https://www.mtas.tennessee.edu/directories/cities/parkers-crossroads
+general_contact:
+  name: "Parker's Crossroads municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/parkers-crossroads
+  phone: "(731) 968-1220"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/parkers-crossroads
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex
