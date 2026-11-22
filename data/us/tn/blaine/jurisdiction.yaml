@@ -1,0 +1,15 @@
+name: "City of Blaine"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:blaine
+parent: us/tn/grainger-county
+aliases: ["Blaine"]
+website: https://www.blainetn.gov/
+general_contact:
+  name: "Blaine municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/blaine
+  phone: "(865) 933-1240"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/blaine
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

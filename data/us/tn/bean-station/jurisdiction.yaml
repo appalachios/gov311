@@ -1,0 +1,15 @@
+name: "Town of Bean Station"
+level: town
+ocd_id: ocd-division/country:us/state:tn/place:bean_station
+parent: us/tn/grainger-county
+aliases: ["Bean Station"]
+website: https://www.mtas.tennessee.edu/directories/cities/bean-station
+general_contact:
+  name: "Bean Station municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/bean-station
+  phone: "(865) 993-3177"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/bean-station
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex

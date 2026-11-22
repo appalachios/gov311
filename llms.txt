@@ -274,6 +274,16 @@ Parent guide sections, nearest first: Cannon County, Tennessee (us/tn/cannon-cou
 - [Follow a proposed ordinance in Auburntown](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/auburntown/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
+## Town of Bean Station (us/tn/bean-station)
+
+Parent guide sections, nearest first: Grainger County, Tennessee (us/tn/grainger-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/bean-station/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Bean Station for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/bean-station/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Bean Station.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Bean Station](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/bean-station/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
+
 ## Bedford County, Tennessee (us/tn/bedford-county)
 
 Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
@@ -373,6 +383,16 @@ Parent guide sections, nearest first: Benton County, Tennessee (us/tn/benton-cou
 - [Pay a Big Sandy water bill or restore service](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/big-sandy/services/pay-a-town-water-bill.md): Find the town water payment link and check the cutoff for same-day restoration.
   - source-checked · Checked by codex on 2026-11-22.
 - [Find a Big Sandy town proposal and its recorded vote](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/big-sandy/codes/follow-a-town-ordinance.md): Open the town meeting agenda and request the recorder’s minutes and adopted ordinance.
+  - source-checked · Checked by codex on 2026-11-22.
+
+## City of Blaine (us/tn/blaine)
+
+Parent guide sections, nearest first: Grainger County, Tennessee (us/tn/grainger-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/blaine/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Blaine for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/blaine/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Blaine.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Blaine](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/blaine/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## Bledsoe County, Tennessee (us/tn/bledsoe-county)
@@ -1084,7 +1104,11 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
 
 - [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/grainger-county/jurisdiction.yaml): website, main contact, and parent government
+- [Find the right office in Grainger County](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/grainger-county/services/choose-a-county-office.md): Find county offices for deeds, vehicle records, elections and property questions, and check municipal boundaries for local services.
+  - source-checked · Checked by codex on 2026-11-22.
 - [Find the Grainger County property map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/grainger-county/services/find-a-property-map.md): Search Grainger County parcels by address, owner or parcel ID, check the assessment, and find the offices for tax bills, representation and school enrollment.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a Grainger County governing body decision](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/grainger-county/services/follow-county-business.md): Find the regular meeting agenda, the source of the county’s authority and the record of what the governing body voted to adopt.
   - source-checked · Checked by codex on 2026-11-22.
 
 ## City of Grand Junction (us/tn/grand-junction)
@@ -2166,6 +2190,16 @@ Parent guide sections, nearest first: State of Tennessee (us/tn/_state) → Unit
 - [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/rutherford-county/jurisdiction.yaml): website, main contact, and parent government
 - [Find a Rutherford County parcel on the County Map](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/rutherford-county/services/find-a-property-map.md): Look up parcels, city limits and commission districts. Use the assessor for property values, the trustee for tax bills and the school system for attendance zones.
   - source-checked · Checked by codex on 2026-11-21.
+
+## City of Rutledge (us/tn/rutledge)
+
+Parent guide sections, nearest first: Grainger County, Tennessee (us/tn/grainger-county) → State of Tennessee (us/tn/_state) → United States federal government (us/_federal).
+
+- [About this government](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/rutledge/jurisdiction.yaml): website, main contact, and parent government
+- [Contact Rutledge for local services](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/rutledge/services/reach-the-municipal-office.md): Find the municipal office, check who serves a street address and get to the county property records for land in Rutledge.
+  - source-checked · Checked by codex on 2026-11-22.
+- [Follow a proposed ordinance in Rutledge](https://raw.githubusercontent.com/appalachios/gov311/main/data/us/tn/rutledge/services/track-a-municipal-ordinance.md): Find the meeting, read the proposed language against the charter and code, and check the minutes and adopted text.
+  - source-checked · Checked by codex on 2026-11-22.
 
 ## Scott County, Tennessee (us/tn/scott-county)
 

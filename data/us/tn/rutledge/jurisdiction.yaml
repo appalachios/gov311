@@ -1,0 +1,15 @@
+name: "City of Rutledge"
+level: city
+ocd_id: ocd-division/country:us/state:tn/place:rutledge
+parent: us/tn/grainger-county
+aliases: ["Rutledge"]
+website: https://www.mtas.tennessee.edu/directories/cities/rutledge
+general_contact:
+  name: "Rutledge municipal office"
+  url: https://www.mtas.tennessee.edu/directories/cities/rutledge
+  phone: "(865) 828-4513"
+sources:
+  - https://www.mtas.tennessee.edu/directories/cities/rutledge
+  - https://tnecd.com/?force_download=129209
+last_verified: 2026-11-22
+verified_by: codex
